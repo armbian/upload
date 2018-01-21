@@ -6,7 +6,7 @@ Packages [full list](content.txt) | statistics:
 
 	 * [jessie-desktop]: Armbian jessie desktop (packages: 86)
 	 * [jessie-utils]: Armbian jessie utilities (packages: 20)
-	 * [jessie]: Armbian main repository (packages: 1462)
+	 * [jessie]: Armbian main repository (packages: 1478)
 	 * [stretch-desktop]: Armbian stretch desktop (packages: 2)
 	 * [stretch-utils]: Armbian stretch utilities (packages: 16)
 	 * [stretch]: Armbian main repository (packages: 1136)

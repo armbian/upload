@@ -950,6 +950,7 @@
   linux-u-boot-aw-som-a20-next_5.23_armhf
   linux-u-boot-aw-som-a20-next_5.22_armhf
   linux-u-boot-aw-som-a20-next_5.20_armhf
+  linux-u-boot-bananapi-default_5.37_armhf
   linux-u-boot-bananapi-default_5.35_armhf
   linux-u-boot-bananapi-default_5.31_armhf
   linux-u-boot-bananapi-default_5.30_armhf
@@ -958,6 +959,7 @@
   linux-u-boot-bananapi-default_5.22_armhf
   linux-u-boot-bananapi-default_5.20_armhf
   linux-u-boot-bananapi-dev_5.35_armhf
+  linux-u-boot-bananapi-next_5.37_armhf
   linux-u-boot-bananapi-next_5.35_armhf
   linux-u-boot-bananapi-next_5.31_armhf
   linux-u-boot-bananapi-next_5.30_armhf
@@ -982,6 +984,7 @@
   linux-u-boot-bananapim2plus-default_5.20_armhf
   linux-u-boot-bananapim2plus-dev_5.35_armhf
   linux-u-boot-bananapim2plus-next_5.35_armhf
+  linux-u-boot-bananapipro-default_5.37_armhf
   linux-u-boot-bananapipro-default_5.35_armhf
   linux-u-boot-bananapipro-default_5.31_armhf
   linux-u-boot-bananapipro-default_5.30_armhf
@@ -990,6 +993,7 @@
   linux-u-boot-bananapipro-default_5.22_armhf
   linux-u-boot-bananapipro-default_5.20_armhf
   linux-u-boot-bananapipro-dev_5.35_armhf
+  linux-u-boot-bananapipro-next_5.37_armhf
   linux-u-boot-bananapipro-next_5.35_armhf
   linux-u-boot-bananapipro-next_5.31_armhf
   linux-u-boot-bananapipro-next_5.30_armhf
@@ -1036,6 +1040,7 @@
   linux-u-boot-cubieboard-next_5.23_armhf
   linux-u-boot-cubieboard-next_5.22_armhf
   linux-u-boot-cubieboard-next_5.20_armhf
+  linux-u-boot-cubieboard2-default_5.37_armhf
   linux-u-boot-cubieboard2-default_5.35_armhf
   linux-u-boot-cubieboard2-default_5.31_armhf
   linux-u-boot-cubieboard2-default_5.30_armhf
@@ -1044,6 +1049,7 @@
   linux-u-boot-cubieboard2-default_5.22_armhf
   linux-u-boot-cubieboard2-default_5.20_armhf
   linux-u-boot-cubieboard2-dev_5.35_armhf
+  linux-u-boot-cubieboard2-next_5.37_armhf
   linux-u-boot-cubieboard2-next_5.35_armhf
   linux-u-boot-cubieboard2-next_5.31_armhf
   linux-u-boot-cubieboard2-next_5.30_armhf
@@ -1112,6 +1118,7 @@
   linux-u-boot-lime-a33-next_5.25_armhf
   linux-u-boot-lime-a33-next_5.23_armhf
   linux-u-boot-lime-a33-next_5.22_armhf
+  linux-u-boot-lime-default_5.37_armhf
   linux-u-boot-lime-default_5.35_armhf
   linux-u-boot-lime-default_5.31_armhf
   linux-u-boot-lime-default_5.30_armhf
@@ -1120,6 +1127,7 @@
   linux-u-boot-lime-default_5.22_armhf
   linux-u-boot-lime-default_5.20_armhf
   linux-u-boot-lime-dev_5.35_armhf
+  linux-u-boot-lime-next_5.37_armhf
   linux-u-boot-lime-next_5.35_armhf
   linux-u-boot-lime-next_5.31_armhf
   linux-u-boot-lime-next_5.30_armhf
@@ -1152,6 +1160,7 @@
   linux-u-boot-lime2-next_5.30_armhf
   linux-u-boot-lime2-next_5.25_armhf
   linux-u-boot-lime2-next_5.23_armhf
+  linux-u-boot-micro-default_5.37_armhf
   linux-u-boot-micro-default_5.35_armhf
   linux-u-boot-micro-default_5.31_armhf
   linux-u-boot-micro-default_5.30_armhf
@@ -1160,6 +1169,7 @@
   linux-u-boot-micro-default_5.22_armhf
   linux-u-boot-micro-default_5.20_armhf
   linux-u-boot-micro-dev_5.35_armhf
+  linux-u-boot-micro-next_5.37_armhf
   linux-u-boot-micro-next_5.35_armhf
   linux-u-boot-micro-next_5.31_armhf
   linux-u-boot-micro-next_5.30_armhf
@@ -1361,6 +1371,7 @@
   linux-u-boot-orangepizeroplus2-h3-next_5.35_armhf
   linux-u-boot-orangepizeroplus2-h5-dev_5.35_arm64
   linux-u-boot-orangepizeroplus2-h5-next_5.35_arm64
+  linux-u-boot-pcduino2-default_5.37_armhf
   linux-u-boot-pcduino2-default_5.35_armhf
   linux-u-boot-pcduino2-default_5.31_armhf
   linux-u-boot-pcduino2-default_5.30_armhf
@@ -1369,12 +1380,14 @@
   linux-u-boot-pcduino2-default_5.22_armhf
   linux-u-boot-pcduino2-default_5.20_armhf
   linux-u-boot-pcduino2-dev_5.35_armhf
+  linux-u-boot-pcduino2-next_5.37_armhf
   linux-u-boot-pcduino2-next_5.35_armhf
   linux-u-boot-pcduino2-next_5.31_armhf
   linux-u-boot-pcduino2-next_5.30_armhf
   linux-u-boot-pcduino2-next_5.25_armhf
   linux-u-boot-pcduino2-next_5.23_armhf
   linux-u-boot-pcduino2-next_5.22_armhf
+  linux-u-boot-pcduino3-default_5.37_armhf
   linux-u-boot-pcduino3-default_5.35_armhf
   linux-u-boot-pcduino3-default_5.31_armhf
   linux-u-boot-pcduino3-default_5.30_armhf
@@ -1383,6 +1396,7 @@
   linux-u-boot-pcduino3-default_5.22_armhf
   linux-u-boot-pcduino3-default_5.20_armhf
   linux-u-boot-pcduino3-dev_5.35_armhf
+  linux-u-boot-pcduino3-next_5.37_armhf
   linux-u-boot-pcduino3-next_5.35_armhf
   linux-u-boot-pcduino3-next_5.31_armhf
   linux-u-boot-pcduino3-next_5.30_armhf
@@ -1390,6 +1404,7 @@
   linux-u-boot-pcduino3-next_5.23_armhf
   linux-u-boot-pcduino3-next_5.22_armhf
   linux-u-boot-pcduino3-next_5.20_armhf
+  linux-u-boot-pcduino3nano-default_5.37_armhf
   linux-u-boot-pcduino3nano-default_5.35_armhf
   linux-u-boot-pcduino3nano-default_5.31_armhf
   linux-u-boot-pcduino3nano-default_5.30_armhf
@@ -1398,6 +1413,7 @@
   linux-u-boot-pcduino3nano-default_5.22_armhf
   linux-u-boot-pcduino3nano-default_5.20_armhf
   linux-u-boot-pcduino3nano-dev_5.35_armhf
+  linux-u-boot-pcduino3nano-next_5.37_armhf
   linux-u-boot-pcduino3nano-next_5.35_armhf
   linux-u-boot-pcduino3nano-next_5.31_armhf
   linux-u-boot-pcduino3nano-next_5.30_armhf
