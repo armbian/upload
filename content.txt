@@ -1125,6 +1125,8 @@
   linux-u-boot-lime-next_5.30_armhf
   linux-u-boot-lime-next_5.25_armhf
   linux-u-boot-lime-next_5.23_armhf
+  linux-u-boot-lime2-default_5.371_armhf
+  linux-u-boot-lime2-default_5.37_armhf
   linux-u-boot-lime2-default_5.35_armhf
   linux-u-boot-lime2-default_5.31_armhf
   linux-u-boot-lime2-default_5.30_armhf
@@ -1143,6 +1145,8 @@
   linux-u-boot-lime2-emmc-next_5.30_armhf
   linux-u-boot-lime2-emmc-next_5.25_armhf
   linux-u-boot-lime2-emmc-next_5.23_armhf
+  linux-u-boot-lime2-next_5.371_armhf
+  linux-u-boot-lime2-next_5.37_armhf
   linux-u-boot-lime2-next_5.35_armhf
   linux-u-boot-lime2-next_5.31_armhf
   linux-u-boot-lime2-next_5.30_armhf
@@ -2126,6 +2130,8 @@
   linux-u-boot-lime-next_5.30_armhf
   linux-u-boot-lime-next_5.25_armhf
   linux-u-boot-lime-next_5.23_armhf
+  linux-u-boot-lime2-default_5.371_armhf
+  linux-u-boot-lime2-default_5.37_armhf
   linux-u-boot-lime2-default_5.35_armhf
   linux-u-boot-lime2-default_5.31_armhf
   linux-u-boot-lime2-default_5.30_armhf
@@ -2144,6 +2150,8 @@
   linux-u-boot-lime2-emmc-next_5.30_armhf
   linux-u-boot-lime2-emmc-next_5.25_armhf
   linux-u-boot-lime2-emmc-next_5.23_armhf
+  linux-u-boot-lime2-next_5.371_armhf
+  linux-u-boot-lime2-next_5.37_armhf
   linux-u-boot-lime2-next_5.35_armhf
   linux-u-boot-lime2-next_5.31_armhf
   linux-u-boot-lime2-next_5.30_armhf
@@ -3955,6 +3963,8 @@
   linux-u-boot-lime-next_5.30_armhf
   linux-u-boot-lime-next_5.25_armhf
   linux-u-boot-lime-next_5.23_armhf
+  linux-u-boot-lime2-default_5.371_armhf
+  linux-u-boot-lime2-default_5.37_armhf
   linux-u-boot-lime2-default_5.35_armhf
   linux-u-boot-lime2-default_5.31_armhf
   linux-u-boot-lime2-default_5.30_armhf
@@ -3973,6 +3983,8 @@
   linux-u-boot-lime2-emmc-next_5.30_armhf
   linux-u-boot-lime2-emmc-next_5.25_armhf
   linux-u-boot-lime2-emmc-next_5.23_armhf
+  linux-u-boot-lime2-next_5.371_armhf
+  linux-u-boot-lime2-next_5.37_armhf
   linux-u-boot-lime2-next_5.35_armhf
   linux-u-boot-lime2-next_5.31_armhf
   linux-u-boot-lime2-next_5.30_armhf
