@@ -360,6 +360,7 @@
   linux-image-udoo-neo_5.26_armhf
   linux-jessie-root-armada_5.23_armhf
   linux-jessie-root-aw-som-a20_5.23_armhf
+  linux-jessie-root-bananapi_5.37_armhf
   linux-jessie-root-bananapi_5.36_armhf
   linux-jessie-root-bananapi_5.35_armhf
   linux-jessie-root-bananapi_5.31_armhf
@@ -367,29 +368,34 @@
   linux-jessie-root-bananapi_5.25_armhf
   linux-jessie-root-bananapi_5.23_armhf
   linux-jessie-root-bananapim2_5.00_armhf
+  linux-jessie-root-bananapim2plus_5.37_armhf
   linux-jessie-root-bananapim2plus_5.36_armhf
   linux-jessie-root-bananapim2plus_5.35_armhf
   linux-jessie-root-bananapim2plus_5.31_armhf
   linux-jessie-root-bananapim2plus_5.30_armhf
   linux-jessie-root-bananapim2plus_5.25_armhf
   linux-jessie-root-bananapim2plus_5.23_armhf
+  linux-jessie-root-bananapipro_5.37_armhf
   linux-jessie-root-bananapipro_5.36_armhf
   linux-jessie-root-bananapipro_5.35_armhf
   linux-jessie-root-bananapipro_5.31_armhf
   linux-jessie-root-bananapipro_5.30_armhf
   linux-jessie-root-bananapipro_5.25_armhf
   linux-jessie-root-bananapipro_5.23_armhf
+  linux-jessie-root-beelinkx2_5.37_armhf
   linux-jessie-root-beelinkx2_5.36_armhf
   linux-jessie-root-beelinkx2_5.35_armhf
   linux-jessie-root-beelinkx2_5.31_armhf
   linux-jessie-root-beelinkx2_5.30_armhf
   linux-jessie-root-beelinkx2_5.25_armhf
   linux-jessie-root-beelinkx2_5.23_armhf
+  linux-jessie-root-clearfogbase_5.37_armhf
   linux-jessie-root-clearfogbase_5.36_armhf
   linux-jessie-root-clearfogbase_5.35_armhf
   linux-jessie-root-clearfogbase_5.31_armhf
   linux-jessie-root-clearfogbase_5.30_armhf
   linux-jessie-root-clearfogbase_5.25_armhf
+  linux-jessie-root-clearfogpro_5.37_armhf
   linux-jessie-root-clearfogpro_5.36_armhf
   linux-jessie-root-clearfogpro_5.35_armhf
   linux-jessie-root-clearfogpro_5.31_armhf
@@ -399,131 +405,184 @@
   linux-jessie-root-cubieboard_5.30_armhf
   linux-jessie-root-cubieboard_5.25_armhf
   linux-jessie-root-cubieboard_5.23_armhf
+  linux-jessie-root-cubieboard2_5.37_armhf
   linux-jessie-root-cubieboard2_5.36_armhf
   linux-jessie-root-cubieboard2_5.35_armhf
   linux-jessie-root-cubieboard2_5.31_armhf
   linux-jessie-root-cubieboard2_5.30_armhf
   linux-jessie-root-cubieboard2_5.25_armhf
   linux-jessie-root-cubieboard2_5.23_armhf
+  linux-jessie-root-cubietruck_5.37_armhf
   linux-jessie-root-cubietruck_5.36_armhf
   linux-jessie-root-cubietruck_5.35_armhf
   linux-jessie-root-cubietruck_5.31_armhf
   linux-jessie-root-cubietruck_5.30_armhf
   linux-jessie-root-cubietruck_5.25_armhf
   linux-jessie-root-cubietruck_5.23_armhf
+  linux-jessie-root-cubox-i_5.37_armhf
   linux-jessie-root-cubox-i_5.36_armhf
   linux-jessie-root-cubox-i_5.35_armhf
   linux-jessie-root-cubox-i_5.31_armhf
   linux-jessie-root-cubox-i_5.30_armhf
   linux-jessie-root-cubox-i_5.25_armhf
   linux-jessie-root-cubox-i_5.23_armhf
+  linux-jessie-root-dev-bananapi_5.37_armhf
   linux-jessie-root-dev-bananapi_5.36_armhf
   linux-jessie-root-dev-bananapi_5.35_armhf
+  linux-jessie-root-dev-bananapim2_5.37_armhf
   linux-jessie-root-dev-bananapim2_5.36_armhf
   linux-jessie-root-dev-bananapim2_5.35_armhf
+  linux-jessie-root-dev-bananapim2plus_5.37_armhf
   linux-jessie-root-dev-bananapim2plus_5.36_armhf
   linux-jessie-root-dev-bananapim2plus_5.35_armhf
+  linux-jessie-root-dev-bananapipro_5.37_armhf
   linux-jessie-root-dev-bananapipro_5.36_armhf
   linux-jessie-root-dev-bananapipro_5.35_armhf
+  linux-jessie-root-dev-beelinkx2_5.37_armhf
   linux-jessie-root-dev-beelinkx2_5.36_armhf
   linux-jessie-root-dev-beelinkx2_5.35_armhf
+  linux-jessie-root-dev-clearfogbase_5.37_armhf
   linux-jessie-root-dev-clearfogbase_5.36_armhf
   linux-jessie-root-dev-clearfogbase_5.35_armhf
+  linux-jessie-root-dev-clearfogpro_5.37_armhf
   linux-jessie-root-dev-clearfogpro_5.36_armhf
   linux-jessie-root-dev-clearfogpro_5.35_armhf
+  linux-jessie-root-dev-cubieboard2_5.37_armhf
   linux-jessie-root-dev-cubieboard2_5.36_armhf
   linux-jessie-root-dev-cubieboard2_5.35_armhf
+  linux-jessie-root-dev-cubietruck_5.37_armhf
   linux-jessie-root-dev-cubietruck_5.36_armhf
   linux-jessie-root-dev-cubietruck_5.35_armhf
+  linux-jessie-root-dev-cubox-i_5.37_armhf
   linux-jessie-root-dev-cubox-i_5.36_armhf
   linux-jessie-root-dev-cubox-i_5.35_armhf
+  linux-jessie-root-dev-espressobin_5.37_arm64
   linux-jessie-root-dev-espressobin_5.36_arm64
   linux-jessie-root-dev-espressobin_5.35_arm64
+  linux-jessie-root-dev-lepotato_5.37_arm64
   linux-jessie-root-dev-lepotato_5.36_arm64
   linux-jessie-root-dev-lepotato_5.35_arm64
+  linux-jessie-root-dev-lime_5.37_armhf
   linux-jessie-root-dev-lime_5.36_armhf
   linux-jessie-root-dev-lime_5.35_armhf
+  linux-jessie-root-dev-lime2_5.37_armhf
   linux-jessie-root-dev-lime2_5.36_armhf
   linux-jessie-root-dev-lime2_5.35_armhf
+  linux-jessie-root-dev-micro_5.37_armhf
   linux-jessie-root-dev-micro_5.36_armhf
   linux-jessie-root-dev-micro_5.35_armhf
+  linux-jessie-root-dev-miqi_5.37_armhf
   linux-jessie-root-dev-miqi_5.36_armhf
   linux-jessie-root-dev-miqi_5.35_armhf
+  linux-jessie-root-dev-nanopiair_5.37_armhf
   linux-jessie-root-dev-nanopiair_5.36_armhf
   linux-jessie-root-dev-nanopiair_5.35_armhf
   linux-jessie-root-dev-nanopik2_5.35_arm64
+  linux-jessie-root-dev-nanopim1_5.37_armhf
   linux-jessie-root-dev-nanopim1_5.36_armhf
   linux-jessie-root-dev-nanopim1_5.35_armhf
+  linux-jessie-root-dev-nanopim1plus_5.37_armhf
   linux-jessie-root-dev-nanopim1plus_5.36_armhf
   linux-jessie-root-dev-nanopim1plus_5.35_armhf
+  linux-jessie-root-dev-nanopim1plus2_5.37_arm64
   linux-jessie-root-dev-nanopim1plus2_5.36_arm64
   linux-jessie-root-dev-nanopim1plus2_5.35_arm64
+  linux-jessie-root-dev-nanopineo_5.37_armhf
   linux-jessie-root-dev-nanopineo_5.36_armhf
   linux-jessie-root-dev-nanopineo_5.35_armhf
+  linux-jessie-root-dev-nanopineo2_5.37_arm64
   linux-jessie-root-dev-nanopineo2_5.36_arm64
   linux-jessie-root-dev-nanopineo2_5.35_arm64
+  linux-jessie-root-dev-nanopineoplus2_5.37_arm64
   linux-jessie-root-dev-nanopineoplus2_5.36_arm64
   linux-jessie-root-dev-nanopineoplus2_5.35_arm64
+  linux-jessie-root-dev-odroidc2_5.37_arm64
   linux-jessie-root-dev-odroidc2_5.36_arm64
   linux-jessie-root-dev-odroidc2_5.35_arm64
+  linux-jessie-root-dev-odroidxu4_5.37_armhf
   linux-jessie-root-dev-odroidxu4_5.36_armhf
   linux-jessie-root-dev-odroidxu4_5.35_armhf
   linux-jessie-root-dev-olinuxino-a64_5.35_arm64
+  linux-jessie-root-dev-orangepi2_5.37_armhf
   linux-jessie-root-dev-orangepi2_5.36_armhf
   linux-jessie-root-dev-orangepi2_5.35_armhf
+  linux-jessie-root-dev-orangepilite_5.37_armhf
   linux-jessie-root-dev-orangepilite_5.36_armhf
   linux-jessie-root-dev-orangepilite_5.35_armhf
+  linux-jessie-root-dev-orangepione_5.37_armhf
   linux-jessie-root-dev-orangepione_5.36_armhf
   linux-jessie-root-dev-orangepione_5.35_armhf
+  linux-jessie-root-dev-orangepipc_5.37_armhf
   linux-jessie-root-dev-orangepipc_5.36_armhf
   linux-jessie-root-dev-orangepipc_5.35_armhf
+  linux-jessie-root-dev-orangepipc2_5.37_arm64
   linux-jessie-root-dev-orangepipc2_5.36_arm64
   linux-jessie-root-dev-orangepipc2_5.35_arm64
+  linux-jessie-root-dev-orangepipcplus_5.37_armhf
   linux-jessie-root-dev-orangepipcplus_5.36_armhf
   linux-jessie-root-dev-orangepipcplus_5.35_armhf
+  linux-jessie-root-dev-orangepiplus_5.37_armhf
   linux-jessie-root-dev-orangepiplus_5.36_armhf
   linux-jessie-root-dev-orangepiplus_5.35_armhf
+  linux-jessie-root-dev-orangepiplus2e_5.37_armhf
   linux-jessie-root-dev-orangepiplus2e_5.36_armhf
   linux-jessie-root-dev-orangepiplus2e_5.35_armhf
+  linux-jessie-root-dev-orangepiprime_5.37_arm64
   linux-jessie-root-dev-orangepiprime_5.36_arm64
   linux-jessie-root-dev-orangepiprime_5.35_arm64
+  linux-jessie-root-dev-orangepiwin_5.37_arm64
   linux-jessie-root-dev-orangepiwin_5.35_arm64
+  linux-jessie-root-dev-orangepizero_5.37_armhf
   linux-jessie-root-dev-orangepizero_5.36_armhf
   linux-jessie-root-dev-orangepizero_5.35_armhf
+  linux-jessie-root-dev-orangepizeroplus_5.37_arm64
   linux-jessie-root-dev-orangepizeroplus_5.36_arm64
   linux-jessie-root-dev-orangepizeroplus_5.35_arm64
+  linux-jessie-root-dev-orangepizeroplus2-h3_5.37_armhf
   linux-jessie-root-dev-orangepizeroplus2-h3_5.36_armhf
   linux-jessie-root-dev-orangepizeroplus2-h3_5.35_armhf
+  linux-jessie-root-dev-orangepizeroplus2-h5_5.37_arm64
   linux-jessie-root-dev-orangepizeroplus2-h5_5.36_arm64
   linux-jessie-root-dev-orangepizeroplus2-h5_5.35_arm64
+  linux-jessie-root-dev-pcduino2_5.37_armhf
   linux-jessie-root-dev-pcduino2_5.36_armhf
   linux-jessie-root-dev-pcduino2_5.35_armhf
+  linux-jessie-root-dev-pcduino3_5.37_armhf
   linux-jessie-root-dev-pcduino3_5.36_armhf
   linux-jessie-root-dev-pcduino3_5.35_armhf
+  linux-jessie-root-dev-pcduino3nano_5.37_armhf
   linux-jessie-root-dev-pcduino3nano_5.36_armhf
   linux-jessie-root-dev-pcduino3nano_5.35_armhf
+  linux-jessie-root-dev-pine64_5.37_arm64
   linux-jessie-root-dev-pine64_5.36_arm64
   linux-jessie-root-dev-pine64_5.35_arm64
+  linux-jessie-root-dev-pine64so_5.37_arm64
   linux-jessie-root-dev-pine64so_5.36_arm64
   linux-jessie-root-dev-pine64so_5.35_arm64
   linux-jessie-root-dev-pinebook-a64_5.36_arm64
   linux-jessie-root-dev-pinebook-a64_5.35_arm64
   linux-jessie-root-dev-rock64_5.35_arm64
+  linux-jessie-root-dev-tinkerboard_5.37_armhf
   linux-jessie-root-dev-tinkerboard_5.36_armhf
   linux-jessie-root-dev-tinkerboard_5.35_armhf
+  linux-jessie-root-dev-udoo_5.37_armhf
   linux-jessie-root-dev-udoo_5.36_armhf
   linux-jessie-root-dev-udoo_5.35_armhf
+  linux-jessie-root-espressobin_5.37_arm64
   linux-jessie-root-espressobin_5.36_arm64
   linux-jessie-root-espressobin_5.35_arm64
   linux-jessie-root-guitar_5.25_armhf
   linux-jessie-root-guitar_5.23_armhf
+  linux-jessie-root-helios4_5.37_armhf
   linux-jessie-root-helios4_5.35_armhf
   linux-jessie-root-lamobo-r1_5.31_armhf
   linux-jessie-root-lamobo-r1_5.30_armhf
   linux-jessie-root-lamobo-r1_5.25_armhf
   linux-jessie-root-lamobo-r1_5.23_armhf
+  linux-jessie-root-lepotato_5.37_arm64
   linux-jessie-root-lepotato_5.36_arm64
   linux-jessie-root-lepotato_5.35_arm64
+  linux-jessie-root-lime_5.37_armhf
   linux-jessie-root-lime_5.36_armhf
   linux-jessie-root-lime_5.35_armhf
   linux-jessie-root-lime_5.31_armhf
@@ -534,6 +593,7 @@
   linux-jessie-root-lime-a10_5.30_armhf
   linux-jessie-root-lime-a10_5.25_armhf
   linux-jessie-root-lime-a10_5.23_armhf
+  linux-jessie-root-lime2_5.37_armhf
   linux-jessie-root-lime2_5.36_armhf
   linux-jessie-root-lime2_5.35_armhf
   linux-jessie-root-lime2_5.31_armhf
@@ -544,16 +604,19 @@
   linux-jessie-root-lime2-emmc_5.30_armhf
   linux-jessie-root-lime2-emmc_5.25_armhf
   linux-jessie-root-lime2-emmc_5.23_armhf
+  linux-jessie-root-micro_5.37_armhf
   linux-jessie-root-micro_5.36_armhf
   linux-jessie-root-micro_5.35_armhf
   linux-jessie-root-micro_5.31_armhf
   linux-jessie-root-micro_5.30_armhf
   linux-jessie-root-micro_5.25_armhf
   linux-jessie-root-micro_5.23_armhf
+  linux-jessie-root-miqi_5.37_armhf
   linux-jessie-root-miqi_5.36_armhf
   linux-jessie-root-miqi_5.35_armhf
   linux-jessie-root-miqi_5.31_armhf
   linux-jessie-root-miqi_5.30_armhf
+  linux-jessie-root-nanopiair_5.37_armhf
   linux-jessie-root-nanopiair_5.36_armhf
   linux-jessie-root-nanopiair_5.35_armhf
   linux-jessie-root-nanopiair_5.31_armhf
@@ -561,17 +624,20 @@
   linux-jessie-root-nanopiair_5.25_armhf
   linux-jessie-root-nanopiair_5.23_armhf
   linux-jessie-root-nanopik2_5.35_arm64
+  linux-jessie-root-nanopim1_5.37_armhf
   linux-jessie-root-nanopim1_5.36_armhf
   linux-jessie-root-nanopim1_5.35_armhf
   linux-jessie-root-nanopim1_5.31_armhf
   linux-jessie-root-nanopim1_5.30_armhf
   linux-jessie-root-nanopim1_5.25_armhf
   linux-jessie-root-nanopim1_5.23_armhf
+  linux-jessie-root-nanopim1plus_5.37_armhf
   linux-jessie-root-nanopim1plus_5.36_armhf
   linux-jessie-root-nanopim1plus_5.35_armhf
   linux-jessie-root-nanopim1plus_5.31_armhf
   linux-jessie-root-nanopim1plus_5.30_armhf
   linux-jessie-root-nanopim1plus_5.25_armhf
+  linux-jessie-root-nanopineo_5.37_armhf
   linux-jessie-root-nanopineo_5.36_armhf
   linux-jessie-root-nanopineo_5.35_armhf
   linux-jessie-root-nanopineo_5.31_armhf
@@ -580,20 +646,24 @@
   linux-jessie-root-nanopineo_5.23_armhf
   linux-jessie-root-next-armada_5.23_armhf
   linux-jessie-root-next-aw-som-a20_5.23_armhf
+  linux-jessie-root-next-bananapi_5.37_armhf
   linux-jessie-root-next-bananapi_5.36_armhf
   linux-jessie-root-next-bananapi_5.35_armhf
   linux-jessie-root-next-bananapi_5.31_armhf
   linux-jessie-root-next-bananapi_5.30_armhf
   linux-jessie-root-next-bananapi_5.25_armhf
   linux-jessie-root-next-bananapi_5.23_armhf
+  linux-jessie-root-next-bananapim2_5.37_armhf
   linux-jessie-root-next-bananapim2_5.36_armhf
   linux-jessie-root-next-bananapim2_5.35_armhf
   linux-jessie-root-next-bananapim2_5.31_armhf
   linux-jessie-root-next-bananapim2_5.30_armhf
   linux-jessie-root-next-bananapim2_5.25_armhf
   linux-jessie-root-next-bananapim2_5.23_armhf
+  linux-jessie-root-next-bananapim2plus_5.37_armhf
   linux-jessie-root-next-bananapim2plus_5.36_armhf
   linux-jessie-root-next-bananapim2plus_5.35_armhf
+  linux-jessie-root-next-bananapipro_5.37_armhf
   linux-jessie-root-next-bananapipro_5.36_armhf
   linux-jessie-root-next-bananapipro_5.35_armhf
   linux-jessie-root-next-bananapipro_5.31_armhf
@@ -601,13 +671,16 @@
   linux-jessie-root-next-bananapipro_5.25_armhf
   linux-jessie-root-next-bananapipro_5.23_armhf
   linux-jessie-root-next-bananapipro_5.10_armhf
+  linux-jessie-root-next-beelinkx2_5.37_armhf
   linux-jessie-root-next-beelinkx2_5.36_armhf
   linux-jessie-root-next-beelinkx2_5.35_armhf
+  linux-jessie-root-next-clearfogbase_5.37_armhf
   linux-jessie-root-next-clearfogbase_5.36_armhf
   linux-jessie-root-next-clearfogbase_5.35_armhf
   linux-jessie-root-next-clearfogbase_5.31_armhf
   linux-jessie-root-next-clearfogbase_5.30_armhf
   linux-jessie-root-next-clearfogbase_5.25_armhf
+  linux-jessie-root-next-clearfogpro_5.37_armhf
   linux-jessie-root-next-clearfogpro_5.36_armhf
   linux-jessie-root-next-clearfogpro_5.35_armhf
   linux-jessie-root-next-clearfogpro_5.31_armhf
@@ -617,32 +690,39 @@
   linux-jessie-root-next-cubieboard_5.30_armhf
   linux-jessie-root-next-cubieboard_5.25_armhf
   linux-jessie-root-next-cubieboard_5.23_armhf
+  linux-jessie-root-next-cubieboard2_5.37_armhf
   linux-jessie-root-next-cubieboard2_5.36_armhf
   linux-jessie-root-next-cubieboard2_5.35_armhf
   linux-jessie-root-next-cubieboard2_5.31_armhf
   linux-jessie-root-next-cubieboard2_5.30_armhf
   linux-jessie-root-next-cubieboard2_5.25_armhf
   linux-jessie-root-next-cubieboard2_5.23_armhf
+  linux-jessie-root-next-cubietruck_5.37_armhf
   linux-jessie-root-next-cubietruck_5.36_armhf
   linux-jessie-root-next-cubietruck_5.35_armhf
   linux-jessie-root-next-cubietruck_5.31_armhf
   linux-jessie-root-next-cubietruck_5.30_armhf
   linux-jessie-root-next-cubietruck_5.25_armhf
   linux-jessie-root-next-cubietruck_5.23_armhf
+  linux-jessie-root-next-cubox-i_5.37_armhf
   linux-jessie-root-next-cubox-i_5.36_armhf
   linux-jessie-root-next-cubox-i_5.35_armhf
   linux-jessie-root-next-cubox-i_5.31_armhf
   linux-jessie-root-next-cubox-i_5.30_armhf
   linux-jessie-root-next-cubox-i_5.25_armhf
   linux-jessie-root-next-cubox-i_5.23_armhf
+  linux-jessie-root-next-espressobin_5.37_arm64
   linux-jessie-root-next-espressobin_5.36_arm64
   linux-jessie-root-next-espressobin_5.35_arm64
+  linux-jessie-root-next-helios4_5.37_armhf
   linux-jessie-root-next-lamobo-r1_5.31_armhf
   linux-jessie-root-next-lamobo-r1_5.30_armhf
   linux-jessie-root-next-lamobo-r1_5.25_armhf
   linux-jessie-root-next-lamobo-r1_5.23_armhf
+  linux-jessie-root-next-lepotato_5.37_arm64
   linux-jessie-root-next-lepotato_5.36_arm64
   linux-jessie-root-next-lepotato_5.35_arm64
+  linux-jessie-root-next-lime_5.37_armhf
   linux-jessie-root-next-lime_5.36_armhf
   linux-jessie-root-next-lime_5.35_armhf
   linux-jessie-root-next-lime_5.31_armhf
@@ -653,12 +733,14 @@
   linux-jessie-root-next-lime-a10_5.30_armhf
   linux-jessie-root-next-lime-a10_5.25_armhf
   linux-jessie-root-next-lime-a10_5.23_armhf
+  linux-jessie-root-next-lime-a33_5.37_armhf
   linux-jessie-root-next-lime-a33_5.36_armhf
   linux-jessie-root-next-lime-a33_5.35_armhf
   linux-jessie-root-next-lime-a33_5.31_armhf
   linux-jessie-root-next-lime-a33_5.30_armhf
   linux-jessie-root-next-lime-a33_5.25_armhf
   linux-jessie-root-next-lime-a33_5.23_armhf
+  linux-jessie-root-next-lime2_5.37_armhf
   linux-jessie-root-next-lime2_5.36_armhf
   linux-jessie-root-next-lime2_5.35_armhf
   linux-jessie-root-next-lime2_5.31_armhf
@@ -669,37 +751,49 @@
   linux-jessie-root-next-lime2-emmc_5.30_armhf
   linux-jessie-root-next-lime2-emmc_5.25_armhf
   linux-jessie-root-next-lime2-emmc_5.23_armhf
+  linux-jessie-root-next-micro_5.37_armhf
   linux-jessie-root-next-micro_5.36_armhf
   linux-jessie-root-next-micro_5.35_armhf
   linux-jessie-root-next-micro_5.31_armhf
   linux-jessie-root-next-micro_5.30_armhf
   linux-jessie-root-next-micro_5.25_armhf
   linux-jessie-root-next-micro_5.23_armhf
+  linux-jessie-root-next-miqi_5.37_armhf
   linux-jessie-root-next-miqi_5.36_armhf
   linux-jessie-root-next-miqi_5.35_armhf
   linux-jessie-root-next-miqi_5.31_armhf
   linux-jessie-root-next-miqi_5.30_armhf
+  linux-jessie-root-next-nanopiair_5.37_armhf
   linux-jessie-root-next-nanopiair_5.36_armhf
   linux-jessie-root-next-nanopiair_5.35_armhf
+  linux-jessie-root-next-nanopiduo_5.37_armhf
   linux-jessie-root-next-nanopiduo_5.36_armhf
   linux-jessie-root-next-nanopiduo_5.35_armhf
   linux-jessie-root-next-nanopik2_5.35_arm64
+  linux-jessie-root-next-nanopim1_5.37_armhf
   linux-jessie-root-next-nanopim1_5.36_armhf
   linux-jessie-root-next-nanopim1_5.35_armhf
+  linux-jessie-root-next-nanopim1plus_5.37_armhf
   linux-jessie-root-next-nanopim1plus_5.36_armhf
   linux-jessie-root-next-nanopim1plus_5.35_armhf
+  linux-jessie-root-next-nanopim1plus2_5.37_arm64
   linux-jessie-root-next-nanopim1plus2_5.36_arm64
   linux-jessie-root-next-nanopim1plus2_5.35_arm64
+  linux-jessie-root-next-nanopineo_5.37_armhf
   linux-jessie-root-next-nanopineo_5.36_armhf
   linux-jessie-root-next-nanopineo_5.35_armhf
+  linux-jessie-root-next-nanopineo2_5.37_arm64
   linux-jessie-root-next-nanopineo2_5.36_arm64
   linux-jessie-root-next-nanopineo2_5.35_arm64
+  linux-jessie-root-next-nanopineoplus2_5.37_arm64
   linux-jessie-root-next-nanopineoplus2_5.36_arm64
   linux-jessie-root-next-nanopineoplus2_5.35_arm64
+  linux-jessie-root-next-odroidc2_5.37_arm64
   linux-jessie-root-next-odroidc2_5.36_arm64
   linux-jessie-root-next-odroidc2_5.35_arm64
   linux-jessie-root-next-odroidc2_5.31_arm64
   linux-jessie-root-next-odroidc2_5.30_arm64
+  linux-jessie-root-next-odroidxu4_5.37_armhf
   linux-jessie-root-next-odroidxu4_5.36_armhf
   linux-jessie-root-next-odroidxu4_5.35_armhf
   linux-jessie-root-next-odroidxu4_5.31_armhf
@@ -712,79 +806,104 @@
   linux-jessie-root-next-olinux-som-a13_5.23_armhf
   linux-jessie-root-next-orangepi_5.25_armhf
   linux-jessie-root-next-orangepi_5.23_armhf
+  linux-jessie-root-next-orangepi-r1_5.37_armhf
   linux-jessie-root-next-orangepi-r1_5.36_armhf
   linux-jessie-root-next-orangepi-r1_5.35_armhf
+  linux-jessie-root-next-orangepi2_5.37_armhf
   linux-jessie-root-next-orangepi2_5.36_armhf
   linux-jessie-root-next-orangepi2_5.35_armhf
+  linux-jessie-root-next-orangepilite_5.37_armhf
   linux-jessie-root-next-orangepilite_5.36_armhf
   linux-jessie-root-next-orangepilite_5.35_armhf
+  linux-jessie-root-next-orangepione_5.37_armhf
   linux-jessie-root-next-orangepione_5.36_armhf
   linux-jessie-root-next-orangepione_5.35_armhf
+  linux-jessie-root-next-orangepipc_5.37_armhf
   linux-jessie-root-next-orangepipc_5.36_armhf
   linux-jessie-root-next-orangepipc_5.35_armhf
+  linux-jessie-root-next-orangepipc2_5.37_arm64
   linux-jessie-root-next-orangepipc2_5.36_arm64
   linux-jessie-root-next-orangepipc2_5.35_arm64
+  linux-jessie-root-next-orangepipcplus_5.37_armhf
   linux-jessie-root-next-orangepipcplus_5.36_armhf
   linux-jessie-root-next-orangepipcplus_5.35_armhf
+  linux-jessie-root-next-orangepiplus_5.37_armhf
   linux-jessie-root-next-orangepiplus_5.36_armhf
   linux-jessie-root-next-orangepiplus_5.35_armhf
+  linux-jessie-root-next-orangepiplus2e_5.37_armhf
   linux-jessie-root-next-orangepiplus2e_5.36_armhf
   linux-jessie-root-next-orangepiplus2e_5.35_armhf
+  linux-jessie-root-next-orangepiprime_5.37_arm64
   linux-jessie-root-next-orangepiprime_5.36_arm64
   linux-jessie-root-next-orangepiprime_5.35_arm64
+  linux-jessie-root-next-orangepiwin_5.37_arm64
   linux-jessie-root-next-orangepiwin_5.35_arm64
+  linux-jessie-root-next-orangepizero_5.37_armhf
   linux-jessie-root-next-orangepizero_5.36_armhf
   linux-jessie-root-next-orangepizero_5.35_armhf
+  linux-jessie-root-next-orangepizeroplus_5.37_arm64
   linux-jessie-root-next-orangepizeroplus_5.36_arm64
   linux-jessie-root-next-orangepizeroplus_5.35_arm64
+  linux-jessie-root-next-orangepizeroplus2-h3_5.37_armhf
   linux-jessie-root-next-orangepizeroplus2-h3_5.36_armhf
   linux-jessie-root-next-orangepizeroplus2-h3_5.35_armhf
+  linux-jessie-root-next-orangepizeroplus2-h5_5.37_arm64
   linux-jessie-root-next-orangepizeroplus2-h5_5.36_arm64
   linux-jessie-root-next-orangepizeroplus2-h5_5.35_arm64
+  linux-jessie-root-next-pcduino2_5.37_armhf
   linux-jessie-root-next-pcduino2_5.36_armhf
   linux-jessie-root-next-pcduino2_5.35_armhf
   linux-jessie-root-next-pcduino2_5.31_armhf
   linux-jessie-root-next-pcduino2_5.30_armhf
   linux-jessie-root-next-pcduino2_5.25_armhf
   linux-jessie-root-next-pcduino2_5.23_armhf
+  linux-jessie-root-next-pcduino3_5.37_armhf
   linux-jessie-root-next-pcduino3_5.36_armhf
   linux-jessie-root-next-pcduino3_5.35_armhf
   linux-jessie-root-next-pcduino3_5.31_armhf
   linux-jessie-root-next-pcduino3_5.30_armhf
   linux-jessie-root-next-pcduino3_5.25_armhf
   linux-jessie-root-next-pcduino3_5.23_armhf
+  linux-jessie-root-next-pcduino3nano_5.37_armhf
   linux-jessie-root-next-pcduino3nano_5.36_armhf
   linux-jessie-root-next-pcduino3nano_5.35_armhf
   linux-jessie-root-next-pcduino3nano_5.31_armhf
   linux-jessie-root-next-pcduino3nano_5.30_armhf
   linux-jessie-root-next-pcduino3nano_5.25_armhf
   linux-jessie-root-next-pcduino3nano_5.23_armhf
+  linux-jessie-root-next-pine64_5.37_arm64
   linux-jessie-root-next-pine64_5.36_arm64
   linux-jessie-root-next-pine64_5.35_arm64
+  linux-jessie-root-next-pine64so_5.37_arm64
   linux-jessie-root-next-pine64so_5.36_arm64
   linux-jessie-root-next-pine64so_5.35_arm64
+  linux-jessie-root-next-tinkerboard_5.37_armhf
   linux-jessie-root-next-tinkerboard_5.36_armhf
   linux-jessie-root-next-tinkerboard_5.35_armhf
   linux-jessie-root-next-tinkerboard_5.31_armhf
   linux-jessie-root-next-tinkerboard_5.30_armhf
+  linux-jessie-root-next-udoo_5.37_armhf
   linux-jessie-root-next-udoo_5.36_armhf
   linux-jessie-root-next-udoo_5.35_armhf
   linux-jessie-root-next-udoo_5.31_armhf
   linux-jessie-root-next-udoo_5.30_armhf
   linux-jessie-root-next-udoo_5.25_armhf
   linux-jessie-root-next-udoo_5.23_armhf
+  linux-jessie-root-odroidc1_5.37_armhf
   linux-jessie-root-odroidc1_5.36_armhf
   linux-jessie-root-odroidc1_5.35_armhf
   linux-jessie-root-odroidc1_5.31_armhf
   linux-jessie-root-odroidc1_5.30_armhf
   linux-jessie-root-odroidc1_5.25_armhf
   linux-jessie-root-odroidc1_5.23_armhf
+  linux-jessie-root-odroidc2_5.37_arm64
   linux-jessie-root-odroidc2_5.36_arm64
   linux-jessie-root-odroidc2_5.35_arm64
   linux-jessie-root-odroidc2_5.31_arm64
   linux-jessie-root-odroidc2_5.30_arm64
   linux-jessie-root-odroidc2_5.25_arm64
   linux-jessie-root-odroidc2_5.23_arm64
+  linux-jessie-root-odroidxu4_5.37_armhf
   linux-jessie-root-odroidxu4_5.36_armhf
   linux-jessie-root-odroidxu4_5.35_armhf
   linux-jessie-root-odroidxu4_5.31_armhf
@@ -797,87 +916,104 @@
   linux-jessie-root-olinux-som-a13_5.23_armhf
   linux-jessie-root-orangepi_5.25_armhf
   linux-jessie-root-orangepi_5.23_armhf
+  linux-jessie-root-orangepi-r1_5.37_armhf
   linux-jessie-root-orangepi-r1_5.36_armhf
   linux-jessie-root-orangepi-r1_5.35_armhf
+  linux-jessie-root-orangepi2_5.37_armhf
   linux-jessie-root-orangepi2_5.36_armhf
   linux-jessie-root-orangepi2_5.35_armhf
   linux-jessie-root-orangepi2_5.31_armhf
   linux-jessie-root-orangepi2_5.30_armhf
   linux-jessie-root-orangepi2_5.25_armhf
   linux-jessie-root-orangepi2_5.23_armhf
+  linux-jessie-root-orangepilite_5.37_armhf
   linux-jessie-root-orangepilite_5.36_armhf
   linux-jessie-root-orangepilite_5.35_armhf
   linux-jessie-root-orangepilite_5.31_armhf
   linux-jessie-root-orangepilite_5.30_armhf
   linux-jessie-root-orangepilite_5.25_armhf
   linux-jessie-root-orangepilite_5.23_armhf
+  linux-jessie-root-orangepione_5.37_armhf
   linux-jessie-root-orangepione_5.36_armhf
   linux-jessie-root-orangepione_5.35_armhf
   linux-jessie-root-orangepione_5.31_armhf
   linux-jessie-root-orangepione_5.30_armhf
   linux-jessie-root-orangepione_5.25_armhf
   linux-jessie-root-orangepione_5.23_armhf
+  linux-jessie-root-orangepipc_5.37_armhf
   linux-jessie-root-orangepipc_5.36_armhf
   linux-jessie-root-orangepipc_5.35_armhf
   linux-jessie-root-orangepipc_5.31_armhf
   linux-jessie-root-orangepipc_5.30_armhf
   linux-jessie-root-orangepipc_5.25_armhf
   linux-jessie-root-orangepipc_5.23_armhf
+  linux-jessie-root-orangepipcplus_5.37_armhf
   linux-jessie-root-orangepipcplus_5.36_armhf
   linux-jessie-root-orangepipcplus_5.35_armhf
   linux-jessie-root-orangepipcplus_5.31_armhf
   linux-jessie-root-orangepipcplus_5.30_armhf
   linux-jessie-root-orangepipcplus_5.25_armhf
   linux-jessie-root-orangepipcplus_5.23_armhf
+  linux-jessie-root-orangepiplus_5.37_armhf
   linux-jessie-root-orangepiplus_5.36_armhf
   linux-jessie-root-orangepiplus_5.35_armhf
   linux-jessie-root-orangepiplus_5.31_armhf
   linux-jessie-root-orangepiplus_5.30_armhf
   linux-jessie-root-orangepiplus_5.25_armhf
   linux-jessie-root-orangepiplus_5.23_armhf
+  linux-jessie-root-orangepiplus2e_5.37_armhf
   linux-jessie-root-orangepiplus2e_5.36_armhf
   linux-jessie-root-orangepiplus2e_5.35_armhf
   linux-jessie-root-orangepiplus2e_5.31_armhf
   linux-jessie-root-orangepiplus2e_5.30_armhf
   linux-jessie-root-orangepiplus2e_5.25_armhf
   linux-jessie-root-orangepiplus2e_5.23_armhf
+  linux-jessie-root-orangepiwin_5.37_arm64
+  linux-jessie-root-orangepizero_5.37_armhf
   linux-jessie-root-orangepizero_5.36_armhf
   linux-jessie-root-orangepizero_5.35_armhf
   linux-jessie-root-orangepizero_5.31_armhf
   linux-jessie-root-orangepizero_5.30_armhf
   linux-jessie-root-orangepizero_5.25_armhf
+  linux-jessie-root-orangepizeroplus2-h3_5.37_armhf
   linux-jessie-root-orangepizeroplus2-h3_5.36_armhf
   linux-jessie-root-orangepizeroplus2-h3_5.35_armhf
   linux-jessie-root-orangepizeroplus2-h3_5.31_armhf
   linux-jessie-root-orangepizeroplus2-h3_5.30_armhf
+  linux-jessie-root-pcduino2_5.37_armhf
   linux-jessie-root-pcduino2_5.36_armhf
   linux-jessie-root-pcduino2_5.35_armhf
   linux-jessie-root-pcduino2_5.31_armhf
   linux-jessie-root-pcduino2_5.30_armhf
   linux-jessie-root-pcduino2_5.25_armhf
   linux-jessie-root-pcduino2_5.23_armhf
+  linux-jessie-root-pcduino3_5.37_armhf
   linux-jessie-root-pcduino3_5.36_armhf
   linux-jessie-root-pcduino3_5.35_armhf
   linux-jessie-root-pcduino3_5.31_armhf
   linux-jessie-root-pcduino3_5.30_armhf
   linux-jessie-root-pcduino3_5.25_armhf
   linux-jessie-root-pcduino3_5.23_armhf
+  linux-jessie-root-pcduino3nano_5.37_armhf
   linux-jessie-root-pcduino3nano_5.36_armhf
   linux-jessie-root-pcduino3nano_5.35_armhf
   linux-jessie-root-pcduino3nano_5.31_armhf
   linux-jessie-root-pcduino3nano_5.30_armhf
   linux-jessie-root-pcduino3nano_5.25_armhf
   linux-jessie-root-pcduino3nano_5.23_armhf
+  linux-jessie-root-pine64_5.37_arm64
   linux-jessie-root-pine64_5.36_arm64
   linux-jessie-root-pine64_5.35_arm64
   linux-jessie-root-pine64_5.31_arm64
   linux-jessie-root-pine64_5.30_arm64
   linux-jessie-root-pine64_5.25_arm64
   linux-jessie-root-pine64_5.23_arm64
+  linux-jessie-root-pine64so_5.37_arm64
   linux-jessie-root-pine64so_5.36_arm64
   linux-jessie-root-pine64so_5.35_arm64
   linux-jessie-root-pine64so_5.31_arm64
   linux-jessie-root-pine64so_5.30_arm64
+  linux-jessie-root-pinebook-a64_5.37_arm64
   linux-jessie-root-pinebook-a64_5.36_arm64
   linux-jessie-root-pinebook-a64_5.35_arm64
   linux-jessie-root-pinebook-a64_5.31_arm64
@@ -885,10 +1021,12 @@
   linux-jessie-root-rock64_5.35_arm64
   linux-jessie-root-roseapple_5.25_armhf
   linux-jessie-root-roseapple_5.23_armhf
+  linux-jessie-root-tinkerboard_5.37_armhf
   linux-jessie-root-tinkerboard_5.36_armhf
   linux-jessie-root-tinkerboard_5.35_armhf
   linux-jessie-root-tinkerboard_5.31_armhf
   linux-jessie-root-tinkerboard_5.30_armhf
+  linux-jessie-root-udoo_5.37_armhf
   linux-jessie-root-udoo_5.36_armhf
   linux-jessie-root-udoo_5.35_armhf
   linux-jessie-root-udoo_5.31_armhf
@@ -2484,6 +2622,7 @@
   linux-xenial-root-armada_5.20_armhf
   linux-xenial-root-aw-som-a20_5.23_armhf
   linux-xenial-root-aw-som-a20_5.22_armhf
+  linux-xenial-root-bananapi_5.37_armhf
   linux-xenial-root-bananapi_5.36_armhf
   linux-xenial-root-bananapi_5.35_armhf
   linux-xenial-root-bananapi_5.31_armhf
@@ -2492,6 +2631,7 @@
   linux-xenial-root-bananapi_5.23_armhf
   linux-xenial-root-bananapi_5.22_armhf
   linux-xenial-root-bananapi_5.20_armhf
+  linux-xenial-root-bananapim2plus_5.37_armhf
   linux-xenial-root-bananapim2plus_5.36_armhf
   linux-xenial-root-bananapim2plus_5.35_armhf
   linux-xenial-root-bananapim2plus_5.31_armhf
@@ -2499,6 +2639,7 @@
   linux-xenial-root-bananapim2plus_5.25_armhf
   linux-xenial-root-bananapim2plus_5.23_armhf
   linux-xenial-root-bananapim2plus_5.22_armhf
+  linux-xenial-root-bananapipro_5.37_armhf
   linux-xenial-root-bananapipro_5.36_armhf
   linux-xenial-root-bananapipro_5.35_armhf
   linux-xenial-root-bananapipro_5.31_armhf
@@ -2507,6 +2648,7 @@
   linux-xenial-root-bananapipro_5.23_armhf
   linux-xenial-root-bananapipro_5.22_armhf
   linux-xenial-root-bananapipro_5.20_armhf
+  linux-xenial-root-beelinkx2_5.37_armhf
   linux-xenial-root-beelinkx2_5.36_armhf
   linux-xenial-root-beelinkx2_5.35_armhf
   linux-xenial-root-beelinkx2_5.31_armhf
@@ -2514,11 +2656,13 @@
   linux-xenial-root-beelinkx2_5.25_armhf
   linux-xenial-root-beelinkx2_5.23_armhf
   linux-xenial-root-beelinkx2_5.22_armhf
+  linux-xenial-root-clearfogbase_5.37_armhf
   linux-xenial-root-clearfogbase_5.36_armhf
   linux-xenial-root-clearfogbase_5.35_armhf
   linux-xenial-root-clearfogbase_5.31_armhf
   linux-xenial-root-clearfogbase_5.30_armhf
   linux-xenial-root-clearfogbase_5.25_armhf
+  linux-xenial-root-clearfogpro_5.37_armhf
   linux-xenial-root-clearfogpro_5.36_armhf
   linux-xenial-root-clearfogpro_5.35_armhf
   linux-xenial-root-clearfogpro_5.31_armhf
@@ -2530,6 +2674,7 @@
   linux-xenial-root-cubieboard_5.23_armhf
   linux-xenial-root-cubieboard_5.22_armhf
   linux-xenial-root-cubieboard_5.20_armhf
+  linux-xenial-root-cubieboard2_5.37_armhf
   linux-xenial-root-cubieboard2_5.36_armhf
   linux-xenial-root-cubieboard2_5.35_armhf
   linux-xenial-root-cubieboard2_5.31_armhf
@@ -2538,6 +2683,7 @@
   linux-xenial-root-cubieboard2_5.23_armhf
   linux-xenial-root-cubieboard2_5.22_armhf
   linux-xenial-root-cubieboard2_5.20_armhf
+  linux-xenial-root-cubietruck_5.37_armhf
   linux-xenial-root-cubietruck_5.36_armhf
   linux-xenial-root-cubietruck_5.35_armhf
   linux-xenial-root-cubietruck_5.31_armhf
@@ -2546,6 +2692,7 @@
   linux-xenial-root-cubietruck_5.23_armhf
   linux-xenial-root-cubietruck_5.22_armhf
   linux-xenial-root-cubietruck_5.20_armhf
+  linux-xenial-root-cubox-i_5.37_armhf
   linux-xenial-root-cubox-i_5.36_armhf
   linux-xenial-root-cubox-i_5.35_armhf
   linux-xenial-root-cubox-i_5.31_armhf
@@ -2554,107 +2701,155 @@
   linux-xenial-root-cubox-i_5.23_armhf
   linux-xenial-root-cubox-i_5.22_armhf
   linux-xenial-root-cubox-i_5.20_armhf
+  linux-xenial-root-dev-bananapi_5.37_armhf
   linux-xenial-root-dev-bananapi_5.36_armhf
   linux-xenial-root-dev-bananapi_5.35_armhf
+  linux-xenial-root-dev-bananapim2_5.37_armhf
   linux-xenial-root-dev-bananapim2_5.36_armhf
   linux-xenial-root-dev-bananapim2_5.35_armhf
+  linux-xenial-root-dev-bananapim2plus_5.37_armhf
   linux-xenial-root-dev-bananapim2plus_5.36_armhf
   linux-xenial-root-dev-bananapim2plus_5.35_armhf
+  linux-xenial-root-dev-bananapipro_5.37_armhf
   linux-xenial-root-dev-bananapipro_5.36_armhf
   linux-xenial-root-dev-bananapipro_5.35_armhf
+  linux-xenial-root-dev-beelinkx2_5.37_armhf
   linux-xenial-root-dev-beelinkx2_5.36_armhf
   linux-xenial-root-dev-beelinkx2_5.35_armhf
+  linux-xenial-root-dev-clearfogbase_5.37_armhf
   linux-xenial-root-dev-clearfogbase_5.36_armhf
   linux-xenial-root-dev-clearfogbase_5.35_armhf
+  linux-xenial-root-dev-clearfogpro_5.37_armhf
   linux-xenial-root-dev-clearfogpro_5.36_armhf
   linux-xenial-root-dev-clearfogpro_5.35_armhf
+  linux-xenial-root-dev-cubieboard2_5.37_armhf
   linux-xenial-root-dev-cubieboard2_5.36_armhf
   linux-xenial-root-dev-cubieboard2_5.35_armhf
+  linux-xenial-root-dev-cubietruck_5.37_armhf
   linux-xenial-root-dev-cubietruck_5.36_armhf
   linux-xenial-root-dev-cubietruck_5.35_armhf
+  linux-xenial-root-dev-cubox-i_5.37_armhf
   linux-xenial-root-dev-cubox-i_5.36_armhf
   linux-xenial-root-dev-cubox-i_5.35_armhf
+  linux-xenial-root-dev-espressobin_5.37_arm64
   linux-xenial-root-dev-espressobin_5.36_arm64
   linux-xenial-root-dev-espressobin_5.35_arm64
+  linux-xenial-root-dev-lepotato_5.37_arm64
   linux-xenial-root-dev-lepotato_5.36_arm64
   linux-xenial-root-dev-lepotato_5.35_arm64
+  linux-xenial-root-dev-lime_5.37_armhf
   linux-xenial-root-dev-lime_5.36_armhf
   linux-xenial-root-dev-lime_5.35_armhf
+  linux-xenial-root-dev-lime2_5.37_armhf
   linux-xenial-root-dev-lime2_5.36_armhf
   linux-xenial-root-dev-lime2_5.35_armhf
+  linux-xenial-root-dev-micro_5.37_armhf
   linux-xenial-root-dev-micro_5.36_armhf
   linux-xenial-root-dev-micro_5.35_armhf
+  linux-xenial-root-dev-miqi_5.37_armhf
   linux-xenial-root-dev-miqi_5.36_armhf
   linux-xenial-root-dev-miqi_5.35_armhf
+  linux-xenial-root-dev-nanopiair_5.37_armhf
   linux-xenial-root-dev-nanopiair_5.36_armhf
   linux-xenial-root-dev-nanopiair_5.35_armhf
   linux-xenial-root-dev-nanopik2_5.35_arm64
+  linux-xenial-root-dev-nanopim1_5.37_armhf
   linux-xenial-root-dev-nanopim1_5.36_armhf
   linux-xenial-root-dev-nanopim1_5.35_armhf
+  linux-xenial-root-dev-nanopim1plus_5.37_armhf
   linux-xenial-root-dev-nanopim1plus_5.36_armhf
   linux-xenial-root-dev-nanopim1plus_5.35_armhf
+  linux-xenial-root-dev-nanopim1plus2_5.37_arm64
   linux-xenial-root-dev-nanopim1plus2_5.36_arm64
   linux-xenial-root-dev-nanopim1plus2_5.35_arm64
+  linux-xenial-root-dev-nanopineo_5.37_armhf
   linux-xenial-root-dev-nanopineo_5.36_armhf
   linux-xenial-root-dev-nanopineo_5.35_armhf
+  linux-xenial-root-dev-nanopineo2_5.37_arm64
   linux-xenial-root-dev-nanopineo2_5.36_arm64
   linux-xenial-root-dev-nanopineo2_5.35_arm64
+  linux-xenial-root-dev-nanopineoplus2_5.37_arm64
   linux-xenial-root-dev-nanopineoplus2_5.36_arm64
   linux-xenial-root-dev-nanopineoplus2_5.35_arm64
+  linux-xenial-root-dev-odroidc2_5.37_arm64
   linux-xenial-root-dev-odroidc2_5.36_arm64
   linux-xenial-root-dev-odroidc2_5.35_arm64
+  linux-xenial-root-dev-odroidxu4_5.37_armhf
   linux-xenial-root-dev-odroidxu4_5.36_armhf
   linux-xenial-root-dev-odroidxu4_5.35_armhf
   linux-xenial-root-dev-olinuxino-a64_5.35_arm64
+  linux-xenial-root-dev-orangepi2_5.37_armhf
   linux-xenial-root-dev-orangepi2_5.36_armhf
   linux-xenial-root-dev-orangepi2_5.35_armhf
+  linux-xenial-root-dev-orangepilite_5.37_armhf
   linux-xenial-root-dev-orangepilite_5.36_armhf
   linux-xenial-root-dev-orangepilite_5.35_armhf
+  linux-xenial-root-dev-orangepione_5.37_armhf
   linux-xenial-root-dev-orangepione_5.36_armhf
   linux-xenial-root-dev-orangepione_5.35_armhf
+  linux-xenial-root-dev-orangepipc_5.37_armhf
   linux-xenial-root-dev-orangepipc_5.36_armhf
   linux-xenial-root-dev-orangepipc_5.35_armhf
+  linux-xenial-root-dev-orangepipc2_5.37_arm64
   linux-xenial-root-dev-orangepipc2_5.36_arm64
   linux-xenial-root-dev-orangepipc2_5.35_arm64
+  linux-xenial-root-dev-orangepipcplus_5.37_armhf
   linux-xenial-root-dev-orangepipcplus_5.36_armhf
   linux-xenial-root-dev-orangepipcplus_5.35_armhf
+  linux-xenial-root-dev-orangepiplus_5.37_armhf
   linux-xenial-root-dev-orangepiplus_5.36_armhf
   linux-xenial-root-dev-orangepiplus_5.35_armhf
+  linux-xenial-root-dev-orangepiplus2e_5.37_armhf
   linux-xenial-root-dev-orangepiplus2e_5.36_armhf
   linux-xenial-root-dev-orangepiplus2e_5.35_armhf
+  linux-xenial-root-dev-orangepiprime_5.37_arm64
   linux-xenial-root-dev-orangepiprime_5.36_arm64
   linux-xenial-root-dev-orangepiprime_5.35_arm64
+  linux-xenial-root-dev-orangepiwin_5.37_arm64
   linux-xenial-root-dev-orangepiwin_5.35_arm64
+  linux-xenial-root-dev-orangepizero_5.37_armhf
   linux-xenial-root-dev-orangepizero_5.36_armhf
   linux-xenial-root-dev-orangepizero_5.35_armhf
+  linux-xenial-root-dev-orangepizeroplus_5.37_arm64
   linux-xenial-root-dev-orangepizeroplus_5.36_arm64
   linux-xenial-root-dev-orangepizeroplus_5.35_arm64
+  linux-xenial-root-dev-orangepizeroplus2-h3_5.37_armhf
   linux-xenial-root-dev-orangepizeroplus2-h3_5.36_armhf
   linux-xenial-root-dev-orangepizeroplus2-h3_5.35_armhf
+  linux-xenial-root-dev-orangepizeroplus2-h5_5.37_arm64
   linux-xenial-root-dev-orangepizeroplus2-h5_5.36_arm64
   linux-xenial-root-dev-orangepizeroplus2-h5_5.35_arm64
+  linux-xenial-root-dev-pcduino2_5.37_armhf
   linux-xenial-root-dev-pcduino2_5.36_armhf
   linux-xenial-root-dev-pcduino2_5.35_armhf
+  linux-xenial-root-dev-pcduino3_5.37_armhf
   linux-xenial-root-dev-pcduino3_5.36_armhf
   linux-xenial-root-dev-pcduino3_5.35_armhf
+  linux-xenial-root-dev-pcduino3nano_5.37_armhf
   linux-xenial-root-dev-pcduino3nano_5.36_armhf
   linux-xenial-root-dev-pcduino3nano_5.35_armhf
+  linux-xenial-root-dev-pine64_5.37_arm64
   linux-xenial-root-dev-pine64_5.36_arm64
   linux-xenial-root-dev-pine64_5.35_arm64
+  linux-xenial-root-dev-pine64so_5.37_arm64
   linux-xenial-root-dev-pine64so_5.36_arm64
   linux-xenial-root-dev-pine64so_5.35_arm64
   linux-xenial-root-dev-pinebook-a64_5.36_arm64
   linux-xenial-root-dev-pinebook-a64_5.35_arm64
   linux-xenial-root-dev-rock64_5.35_arm64
+  linux-xenial-root-dev-tinkerboard_5.37_armhf
   linux-xenial-root-dev-tinkerboard_5.36_armhf
   linux-xenial-root-dev-tinkerboard_5.35_armhf
+  linux-xenial-root-dev-udoo_5.37_armhf
   linux-xenial-root-dev-udoo_5.36_armhf
   linux-xenial-root-dev-udoo_5.35_armhf
+  linux-xenial-root-espressobin_5.37_arm64
   linux-xenial-root-espressobin_5.36_arm64
   linux-xenial-root-espressobin_5.35_arm64
   linux-xenial-root-guitar_5.25_armhf
   linux-xenial-root-guitar_5.23_armhf
   linux-xenial-root-guitar_5.22_armhf
+  linux-xenial-root-helios4_5.37_armhf
   linux-xenial-root-helios4_5.35_armhf
   linux-xenial-root-lamobo-r1_5.31_armhf
   linux-xenial-root-lamobo-r1_5.30_armhf
@@ -2662,8 +2857,10 @@
   linux-xenial-root-lamobo-r1_5.23_armhf
   linux-xenial-root-lamobo-r1_5.22_armhf
   linux-xenial-root-lamobo-r1_5.20_armhf
+  linux-xenial-root-lepotato_5.37_arm64
   linux-xenial-root-lepotato_5.36_arm64
   linux-xenial-root-lepotato_5.35_arm64
+  linux-xenial-root-lime_5.37_armhf
   linux-xenial-root-lime_5.36_armhf
   linux-xenial-root-lime_5.35_armhf
   linux-xenial-root-lime_5.31_armhf
@@ -2677,6 +2874,7 @@
   linux-xenial-root-lime-a10_5.25_armhf
   linux-xenial-root-lime-a10_5.23_armhf
   linux-xenial-root-lime-a10_5.22_armhf
+  linux-xenial-root-lime2_5.37_armhf
   linux-xenial-root-lime2_5.36_armhf
   linux-xenial-root-lime2_5.35_armhf
   linux-xenial-root-lime2_5.31_armhf
@@ -2690,6 +2888,7 @@
   linux-xenial-root-lime2-emmc_5.25_armhf
   linux-xenial-root-lime2-emmc_5.23_armhf
   linux-xenial-root-lime2-emmc_5.22_armhf
+  linux-xenial-root-micro_5.37_armhf
   linux-xenial-root-micro_5.36_armhf
   linux-xenial-root-micro_5.35_armhf
   linux-xenial-root-micro_5.31_armhf
@@ -2698,10 +2897,12 @@
   linux-xenial-root-micro_5.23_armhf
   linux-xenial-root-micro_5.22_armhf
   linux-xenial-root-micro_5.20_armhf
+  linux-xenial-root-miqi_5.37_armhf
   linux-xenial-root-miqi_5.36_armhf
   linux-xenial-root-miqi_5.35_armhf
   linux-xenial-root-miqi_5.31_armhf
   linux-xenial-root-miqi_5.30_armhf
+  linux-xenial-root-nanopiair_5.37_armhf
   linux-xenial-root-nanopiair_5.36_armhf
   linux-xenial-root-nanopiair_5.35_armhf
   linux-xenial-root-nanopiair_5.31_armhf
@@ -2711,6 +2912,7 @@
   linux-xenial-root-nanopiair_5.22_armhf
   linux-xenial-root-nanopiair_5.20_armhf
   linux-xenial-root-nanopik2_5.35_arm64
+  linux-xenial-root-nanopim1_5.37_armhf
   linux-xenial-root-nanopim1_5.36_armhf
   linux-xenial-root-nanopim1_5.35_armhf
   linux-xenial-root-nanopim1_5.31_armhf
@@ -2718,11 +2920,13 @@
   linux-xenial-root-nanopim1_5.25_armhf
   linux-xenial-root-nanopim1_5.23_armhf
   linux-xenial-root-nanopim1_5.22_armhf
+  linux-xenial-root-nanopim1plus_5.37_armhf
   linux-xenial-root-nanopim1plus_5.36_armhf
   linux-xenial-root-nanopim1plus_5.35_armhf
   linux-xenial-root-nanopim1plus_5.31_armhf
   linux-xenial-root-nanopim1plus_5.30_armhf
   linux-xenial-root-nanopim1plus_5.25_armhf
+  linux-xenial-root-nanopineo_5.37_armhf
   linux-xenial-root-nanopineo_5.36_armhf
   linux-xenial-root-nanopineo_5.35_armhf
   linux-xenial-root-nanopineo_5.31_armhf
@@ -2736,6 +2940,7 @@
   linux-xenial-root-next-armada_5.20_armhf
   linux-xenial-root-next-aw-som-a20_5.23_armhf
   linux-xenial-root-next-aw-som-a20_5.22_armhf
+  linux-xenial-root-next-bananapi_5.37_armhf
   linux-xenial-root-next-bananapi_5.36_armhf
   linux-xenial-root-next-bananapi_5.35_armhf
   linux-xenial-root-next-bananapi_5.31_armhf
@@ -2744,6 +2949,7 @@
   linux-xenial-root-next-bananapi_5.23_armhf
   linux-xenial-root-next-bananapi_5.22_armhf
   linux-xenial-root-next-bananapi_5.20_armhf
+  linux-xenial-root-next-bananapim2_5.37_armhf
   linux-xenial-root-next-bananapim2_5.36_armhf
   linux-xenial-root-next-bananapim2_5.35_armhf
   linux-xenial-root-next-bananapim2_5.31_armhf
@@ -2751,8 +2957,10 @@
   linux-xenial-root-next-bananapim2_5.25_armhf
   linux-xenial-root-next-bananapim2_5.23_armhf
   linux-xenial-root-next-bananapim2_5.22_armhf
+  linux-xenial-root-next-bananapim2plus_5.37_armhf
   linux-xenial-root-next-bananapim2plus_5.36_armhf
   linux-xenial-root-next-bananapim2plus_5.35_armhf
+  linux-xenial-root-next-bananapipro_5.37_armhf
   linux-xenial-root-next-bananapipro_5.36_armhf
   linux-xenial-root-next-bananapipro_5.35_armhf
   linux-xenial-root-next-bananapipro_5.31_armhf
@@ -2761,13 +2969,16 @@
   linux-xenial-root-next-bananapipro_5.23_armhf
   linux-xenial-root-next-bananapipro_5.22_armhf
   linux-xenial-root-next-bananapipro_5.20_armhf
+  linux-xenial-root-next-beelinkx2_5.37_armhf
   linux-xenial-root-next-beelinkx2_5.36_armhf
   linux-xenial-root-next-beelinkx2_5.35_armhf
+  linux-xenial-root-next-clearfogbase_5.37_armhf
   linux-xenial-root-next-clearfogbase_5.36_armhf
   linux-xenial-root-next-clearfogbase_5.35_armhf
   linux-xenial-root-next-clearfogbase_5.31_armhf
   linux-xenial-root-next-clearfogbase_5.30_armhf
   linux-xenial-root-next-clearfogbase_5.25_armhf
+  linux-xenial-root-next-clearfogpro_5.37_armhf
   linux-xenial-root-next-clearfogpro_5.36_armhf
   linux-xenial-root-next-clearfogpro_5.35_armhf
   linux-xenial-root-next-clearfogpro_5.31_armhf
@@ -2779,6 +2990,7 @@
   linux-xenial-root-next-cubieboard_5.23_armhf
   linux-xenial-root-next-cubieboard_5.22_armhf
   linux-xenial-root-next-cubieboard_5.20_armhf
+  linux-xenial-root-next-cubieboard2_5.37_armhf
   linux-xenial-root-next-cubieboard2_5.36_armhf
   linux-xenial-root-next-cubieboard2_5.35_armhf
   linux-xenial-root-next-cubieboard2_5.31_armhf
@@ -2787,6 +2999,7 @@
   linux-xenial-root-next-cubieboard2_5.23_armhf
   linux-xenial-root-next-cubieboard2_5.22_armhf
   linux-xenial-root-next-cubieboard2_5.20_armhf
+  linux-xenial-root-next-cubietruck_5.37_armhf
   linux-xenial-root-next-cubietruck_5.36_armhf
   linux-xenial-root-next-cubietruck_5.35_armhf
   linux-xenial-root-next-cubietruck_5.31_armhf
@@ -2795,6 +3008,7 @@
   linux-xenial-root-next-cubietruck_5.23_armhf
   linux-xenial-root-next-cubietruck_5.22_armhf
   linux-xenial-root-next-cubietruck_5.20_armhf
+  linux-xenial-root-next-cubox-i_5.37_armhf
   linux-xenial-root-next-cubox-i_5.36_armhf
   linux-xenial-root-next-cubox-i_5.35_armhf
   linux-xenial-root-next-cubox-i_5.31_armhf
@@ -2803,16 +3017,20 @@
   linux-xenial-root-next-cubox-i_5.23_armhf
   linux-xenial-root-next-cubox-i_5.22_armhf
   linux-xenial-root-next-cubox-i_5.20_armhf
+  linux-xenial-root-next-espressobin_5.37_arm64
   linux-xenial-root-next-espressobin_5.36_arm64
   linux-xenial-root-next-espressobin_5.35_arm64
+  linux-xenial-root-next-helios4_5.37_armhf
   linux-xenial-root-next-lamobo-r1_5.31_armhf
   linux-xenial-root-next-lamobo-r1_5.30_armhf
   linux-xenial-root-next-lamobo-r1_5.25_armhf
   linux-xenial-root-next-lamobo-r1_5.23_armhf
   linux-xenial-root-next-lamobo-r1_5.22_armhf
   linux-xenial-root-next-lamobo-r1_5.20_armhf
+  linux-xenial-root-next-lepotato_5.37_arm64
   linux-xenial-root-next-lepotato_5.36_arm64
   linux-xenial-root-next-lepotato_5.35_arm64
+  linux-xenial-root-next-lime_5.37_armhf
   linux-xenial-root-next-lime_5.36_armhf
   linux-xenial-root-next-lime_5.35_armhf
   linux-xenial-root-next-lime_5.31_armhf
@@ -2826,6 +3044,7 @@
   linux-xenial-root-next-lime-a10_5.25_armhf
   linux-xenial-root-next-lime-a10_5.23_armhf
   linux-xenial-root-next-lime-a10_5.22_armhf
+  linux-xenial-root-next-lime-a33_5.37_armhf
   linux-xenial-root-next-lime-a33_5.36_armhf
   linux-xenial-root-next-lime-a33_5.35_armhf
   linux-xenial-root-next-lime-a33_5.31_armhf
@@ -2833,6 +3052,7 @@
   linux-xenial-root-next-lime-a33_5.25_armhf
   linux-xenial-root-next-lime-a33_5.23_armhf
   linux-xenial-root-next-lime-a33_5.22_armhf
+  linux-xenial-root-next-lime2_5.37_armhf
   linux-xenial-root-next-lime2_5.36_armhf
   linux-xenial-root-next-lime2_5.35_armhf
   linux-xenial-root-next-lime2_5.31_armhf
@@ -2846,6 +3066,7 @@
   linux-xenial-root-next-lime2-emmc_5.25_armhf
   linux-xenial-root-next-lime2-emmc_5.23_armhf
   linux-xenial-root-next-lime2-emmc_5.22_armhf
+  linux-xenial-root-next-micro_5.37_armhf
   linux-xenial-root-next-micro_5.36_armhf
   linux-xenial-root-next-micro_5.35_armhf
   linux-xenial-root-next-micro_5.31_armhf
@@ -2854,31 +3075,42 @@
   linux-xenial-root-next-micro_5.23_armhf
   linux-xenial-root-next-micro_5.22_armhf
   linux-xenial-root-next-micro_5.20_armhf
+  linux-xenial-root-next-miqi_5.37_armhf
   linux-xenial-root-next-miqi_5.36_armhf
   linux-xenial-root-next-miqi_5.35_armhf
   linux-xenial-root-next-miqi_5.31_armhf
   linux-xenial-root-next-miqi_5.30_armhf
+  linux-xenial-root-next-nanopiair_5.37_armhf
   linux-xenial-root-next-nanopiair_5.36_armhf
   linux-xenial-root-next-nanopiair_5.35_armhf
+  linux-xenial-root-next-nanopiduo_5.37_armhf
   linux-xenial-root-next-nanopiduo_5.36_armhf
   linux-xenial-root-next-nanopiduo_5.35_armhf
   linux-xenial-root-next-nanopik2_5.35_arm64
+  linux-xenial-root-next-nanopim1_5.37_armhf
   linux-xenial-root-next-nanopim1_5.36_armhf
   linux-xenial-root-next-nanopim1_5.35_armhf
+  linux-xenial-root-next-nanopim1plus_5.37_armhf
   linux-xenial-root-next-nanopim1plus_5.36_armhf
   linux-xenial-root-next-nanopim1plus_5.35_armhf
+  linux-xenial-root-next-nanopim1plus2_5.37_arm64
   linux-xenial-root-next-nanopim1plus2_5.36_arm64
   linux-xenial-root-next-nanopim1plus2_5.35_arm64
+  linux-xenial-root-next-nanopineo_5.37_armhf
   linux-xenial-root-next-nanopineo_5.36_armhf
   linux-xenial-root-next-nanopineo_5.35_armhf
+  linux-xenial-root-next-nanopineo2_5.37_arm64
   linux-xenial-root-next-nanopineo2_5.36_arm64
   linux-xenial-root-next-nanopineo2_5.35_arm64
+  linux-xenial-root-next-nanopineoplus2_5.37_arm64
   linux-xenial-root-next-nanopineoplus2_5.36_arm64
   linux-xenial-root-next-nanopineoplus2_5.35_arm64
+  linux-xenial-root-next-odroidc2_5.37_arm64
   linux-xenial-root-next-odroidc2_5.36_arm64
   linux-xenial-root-next-odroidc2_5.35_arm64
   linux-xenial-root-next-odroidc2_5.31_arm64
   linux-xenial-root-next-odroidc2_5.30_arm64
+  linux-xenial-root-next-odroidxu4_5.37_armhf
   linux-xenial-root-next-odroidxu4_5.36_armhf
   linux-xenial-root-next-odroidxu4_5.35_armhf
   linux-xenial-root-next-odroidxu4_5.33.171017_armhf
@@ -2895,35 +3127,51 @@
   linux-xenial-root-next-orangepi_5.25_armhf
   linux-xenial-root-next-orangepi_5.23_armhf
   linux-xenial-root-next-orangepi_5.22_armhf
+  linux-xenial-root-next-orangepi-r1_5.37_armhf
   linux-xenial-root-next-orangepi-r1_5.36_armhf
   linux-xenial-root-next-orangepi-r1_5.35_armhf
+  linux-xenial-root-next-orangepi2_5.37_armhf
   linux-xenial-root-next-orangepi2_5.36_armhf
   linux-xenial-root-next-orangepi2_5.35_armhf
+  linux-xenial-root-next-orangepilite_5.37_armhf
   linux-xenial-root-next-orangepilite_5.36_armhf
   linux-xenial-root-next-orangepilite_5.35_armhf
+  linux-xenial-root-next-orangepione_5.37_armhf
   linux-xenial-root-next-orangepione_5.36_armhf
   linux-xenial-root-next-orangepione_5.35_armhf
+  linux-xenial-root-next-orangepipc_5.37_armhf
   linux-xenial-root-next-orangepipc_5.36_armhf
   linux-xenial-root-next-orangepipc_5.35_armhf
+  linux-xenial-root-next-orangepipc2_5.37_arm64
   linux-xenial-root-next-orangepipc2_5.36_arm64
   linux-xenial-root-next-orangepipc2_5.35_arm64
+  linux-xenial-root-next-orangepipcplus_5.37_armhf
   linux-xenial-root-next-orangepipcplus_5.36_armhf
   linux-xenial-root-next-orangepipcplus_5.35_armhf
+  linux-xenial-root-next-orangepiplus_5.37_armhf
   linux-xenial-root-next-orangepiplus_5.36_armhf
   linux-xenial-root-next-orangepiplus_5.35_armhf
+  linux-xenial-root-next-orangepiplus2e_5.37_armhf
   linux-xenial-root-next-orangepiplus2e_5.36_armhf
   linux-xenial-root-next-orangepiplus2e_5.35_armhf
+  linux-xenial-root-next-orangepiprime_5.37_arm64
   linux-xenial-root-next-orangepiprime_5.36_arm64
   linux-xenial-root-next-orangepiprime_5.35_arm64
+  linux-xenial-root-next-orangepiwin_5.37_arm64
   linux-xenial-root-next-orangepiwin_5.35_arm64
+  linux-xenial-root-next-orangepizero_5.37_armhf
   linux-xenial-root-next-orangepizero_5.36_armhf
   linux-xenial-root-next-orangepizero_5.35_armhf
+  linux-xenial-root-next-orangepizeroplus_5.37_arm64
   linux-xenial-root-next-orangepizeroplus_5.36_arm64
   linux-xenial-root-next-orangepizeroplus_5.35_arm64
+  linux-xenial-root-next-orangepizeroplus2-h3_5.37_armhf
   linux-xenial-root-next-orangepizeroplus2-h3_5.36_armhf
   linux-xenial-root-next-orangepizeroplus2-h3_5.35_armhf
+  linux-xenial-root-next-orangepizeroplus2-h5_5.37_arm64
   linux-xenial-root-next-orangepizeroplus2-h5_5.36_arm64
   linux-xenial-root-next-orangepizeroplus2-h5_5.35_arm64
+  linux-xenial-root-next-pcduino2_5.37_armhf
   linux-xenial-root-next-pcduino2_5.36_armhf
   linux-xenial-root-next-pcduino2_5.35_armhf
   linux-xenial-root-next-pcduino2_5.31_armhf
@@ -2931,6 +3179,7 @@
   linux-xenial-root-next-pcduino2_5.25_armhf
   linux-xenial-root-next-pcduino2_5.23_armhf
   linux-xenial-root-next-pcduino2_5.22_armhf
+  linux-xenial-root-next-pcduino3_5.37_armhf
   linux-xenial-root-next-pcduino3_5.36_armhf
   linux-xenial-root-next-pcduino3_5.35_armhf
   linux-xenial-root-next-pcduino3_5.31_armhf
@@ -2938,6 +3187,7 @@
   linux-xenial-root-next-pcduino3_5.25_armhf
   linux-xenial-root-next-pcduino3_5.23_armhf
   linux-xenial-root-next-pcduino3_5.22_armhf
+  linux-xenial-root-next-pcduino3nano_5.37_armhf
   linux-xenial-root-next-pcduino3nano_5.36_armhf
   linux-xenial-root-next-pcduino3nano_5.35_armhf
   linux-xenial-root-next-pcduino3nano_5.31_armhf
@@ -2945,14 +3195,18 @@
   linux-xenial-root-next-pcduino3nano_5.25_armhf
   linux-xenial-root-next-pcduino3nano_5.23_armhf
   linux-xenial-root-next-pcduino3nano_5.22_armhf
+  linux-xenial-root-next-pine64_5.37_arm64
   linux-xenial-root-next-pine64_5.36_arm64
   linux-xenial-root-next-pine64_5.35_arm64
+  linux-xenial-root-next-pine64so_5.37_arm64
   linux-xenial-root-next-pine64so_5.36_arm64
   linux-xenial-root-next-pine64so_5.35_arm64
+  linux-xenial-root-next-tinkerboard_5.37_armhf
   linux-xenial-root-next-tinkerboard_5.36_armhf
   linux-xenial-root-next-tinkerboard_5.35_armhf
   linux-xenial-root-next-tinkerboard_5.31_armhf
   linux-xenial-root-next-tinkerboard_5.30_armhf
+  linux-xenial-root-next-udoo_5.37_armhf
   linux-xenial-root-next-udoo_5.36_armhf
   linux-xenial-root-next-udoo_5.35_armhf
   linux-xenial-root-next-udoo_5.31_armhf
@@ -2960,6 +3214,7 @@
   linux-xenial-root-next-udoo_5.25_armhf
   linux-xenial-root-next-udoo_5.23_armhf
   linux-xenial-root-next-udoo_5.22_armhf
+  linux-xenial-root-odroidc1_5.37_armhf
   linux-xenial-root-odroidc1_5.36_armhf
   linux-xenial-root-odroidc1_5.35_armhf
   linux-xenial-root-odroidc1_5.31_armhf
@@ -2967,6 +3222,7 @@
   linux-xenial-root-odroidc1_5.25_armhf
   linux-xenial-root-odroidc1_5.23_armhf
   linux-xenial-root-odroidc1_5.22_armhf
+  linux-xenial-root-odroidc2_5.37_arm64
   linux-xenial-root-odroidc2_5.36_arm64
   linux-xenial-root-odroidc2_5.35_arm64
   linux-xenial-root-odroidc2_5.31_arm64
@@ -2974,6 +3230,7 @@
   linux-xenial-root-odroidc2_5.25_arm64
   linux-xenial-root-odroidc2_5.23_arm64
   linux-xenial-root-odroidc2_5.22_arm64
+  linux-xenial-root-odroidxu4_5.37_armhf
   linux-xenial-root-odroidxu4_5.36_armhf
   linux-xenial-root-odroidxu4_5.35_armhf
   linux-xenial-root-odroidxu4_5.31_armhf
@@ -2989,8 +3246,10 @@
   linux-xenial-root-orangepi_5.25_armhf
   linux-xenial-root-orangepi_5.23_armhf
   linux-xenial-root-orangepi_5.22_armhf
+  linux-xenial-root-orangepi-r1_5.37_armhf
   linux-xenial-root-orangepi-r1_5.36_armhf
   linux-xenial-root-orangepi-r1_5.35_armhf
+  linux-xenial-root-orangepi2_5.37_armhf
   linux-xenial-root-orangepi2_5.36_armhf
   linux-xenial-root-orangepi2_5.35_armhf
   linux-xenial-root-orangepi2_5.31_armhf
@@ -2998,6 +3257,7 @@
   linux-xenial-root-orangepi2_5.25_armhf
   linux-xenial-root-orangepi2_5.23_armhf
   linux-xenial-root-orangepi2_5.22_armhf
+  linux-xenial-root-orangepilite_5.37_armhf
   linux-xenial-root-orangepilite_5.36_armhf
   linux-xenial-root-orangepilite_5.35_armhf
   linux-xenial-root-orangepilite_5.31_armhf
@@ -3005,6 +3265,7 @@
   linux-xenial-root-orangepilite_5.25_armhf
   linux-xenial-root-orangepilite_5.23_armhf
   linux-xenial-root-orangepilite_5.22_armhf
+  linux-xenial-root-orangepione_5.37_armhf
   linux-xenial-root-orangepione_5.36_armhf
   linux-xenial-root-orangepione_5.35_armhf
   linux-xenial-root-orangepione_5.31_armhf
@@ -3012,6 +3273,7 @@
   linux-xenial-root-orangepione_5.25_armhf
   linux-xenial-root-orangepione_5.23_armhf
   linux-xenial-root-orangepione_5.22_armhf
+  linux-xenial-root-orangepipc_5.37_armhf
   linux-xenial-root-orangepipc_5.36_armhf
   linux-xenial-root-orangepipc_5.35_armhf
   linux-xenial-root-orangepipc_5.31_armhf
@@ -3019,6 +3281,7 @@
   linux-xenial-root-orangepipc_5.25_armhf
   linux-xenial-root-orangepipc_5.23_armhf
   linux-xenial-root-orangepipc_5.22_armhf
+  linux-xenial-root-orangepipcplus_5.37_armhf
   linux-xenial-root-orangepipcplus_5.36_armhf
   linux-xenial-root-orangepipcplus_5.35_armhf
   linux-xenial-root-orangepipcplus_5.31_armhf
@@ -3026,6 +3289,7 @@
   linux-xenial-root-orangepipcplus_5.25_armhf
   linux-xenial-root-orangepipcplus_5.23_armhf
   linux-xenial-root-orangepipcplus_5.22_armhf
+  linux-xenial-root-orangepiplus_5.37_armhf
   linux-xenial-root-orangepiplus_5.36_armhf
   linux-xenial-root-orangepiplus_5.35_armhf
   linux-xenial-root-orangepiplus_5.31_armhf
@@ -3034,6 +3298,7 @@
   linux-xenial-root-orangepiplus_5.23_armhf
   linux-xenial-root-orangepiplus_5.22_armhf
   linux-xenial-root-orangepiplus_5.12_armhf
+  linux-xenial-root-orangepiplus2e_5.37_armhf
   linux-xenial-root-orangepiplus2e_5.36_armhf
   linux-xenial-root-orangepiplus2e_5.35_armhf
   linux-xenial-root-orangepiplus2e_5.31_armhf
@@ -3041,15 +3306,19 @@
   linux-xenial-root-orangepiplus2e_5.25_armhf
   linux-xenial-root-orangepiplus2e_5.23_armhf
   linux-xenial-root-orangepiplus2e_5.22_armhf
+  linux-xenial-root-orangepiwin_5.37_arm64
+  linux-xenial-root-orangepizero_5.37_armhf
   linux-xenial-root-orangepizero_5.36_armhf
   linux-xenial-root-orangepizero_5.35_armhf
   linux-xenial-root-orangepizero_5.31_armhf
   linux-xenial-root-orangepizero_5.30_armhf
   linux-xenial-root-orangepizero_5.25_armhf
+  linux-xenial-root-orangepizeroplus2-h3_5.37_armhf
   linux-xenial-root-orangepizeroplus2-h3_5.36_armhf
   linux-xenial-root-orangepizeroplus2-h3_5.35_armhf
   linux-xenial-root-orangepizeroplus2-h3_5.31_armhf
   linux-xenial-root-orangepizeroplus2-h3_5.30_armhf
+  linux-xenial-root-pcduino2_5.37_armhf
   linux-xenial-root-pcduino2_5.36_armhf
   linux-xenial-root-pcduino2_5.35_armhf
   linux-xenial-root-pcduino2_5.31_armhf
@@ -3057,6 +3326,7 @@
   linux-xenial-root-pcduino2_5.25_armhf
   linux-xenial-root-pcduino2_5.23_armhf
   linux-xenial-root-pcduino2_5.22_armhf
+  linux-xenial-root-pcduino3_5.37_armhf
   linux-xenial-root-pcduino3_5.36_armhf
   linux-xenial-root-pcduino3_5.35_armhf
   linux-xenial-root-pcduino3_5.31_armhf
@@ -3064,6 +3334,7 @@
   linux-xenial-root-pcduino3_5.25_armhf
   linux-xenial-root-pcduino3_5.23_armhf
   linux-xenial-root-pcduino3_5.22_armhf
+  linux-xenial-root-pcduino3nano_5.37_armhf
   linux-xenial-root-pcduino3nano_5.36_armhf
   linux-xenial-root-pcduino3nano_5.35_armhf
   linux-xenial-root-pcduino3nano_5.31_armhf
@@ -3071,6 +3342,7 @@
   linux-xenial-root-pcduino3nano_5.25_armhf
   linux-xenial-root-pcduino3nano_5.23_armhf
   linux-xenial-root-pcduino3nano_5.22_armhf
+  linux-xenial-root-pine64_5.37_arm64
   linux-xenial-root-pine64_5.36_arm64
   linux-xenial-root-pine64_5.35_arm64
   linux-xenial-root-pine64_5.31_arm64
@@ -3079,10 +3351,12 @@
   linux-xenial-root-pine64_5.23_arm64
   linux-xenial-root-pine64_5.22_arm64
   linux-xenial-root-pine64_5.20_arm64
+  linux-xenial-root-pine64so_5.37_arm64
   linux-xenial-root-pine64so_5.36_arm64
   linux-xenial-root-pine64so_5.35_arm64
   linux-xenial-root-pine64so_5.31_arm64
   linux-xenial-root-pine64so_5.30_arm64
+  linux-xenial-root-pinebook-a64_5.37_arm64
   linux-xenial-root-pinebook-a64_5.36_arm64
   linux-xenial-root-pinebook-a64_5.35_arm64
   linux-xenial-root-pinebook-a64_5.31_arm64
@@ -3091,10 +3365,12 @@
   linux-xenial-root-roseapple_5.25_armhf
   linux-xenial-root-roseapple_5.23_armhf
   linux-xenial-root-roseapple_5.22_armhf
+  linux-xenial-root-tinkerboard_5.37_armhf
   linux-xenial-root-tinkerboard_5.36_armhf
   linux-xenial-root-tinkerboard_5.35_armhf
   linux-xenial-root-tinkerboard_5.31_armhf
   linux-xenial-root-tinkerboard_5.30_armhf
+  linux-xenial-root-udoo_5.37_armhf
   linux-xenial-root-udoo_5.36_armhf
   linux-xenial-root-udoo_5.35_armhf
   linux-xenial-root-udoo_5.31_armhf
@@ -3575,219 +3851,325 @@
   linux-source-4.4.102-next-udoo_4.4.102-next-udoo+5.35_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
+  linux-stretch-root-clearfogbase_5.37_armhf
   linux-stretch-root-clearfogbase_5.36_armhf
   linux-stretch-root-clearfogbase_5.35_armhf
+  linux-stretch-root-clearfogpro_5.37_armhf
   linux-stretch-root-clearfogpro_5.36_armhf
   linux-stretch-root-clearfogpro_5.35_armhf
+  linux-stretch-root-cubox-i_5.37_armhf
   linux-stretch-root-cubox-i_5.36_armhf
   linux-stretch-root-cubox-i_5.35_armhf
+  linux-stretch-root-dev-bananapi_5.37_armhf
   linux-stretch-root-dev-bananapi_5.36_armhf
   linux-stretch-root-dev-bananapi_5.35_armhf
+  linux-stretch-root-dev-bananapim2_5.37_armhf
   linux-stretch-root-dev-bananapim2_5.36_armhf
   linux-stretch-root-dev-bananapim2_5.35_armhf
+  linux-stretch-root-dev-bananapim2plus_5.37_armhf
   linux-stretch-root-dev-bananapim2plus_5.36_armhf
   linux-stretch-root-dev-bananapim2plus_5.35_armhf
+  linux-stretch-root-dev-bananapipro_5.37_armhf
   linux-stretch-root-dev-bananapipro_5.36_armhf
   linux-stretch-root-dev-bananapipro_5.35_armhf
+  linux-stretch-root-dev-beelinkx2_5.37_armhf
   linux-stretch-root-dev-beelinkx2_5.36_armhf
   linux-stretch-root-dev-beelinkx2_5.35_armhf
+  linux-stretch-root-dev-clearfogbase_5.37_armhf
   linux-stretch-root-dev-clearfogbase_5.36_armhf
   linux-stretch-root-dev-clearfogbase_5.35_armhf
+  linux-stretch-root-dev-clearfogpro_5.37_armhf
   linux-stretch-root-dev-clearfogpro_5.36_armhf
   linux-stretch-root-dev-clearfogpro_5.35_armhf
+  linux-stretch-root-dev-cubieboard2_5.37_armhf
   linux-stretch-root-dev-cubieboard2_5.36_armhf
   linux-stretch-root-dev-cubieboard2_5.35_armhf
+  linux-stretch-root-dev-cubietruck_5.37_armhf
   linux-stretch-root-dev-cubietruck_5.36_armhf
   linux-stretch-root-dev-cubietruck_5.35_armhf
+  linux-stretch-root-dev-cubox-i_5.37_armhf
   linux-stretch-root-dev-cubox-i_5.36_armhf
   linux-stretch-root-dev-cubox-i_5.35_armhf
+  linux-stretch-root-dev-espressobin_5.37_arm64
   linux-stretch-root-dev-espressobin_5.36_arm64
   linux-stretch-root-dev-espressobin_5.35_arm64
+  linux-stretch-root-dev-lepotato_5.37_arm64
   linux-stretch-root-dev-lepotato_5.36_arm64
   linux-stretch-root-dev-lepotato_5.35_arm64
+  linux-stretch-root-dev-lime_5.37_armhf
   linux-stretch-root-dev-lime_5.36_armhf
   linux-stretch-root-dev-lime_5.35_armhf
+  linux-stretch-root-dev-lime2_5.37_armhf
   linux-stretch-root-dev-lime2_5.36_armhf
   linux-stretch-root-dev-lime2_5.35_armhf
+  linux-stretch-root-dev-micro_5.37_armhf
   linux-stretch-root-dev-micro_5.36_armhf
   linux-stretch-root-dev-micro_5.35_armhf
+  linux-stretch-root-dev-miqi_5.37_armhf
   linux-stretch-root-dev-miqi_5.36_armhf
   linux-stretch-root-dev-miqi_5.35_armhf
+  linux-stretch-root-dev-nanopiair_5.37_armhf
   linux-stretch-root-dev-nanopiair_5.36_armhf
   linux-stretch-root-dev-nanopiair_5.35_armhf
   linux-stretch-root-dev-nanopik2_5.35_arm64
+  linux-stretch-root-dev-nanopim1_5.37_armhf
   linux-stretch-root-dev-nanopim1_5.36_armhf
   linux-stretch-root-dev-nanopim1_5.35_armhf
+  linux-stretch-root-dev-nanopim1plus_5.37_armhf
   linux-stretch-root-dev-nanopim1plus_5.36_armhf
   linux-stretch-root-dev-nanopim1plus_5.35_armhf
+  linux-stretch-root-dev-nanopim1plus2_5.37_arm64
   linux-stretch-root-dev-nanopim1plus2_5.36_arm64
   linux-stretch-root-dev-nanopim1plus2_5.35_arm64
+  linux-stretch-root-dev-nanopineo_5.37_armhf
   linux-stretch-root-dev-nanopineo_5.36_armhf
   linux-stretch-root-dev-nanopineo_5.35_armhf
+  linux-stretch-root-dev-nanopineo2_5.37_arm64
   linux-stretch-root-dev-nanopineo2_5.36_arm64
   linux-stretch-root-dev-nanopineo2_5.35_arm64
+  linux-stretch-root-dev-nanopineoplus2_5.37_arm64
   linux-stretch-root-dev-nanopineoplus2_5.36_arm64
   linux-stretch-root-dev-nanopineoplus2_5.35_arm64
+  linux-stretch-root-dev-odroidc2_5.37_arm64
   linux-stretch-root-dev-odroidc2_5.36_arm64
   linux-stretch-root-dev-odroidc2_5.35_arm64
+  linux-stretch-root-dev-odroidxu4_5.37_armhf
   linux-stretch-root-dev-odroidxu4_5.36_armhf
   linux-stretch-root-dev-odroidxu4_5.35_armhf
   linux-stretch-root-dev-olinuxino-a64_5.35_arm64
+  linux-stretch-root-dev-orangepi2_5.37_armhf
   linux-stretch-root-dev-orangepi2_5.36_armhf
   linux-stretch-root-dev-orangepi2_5.35_armhf
+  linux-stretch-root-dev-orangepilite_5.37_armhf
   linux-stretch-root-dev-orangepilite_5.36_armhf
   linux-stretch-root-dev-orangepilite_5.35_armhf
+  linux-stretch-root-dev-orangepione_5.37_armhf
   linux-stretch-root-dev-orangepione_5.36_armhf
   linux-stretch-root-dev-orangepione_5.35_armhf
+  linux-stretch-root-dev-orangepipc_5.37_armhf
   linux-stretch-root-dev-orangepipc_5.36_armhf
   linux-stretch-root-dev-orangepipc_5.35_armhf
+  linux-stretch-root-dev-orangepipc2_5.37_arm64
   linux-stretch-root-dev-orangepipc2_5.36_arm64
   linux-stretch-root-dev-orangepipc2_5.35_arm64
+  linux-stretch-root-dev-orangepipcplus_5.37_armhf
   linux-stretch-root-dev-orangepipcplus_5.36_armhf
   linux-stretch-root-dev-orangepipcplus_5.35_armhf
+  linux-stretch-root-dev-orangepiplus_5.37_armhf
   linux-stretch-root-dev-orangepiplus_5.36_armhf
   linux-stretch-root-dev-orangepiplus_5.35_armhf
+  linux-stretch-root-dev-orangepiplus2e_5.37_armhf
   linux-stretch-root-dev-orangepiplus2e_5.36_armhf
   linux-stretch-root-dev-orangepiplus2e_5.35_armhf
+  linux-stretch-root-dev-orangepiprime_5.37_arm64
   linux-stretch-root-dev-orangepiprime_5.36_arm64
   linux-stretch-root-dev-orangepiprime_5.35_arm64
+  linux-stretch-root-dev-orangepiwin_5.37_arm64
   linux-stretch-root-dev-orangepiwin_5.35_arm64
+  linux-stretch-root-dev-orangepizero_5.37_armhf
   linux-stretch-root-dev-orangepizero_5.36_armhf
   linux-stretch-root-dev-orangepizero_5.35_armhf
+  linux-stretch-root-dev-orangepizeroplus_5.37_arm64
   linux-stretch-root-dev-orangepizeroplus_5.36_arm64
   linux-stretch-root-dev-orangepizeroplus_5.35_arm64
+  linux-stretch-root-dev-orangepizeroplus2-h3_5.37_armhf
   linux-stretch-root-dev-orangepizeroplus2-h3_5.36_armhf
   linux-stretch-root-dev-orangepizeroplus2-h3_5.35_armhf
+  linux-stretch-root-dev-orangepizeroplus2-h5_5.37_arm64
   linux-stretch-root-dev-orangepizeroplus2-h5_5.36_arm64
   linux-stretch-root-dev-orangepizeroplus2-h5_5.35_arm64
+  linux-stretch-root-dev-pcduino2_5.37_armhf
   linux-stretch-root-dev-pcduino2_5.36_armhf
   linux-stretch-root-dev-pcduino2_5.35_armhf
+  linux-stretch-root-dev-pcduino3_5.37_armhf
   linux-stretch-root-dev-pcduino3_5.36_armhf
   linux-stretch-root-dev-pcduino3_5.35_armhf
+  linux-stretch-root-dev-pcduino3nano_5.37_armhf
   linux-stretch-root-dev-pcduino3nano_5.36_armhf
   linux-stretch-root-dev-pcduino3nano_5.35_armhf
+  linux-stretch-root-dev-pine64_5.37_arm64
   linux-stretch-root-dev-pine64_5.36_arm64
   linux-stretch-root-dev-pine64_5.35_arm64
+  linux-stretch-root-dev-pine64so_5.37_arm64
   linux-stretch-root-dev-pine64so_5.36_arm64
   linux-stretch-root-dev-pine64so_5.35_arm64
   linux-stretch-root-dev-pinebook-a64_5.36_arm64
   linux-stretch-root-dev-pinebook-a64_5.35_arm64
   linux-stretch-root-dev-rock64_5.35_arm64
+  linux-stretch-root-dev-tinkerboard_5.37_armhf
   linux-stretch-root-dev-tinkerboard_5.36_armhf
   linux-stretch-root-dev-tinkerboard_5.35_armhf
+  linux-stretch-root-dev-udoo_5.37_armhf
   linux-stretch-root-dev-udoo_5.36_armhf
   linux-stretch-root-dev-udoo_5.35_armhf
+  linux-stretch-root-espressobin_5.37_arm64
   linux-stretch-root-espressobin_5.36_arm64
   linux-stretch-root-espressobin_5.35_arm64
+  linux-stretch-root-helios4_5.37_armhf
   linux-stretch-root-helios4_5.35_armhf
+  linux-stretch-root-lepotato_5.37_arm64
   linux-stretch-root-lepotato_5.36_arm64
   linux-stretch-root-lepotato_5.35_arm64
+  linux-stretch-root-miqi_5.37_armhf
   linux-stretch-root-miqi_5.36_armhf
   linux-stretch-root-miqi_5.35_armhf
   linux-stretch-root-nanopik2_5.35_arm64
+  linux-stretch-root-next-bananapi_5.37_armhf
   linux-stretch-root-next-bananapi_5.36_armhf
   linux-stretch-root-next-bananapi_5.35_armhf
+  linux-stretch-root-next-bananapim2_5.37_armhf
   linux-stretch-root-next-bananapim2_5.36_armhf
   linux-stretch-root-next-bananapim2_5.35_armhf
+  linux-stretch-root-next-bananapim2plus_5.37_armhf
   linux-stretch-root-next-bananapim2plus_5.36_armhf
   linux-stretch-root-next-bananapim2plus_5.35_armhf
+  linux-stretch-root-next-bananapipro_5.37_armhf
   linux-stretch-root-next-bananapipro_5.36_armhf
   linux-stretch-root-next-bananapipro_5.35_armhf
+  linux-stretch-root-next-beelinkx2_5.37_armhf
   linux-stretch-root-next-beelinkx2_5.36_armhf
   linux-stretch-root-next-beelinkx2_5.35_armhf
+  linux-stretch-root-next-clearfogbase_5.37_armhf
   linux-stretch-root-next-clearfogbase_5.36_armhf
   linux-stretch-root-next-clearfogbase_5.35_armhf
+  linux-stretch-root-next-clearfogpro_5.37_armhf
   linux-stretch-root-next-clearfogpro_5.36_armhf
   linux-stretch-root-next-clearfogpro_5.35_armhf
+  linux-stretch-root-next-cubieboard2_5.37_armhf
   linux-stretch-root-next-cubieboard2_5.36_armhf
   linux-stretch-root-next-cubieboard2_5.35_armhf
+  linux-stretch-root-next-cubietruck_5.37_armhf
   linux-stretch-root-next-cubietruck_5.36_armhf
   linux-stretch-root-next-cubietruck_5.35_armhf
+  linux-stretch-root-next-cubox-i_5.37_armhf
   linux-stretch-root-next-cubox-i_5.36_armhf
   linux-stretch-root-next-cubox-i_5.35_armhf
+  linux-stretch-root-next-espressobin_5.37_arm64
   linux-stretch-root-next-espressobin_5.36_arm64
   linux-stretch-root-next-espressobin_5.35_arm64
+  linux-stretch-root-next-helios4_5.37_armhf
+  linux-stretch-root-next-lepotato_5.37_arm64
   linux-stretch-root-next-lepotato_5.36_arm64
   linux-stretch-root-next-lepotato_5.35_arm64
+  linux-stretch-root-next-lime_5.37_armhf
   linux-stretch-root-next-lime_5.36_armhf
   linux-stretch-root-next-lime_5.35_armhf
+  linux-stretch-root-next-lime-a33_5.37_armhf
   linux-stretch-root-next-lime-a33_5.36_armhf
   linux-stretch-root-next-lime-a33_5.35_armhf
+  linux-stretch-root-next-lime2_5.37_armhf
   linux-stretch-root-next-lime2_5.36_armhf
   linux-stretch-root-next-lime2_5.35_armhf
+  linux-stretch-root-next-micro_5.37_armhf
   linux-stretch-root-next-micro_5.36_armhf
   linux-stretch-root-next-micro_5.35_armhf
+  linux-stretch-root-next-miqi_5.37_armhf
   linux-stretch-root-next-miqi_5.36_armhf
   linux-stretch-root-next-miqi_5.35_armhf
+  linux-stretch-root-next-nanopiair_5.37_armhf
   linux-stretch-root-next-nanopiair_5.36_armhf
   linux-stretch-root-next-nanopiair_5.35_armhf
+  linux-stretch-root-next-nanopiduo_5.37_armhf
   linux-stretch-root-next-nanopiduo_5.36_armhf
   linux-stretch-root-next-nanopiduo_5.35_armhf
   linux-stretch-root-next-nanopik2_5.35_arm64
+  linux-stretch-root-next-nanopim1_5.37_armhf
   linux-stretch-root-next-nanopim1_5.36_armhf
   linux-stretch-root-next-nanopim1_5.35_armhf
+  linux-stretch-root-next-nanopim1plus_5.37_armhf
   linux-stretch-root-next-nanopim1plus_5.36_armhf
   linux-stretch-root-next-nanopim1plus_5.35_armhf
+  linux-stretch-root-next-nanopim1plus2_5.37_arm64
   linux-stretch-root-next-nanopim1plus2_5.36_arm64
   linux-stretch-root-next-nanopim1plus2_5.35_arm64
+  linux-stretch-root-next-nanopineo_5.37_armhf
   linux-stretch-root-next-nanopineo_5.36_armhf
   linux-stretch-root-next-nanopineo_5.35_armhf
+  linux-stretch-root-next-nanopineo2_5.37_arm64
   linux-stretch-root-next-nanopineo2_5.36_arm64
   linux-stretch-root-next-nanopineo2_5.35_arm64
+  linux-stretch-root-next-nanopineoplus2_5.37_arm64
   linux-stretch-root-next-nanopineoplus2_5.36_arm64
   linux-stretch-root-next-nanopineoplus2_5.35_arm64
+  linux-stretch-root-next-odroidc2_5.37_arm64
   linux-stretch-root-next-odroidc2_5.36_arm64
   linux-stretch-root-next-odroidc2_5.35_arm64
+  linux-stretch-root-next-odroidxu4_5.37_armhf
   linux-stretch-root-next-odroidxu4_5.36_armhf
   linux-stretch-root-next-odroidxu4_5.35_armhf
+  linux-stretch-root-next-orangepi-r1_5.37_armhf
   linux-stretch-root-next-orangepi-r1_5.36_armhf
   linux-stretch-root-next-orangepi-r1_5.35_armhf
+  linux-stretch-root-next-orangepi2_5.37_armhf
   linux-stretch-root-next-orangepi2_5.36_armhf
   linux-stretch-root-next-orangepi2_5.35_armhf
+  linux-stretch-root-next-orangepilite_5.37_armhf
   linux-stretch-root-next-orangepilite_5.36_armhf
   linux-stretch-root-next-orangepilite_5.35_armhf
+  linux-stretch-root-next-orangepione_5.37_armhf
   linux-stretch-root-next-orangepione_5.36_armhf
   linux-stretch-root-next-orangepione_5.35_armhf
+  linux-stretch-root-next-orangepipc_5.37_armhf
   linux-stretch-root-next-orangepipc_5.36_armhf
   linux-stretch-root-next-orangepipc_5.35_armhf
+  linux-stretch-root-next-orangepipc2_5.37_arm64
   linux-stretch-root-next-orangepipc2_5.36_arm64
   linux-stretch-root-next-orangepipc2_5.35_arm64
+  linux-stretch-root-next-orangepipcplus_5.37_armhf
   linux-stretch-root-next-orangepipcplus_5.36_armhf
   linux-stretch-root-next-orangepipcplus_5.35_armhf
+  linux-stretch-root-next-orangepiplus_5.37_armhf
   linux-stretch-root-next-orangepiplus_5.36_armhf
   linux-stretch-root-next-orangepiplus_5.35_armhf
+  linux-stretch-root-next-orangepiplus2e_5.37_armhf
   linux-stretch-root-next-orangepiplus2e_5.36_armhf
   linux-stretch-root-next-orangepiplus2e_5.35_armhf
+  linux-stretch-root-next-orangepiprime_5.37_arm64
   linux-stretch-root-next-orangepiprime_5.36_arm64
   linux-stretch-root-next-orangepiprime_5.35_arm64
+  linux-stretch-root-next-orangepiwin_5.37_arm64
   linux-stretch-root-next-orangepiwin_5.35_arm64
+  linux-stretch-root-next-orangepizero_5.37_armhf
   linux-stretch-root-next-orangepizero_5.36_armhf
   linux-stretch-root-next-orangepizero_5.35_armhf
+  linux-stretch-root-next-orangepizeroplus_5.37_arm64
   linux-stretch-root-next-orangepizeroplus_5.36_arm64
   linux-stretch-root-next-orangepizeroplus_5.35_arm64
+  linux-stretch-root-next-orangepizeroplus2-h3_5.37_armhf
   linux-stretch-root-next-orangepizeroplus2-h3_5.36_armhf
   linux-stretch-root-next-orangepizeroplus2-h3_5.35_armhf
+  linux-stretch-root-next-orangepizeroplus2-h5_5.37_arm64
   linux-stretch-root-next-orangepizeroplus2-h5_5.36_arm64
   linux-stretch-root-next-orangepizeroplus2-h5_5.35_arm64
+  linux-stretch-root-next-pcduino2_5.37_armhf
   linux-stretch-root-next-pcduino2_5.36_armhf
   linux-stretch-root-next-pcduino2_5.35_armhf
+  linux-stretch-root-next-pcduino3_5.37_armhf
   linux-stretch-root-next-pcduino3_5.36_armhf
   linux-stretch-root-next-pcduino3_5.35_armhf
+  linux-stretch-root-next-pcduino3nano_5.37_armhf
   linux-stretch-root-next-pcduino3nano_5.36_armhf
   linux-stretch-root-next-pcduino3nano_5.35_armhf
+  linux-stretch-root-next-pine64_5.37_arm64
   linux-stretch-root-next-pine64_5.36_arm64
   linux-stretch-root-next-pine64_5.35_arm64
+  linux-stretch-root-next-pine64so_5.37_arm64
   linux-stretch-root-next-pine64so_5.36_arm64
   linux-stretch-root-next-pine64so_5.35_arm64
+  linux-stretch-root-next-tinkerboard_5.37_armhf
   linux-stretch-root-next-tinkerboard_5.36_armhf
   linux-stretch-root-next-tinkerboard_5.35_armhf
+  linux-stretch-root-next-udoo_5.37_armhf
   linux-stretch-root-next-udoo_5.36_armhf
   linux-stretch-root-next-udoo_5.35_armhf
+  linux-stretch-root-odroidc2_5.37_arm64
   linux-stretch-root-odroidc2_5.36_arm64
   linux-stretch-root-odroidc2_5.35_arm64
   linux-stretch-root-rock64_5.35_arm64
+  linux-stretch-root-tinkerboard_5.37_armhf
   linux-stretch-root-tinkerboard_5.36_armhf
   linux-stretch-root-tinkerboard_5.35_armhf
+  linux-stretch-root-udoo_5.37_armhf
   linux-stretch-root-udoo_5.36_armhf
   linux-stretch-root-udoo_5.35_armhf
   linux-stretch-root-udoo-neo_5.36_armhf
@@ -4320,10 +4702,14 @@
 common utils
   a10disp_1.0-1~armbian5.35+1_armhf
   a10disp_1.0-1~armbian5.34.171017+1_armhf
+  hostapd_2:2.6-4~armbian5.37+1_arm64
+  hostapd_2:2.6-4~armbian5.37+1_armhf
   hostapd_2:2.6-4~armbian5.35+1_arm64
   hostapd_2:2.6-4~armbian5.35+1_armhf
   hostapd_2:2.6-4~armbian5.34.171017+1_arm64
   hostapd_2:2.6-4~armbian5.34.171017+1_armhf
+  hostapd-realtek_2:2.5-1~armbian5.37+1_arm64
+  hostapd-realtek_2:2.5-1~armbian5.37+1_armhf
   hostapd-realtek_2:2.5-1~armbian5.35+1_arm64
   hostapd-realtek_2:2.5-1~armbian5.35+1_armhf
   hostapd-realtek_2:2.5-1~armbian5.34.171017+1_arm64
