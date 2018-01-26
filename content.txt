@@ -7,14 +7,20 @@
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
   armbian-firmware-full_5.30_armhf
+  armbian-tools-jessie_5.38_arm64
+  armbian-tools-jessie_5.38_armhf
   armbian-tools-jessie_5.35_arm64
   armbian-tools-jessie_5.35_armhf
   armbian-tools-jessie_5.30_arm64
   armbian-tools-jessie_5.30_armhf
   armbian-tools-jessie_5.25_arm64
   armbian-tools-jessie_5.25_armhf
+  armbian-tools-stretch_5.38_arm64
+  armbian-tools-stretch_5.38_armhf
   armbian-tools-stretch_5.35_arm64
   armbian-tools-stretch_5.35_armhf
+  armbian-tools-xenial_5.38_arm64
+  armbian-tools-xenial_5.38_armhf
   armbian-tools-xenial_5.35_arm64
   armbian-tools-xenial_5.35_armhf
   armbian-tools-xenial_5.30_arm64
@@ -1709,14 +1715,20 @@
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
   armbian-firmware-full_5.30_armhf
+  armbian-tools-jessie_5.38_arm64
+  armbian-tools-jessie_5.38_armhf
   armbian-tools-jessie_5.35_arm64
   armbian-tools-jessie_5.35_armhf
   armbian-tools-jessie_5.30_arm64
   armbian-tools-jessie_5.30_armhf
   armbian-tools-jessie_5.25_arm64
   armbian-tools-jessie_5.25_armhf
+  armbian-tools-stretch_5.38_arm64
+  armbian-tools-stretch_5.38_armhf
   armbian-tools-stretch_5.35_arm64
   armbian-tools-stretch_5.35_armhf
+  armbian-tools-xenial_5.38_arm64
+  armbian-tools-xenial_5.38_armhf
   armbian-tools-xenial_5.35_arm64
   armbian-tools-xenial_5.35_armhf
   armbian-tools-xenial_5.30_arm64
@@ -3463,14 +3475,20 @@
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
   armbian-firmware-full_5.30_armhf
+  armbian-tools-jessie_5.38_arm64
+  armbian-tools-jessie_5.38_armhf
   armbian-tools-jessie_5.35_arm64
   armbian-tools-jessie_5.35_armhf
   armbian-tools-jessie_5.30_arm64
   armbian-tools-jessie_5.30_armhf
   armbian-tools-jessie_5.25_arm64
   armbian-tools-jessie_5.25_armhf
+  armbian-tools-stretch_5.38_arm64
+  armbian-tools-stretch_5.38_armhf
   armbian-tools-stretch_5.35_arm64
   armbian-tools-stretch_5.35_armhf
+  armbian-tools-xenial_5.38_arm64
+  armbian-tools-xenial_5.38_armhf
   armbian-tools-xenial_5.35_arm64
   armbian-tools-xenial_5.35_armhf
   armbian-tools-xenial_5.30_arm64
