@@ -1721,6 +1721,7 @@
   linux-u-boot-nanopineo2-next_5.35_arm64
   linux-u-boot-nanopineoplus2-dev_5.38_arm64
   linux-u-boot-nanopineoplus2-dev_5.35_arm64
+  linux-u-boot-nanopineoplus2-next_5.39_arm64
   linux-u-boot-nanopineoplus2-next_5.38_arm64
   linux-u-boot-nanopineoplus2-next_5.35_arm64
   linux-u-boot-odroidc1-default_5.38_armhf
@@ -3055,6 +3056,7 @@
   linux-u-boot-nanopineo2-next_5.35_arm64
   linux-u-boot-nanopineoplus2-dev_5.38_arm64
   linux-u-boot-nanopineoplus2-dev_5.35_arm64
+  linux-u-boot-nanopineoplus2-next_5.39_arm64
   linux-u-boot-nanopineoplus2-next_5.38_arm64
   linux-u-boot-nanopineoplus2-next_5.35_arm64
   linux-u-boot-odroidc1-default_5.38_armhf
@@ -5699,6 +5701,7 @@
   linux-u-boot-nanopineo2-next_5.35_arm64
   linux-u-boot-nanopineoplus2-dev_5.38_arm64
   linux-u-boot-nanopineoplus2-dev_5.35_arm64
+  linux-u-boot-nanopineoplus2-next_5.39_arm64
   linux-u-boot-nanopineoplus2-next_5.38_arm64
   linux-u-boot-nanopineoplus2-next_5.35_arm64
   linux-u-boot-odroidc1-default_5.38_armhf
