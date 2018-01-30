@@ -4,15 +4,15 @@
 
 Packages [full list](content.txt) | statistics:
 
-	 * [jessie-desktop]: Armbian jessie desktop (packages: 86)
-	 * [jessie-utils]: Armbian jessie utilities (packages: 24)
-	 * [jessie]: Armbian main repository (packages: 1622)
-	 * [stretch-desktop]: Armbian stretch desktop (packages: 2)
-	 * [stretch-utils]: Armbian stretch utilities (packages: 16)
-	 * [stretch]: Armbian main repository (packages: 1248)
-	 * [utils]: Armbian utilities (backwards compatibility) (packages: 24)
-	 * [xenial-desktop]: Armbian xenial desktop (packages: 66)
-	 * [xenial-utils]: Armbian xenial utilities (packages: 17)
-	 * [xenial]: Armbian main repository (packages: 1694)
+	 * [jessie-desktop]: Armbian jessie desktop (packages: 109)
+	 * [jessie-utils]: Armbian jessie utilities (packages: 34)
+	 * [jessie]: Armbian main repository (packages: 2053)
+	 * [stretch-desktop]: Armbian stretch desktop (packages: 3)
+	 * [stretch-utils]: Armbian stretch utilities (packages: 24)
+	 * [stretch]: Armbian main repository (packages: 1646)
+	 * [utils]: Armbian utilities (backwards compatibility) (packages: 34)
+	 * [xenial-desktop]: Armbian xenial desktop (packages: 84)
+	 * [xenial-utils]: Armbian xenial utilities (packages: 25)
+	 * [xenial]: Armbian main repository (packages: 2125)
 
 [www.armbian.com](https://www.armbian.com)
