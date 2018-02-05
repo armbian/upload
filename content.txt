@@ -1733,6 +1733,7 @@
   linux-u-boot-odroidc1-default_5.22_armhf
   linux-u-boot-odroidc1-default_5.20_armhf
   linux-u-boot-odroidc1-default_5.12_armhf
+  linux-u-boot-odroidc2-default_5.40_arm64
   linux-u-boot-odroidc2-default_5.38_arm64
   linux-u-boot-odroidc2-default_5.35_arm64
   linux-u-boot-odroidc2-default_5.31_arm64
@@ -3068,6 +3069,7 @@
   linux-u-boot-odroidc1-default_5.22_armhf
   linux-u-boot-odroidc1-default_5.20_armhf
   linux-u-boot-odroidc1-default_5.12_armhf
+  linux-u-boot-odroidc2-default_5.40_arm64
   linux-u-boot-odroidc2-default_5.38_arm64
   linux-u-boot-odroidc2-default_5.35_arm64
   linux-u-boot-odroidc2-default_5.31_arm64
@@ -5713,6 +5715,7 @@
   linux-u-boot-odroidc1-default_5.22_armhf
   linux-u-boot-odroidc1-default_5.20_armhf
   linux-u-boot-odroidc1-default_5.12_armhf
+  linux-u-boot-odroidc2-default_5.40_arm64
   linux-u-boot-odroidc2-default_5.38_arm64
   linux-u-boot-odroidc2-default_5.35_arm64
   linux-u-boot-odroidc2-default_5.31_arm64
