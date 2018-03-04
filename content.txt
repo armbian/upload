@@ -2089,6 +2089,8 @@
   linux-u-boot-udoo-next_5.23_armhf
   linux-u-boot-udoo-next_5.22_armhf
   linux-u-boot-udoo-next_5.20_armhf
+  numix-gtk-theme_2.6.7+670~201710270712~ubuntu17.10.1_all
+  numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
@@ -4361,6 +4363,8 @@
   linux-xenial-root-udoo-neo_5.23_armhf
   linux-xenial-root-udoo-neo_5.22_armhf
   linux-xenial-root-udoo-neo_5.20_armhf
+  numix-gtk-theme_2.6.7+670~201710270712~ubuntu17.10.1_all
+  numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
@@ -6131,6 +6135,8 @@
   linux-u-boot-udoo-next_5.23_armhf
   linux-u-boot-udoo-next_5.22_armhf
   linux-u-boot-udoo-next_5.20_armhf
+  numix-gtk-theme_2.6.7+670~201710270712~ubuntu17.10.1_all
+  numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
