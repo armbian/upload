@@ -171,6 +171,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rockchip_5.41_armhf
   linux-dtb-rockchip_5.38_armhf
   linux-dtb-rockchip_5.35_armhf
   linux-dtb-rockchip_5.32_armhf
@@ -308,6 +309,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rockchip_5.41_armhf
   linux-headers-rockchip_5.38_armhf
   linux-headers-rockchip_5.35_armhf
   linux-headers-rockchip_5.32_armhf
@@ -452,6 +454,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rockchip_5.41_armhf
   linux-image-rockchip_5.38_armhf
   linux-image-rockchip_5.35_armhf
   linux-image-rockchip_5.32_armhf
@@ -1387,6 +1390,7 @@
   linux-source-4.4.112-next-udoo_4.4.112-next-udoo+5.38_all
   linux-source-4.4.115-default-mvebu_4.4.115-default-mvebu+5.41_all
   linux-source-4.4.115-default-mvebu_4.4.115-default-mvebu+5.40_all
+  linux-source-4.4.120-default-rockchip_4.4.120-default-rockchip+5.41_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
   linux-source-4.9.71-dev-odroidxu4_4.9.71-dev-odroidxu4+5.38_all
@@ -2375,6 +2379,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rockchip_5.41_armhf
   linux-dtb-rockchip_5.38_armhf
   linux-dtb-rockchip_5.35_armhf
   linux-dtb-rockchip_5.32_armhf
@@ -2512,6 +2517,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rockchip_5.41_armhf
   linux-headers-rockchip_5.38_armhf
   linux-headers-rockchip_5.35_armhf
   linux-headers-rockchip_5.32_armhf
@@ -2656,6 +2662,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rockchip_5.41_armhf
   linux-image-rockchip_5.38_armhf
   linux-image-rockchip_5.35_armhf
   linux-image-rockchip_5.32_armhf
@@ -2767,6 +2774,7 @@
   linux-source-4.4.112-next-udoo_4.4.112-next-udoo+5.38_all
   linux-source-4.4.115-default-mvebu_4.4.115-default-mvebu+5.41_all
   linux-source-4.4.115-default-mvebu_4.4.115-default-mvebu+5.40_all
+  linux-source-4.4.120-default-rockchip_4.4.120-default-rockchip+5.41_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
   linux-source-4.9.71-dev-odroidxu4_4.9.71-dev-odroidxu4+5.38_all
@@ -4624,6 +4632,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rockchip_5.41_armhf
   linux-dtb-rockchip_5.38_armhf
   linux-dtb-rockchip_5.35_armhf
   linux-dtb-rockchip_5.32_armhf
@@ -4761,6 +4770,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rockchip_5.41_armhf
   linux-headers-rockchip_5.38_armhf
   linux-headers-rockchip_5.35_armhf
   linux-headers-rockchip_5.32_armhf
@@ -4905,6 +4915,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rockchip_5.41_armhf
   linux-image-rockchip_5.38_armhf
   linux-image-rockchip_5.35_armhf
   linux-image-rockchip_5.32_armhf
@@ -5016,6 +5027,7 @@
   linux-source-4.4.112-next-udoo_4.4.112-next-udoo+5.38_all
   linux-source-4.4.115-default-mvebu_4.4.115-default-mvebu+5.41_all
   linux-source-4.4.115-default-mvebu_4.4.115-default-mvebu+5.40_all
+  linux-source-4.4.120-default-rockchip_4.4.120-default-rockchip+5.41_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
   linux-source-4.9.71-dev-odroidxu4_4.9.71-dev-odroidxu4+5.38_all
