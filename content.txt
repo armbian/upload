@@ -107,6 +107,7 @@
   linux-dtb-next-odroidxu4_5.23_armhf
   linux-dtb-next-odroidxu4_5.22_armhf
   linux-dtb-next-odroidxu4_5.20_armhf
+  linux-dtb-next-rockchip_5.42_armhf
   linux-dtb-next-rockchip_5.38_armhf
   linux-dtb-next-rockchip_5.35_armhf
   linux-dtb-next-rockchip_5.32_armhf
@@ -265,6 +266,7 @@
   linux-headers-next-odroidxu4_5.38_armhf
   linux-headers-next-odroidxu4_5.35_armhf
   linux-headers-next-odroidxu4_5.31_armhf
+  linux-headers-next-rockchip_5.42_armhf
   linux-headers-next-rockchip_5.38_armhf
   linux-headers-next-rockchip_5.35_armhf
   linux-headers-next-rockchip_5.32_armhf
@@ -416,6 +418,7 @@
   linux-image-next-odroidxu4_5.31_armhf
   linux-image-next-odroidxu4_5.30_armhf
   linux-image-next-odroidxu4_5.26_armhf
+  linux-image-next-rockchip_5.42_armhf
   linux-image-next-rockchip_5.38_armhf
   linux-image-next-rockchip_5.35_armhf
   linux-image-next-rockchip_5.32_armhf
@@ -2323,6 +2326,7 @@
   linux-dtb-next-odroidxu4_5.23_armhf
   linux-dtb-next-odroidxu4_5.22_armhf
   linux-dtb-next-odroidxu4_5.20_armhf
+  linux-dtb-next-rockchip_5.42_armhf
   linux-dtb-next-rockchip_5.38_armhf
   linux-dtb-next-rockchip_5.35_armhf
   linux-dtb-next-rockchip_5.32_armhf
@@ -2481,6 +2485,7 @@
   linux-headers-next-odroidxu4_5.38_armhf
   linux-headers-next-odroidxu4_5.35_armhf
   linux-headers-next-odroidxu4_5.31_armhf
+  linux-headers-next-rockchip_5.42_armhf
   linux-headers-next-rockchip_5.38_armhf
   linux-headers-next-rockchip_5.35_armhf
   linux-headers-next-rockchip_5.32_armhf
@@ -2632,6 +2637,7 @@
   linux-image-next-odroidxu4_5.31_armhf
   linux-image-next-odroidxu4_5.30_armhf
   linux-image-next-odroidxu4_5.26_armhf
+  linux-image-next-rockchip_5.42_armhf
   linux-image-next-rockchip_5.38_armhf
   linux-image-next-rockchip_5.35_armhf
   linux-image-next-rockchip_5.32_armhf
@@ -4584,6 +4590,7 @@
   linux-dtb-next-odroidxu4_5.23_armhf
   linux-dtb-next-odroidxu4_5.22_armhf
   linux-dtb-next-odroidxu4_5.20_armhf
+  linux-dtb-next-rockchip_5.42_armhf
   linux-dtb-next-rockchip_5.38_armhf
   linux-dtb-next-rockchip_5.35_armhf
   linux-dtb-next-rockchip_5.32_armhf
@@ -4742,6 +4749,7 @@
   linux-headers-next-odroidxu4_5.38_armhf
   linux-headers-next-odroidxu4_5.35_armhf
   linux-headers-next-odroidxu4_5.31_armhf
+  linux-headers-next-rockchip_5.42_armhf
   linux-headers-next-rockchip_5.38_armhf
   linux-headers-next-rockchip_5.35_armhf
   linux-headers-next-rockchip_5.32_armhf
@@ -4893,6 +4901,7 @@
   linux-image-next-odroidxu4_5.31_armhf
   linux-image-next-odroidxu4_5.30_armhf
   linux-image-next-odroidxu4_5.26_armhf
+  linux-image-next-rockchip_5.42_armhf
   linux-image-next-rockchip_5.38_armhf
   linux-image-next-rockchip_5.35_armhf
   linux-image-next-rockchip_5.32_armhf
