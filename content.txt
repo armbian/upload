@@ -92,6 +92,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.43_arm64
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
@@ -257,6 +258,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.43_arm64
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
@@ -407,6 +409,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.43_arm64
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
@@ -2311,6 +2314,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.43_arm64
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
@@ -2476,6 +2480,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.43_arm64
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
@@ -2626,6 +2631,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.43_arm64
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
@@ -4575,6 +4581,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.43_arm64
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
@@ -4740,6 +4747,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.43_arm64
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
@@ -4890,6 +4898,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.43_arm64
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
