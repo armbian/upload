@@ -10,6 +10,7 @@
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
   armbian-firmware-full_5.30_armhf
+  armbian-jessie-desktop_5.44_all
   armbian-tools-bionic_5.44_arm64
   armbian-tools-jessie_5.44_arm64
   armbian-tools-jessie_5.38_arm64
@@ -84,6 +85,7 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
+  linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-cubox_5.38_armhf
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
@@ -254,6 +256,7 @@
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
+  linux-headers-next-cubox_5.44_armhf
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
@@ -403,6 +406,7 @@
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
+  linux-image-next-cubox_5.44_armhf
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
@@ -1589,6 +1593,7 @@
   linux-u-boot-cubox-i-default_5.20_armhf
   linux-u-boot-cubox-i-dev_5.38_armhf
   linux-u-boot-cubox-i-dev_5.35_armhf
+  linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
   linux-u-boot-cubox-i-next_5.31_armhf
@@ -2269,6 +2274,7 @@
   armbian-tools-xenial_5.25_armhf
   armbian-tools-xenial_5.22_arm64
   armbian-tools-xenial_5.22_armhf
+  armbian-xenial-desktop_5.44_all
   exagear-armbian_3006_arm64
   exagear-armbian_3006_armhf
   exagear-desktop_1_arm64
@@ -2317,6 +2323,7 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
+  linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-cubox_5.38_armhf
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
@@ -2487,6 +2494,7 @@
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
+  linux-headers-next-cubox_5.44_armhf
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
@@ -2636,6 +2644,7 @@
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
+  linux-image-next-cubox_5.44_armhf
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
@@ -2991,6 +3000,7 @@
   linux-u-boot-cubox-i-default_5.20_armhf
   linux-u-boot-cubox-i-dev_5.38_armhf
   linux-u-boot-cubox-i-dev_5.35_armhf
+  linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
   linux-u-boot-cubox-i-next_5.31_armhf
@@ -3980,6 +3990,7 @@
   linux-xenial-root-next-cubietruck_5.23_armhf
   linux-xenial-root-next-cubietruck_5.22_armhf
   linux-xenial-root-next-cubietruck_5.20_armhf
+  linux-xenial-root-next-cubox-i_5.44_armhf
   linux-xenial-root-next-cubox-i_5.38_armhf
   linux-xenial-root-next-cubox-i_5.37_armhf
   linux-xenial-root-next-cubox-i_5.36_armhf
@@ -4522,6 +4533,7 @@
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
   armbian-firmware-full_5.30_armhf
+  armbian-stretch-desktop_5.44_all
   armbian-tools-bionic_5.44_arm64
   armbian-tools-jessie_5.44_arm64
   armbian-tools-jessie_5.38_arm64
@@ -4596,6 +4608,7 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
+  linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-cubox_5.38_armhf
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
@@ -4766,6 +4779,7 @@
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
+  linux-headers-next-cubox_5.44_armhf
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
@@ -4915,6 +4929,7 @@
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
+  linux-image-next-cubox_5.44_armhf
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
@@ -5360,6 +5375,7 @@
   linux-stretch-root-next-cubietruck_5.37_armhf
   linux-stretch-root-next-cubietruck_5.36_armhf
   linux-stretch-root-next-cubietruck_5.35_armhf
+  linux-stretch-root-next-cubox-i_5.44_armhf
   linux-stretch-root-next-cubox-i_5.38_armhf
   linux-stretch-root-next-cubox-i_5.37_armhf
   linux-stretch-root-next-cubox-i_5.36_armhf
@@ -5705,6 +5721,7 @@
   linux-u-boot-cubox-i-default_5.20_armhf
   linux-u-boot-cubox-i-dev_5.38_armhf
   linux-u-boot-cubox-i-dev_5.35_armhf
+  linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
   linux-u-boot-cubox-i-next_5.31_armhf
@@ -6232,17 +6249,23 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.38+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
+  armbian-bionic-desktop_5.44_all
   armbian-tools-bionic_5.44_arm64
   armbian-tools-jessie_5.44_arm64
   armbian-tools-stretch_5.44_arm64
   armbian-tools-xenial_5.44_arm64
+  linux-bionic-root-next-cubox-i_5.44_armhf
   linux-bionic-root-next-espressobin_5.44_arm64
   linux-dtb-mvebu64_5.44_arm64
+  linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.44_arm64
+  linux-headers-next-cubox_5.44_armhf
   linux-headers-next-mvebu64_5.44_arm64
   linux-image-mvebu64_5.44_arm64
+  linux-image-next-cubox_5.44_armhf
   linux-image-next-mvebu64_5.44_arm64
+  linux-u-boot-cubox-i-next_5.44_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
 common utils
   a10disp_1.0-1~armbian5.38+1_armhf
