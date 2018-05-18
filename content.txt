@@ -1815,6 +1815,7 @@
   linux-u-boot-odroidc2-default_5.17_arm64
   linux-u-boot-odroidc2-dev_5.38_arm64
   linux-u-boot-odroidc2-dev_5.35_arm64
+  linux-u-boot-odroidc2-next_5.45_arm64
   linux-u-boot-odroidc2-next_5.38_arm64
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
@@ -3220,6 +3221,7 @@
   linux-u-boot-odroidc2-default_5.17_arm64
   linux-u-boot-odroidc2-dev_5.38_arm64
   linux-u-boot-odroidc2-dev_5.35_arm64
+  linux-u-boot-odroidc2-next_5.45_arm64
   linux-u-boot-odroidc2-next_5.38_arm64
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
@@ -5943,6 +5945,7 @@
   linux-u-boot-odroidc2-default_5.17_arm64
   linux-u-boot-odroidc2-dev_5.38_arm64
   linux-u-boot-odroidc2-dev_5.35_arm64
+  linux-u-boot-odroidc2-next_5.45_arm64
   linux-u-boot-odroidc2-next_5.38_arm64
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
@@ -6274,6 +6277,7 @@
   linux-image-next-cubox_5.44_armhf
   linux-image-next-mvebu64_5.44_arm64
   linux-u-boot-cubox-i-next_5.44_armhf
+  linux-u-boot-odroidc2-next_5.45_arm64
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
 common utils
   a10disp_1.0-1~armbian5.38+1_armhf
