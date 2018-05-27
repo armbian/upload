@@ -4,10 +4,12 @@
   armbian-config_5.38_all
   armbian-config_5.36_all
   armbian-config_5.35_all
+  armbian-firmware_5.45_all
   armbian-firmware_5.38_all
   armbian-firmware_5.35_all
   armbian-firmware_5.30_arm64
   armbian-firmware_5.30_armhf
+  armbian-firmware-full_5.45_all
   armbian-firmware-full_5.38_all
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
@@ -2245,10 +2247,12 @@
   armbian-config_5.38_all
   armbian-config_5.36_all
   armbian-config_5.35_all
+  armbian-firmware_5.45_all
   armbian-firmware_5.38_all
   armbian-firmware_5.35_all
   armbian-firmware_5.30_arm64
   armbian-firmware_5.30_armhf
+  armbian-firmware-full_5.45_all
   armbian-firmware-full_5.38_all
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
@@ -4533,10 +4537,12 @@
   armbian-config_5.38_all
   armbian-config_5.36_all
   armbian-config_5.35_all
+  armbian-firmware_5.45_all
   armbian-firmware_5.38_all
   armbian-firmware_5.35_all
   armbian-firmware_5.30_arm64
   armbian-firmware_5.30_armhf
+  armbian-firmware-full_5.45_all
   armbian-firmware-full_5.38_all
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
@@ -6261,6 +6267,8 @@
   armbian-bionic-desktop_5.44_all
   armbian-config_5.45_all
   armbian-config_5.44_all
+  armbian-firmware_5.45_all
+  armbian-firmware-full_5.45_all
   armbian-tools-bionic_5.44_arm64
   armbian-tools-jessie_5.44_arm64
   armbian-tools-stretch_5.44_arm64
