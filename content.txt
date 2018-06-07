@@ -137,6 +137,7 @@
   linux-dtb-next-sunxi_5.23_armhf
   linux-dtb-next-sunxi_5.22_armhf
   linux-dtb-next-sunxi_5.20_armhf
+  linux-dtb-next-sunxi64_5.46_arm64
   linux-dtb-next-sunxi64_5.41_arm64
   linux-dtb-next-sunxi64_5.38_arm64
   linux-dtb-next-sunxi64_5.35_arm64
@@ -296,6 +297,7 @@
   linux-headers-next-sunxi_5.31_armhf
   linux-headers-next-sunxi_5.30_armhf
   linux-headers-next-sunxi_5.26_armhf
+  linux-headers-next-sunxi64_5.46_arm64
   linux-headers-next-sunxi64_5.41_arm64
   linux-headers-next-sunxi64_5.38_arm64
   linux-headers-next-sunxi64_5.35_arm64
@@ -451,6 +453,7 @@
   linux-image-next-sunxi_5.32_armhf
   linux-image-next-sunxi_5.31_armhf
   linux-image-next-sunxi_5.30_armhf
+  linux-image-next-sunxi64_5.46_arm64
   linux-image-next-sunxi64_5.41_arm64
   linux-image-next-sunxi64_5.38_arm64
   linux-image-next-sunxi64_5.35_arm64
@@ -2380,6 +2383,7 @@
   linux-dtb-next-sunxi_5.23_armhf
   linux-dtb-next-sunxi_5.22_armhf
   linux-dtb-next-sunxi_5.20_armhf
+  linux-dtb-next-sunxi64_5.46_arm64
   linux-dtb-next-sunxi64_5.41_arm64
   linux-dtb-next-sunxi64_5.38_arm64
   linux-dtb-next-sunxi64_5.35_arm64
@@ -2539,6 +2543,7 @@
   linux-headers-next-sunxi_5.31_armhf
   linux-headers-next-sunxi_5.30_armhf
   linux-headers-next-sunxi_5.26_armhf
+  linux-headers-next-sunxi64_5.46_arm64
   linux-headers-next-sunxi64_5.41_arm64
   linux-headers-next-sunxi64_5.38_arm64
   linux-headers-next-sunxi64_5.35_arm64
@@ -2694,6 +2699,7 @@
   linux-image-next-sunxi_5.32_armhf
   linux-image-next-sunxi_5.31_armhf
   linux-image-next-sunxi_5.30_armhf
+  linux-image-next-sunxi64_5.46_arm64
   linux-image-next-sunxi64_5.41_arm64
   linux-image-next-sunxi64_5.38_arm64
   linux-image-next-sunxi64_5.35_arm64
@@ -4670,6 +4676,7 @@
   linux-dtb-next-sunxi_5.23_armhf
   linux-dtb-next-sunxi_5.22_armhf
   linux-dtb-next-sunxi_5.20_armhf
+  linux-dtb-next-sunxi64_5.46_arm64
   linux-dtb-next-sunxi64_5.41_arm64
   linux-dtb-next-sunxi64_5.38_arm64
   linux-dtb-next-sunxi64_5.35_arm64
@@ -4829,6 +4836,7 @@
   linux-headers-next-sunxi_5.31_armhf
   linux-headers-next-sunxi_5.30_armhf
   linux-headers-next-sunxi_5.26_armhf
+  linux-headers-next-sunxi64_5.46_arm64
   linux-headers-next-sunxi64_5.41_arm64
   linux-headers-next-sunxi64_5.38_arm64
   linux-headers-next-sunxi64_5.35_arm64
@@ -4984,6 +4992,7 @@
   linux-image-next-sunxi_5.32_armhf
   linux-image-next-sunxi_5.31_armhf
   linux-image-next-sunxi_5.30_armhf
+  linux-image-next-sunxi64_5.46_arm64
   linux-image-next-sunxi64_5.41_arm64
   linux-image-next-sunxi64_5.38_arm64
   linux-image-next-sunxi64_5.35_arm64
@@ -6278,12 +6287,15 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-mvebu64_5.44_arm64
+  linux-dtb-next-sunxi64_5.46_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-mvebu64_5.44_arm64
+  linux-headers-next-sunxi64_5.46_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-next-cubox_5.44_armhf
   linux-image-next-mvebu64_5.44_arm64
+  linux-image-next-sunxi64_5.46_arm64
   linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-odroidc2-next_5.45_arm64
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
