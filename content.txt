@@ -61,9 +61,11 @@
   linux-dtb-dev-meson64_5.35_arm64
   linux-dtb-dev-mvebu_5.38_armhf
   linux-dtb-dev-mvebu_5.35_armhf
+  linux-dtb-dev-mvebu64_5.50_arm64
   linux-dtb-dev-mvebu64_5.41_arm64
   linux-dtb-dev-mvebu64_5.38_arm64
   linux-dtb-dev-mvebu64_5.35_arm64
+  linux-dtb-dev-odroidc2_5.50_arm64
   linux-dtb-dev-odroidc2_5.49_arm64
   linux-dtb-dev-odroidc2_5.38_arm64
   linux-dtb-dev-odroidc2_5.35_arm64
@@ -91,6 +93,7 @@
   linux-dtb-mvebu_5.35_armhf
   linux-dtb-mvebu_5.32_armhf
   linux-dtb-mvebu_5.31_armhf
+  linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
@@ -109,11 +112,13 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
   linux-dtb-next-mvebu64_5.43_arm64
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
+  linux-dtb-next-odroidc2_5.50_arm64
   linux-dtb-next-odroidc2_5.49_arm64
   linux-dtb-next-odroidc2_5.38_arm64
   linux-dtb-next-odroidc2_5.35_arm64
@@ -240,9 +245,11 @@
   linux-headers-dev-meson64_5.35_arm64
   linux-headers-dev-mvebu_5.38_armhf
   linux-headers-dev-mvebu_5.35_armhf
+  linux-headers-dev-mvebu64_5.50_arm64
   linux-headers-dev-mvebu64_5.41_arm64
   linux-headers-dev-mvebu64_5.38_arm64
   linux-headers-dev-mvebu64_5.35_arm64
+  linux-headers-dev-odroidc2_5.50_arm64
   linux-headers-dev-odroidc2_5.49_arm64
   linux-headers-dev-odroidc2_5.38_arm64
   linux-headers-dev-odroidc2_5.35_arm64
@@ -269,6 +276,7 @@
   linux-headers-mvebu_5.38_armhf
   linux-headers-mvebu_5.35_armhf
   linux-headers-mvebu_5.32_armhf
+  linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
@@ -285,11 +293,13 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
   linux-headers-next-mvebu64_5.43_arm64
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
+  linux-headers-next-odroidc2_5.50_arm64
   linux-headers-next-odroidc2_5.49_arm64
   linux-headers-next-odroidc2_5.38_arm64
   linux-headers-next-odroidc2_5.35_arm64
@@ -396,9 +406,11 @@
   linux-image-dev-meson64_5.35_arm64
   linux-image-dev-mvebu_5.38_armhf
   linux-image-dev-mvebu_5.35_armhf
+  linux-image-dev-mvebu64_5.50_arm64
   linux-image-dev-mvebu64_5.41_arm64
   linux-image-dev-mvebu64_5.38_arm64
   linux-image-dev-mvebu64_5.35_arm64
+  linux-image-dev-odroidc2_5.50_arm64
   linux-image-dev-odroidc2_5.49_arm64
   linux-image-dev-odroidc2_5.38_arm64
   linux-image-dev-odroidc2_5.35_arm64
@@ -426,6 +438,7 @@
   linux-image-mvebu_5.35_armhf
   linux-image-mvebu_5.32_armhf
   linux-image-mvebu_5.31_armhf
+  linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
@@ -446,11 +459,13 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
   linux-image-next-mvebu64_5.43_arm64
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
+  linux-image-next-odroidc2_5.50_arm64
   linux-image-next-odroidc2_5.49_arm64
   linux-image-next-odroidc2_5.38_arm64
   linux-image-next-odroidc2_5.35_arm64
@@ -2336,9 +2351,11 @@
   linux-dtb-dev-meson64_5.35_arm64
   linux-dtb-dev-mvebu_5.38_armhf
   linux-dtb-dev-mvebu_5.35_armhf
+  linux-dtb-dev-mvebu64_5.50_arm64
   linux-dtb-dev-mvebu64_5.41_arm64
   linux-dtb-dev-mvebu64_5.38_arm64
   linux-dtb-dev-mvebu64_5.35_arm64
+  linux-dtb-dev-odroidc2_5.50_arm64
   linux-dtb-dev-odroidc2_5.49_arm64
   linux-dtb-dev-odroidc2_5.38_arm64
   linux-dtb-dev-odroidc2_5.35_arm64
@@ -2366,6 +2383,7 @@
   linux-dtb-mvebu_5.35_armhf
   linux-dtb-mvebu_5.32_armhf
   linux-dtb-mvebu_5.31_armhf
+  linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
@@ -2384,11 +2402,13 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
   linux-dtb-next-mvebu64_5.43_arm64
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
+  linux-dtb-next-odroidc2_5.50_arm64
   linux-dtb-next-odroidc2_5.49_arm64
   linux-dtb-next-odroidc2_5.38_arm64
   linux-dtb-next-odroidc2_5.35_arm64
@@ -2515,9 +2535,11 @@
   linux-headers-dev-meson64_5.35_arm64
   linux-headers-dev-mvebu_5.38_armhf
   linux-headers-dev-mvebu_5.35_armhf
+  linux-headers-dev-mvebu64_5.50_arm64
   linux-headers-dev-mvebu64_5.41_arm64
   linux-headers-dev-mvebu64_5.38_arm64
   linux-headers-dev-mvebu64_5.35_arm64
+  linux-headers-dev-odroidc2_5.50_arm64
   linux-headers-dev-odroidc2_5.49_arm64
   linux-headers-dev-odroidc2_5.38_arm64
   linux-headers-dev-odroidc2_5.35_arm64
@@ -2544,6 +2566,7 @@
   linux-headers-mvebu_5.38_armhf
   linux-headers-mvebu_5.35_armhf
   linux-headers-mvebu_5.32_armhf
+  linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
@@ -2560,11 +2583,13 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
   linux-headers-next-mvebu64_5.43_arm64
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
+  linux-headers-next-odroidc2_5.50_arm64
   linux-headers-next-odroidc2_5.49_arm64
   linux-headers-next-odroidc2_5.38_arm64
   linux-headers-next-odroidc2_5.35_arm64
@@ -2671,9 +2696,11 @@
   linux-image-dev-meson64_5.35_arm64
   linux-image-dev-mvebu_5.38_armhf
   linux-image-dev-mvebu_5.35_armhf
+  linux-image-dev-mvebu64_5.50_arm64
   linux-image-dev-mvebu64_5.41_arm64
   linux-image-dev-mvebu64_5.38_arm64
   linux-image-dev-mvebu64_5.35_arm64
+  linux-image-dev-odroidc2_5.50_arm64
   linux-image-dev-odroidc2_5.49_arm64
   linux-image-dev-odroidc2_5.38_arm64
   linux-image-dev-odroidc2_5.35_arm64
@@ -2701,6 +2728,7 @@
   linux-image-mvebu_5.35_armhf
   linux-image-mvebu_5.32_armhf
   linux-image-mvebu_5.31_armhf
+  linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
@@ -2721,11 +2749,13 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
   linux-image-next-mvebu64_5.43_arm64
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
+  linux-image-next-odroidc2_5.50_arm64
   linux-image-next-odroidc2_5.49_arm64
   linux-image-next-odroidc2_5.38_arm64
   linux-image-next-odroidc2_5.35_arm64
@@ -4658,9 +4688,11 @@
   linux-dtb-dev-meson64_5.35_arm64
   linux-dtb-dev-mvebu_5.38_armhf
   linux-dtb-dev-mvebu_5.35_armhf
+  linux-dtb-dev-mvebu64_5.50_arm64
   linux-dtb-dev-mvebu64_5.41_arm64
   linux-dtb-dev-mvebu64_5.38_arm64
   linux-dtb-dev-mvebu64_5.35_arm64
+  linux-dtb-dev-odroidc2_5.50_arm64
   linux-dtb-dev-odroidc2_5.49_arm64
   linux-dtb-dev-odroidc2_5.38_arm64
   linux-dtb-dev-odroidc2_5.35_arm64
@@ -4688,6 +4720,7 @@
   linux-dtb-mvebu_5.35_armhf
   linux-dtb-mvebu_5.32_armhf
   linux-dtb-mvebu_5.31_armhf
+  linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
@@ -4706,11 +4739,13 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
   linux-dtb-next-mvebu64_5.43_arm64
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
+  linux-dtb-next-odroidc2_5.50_arm64
   linux-dtb-next-odroidc2_5.49_arm64
   linux-dtb-next-odroidc2_5.38_arm64
   linux-dtb-next-odroidc2_5.35_arm64
@@ -4837,9 +4872,11 @@
   linux-headers-dev-meson64_5.35_arm64
   linux-headers-dev-mvebu_5.38_armhf
   linux-headers-dev-mvebu_5.35_armhf
+  linux-headers-dev-mvebu64_5.50_arm64
   linux-headers-dev-mvebu64_5.41_arm64
   linux-headers-dev-mvebu64_5.38_arm64
   linux-headers-dev-mvebu64_5.35_arm64
+  linux-headers-dev-odroidc2_5.50_arm64
   linux-headers-dev-odroidc2_5.49_arm64
   linux-headers-dev-odroidc2_5.38_arm64
   linux-headers-dev-odroidc2_5.35_arm64
@@ -4866,6 +4903,7 @@
   linux-headers-mvebu_5.38_armhf
   linux-headers-mvebu_5.35_armhf
   linux-headers-mvebu_5.32_armhf
+  linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
@@ -4882,11 +4920,13 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
   linux-headers-next-mvebu64_5.43_arm64
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
+  linux-headers-next-odroidc2_5.50_arm64
   linux-headers-next-odroidc2_5.49_arm64
   linux-headers-next-odroidc2_5.38_arm64
   linux-headers-next-odroidc2_5.35_arm64
@@ -4993,9 +5033,11 @@
   linux-image-dev-meson64_5.35_arm64
   linux-image-dev-mvebu_5.38_armhf
   linux-image-dev-mvebu_5.35_armhf
+  linux-image-dev-mvebu64_5.50_arm64
   linux-image-dev-mvebu64_5.41_arm64
   linux-image-dev-mvebu64_5.38_arm64
   linux-image-dev-mvebu64_5.35_arm64
+  linux-image-dev-odroidc2_5.50_arm64
   linux-image-dev-odroidc2_5.49_arm64
   linux-image-dev-odroidc2_5.38_arm64
   linux-image-dev-odroidc2_5.35_arm64
@@ -5023,6 +5065,7 @@
   linux-image-mvebu_5.35_armhf
   linux-image-mvebu_5.32_armhf
   linux-image-mvebu_5.31_armhf
+  linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
@@ -5043,11 +5086,13 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
   linux-image-next-mvebu64_5.43_arm64
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
+  linux-image-next-odroidc2_5.50_arm64
   linux-image-next-odroidc2_5.49_arm64
   linux-image-next-odroidc2_5.38_arm64
   linux-image-next-odroidc2_5.35_arm64
@@ -6374,32 +6419,47 @@
   linux-bionic-root-next-cubox-i_5.44_armhf
   linux-bionic-root-next-espressobin_5.44_arm64
   linux-dtb-dev-meson64_5.49_arm64
+  linux-dtb-dev-mvebu64_5.50_arm64
+  linux-dtb-dev-odroidc2_5.50_arm64
   linux-dtb-dev-odroidc2_5.49_arm64
   linux-dtb-meson64_5.49_arm64
+  linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-meson64_5.49_arm64
+  linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
+  linux-dtb-next-odroidc2_5.50_arm64
   linux-dtb-next-odroidc2_5.49_arm64
   linux-dtb-next-sunxi64_5.46_arm64
   linux-dtb-odroidc2_5.49_arm64
   linux-headers-dev-meson64_5.49_arm64
+  linux-headers-dev-mvebu64_5.50_arm64
+  linux-headers-dev-odroidc2_5.50_arm64
   linux-headers-dev-odroidc2_5.49_arm64
   linux-headers-meson64_5.49_arm64
+  linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-meson64_5.49_arm64
+  linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
+  linux-headers-next-odroidc2_5.50_arm64
   linux-headers-next-odroidc2_5.49_arm64
   linux-headers-next-sunxi64_5.46_arm64
   linux-headers-odroidc2_5.49_arm64
   linux-image-dev-meson64_5.49_arm64
+  linux-image-dev-mvebu64_5.50_arm64
+  linux-image-dev-odroidc2_5.50_arm64
   linux-image-dev-odroidc2_5.49_arm64
   linux-image-meson64_5.49_arm64
+  linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-next-cubox_5.44_armhf
   linux-image-next-meson64_5.49_arm64
+  linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
+  linux-image-next-odroidc2_5.50_arm64
   linux-image-next-odroidc2_5.49_arm64
   linux-image-next-sunxi64_5.46_arm64
   linux-image-odroidc2_5.49_arm64
