@@ -1,4 +1,5 @@
 
+  armbian-config_5.54_all
   armbian-config_5.49_all
   armbian-config_5.45_all
   armbian-config_5.44_all
@@ -54,6 +55,7 @@
   linux-dtb-cubox_5.35_armhf
   linux-dtb-cubox_5.32_armhf
   linux-dtb-cubox_5.31_armhf
+  linux-dtb-dev-cubox_5.54_armhf
   linux-dtb-dev-cubox_5.38_armhf
   linux-dtb-dev-cubox_5.35_armhf
   linux-dtb-dev-meson64_5.49_arm64
@@ -97,6 +99,7 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
+  linux-dtb-next-cubox_5.54_armhf
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-cubox_5.38_armhf
   linux-dtb-next-cubox_5.35_armhf
@@ -241,6 +244,7 @@
   linux-headers-cubox_5.26_armhf
   linux-headers-cubox_5.25_armhf
   linux-headers-cubox_5.23_armhf
+  linux-headers-dev-cubox_5.54_armhf
   linux-headers-dev-cubox_5.38_armhf
   linux-headers-dev-cubox_5.35_armhf
   linux-headers-dev-meson64_5.49_arm64
@@ -283,6 +287,7 @@
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
+  linux-headers-next-cubox_5.54_armhf
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
@@ -405,6 +410,7 @@
   linux-image-cubox_5.32_armhf
   linux-image-cubox_5.31_armhf
   linux-image-cubox_5.30_armhf
+  linux-image-dev-cubox_5.54_armhf
   linux-image-dev-cubox_5.38_armhf
   linux-image-dev-cubox_5.35_armhf
   linux-image-dev-meson64_5.49_arm64
@@ -448,6 +454,7 @@
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
+  linux-image-next-cubox_5.54_armhf
   linux-image-next-cubox_5.44_armhf
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
@@ -1642,8 +1649,10 @@
   linux-u-boot-cubox-i-default_5.23_armhf
   linux-u-boot-cubox-i-default_5.22_armhf
   linux-u-boot-cubox-i-default_5.20_armhf
+  linux-u-boot-cubox-i-dev_5.54_armhf
   linux-u-boot-cubox-i-dev_5.38_armhf
   linux-u-boot-cubox-i-dev_5.35_armhf
+  linux-u-boot-cubox-i-next_5.54_armhf
   linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
@@ -2300,6 +2309,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.54_all
   armbian-config_5.49_all
   armbian-config_5.45_all
   armbian-config_5.44_all
@@ -2355,6 +2365,7 @@
   linux-dtb-cubox_5.35_armhf
   linux-dtb-cubox_5.32_armhf
   linux-dtb-cubox_5.31_armhf
+  linux-dtb-dev-cubox_5.54_armhf
   linux-dtb-dev-cubox_5.38_armhf
   linux-dtb-dev-cubox_5.35_armhf
   linux-dtb-dev-meson64_5.49_arm64
@@ -2398,6 +2409,7 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
+  linux-dtb-next-cubox_5.54_armhf
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-cubox_5.38_armhf
   linux-dtb-next-cubox_5.35_armhf
@@ -2542,6 +2554,7 @@
   linux-headers-cubox_5.26_armhf
   linux-headers-cubox_5.25_armhf
   linux-headers-cubox_5.23_armhf
+  linux-headers-dev-cubox_5.54_armhf
   linux-headers-dev-cubox_5.38_armhf
   linux-headers-dev-cubox_5.35_armhf
   linux-headers-dev-meson64_5.49_arm64
@@ -2584,6 +2597,7 @@
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
+  linux-headers-next-cubox_5.54_armhf
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
@@ -2706,6 +2720,7 @@
   linux-image-cubox_5.32_armhf
   linux-image-cubox_5.31_armhf
   linux-image-cubox_5.30_armhf
+  linux-image-dev-cubox_5.54_armhf
   linux-image-dev-cubox_5.38_armhf
   linux-image-dev-cubox_5.35_armhf
   linux-image-dev-meson64_5.49_arm64
@@ -2749,6 +2764,7 @@
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
+  linux-image-next-cubox_5.54_armhf
   linux-image-next-cubox_5.44_armhf
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
@@ -3112,8 +3128,10 @@
   linux-u-boot-cubox-i-default_5.23_armhf
   linux-u-boot-cubox-i-default_5.22_armhf
   linux-u-boot-cubox-i-default_5.20_armhf
+  linux-u-boot-cubox-i-dev_5.54_armhf
   linux-u-boot-cubox-i-dev_5.38_armhf
   linux-u-boot-cubox-i-dev_5.35_armhf
+  linux-u-boot-cubox-i-next_5.54_armhf
   linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
@@ -4648,6 +4666,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.54_all
   armbian-config_5.49_all
   armbian-config_5.45_all
   armbian-config_5.44_all
@@ -4703,6 +4722,7 @@
   linux-dtb-cubox_5.35_armhf
   linux-dtb-cubox_5.32_armhf
   linux-dtb-cubox_5.31_armhf
+  linux-dtb-dev-cubox_5.54_armhf
   linux-dtb-dev-cubox_5.38_armhf
   linux-dtb-dev-cubox_5.35_armhf
   linux-dtb-dev-meson64_5.49_arm64
@@ -4746,6 +4766,7 @@
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
   linux-dtb-mvebu64_5.35_arm64
+  linux-dtb-next-cubox_5.54_armhf
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-cubox_5.38_armhf
   linux-dtb-next-cubox_5.35_armhf
@@ -4890,6 +4911,7 @@
   linux-headers-cubox_5.26_armhf
   linux-headers-cubox_5.25_armhf
   linux-headers-cubox_5.23_armhf
+  linux-headers-dev-cubox_5.54_armhf
   linux-headers-dev-cubox_5.38_armhf
   linux-headers-dev-cubox_5.35_armhf
   linux-headers-dev-meson64_5.49_arm64
@@ -4932,6 +4954,7 @@
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
   linux-headers-mvebu64_5.35_arm64
+  linux-headers-next-cubox_5.54_armhf
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
@@ -5054,6 +5077,7 @@
   linux-image-cubox_5.32_armhf
   linux-image-cubox_5.31_armhf
   linux-image-cubox_5.30_armhf
+  linux-image-dev-cubox_5.54_armhf
   linux-image-dev-cubox_5.38_armhf
   linux-image-dev-cubox_5.35_armhf
   linux-image-dev-meson64_5.49_arm64
@@ -5097,6 +5121,7 @@
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
   linux-image-mvebu64_5.35_arm64
+  linux-image-next-cubox_5.54_armhf
   linux-image-next-cubox_5.44_armhf
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
@@ -5896,8 +5921,10 @@
   linux-u-boot-cubox-i-default_5.23_armhf
   linux-u-boot-cubox-i-default_5.22_armhf
   linux-u-boot-cubox-i-default_5.20_armhf
+  linux-u-boot-cubox-i-dev_5.54_armhf
   linux-u-boot-cubox-i-dev_5.38_armhf
   linux-u-boot-cubox-i-dev_5.35_armhf
+  linux-u-boot-cubox-i-next_5.54_armhf
   linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
@@ -6440,6 +6467,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.54_all
   armbian-config_5.49_all
   armbian-config_5.45_all
   armbian-config_5.44_all
@@ -6451,6 +6479,7 @@
   armbian-tools-xenial_5.44_arm64
   linux-bionic-root-next-cubox-i_5.44_armhf
   linux-bionic-root-next-espressobin_5.44_arm64
+  linux-dtb-dev-cubox_5.54_armhf
   linux-dtb-dev-meson64_5.49_arm64
   linux-dtb-dev-mvebu64_5.50_arm64
   linux-dtb-dev-odroidc2_5.50_arm64
@@ -6458,6 +6487,7 @@
   linux-dtb-meson64_5.49_arm64
   linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
+  linux-dtb-next-cubox_5.54_armhf
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-meson64_5.49_arm64
   linux-dtb-next-mvebu64_5.51_arm64
@@ -6469,6 +6499,7 @@
   linux-dtb-next-sunxi64_5.46_arm64
   linux-dtb-odroidc2_5.54_arm64
   linux-dtb-odroidc2_5.49_arm64
+  linux-headers-dev-cubox_5.54_armhf
   linux-headers-dev-meson64_5.49_arm64
   linux-headers-dev-mvebu64_5.50_arm64
   linux-headers-dev-odroidc2_5.50_arm64
@@ -6476,6 +6507,7 @@
   linux-headers-meson64_5.49_arm64
   linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
+  linux-headers-next-cubox_5.54_armhf
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-meson64_5.49_arm64
   linux-headers-next-mvebu64_5.51_arm64
@@ -6487,6 +6519,7 @@
   linux-headers-next-sunxi64_5.46_arm64
   linux-headers-odroidc2_5.54_arm64
   linux-headers-odroidc2_5.49_arm64
+  linux-image-dev-cubox_5.54_armhf
   linux-image-dev-meson64_5.49_arm64
   linux-image-dev-mvebu64_5.50_arm64
   linux-image-dev-odroidc2_5.50_arm64
@@ -6494,6 +6527,7 @@
   linux-image-meson64_5.49_arm64
   linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
+  linux-image-next-cubox_5.54_armhf
   linux-image-next-cubox_5.44_armhf
   linux-image-next-meson64_5.49_arm64
   linux-image-next-mvebu64_5.51_arm64
@@ -6505,6 +6539,8 @@
   linux-image-next-sunxi64_5.46_arm64
   linux-image-odroidc2_5.54_arm64
   linux-image-odroidc2_5.49_arm64
+  linux-u-boot-cubox-i-dev_5.54_armhf
+  linux-u-boot-cubox-i-next_5.54_armhf
   linux-u-boot-cubox-i-next_5.44_armhf
   linux-u-boot-lepotato-default_5.49_arm64
   linux-u-boot-lepotato-dev_5.49_arm64
