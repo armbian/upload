@@ -95,6 +95,7 @@
   linux-dtb-mvebu_5.35_armhf
   linux-dtb-mvebu_5.32_armhf
   linux-dtb-mvebu_5.31_armhf
+  linux-dtb-mvebu64_5.54_arm64
   linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
@@ -115,6 +116,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
   linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
@@ -283,6 +285,7 @@
   linux-headers-mvebu_5.38_armhf
   linux-headers-mvebu_5.35_armhf
   linux-headers-mvebu_5.32_armhf
+  linux-headers-mvebu64_5.54_arm64
   linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
@@ -301,6 +304,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
   linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
@@ -450,6 +454,7 @@
   linux-image-mvebu_5.35_armhf
   linux-image-mvebu_5.32_armhf
   linux-image-mvebu_5.31_armhf
+  linux-image-mvebu64_5.54_arm64
   linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
@@ -472,6 +477,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
   linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
@@ -1657,10 +1663,12 @@
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
   linux-u-boot-cubox-i-next_5.31_armhf
+  linux-u-boot-espressobin-default_5.54_arm64
   linux-u-boot-espressobin-default_5.38_arm64
   linux-u-boot-espressobin-default_5.35_arm64
   linux-u-boot-espressobin-dev_5.38_arm64
   linux-u-boot-espressobin-dev_5.35_arm64
+  linux-u-boot-espressobin-next_5.54_arm64
   linux-u-boot-espressobin-next_5.38_arm64
   linux-u-boot-espressobin-next_5.35_arm64
   linux-u-boot-guitar-default_5.25_armhf
@@ -2405,6 +2413,7 @@
   linux-dtb-mvebu_5.35_armhf
   linux-dtb-mvebu_5.32_armhf
   linux-dtb-mvebu_5.31_armhf
+  linux-dtb-mvebu64_5.54_arm64
   linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
@@ -2425,6 +2434,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
   linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
@@ -2593,6 +2603,7 @@
   linux-headers-mvebu_5.38_armhf
   linux-headers-mvebu_5.35_armhf
   linux-headers-mvebu_5.32_armhf
+  linux-headers-mvebu64_5.54_arm64
   linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
@@ -2611,6 +2622,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
   linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
@@ -2760,6 +2772,7 @@
   linux-image-mvebu_5.35_armhf
   linux-image-mvebu_5.32_armhf
   linux-image-mvebu_5.31_armhf
+  linux-image-mvebu64_5.54_arm64
   linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
@@ -2782,6 +2795,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
   linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
@@ -3136,10 +3150,12 @@
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
   linux-u-boot-cubox-i-next_5.31_armhf
+  linux-u-boot-espressobin-default_5.54_arm64
   linux-u-boot-espressobin-default_5.38_arm64
   linux-u-boot-espressobin-default_5.35_arm64
   linux-u-boot-espressobin-dev_5.38_arm64
   linux-u-boot-espressobin-dev_5.35_arm64
+  linux-u-boot-espressobin-next_5.54_arm64
   linux-u-boot-espressobin-next_5.38_arm64
   linux-u-boot-espressobin-next_5.35_arm64
   linux-u-boot-guitar-default_5.25_armhf
@@ -4762,6 +4778,7 @@
   linux-dtb-mvebu_5.35_armhf
   linux-dtb-mvebu_5.32_armhf
   linux-dtb-mvebu_5.31_armhf
+  linux-dtb-mvebu64_5.54_arm64
   linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-mvebu64_5.38_arm64
@@ -4782,6 +4799,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
   linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
@@ -4950,6 +4968,7 @@
   linux-headers-mvebu_5.38_armhf
   linux-headers-mvebu_5.35_armhf
   linux-headers-mvebu_5.32_armhf
+  linux-headers-mvebu64_5.54_arm64
   linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-mvebu64_5.38_arm64
@@ -4968,6 +4987,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
   linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
@@ -5117,6 +5137,7 @@
   linux-image-mvebu_5.35_armhf
   linux-image-mvebu_5.32_armhf
   linux-image-mvebu_5.31_armhf
+  linux-image-mvebu64_5.54_arm64
   linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-mvebu64_5.38_arm64
@@ -5139,6 +5160,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
   linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
@@ -5929,10 +5951,12 @@
   linux-u-boot-cubox-i-next_5.38_armhf
   linux-u-boot-cubox-i-next_5.35_armhf
   linux-u-boot-cubox-i-next_5.31_armhf
+  linux-u-boot-espressobin-default_5.54_arm64
   linux-u-boot-espressobin-default_5.38_arm64
   linux-u-boot-espressobin-default_5.35_arm64
   linux-u-boot-espressobin-dev_5.38_arm64
   linux-u-boot-espressobin-dev_5.35_arm64
+  linux-u-boot-espressobin-next_5.54_arm64
   linux-u-boot-espressobin-next_5.38_arm64
   linux-u-boot-espressobin-next_5.35_arm64
   linux-u-boot-guitar-default_5.25_armhf
@@ -6485,11 +6509,13 @@
   linux-dtb-dev-odroidc2_5.50_arm64
   linux-dtb-dev-odroidc2_5.49_arm64
   linux-dtb-meson64_5.49_arm64
+  linux-dtb-mvebu64_5.54_arm64
   linux-dtb-mvebu64_5.50_arm64
   linux-dtb-mvebu64_5.44_arm64
   linux-dtb-next-cubox_5.54_armhf
   linux-dtb-next-cubox_5.44_armhf
   linux-dtb-next-meson64_5.49_arm64
+  linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
   linux-dtb-next-mvebu64_5.50_arm64
   linux-dtb-next-mvebu64_5.44_arm64
@@ -6505,11 +6531,13 @@
   linux-headers-dev-odroidc2_5.50_arm64
   linux-headers-dev-odroidc2_5.49_arm64
   linux-headers-meson64_5.49_arm64
+  linux-headers-mvebu64_5.54_arm64
   linux-headers-mvebu64_5.50_arm64
   linux-headers-mvebu64_5.44_arm64
   linux-headers-next-cubox_5.54_armhf
   linux-headers-next-cubox_5.44_armhf
   linux-headers-next-meson64_5.49_arm64
+  linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
   linux-headers-next-mvebu64_5.50_arm64
   linux-headers-next-mvebu64_5.44_arm64
@@ -6525,11 +6553,13 @@
   linux-image-dev-odroidc2_5.50_arm64
   linux-image-dev-odroidc2_5.49_arm64
   linux-image-meson64_5.49_arm64
+  linux-image-mvebu64_5.54_arm64
   linux-image-mvebu64_5.50_arm64
   linux-image-mvebu64_5.44_arm64
   linux-image-next-cubox_5.54_armhf
   linux-image-next-cubox_5.44_armhf
   linux-image-next-meson64_5.49_arm64
+  linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
   linux-image-next-mvebu64_5.50_arm64
   linux-image-next-mvebu64_5.44_arm64
@@ -6542,6 +6572,8 @@
   linux-u-boot-cubox-i-dev_5.54_armhf
   linux-u-boot-cubox-i-next_5.54_armhf
   linux-u-boot-cubox-i-next_5.44_armhf
+  linux-u-boot-espressobin-default_5.54_arm64
+  linux-u-boot-espressobin-next_5.54_arm64
   linux-u-boot-lepotato-default_5.49_arm64
   linux-u-boot-lepotato-dev_5.49_arm64
   linux-u-boot-lepotato-next_5.49_arm64
