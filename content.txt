@@ -145,6 +145,7 @@
   linux-dtb-next-rockchip_5.32_armhf
   linux-dtb-next-rockchip_5.31_armhf
   linux-dtb-next-rockchip_5.30_armhf
+  linux-dtb-next-s5p6818_5.54_arm64
   linux-dtb-next-sunxi_5.41_armhf
   linux-dtb-next-sunxi_5.38_armhf
   linux-dtb-next-sunxi_5.35_armhf
@@ -327,6 +328,7 @@
   linux-headers-next-rockchip_5.32_armhf
   linux-headers-next-rockchip_5.31_armhf
   linux-headers-next-rockchip_5.30_armhf
+  linux-headers-next-s5p6818_5.54_arm64
   linux-headers-next-sunxi_5.41_armhf
   linux-headers-next-sunxi_5.38_armhf
   linux-headers-next-sunxi_5.35_armhf
@@ -502,6 +504,7 @@
   linux-image-next-rockchip_5.32_armhf
   linux-image-next-rockchip_5.31_armhf
   linux-image-next-rockchip_5.30_armhf
+  linux-image-next-s5p6818_5.54_arm64
   linux-image-next-sunxi_5.41_armhf
   linux-image-next-sunxi_5.38_armhf
   linux-image-next-sunxi_5.35_armhf
@@ -1794,6 +1797,7 @@
   linux-u-boot-miqi-next_5.35_armhf
   linux-u-boot-miqi-next_5.31_armhf
   linux-u-boot-miqi-next_5.30_armhf
+  linux-u-boot-nanopct3plus-next_5.54_arm64
   linux-u-boot-nanopiair-default_5.39_armhf
   linux-u-boot-nanopiair-default_5.38_armhf
   linux-u-boot-nanopiair-default_5.35_armhf
@@ -1811,6 +1815,7 @@
   linux-u-boot-nanopiduo-dev_5.38_armhf
   linux-u-boot-nanopiduo-next_5.38_armhf
   linux-u-boot-nanopiduo-next_5.35_armhf
+  linux-u-boot-nanopifire3-next_5.54_arm64
   linux-u-boot-nanopik2-default_5.35_arm64
   linux-u-boot-nanopik2-dev_5.35_arm64
   linux-u-boot-nanopik2-next_5.35_arm64
@@ -1844,6 +1849,7 @@
   linux-u-boot-nanopim1plus2-dev_5.35_arm64
   linux-u-boot-nanopim1plus2-next_5.38_arm64
   linux-u-boot-nanopim1plus2-next_5.35_arm64
+  linux-u-boot-nanopim3-next_5.54_arm64
   linux-u-boot-nanopineo-default_5.39_armhf
   linux-u-boot-nanopineo-default_5.38_armhf
   linux-u-boot-nanopineo-default_5.35_armhf
@@ -2463,6 +2469,7 @@
   linux-dtb-next-rockchip_5.32_armhf
   linux-dtb-next-rockchip_5.31_armhf
   linux-dtb-next-rockchip_5.30_armhf
+  linux-dtb-next-s5p6818_5.54_arm64
   linux-dtb-next-sunxi_5.41_armhf
   linux-dtb-next-sunxi_5.38_armhf
   linux-dtb-next-sunxi_5.35_armhf
@@ -2645,6 +2652,7 @@
   linux-headers-next-rockchip_5.32_armhf
   linux-headers-next-rockchip_5.31_armhf
   linux-headers-next-rockchip_5.30_armhf
+  linux-headers-next-s5p6818_5.54_arm64
   linux-headers-next-sunxi_5.41_armhf
   linux-headers-next-sunxi_5.38_armhf
   linux-headers-next-sunxi_5.35_armhf
@@ -2820,6 +2828,7 @@
   linux-image-next-rockchip_5.32_armhf
   linux-image-next-rockchip_5.31_armhf
   linux-image-next-rockchip_5.30_armhf
+  linux-image-next-s5p6818_5.54_arm64
   linux-image-next-sunxi_5.41_armhf
   linux-image-next-sunxi_5.38_armhf
   linux-image-next-sunxi_5.35_armhf
@@ -3277,6 +3286,7 @@
   linux-u-boot-miqi-next_5.35_armhf
   linux-u-boot-miqi-next_5.31_armhf
   linux-u-boot-miqi-next_5.30_armhf
+  linux-u-boot-nanopct3plus-next_5.54_arm64
   linux-u-boot-nanopiair-default_5.39_armhf
   linux-u-boot-nanopiair-default_5.38_armhf
   linux-u-boot-nanopiair-default_5.35_armhf
@@ -3294,6 +3304,7 @@
   linux-u-boot-nanopiduo-dev_5.38_armhf
   linux-u-boot-nanopiduo-next_5.38_armhf
   linux-u-boot-nanopiduo-next_5.35_armhf
+  linux-u-boot-nanopifire3-next_5.54_arm64
   linux-u-boot-nanopik2-default_5.35_arm64
   linux-u-boot-nanopik2-dev_5.35_arm64
   linux-u-boot-nanopik2-next_5.35_arm64
@@ -3327,6 +3338,7 @@
   linux-u-boot-nanopim1plus2-dev_5.35_arm64
   linux-u-boot-nanopim1plus2-next_5.38_arm64
   linux-u-boot-nanopim1plus2-next_5.35_arm64
+  linux-u-boot-nanopim3-next_5.54_arm64
   linux-u-boot-nanopineo-default_5.39_armhf
   linux-u-boot-nanopineo-default_5.38_armhf
   linux-u-boot-nanopineo-default_5.35_armhf
@@ -4828,6 +4840,7 @@
   linux-dtb-next-rockchip_5.32_armhf
   linux-dtb-next-rockchip_5.31_armhf
   linux-dtb-next-rockchip_5.30_armhf
+  linux-dtb-next-s5p6818_5.54_arm64
   linux-dtb-next-sunxi_5.41_armhf
   linux-dtb-next-sunxi_5.38_armhf
   linux-dtb-next-sunxi_5.35_armhf
@@ -5010,6 +5023,7 @@
   linux-headers-next-rockchip_5.32_armhf
   linux-headers-next-rockchip_5.31_armhf
   linux-headers-next-rockchip_5.30_armhf
+  linux-headers-next-s5p6818_5.54_arm64
   linux-headers-next-sunxi_5.41_armhf
   linux-headers-next-sunxi_5.38_armhf
   linux-headers-next-sunxi_5.35_armhf
@@ -5185,6 +5199,7 @@
   linux-image-next-rockchip_5.32_armhf
   linux-image-next-rockchip_5.31_armhf
   linux-image-next-rockchip_5.30_armhf
+  linux-image-next-s5p6818_5.54_arm64
   linux-image-next-sunxi_5.41_armhf
   linux-image-next-sunxi_5.38_armhf
   linux-image-next-sunxi_5.35_armhf
@@ -6078,6 +6093,7 @@
   linux-u-boot-miqi-next_5.35_armhf
   linux-u-boot-miqi-next_5.31_armhf
   linux-u-boot-miqi-next_5.30_armhf
+  linux-u-boot-nanopct3plus-next_5.54_arm64
   linux-u-boot-nanopiair-default_5.39_armhf
   linux-u-boot-nanopiair-default_5.38_armhf
   linux-u-boot-nanopiair-default_5.35_armhf
@@ -6095,6 +6111,7 @@
   linux-u-boot-nanopiduo-dev_5.38_armhf
   linux-u-boot-nanopiduo-next_5.38_armhf
   linux-u-boot-nanopiduo-next_5.35_armhf
+  linux-u-boot-nanopifire3-next_5.54_arm64
   linux-u-boot-nanopik2-default_5.35_arm64
   linux-u-boot-nanopik2-dev_5.35_arm64
   linux-u-boot-nanopik2-next_5.35_arm64
@@ -6128,6 +6145,7 @@
   linux-u-boot-nanopim1plus2-dev_5.35_arm64
   linux-u-boot-nanopim1plus2-next_5.38_arm64
   linux-u-boot-nanopim1plus2-next_5.35_arm64
+  linux-u-boot-nanopim3-next_5.54_arm64
   linux-u-boot-nanopineo-default_5.39_armhf
   linux-u-boot-nanopineo-default_5.38_armhf
   linux-u-boot-nanopineo-default_5.35_armhf
@@ -6522,6 +6540,7 @@
   linux-dtb-next-odroidc2_5.54_arm64
   linux-dtb-next-odroidc2_5.50_arm64
   linux-dtb-next-odroidc2_5.49_arm64
+  linux-dtb-next-s5p6818_5.54_arm64
   linux-dtb-next-sunxi64_5.46_arm64
   linux-dtb-odroidc2_5.54_arm64
   linux-dtb-odroidc2_5.49_arm64
@@ -6544,6 +6563,7 @@
   linux-headers-next-odroidc2_5.54_arm64
   linux-headers-next-odroidc2_5.50_arm64
   linux-headers-next-odroidc2_5.49_arm64
+  linux-headers-next-s5p6818_5.54_arm64
   linux-headers-next-sunxi64_5.46_arm64
   linux-headers-odroidc2_5.54_arm64
   linux-headers-odroidc2_5.49_arm64
@@ -6566,6 +6586,7 @@
   linux-image-next-odroidc2_5.54_arm64
   linux-image-next-odroidc2_5.50_arm64
   linux-image-next-odroidc2_5.49_arm64
+  linux-image-next-s5p6818_5.54_arm64
   linux-image-next-sunxi64_5.46_arm64
   linux-image-odroidc2_5.54_arm64
   linux-image-odroidc2_5.49_arm64
@@ -6577,9 +6598,12 @@
   linux-u-boot-lepotato-default_5.49_arm64
   linux-u-boot-lepotato-dev_5.49_arm64
   linux-u-boot-lepotato-next_5.49_arm64
+  linux-u-boot-nanopct3plus-next_5.54_arm64
+  linux-u-boot-nanopifire3-next_5.54_arm64
   linux-u-boot-nanopik2-s905-default_5.49_arm64
   linux-u-boot-nanopik2-s905-dev_5.49_arm64
   linux-u-boot-nanopik2-s905-next_5.49_arm64
+  linux-u-boot-nanopim3-next_5.54_arm64
   linux-u-boot-odroidc2-default_5.54_arm64
   linux-u-boot-odroidc2-default_5.49_arm64
   linux-u-boot-odroidc2-dev_5.49_arm64
