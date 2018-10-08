@@ -1,4 +1,5 @@
 
+  armbian-config_5.63_all
   armbian-config_5.62_all
   armbian-config_5.61_all
   armbian-config_5.60_all
@@ -26,6 +27,7 @@
   armbian-jessie-desktop_5.58_all
   armbian-jessie-desktop_5.49_all
   armbian-jessie-desktop_5.44_all
+  armbian-tools-bionic_5.63_armhf
   armbian-tools-bionic_5.60_arm64
   armbian-tools-bionic_5.60_armhf
   armbian-tools-bionic_5.58_armhf
@@ -41,6 +43,7 @@
   armbian-tools-jessie_5.30_armhf
   armbian-tools-jessie_5.25_arm64
   armbian-tools-jessie_5.25_armhf
+  armbian-tools-stretch_5.63_armhf
   armbian-tools-stretch_5.60_arm64
   armbian-tools-stretch_5.60_armhf
   armbian-tools-stretch_5.58_arm64
@@ -149,6 +152,7 @@
   linux-dtb-next-meson64_5.42_arm64
   linux-dtb-next-meson64_5.38_arm64
   linux-dtb-next-meson64_5.35_arm64
+  linux-dtb-next-mvebu_5.63_armhf
   linux-dtb-next-mvebu_5.60_armhf
   linux-dtb-next-mvebu_5.41_armhf
   linux-dtb-next-mvebu_5.40_armhf
@@ -377,6 +381,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.63_armhf
   linux-headers-next-mvebu_5.60_armhf
   linux-headers-next-mvebu_5.41_armhf
   linux-headers-next-mvebu_5.40_armhf
@@ -588,6 +593,7 @@
   linux-image-next-meson64_5.42_arm64
   linux-image-next-meson64_5.38_arm64
   linux-image-next-meson64_5.35_arm64
+  linux-image-next-mvebu_5.63_armhf
   linux-image-next-mvebu_5.60_armhf
   linux-image-next-mvebu_5.41_armhf
   linux-image-next-mvebu_5.40_armhf
@@ -2045,6 +2051,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
   linux-u-boot-helios4-next_5.40_armhf
   linux-u-boot-helios4-next_5.38_armhf
@@ -2840,6 +2847,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.63_all
   armbian-config_5.62_all
   armbian-config_5.61_all
   armbian-config_5.60_all
@@ -2863,6 +2871,7 @@
   armbian-firmware-full_5.35_all
   armbian-firmware-full_5.30_arm64
   armbian-firmware-full_5.30_armhf
+  armbian-tools-bionic_5.63_armhf
   armbian-tools-bionic_5.60_arm64
   armbian-tools-bionic_5.60_armhf
   armbian-tools-bionic_5.58_armhf
@@ -2878,6 +2887,7 @@
   armbian-tools-jessie_5.30_armhf
   armbian-tools-jessie_5.25_arm64
   armbian-tools-jessie_5.25_armhf
+  armbian-tools-stretch_5.63_armhf
   armbian-tools-stretch_5.60_arm64
   armbian-tools-stretch_5.60_armhf
   armbian-tools-stretch_5.58_arm64
@@ -2990,6 +3000,7 @@
   linux-dtb-next-meson64_5.42_arm64
   linux-dtb-next-meson64_5.38_arm64
   linux-dtb-next-meson64_5.35_arm64
+  linux-dtb-next-mvebu_5.63_armhf
   linux-dtb-next-mvebu_5.60_armhf
   linux-dtb-next-mvebu_5.41_armhf
   linux-dtb-next-mvebu_5.40_armhf
@@ -3218,6 +3229,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.63_armhf
   linux-headers-next-mvebu_5.60_armhf
   linux-headers-next-mvebu_5.41_armhf
   linux-headers-next-mvebu_5.40_armhf
@@ -3429,6 +3441,7 @@
   linux-image-next-meson64_5.42_arm64
   linux-image-next-meson64_5.38_arm64
   linux-image-next-meson64_5.35_arm64
+  linux-image-next-mvebu_5.63_armhf
   linux-image-next-mvebu_5.60_armhf
   linux-image-next-mvebu_5.41_armhf
   linux-image-next-mvebu_5.40_armhf
@@ -3893,6 +3906,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
   linux-u-boot-helios4-next_5.40_armhf
   linux-u-boot-helios4-next_5.38_armhf
@@ -5723,6 +5737,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.63_all
   armbian-config_5.62_all
   armbian-config_5.61_all
   armbian-config_5.60_all
@@ -5750,6 +5765,7 @@
   armbian-stretch-desktop_5.58_all
   armbian-stretch-desktop_5.49_all
   armbian-stretch-desktop_5.44_all
+  armbian-tools-bionic_5.63_armhf
   armbian-tools-bionic_5.60_arm64
   armbian-tools-bionic_5.60_armhf
   armbian-tools-bionic_5.58_armhf
@@ -5765,6 +5781,7 @@
   armbian-tools-jessie_5.30_armhf
   armbian-tools-jessie_5.25_arm64
   armbian-tools-jessie_5.25_armhf
+  armbian-tools-stretch_5.63_armhf
   armbian-tools-stretch_5.60_arm64
   armbian-tools-stretch_5.60_armhf
   armbian-tools-stretch_5.58_arm64
@@ -5873,6 +5890,7 @@
   linux-dtb-next-meson64_5.42_arm64
   linux-dtb-next-meson64_5.38_arm64
   linux-dtb-next-meson64_5.35_arm64
+  linux-dtb-next-mvebu_5.63_armhf
   linux-dtb-next-mvebu_5.60_armhf
   linux-dtb-next-mvebu_5.41_armhf
   linux-dtb-next-mvebu_5.40_armhf
@@ -6101,6 +6119,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.63_armhf
   linux-headers-next-mvebu_5.60_armhf
   linux-headers-next-mvebu_5.41_armhf
   linux-headers-next-mvebu_5.40_armhf
@@ -6312,6 +6331,7 @@
   linux-image-next-meson64_5.42_arm64
   linux-image-next-meson64_5.38_arm64
   linux-image-next-meson64_5.35_arm64
+  linux-image-next-mvebu_5.63_armhf
   linux-image-next-mvebu_5.60_armhf
   linux-image-next-mvebu_5.41_armhf
   linux-image-next-mvebu_5.40_armhf
@@ -6905,6 +6925,7 @@
   linux-stretch-root-next-espressobin_5.37_arm64
   linux-stretch-root-next-espressobin_5.36_arm64
   linux-stretch-root-next-espressobin_5.35_arm64
+  linux-stretch-root-next-helios4_5.63_armhf
   linux-stretch-root-next-helios4_5.60_armhf
   linux-stretch-root-next-helios4_5.40_armhf
   linux-stretch-root-next-helios4_5.38_armhf
@@ -7343,6 +7364,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
   linux-u-boot-helios4-next_5.40_armhf
   linux-u-boot-helios4-next_5.38_armhf
@@ -8003,6 +8025,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.63_all
   armbian-config_5.62_all
   armbian-config_5.61_all
   armbian-config_5.60_all
@@ -8015,6 +8038,7 @@
   armbian-firmware_5.45_all
   armbian-firmware-full_5.60_all
   armbian-firmware-full_5.45_all
+  armbian-tools-bionic_5.63_armhf
   armbian-tools-bionic_5.60_arm64
   armbian-tools-bionic_5.60_armhf
   armbian-tools-bionic_5.58_armhf
@@ -8022,6 +8046,7 @@
   armbian-tools-jessie_5.60_arm64
   armbian-tools-jessie_5.60_armhf
   armbian-tools-jessie_5.44_arm64
+  armbian-tools-stretch_5.63_armhf
   armbian-tools-stretch_5.60_arm64
   armbian-tools-stretch_5.60_armhf
   armbian-tools-stretch_5.58_arm64
@@ -8113,6 +8138,7 @@
   linux-bionic-root-next-cubox-i_5.44_armhf
   linux-bionic-root-next-espressobin_5.60_arm64
   linux-bionic-root-next-espressobin_5.44_arm64
+  linux-bionic-root-next-helios4_5.63_armhf
   linux-bionic-root-next-helios4_5.60_armhf
   linux-bionic-root-next-lepotato_5.60_arm64
   linux-bionic-root-next-lime_5.60_armhf
@@ -8195,6 +8221,7 @@
   linux-dtb-next-meson64_5.60_arm64
   linux-dtb-next-meson64_5.55_arm64
   linux-dtb-next-meson64_5.49_arm64
+  linux-dtb-next-mvebu_5.63_armhf
   linux-dtb-next-mvebu_5.60_armhf
   linux-dtb-next-mvebu64_5.60_arm64
   linux-dtb-next-mvebu64_5.54_arm64
@@ -8256,6 +8283,7 @@
   linux-headers-next-meson64_5.60_arm64
   linux-headers-next-meson64_5.55_arm64
   linux-headers-next-meson64_5.49_arm64
+  linux-headers-next-mvebu_5.63_armhf
   linux-headers-next-mvebu_5.60_armhf
   linux-headers-next-mvebu64_5.60_arm64
   linux-headers-next-mvebu64_5.54_arm64
@@ -8320,6 +8348,7 @@
   linux-image-next-meson64_5.60_arm64
   linux-image-next-meson64_5.55_arm64
   linux-image-next-meson64_5.49_arm64
+  linux-image-next-mvebu_5.63_armhf
   linux-image-next-mvebu_5.60_armhf
   linux-image-next-mvebu64_5.60_arm64
   linux-image-next-mvebu64_5.54_arm64
@@ -8420,6 +8449,7 @@
   linux-u-boot-firefly-rk3399-default_5.60_arm64
   linux-u-boot-firefly-rk3399-dev_5.60_arm64
   linux-u-boot-helios4-default_5.60_armhf
+  linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
   linux-u-boot-lepotato-default_5.60_arm64
   linux-u-boot-lepotato-default_5.49_arm64
