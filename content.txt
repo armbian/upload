@@ -2929,6 +2929,8 @@
   exagear-dsound-server_003_arm64
   exagear-dsound-server_003_armhf
   exagear-guest-ubuntu-1604_5_all
+  htop_2.1.1-3_arm64
+  htop_2.1.1-3_armhf
   linux-dtb-cubox_5.60_armhf
   linux-dtb-cubox_5.38_armhf
   linux-dtb-cubox_5.35_armhf
@@ -5824,6 +5826,8 @@
   exagear-dsound-server_003_arm64
   exagear-dsound-server_003_armhf
   exagear-guest-ubuntu-1604_5_all
+  htop_2.1.1-3_arm64
+  htop_2.1.1-3_armhf
   linux-dtb-cubox_5.60_armhf
   linux-dtb-cubox_5.38_armhf
   linux-dtb-cubox_5.35_armhf
@@ -8074,6 +8078,8 @@
   armbian-tools-xenial_5.58_armhf
   armbian-tools-xenial_5.44_arm64
   chromium_69.0.3497.93-1~deb9u1_armhf
+  htop_2.1.1-3_arm64
+  htop_2.1.1-3_armhf
   linux-bionic-root-clearfogbase_5.60_armhf
   linux-bionic-root-clearfogpro_5.60_armhf
   linux-bionic-root-cubox-i_5.60_armhf
