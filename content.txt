@@ -1,4 +1,5 @@
 
+  armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
   armbian-config_5.62_all
@@ -68,6 +69,7 @@
   armbian-tools-xenial_5.25_armhf
   armbian-tools-xenial_5.22_arm64
   armbian-tools-xenial_5.22_armhf
+  chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   exagear-armbian_3006_arm64
   exagear-armbian_3006_armhf
@@ -2852,6 +2854,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
   armbian-config_5.62_all
@@ -2921,6 +2924,7 @@
   armbian-xenial-desktop_5.58_all
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
+  chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   exagear-armbian_3006_arm64
   exagear-armbian_3006_armhf
@@ -5749,6 +5753,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
   armbian-config_5.62_all
@@ -5818,6 +5823,7 @@
   armbian-tools-xenial_5.25_armhf
   armbian-tools-xenial_5.22_arm64
   armbian-tools-xenial_5.22_armhf
+  chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   exagear-armbian_3006_arm64
   exagear-armbian_3006_armhf
@@ -8045,6 +8051,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
   armbian-config_5.62_all
@@ -8077,6 +8084,7 @@
   armbian-tools-xenial_5.60_armhf
   armbian-tools-xenial_5.58_armhf
   armbian-tools-xenial_5.44_arm64
+  chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   htop_2.1.1-3_arm64
   htop_2.1.1-3_armhf
