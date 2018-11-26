@@ -2060,7 +2060,6 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
-  linux-u-boot-helios4-next_5.67_armhf
   linux-u-boot-helios4-next_5.64_armhf
   linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
@@ -3928,7 +3927,6 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
-  linux-u-boot-helios4-next_5.67_armhf
   linux-u-boot-helios4-next_5.64_armhf
   linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
@@ -7401,7 +7399,6 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
-  linux-u-boot-helios4-next_5.67_armhf
   linux-u-boot-helios4-next_5.64_armhf
   linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
@@ -8501,7 +8498,6 @@
   linux-u-boot-firefly-rk3399-default_5.60_arm64
   linux-u-boot-firefly-rk3399-dev_5.60_arm64
   linux-u-boot-helios4-default_5.60_armhf
-  linux-u-boot-helios4-next_5.67_armhf
   linux-u-boot-helios4-next_5.64_armhf
   linux-u-boot-helios4-next_5.63_armhf
   linux-u-boot-helios4-next_5.60_armhf
