@@ -12,7 +12,7 @@ Packages [full list](content.txt) | statistics:
 	 * [jessie]: Armbian main repository (packages: 2729)
 	 * [stretch-desktop]: Armbian stretch desktop (packages: 4)
 	 * [stretch-utils]: Armbian stretch utilities (packages: 32)
-	 * [stretch]: Armbian main repository (packages: 2297)
+	 * [stretch]: Armbian main repository (packages: 2298)
 	 * [utils]: Armbian utilities (backwards compatibility) (packages: 44)
 	 * [xenial-desktop]: Armbian xenial desktop (packages: 102)
 	 * [xenial-utils]: Armbian xenial utilities (packages: 33)
