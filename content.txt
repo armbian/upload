@@ -165,6 +165,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.68_arm64
   linux-dtb-next-mvebu64_5.60_arm64
   linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
@@ -396,6 +397,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.68_arm64
   linux-headers-next-mvebu64_5.60_arm64
   linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
@@ -615,6 +617,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.68_arm64
   linux-image-next-mvebu64_5.60_arm64
   linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
@@ -1822,6 +1825,7 @@
   linux-source-4.18.8-next-odroidc1_4.18.8-next-odroidc1+5.60_all
   linux-source-4.18.8-next-odroidc2_4.18.8-next-odroidc2+5.60_all
   linux-source-4.19.0-rc1-dev-rk3399_4.19.0-rc1-dev-rk3399+5.60_all
+  linux-source-4.19.13-next-mvebu64_4.19.13-next-mvebu64+5.68_all
   linux-source-4.4.102-default-mvebu_4.4.102-default-mvebu+5.35_all
   linux-source-4.4.102-default-mvebu64_4.4.102-default-mvebu64+5.35_all
   linux-source-4.4.102-default-rockchip_4.4.102-default-rockchip+5.35_all
@@ -3028,6 +3032,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.68_arm64
   linux-dtb-next-mvebu64_5.60_arm64
   linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
@@ -3259,6 +3264,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.68_arm64
   linux-headers-next-mvebu64_5.60_arm64
   linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
@@ -3478,6 +3484,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.68_arm64
   linux-image-next-mvebu64_5.60_arm64
   linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
@@ -3698,6 +3705,7 @@
   linux-source-4.18.8-next-odroidc1_4.18.8-next-odroidc1+5.60_all
   linux-source-4.18.8-next-odroidc2_4.18.8-next-odroidc2+5.60_all
   linux-source-4.19.0-rc1-dev-rk3399_4.19.0-rc1-dev-rk3399+5.60_all
+  linux-source-4.19.13-next-mvebu64_4.19.13-next-mvebu64+5.68_all
   linux-source-4.4.102-default-mvebu_4.4.102-default-mvebu+5.35_all
   linux-source-4.4.102-default-mvebu64_4.4.102-default-mvebu64+5.35_all
   linux-source-4.4.102-default-rockchip_4.4.102-default-rockchip+5.35_all
@@ -5934,6 +5942,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.68_arm64
   linux-dtb-next-mvebu64_5.60_arm64
   linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
@@ -6165,6 +6174,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.68_arm64
   linux-headers-next-mvebu64_5.60_arm64
   linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
@@ -6384,6 +6394,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.68_arm64
   linux-image-next-mvebu64_5.60_arm64
   linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
@@ -6604,6 +6615,7 @@
   linux-source-4.18.8-next-odroidc1_4.18.8-next-odroidc1+5.60_all
   linux-source-4.18.8-next-odroidc2_4.18.8-next-odroidc2+5.60_all
   linux-source-4.19.0-rc1-dev-rk3399_4.19.0-rc1-dev-rk3399+5.60_all
+  linux-source-4.19.13-next-mvebu64_4.19.13-next-mvebu64+5.68_all
   linux-source-4.4.102-default-mvebu_4.4.102-default-mvebu+5.35_all
   linux-source-4.4.102-default-mvebu64_4.4.102-default-mvebu64+5.35_all
   linux-source-4.4.102-default-rockchip_4.4.102-default-rockchip+5.35_all
@@ -6962,6 +6974,7 @@
   linux-stretch-root-next-cubox-i_5.37_armhf
   linux-stretch-root-next-cubox-i_5.36_armhf
   linux-stretch-root-next-cubox-i_5.35_armhf
+  linux-stretch-root-next-espressobin_5.68_arm64
   linux-stretch-root-next-espressobin_5.60_arm64
   linux-stretch-root-next-espressobin_5.44_arm64
   linux-stretch-root-next-espressobin_5.38_arm64
@@ -8187,6 +8200,7 @@
   linux-bionic-root-next-cubietruck_5.60_armhf
   linux-bionic-root-next-cubox-i_5.60_armhf
   linux-bionic-root-next-cubox-i_5.44_armhf
+  linux-bionic-root-next-espressobin_5.68_arm64
   linux-bionic-root-next-espressobin_5.60_arm64
   linux-bionic-root-next-espressobin_5.44_arm64
   linux-bionic-root-next-helios4_5.67_armhf
@@ -8278,6 +8292,7 @@
   linux-dtb-next-mvebu_5.64_armhf
   linux-dtb-next-mvebu_5.63_armhf
   linux-dtb-next-mvebu_5.60_armhf
+  linux-dtb-next-mvebu64_5.68_arm64
   linux-dtb-next-mvebu64_5.60_arm64
   linux-dtb-next-mvebu64_5.54_arm64
   linux-dtb-next-mvebu64_5.51_arm64
@@ -8343,6 +8358,7 @@
   linux-headers-next-mvebu_5.64_armhf
   linux-headers-next-mvebu_5.63_armhf
   linux-headers-next-mvebu_5.60_armhf
+  linux-headers-next-mvebu64_5.68_arm64
   linux-headers-next-mvebu64_5.60_arm64
   linux-headers-next-mvebu64_5.54_arm64
   linux-headers-next-mvebu64_5.51_arm64
@@ -8411,6 +8427,7 @@
   linux-image-next-mvebu_5.64_armhf
   linux-image-next-mvebu_5.63_armhf
   linux-image-next-mvebu_5.60_armhf
+  linux-image-next-mvebu64_5.68_arm64
   linux-image-next-mvebu64_5.60_arm64
   linux-image-next-mvebu64_5.54_arm64
   linux-image-next-mvebu64_5.51_arm64
@@ -8472,6 +8489,7 @@
   linux-source-4.18.8-next-odroidc1_4.18.8-next-odroidc1+5.60_all
   linux-source-4.18.8-next-odroidc2_4.18.8-next-odroidc2+5.60_all
   linux-source-4.19.0-rc1-dev-rk3399_4.19.0-rc1-dev-rk3399+5.60_all
+  linux-source-4.19.13-next-mvebu64_4.19.13-next-mvebu64+5.68_all
   linux-source-4.4.153-default-mvebu_4.4.153-default-mvebu+5.60_all
   linux-source-4.4.156-default-rk3399_4.4.156-default-rk3399+5.60_all
   linux-source-4.4.156-default-rockchip_4.4.156-default-rockchip+5.60_all
