@@ -1,4 +1,5 @@
 
+  armbian-config_5.71_all
   armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
@@ -162,6 +163,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.71_arm64
   linux-dtb-next-meson64_5.70_arm64
   linux-dtb-next-meson64_5.60_arm64
   linux-dtb-next-meson64_5.55_arm64
@@ -420,6 +422,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.71_arm64
   linux-headers-next-meson64_5.70_arm64
   linux-headers-next-meson64_5.60_arm64
   linux-headers-next-meson64_5.55_arm64
@@ -663,6 +666,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.71_arm64
   linux-image-next-meson64_5.70_arm64
   linux-image-next-meson64_5.60_arm64
   linux-image-next-meson64_5.55_arm64
@@ -2057,6 +2061,7 @@
   linux-source-4.19.14-next-mvebu64_4.19.14-next-mvebu64+5.70_all
   linux-source-4.19.14-next-odroidxu4_4.19.14-next-odroidxu4+5.70_all
   linux-source-4.19.14-next-rockchip_4.19.14-next-rockchip+5.70_all
+  linux-source-4.19.15-next-meson64_4.19.15-next-meson64+5.71_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
   linux-source-4.20.0-dev-rockchip64_4.20.0-dev-rockchip64+5.70_all
   linux-source-4.20.0-dev-sunxi_4.20.0-dev-sunxi+5.70_all
@@ -2352,6 +2357,7 @@
   linux-u-boot-lepotato-dev_5.49_arm64
   linux-u-boot-lepotato-dev_5.38_arm64
   linux-u-boot-lepotato-dev_5.35_arm64
+  linux-u-boot-lepotato-next_5.71_arm64
   linux-u-boot-lepotato-next_5.70_arm64
   linux-u-boot-lepotato-next_5.60_arm64
   linux-u-boot-lepotato-next_5.55_arm64
@@ -2527,6 +2533,7 @@
   linux-u-boot-nanopik2-s905-default_5.49_arm64
   linux-u-boot-nanopik2-s905-dev_5.70_arm64
   linux-u-boot-nanopik2-s905-dev_5.49_arm64
+  linux-u-boot-nanopik2-s905-next_5.71_arm64
   linux-u-boot-nanopik2-s905-next_5.70_arm64
   linux-u-boot-nanopik2-s905-next_5.60_arm64
   linux-u-boot-nanopik2-s905-next_5.49_arm64
@@ -2640,6 +2647,7 @@
   linux-u-boot-odroidc2-dev_5.49_arm64
   linux-u-boot-odroidc2-dev_5.38_arm64
   linux-u-boot-odroidc2-dev_5.35_arm64
+  linux-u-boot-odroidc2-next_5.71_arm64
   linux-u-boot-odroidc2-next_5.70_arm64
   linux-u-boot-odroidc2-next_5.60_arm64
   linux-u-boot-odroidc2-next_5.58_arm64
@@ -3238,6 +3246,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.71_all
   armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
@@ -3403,6 +3412,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.71_arm64
   linux-dtb-next-meson64_5.70_arm64
   linux-dtb-next-meson64_5.60_arm64
   linux-dtb-next-meson64_5.55_arm64
@@ -3661,6 +3671,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.71_arm64
   linux-headers-next-meson64_5.70_arm64
   linux-headers-next-meson64_5.60_arm64
   linux-headers-next-meson64_5.55_arm64
@@ -3904,6 +3915,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.71_arm64
   linux-image-next-meson64_5.70_arm64
   linux-image-next-meson64_5.60_arm64
   linux-image-next-meson64_5.55_arm64
@@ -4178,6 +4190,7 @@
   linux-source-4.19.14-next-mvebu64_4.19.14-next-mvebu64+5.70_all
   linux-source-4.19.14-next-odroidxu4_4.19.14-next-odroidxu4+5.70_all
   linux-source-4.19.14-next-rockchip_4.19.14-next-rockchip+5.70_all
+  linux-source-4.19.15-next-meson64_4.19.15-next-meson64+5.71_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
   linux-source-4.20.0-dev-rockchip64_4.20.0-dev-rockchip64+5.70_all
   linux-source-4.20.0-dev-sunxi_4.20.0-dev-sunxi+5.70_all
@@ -4467,6 +4480,7 @@
   linux-u-boot-lepotato-dev_5.49_arm64
   linux-u-boot-lepotato-dev_5.38_arm64
   linux-u-boot-lepotato-dev_5.35_arm64
+  linux-u-boot-lepotato-next_5.71_arm64
   linux-u-boot-lepotato-next_5.70_arm64
   linux-u-boot-lepotato-next_5.60_arm64
   linux-u-boot-lepotato-next_5.55_arm64
@@ -4638,6 +4652,7 @@
   linux-u-boot-nanopik2-s905-default_5.49_arm64
   linux-u-boot-nanopik2-s905-dev_5.70_arm64
   linux-u-boot-nanopik2-s905-dev_5.49_arm64
+  linux-u-boot-nanopik2-s905-next_5.71_arm64
   linux-u-boot-nanopik2-s905-next_5.70_arm64
   linux-u-boot-nanopik2-s905-next_5.60_arm64
   linux-u-boot-nanopik2-s905-next_5.49_arm64
@@ -4751,6 +4766,7 @@
   linux-u-boot-odroidc2-dev_5.49_arm64
   linux-u-boot-odroidc2-dev_5.38_arm64
   linux-u-boot-odroidc2-dev_5.35_arm64
+  linux-u-boot-odroidc2-next_5.71_arm64
   linux-u-boot-odroidc2-next_5.70_arm64
   linux-u-boot-odroidc2-next_5.60_arm64
   linux-u-boot-odroidc2-next_5.58_arm64
@@ -6521,6 +6537,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.71_all
   armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
@@ -6687,6 +6704,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.71_arm64
   linux-dtb-next-meson64_5.70_arm64
   linux-dtb-next-meson64_5.60_arm64
   linux-dtb-next-meson64_5.55_arm64
@@ -6945,6 +6963,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.71_arm64
   linux-headers-next-meson64_5.70_arm64
   linux-headers-next-meson64_5.60_arm64
   linux-headers-next-meson64_5.55_arm64
@@ -7188,6 +7207,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.71_arm64
   linux-image-next-meson64_5.70_arm64
   linux-image-next-meson64_5.60_arm64
   linux-image-next-meson64_5.55_arm64
@@ -7462,6 +7482,7 @@
   linux-source-4.19.14-next-mvebu64_4.19.14-next-mvebu64+5.70_all
   linux-source-4.19.14-next-odroidxu4_4.19.14-next-odroidxu4+5.70_all
   linux-source-4.19.14-next-rockchip_4.19.14-next-rockchip+5.70_all
+  linux-source-4.19.15-next-meson64_4.19.15-next-meson64+5.71_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
   linux-source-4.20.0-dev-rockchip64_4.20.0-dev-rockchip64+5.70_all
   linux-source-4.20.0-dev-sunxi_4.20.0-dev-sunxi+5.70_all
@@ -8433,6 +8454,7 @@
   linux-u-boot-lepotato-dev_5.49_arm64
   linux-u-boot-lepotato-dev_5.38_arm64
   linux-u-boot-lepotato-dev_5.35_arm64
+  linux-u-boot-lepotato-next_5.71_arm64
   linux-u-boot-lepotato-next_5.70_arm64
   linux-u-boot-lepotato-next_5.60_arm64
   linux-u-boot-lepotato-next_5.55_arm64
@@ -8604,6 +8626,7 @@
   linux-u-boot-nanopik2-s905-default_5.49_arm64
   linux-u-boot-nanopik2-s905-dev_5.70_arm64
   linux-u-boot-nanopik2-s905-dev_5.49_arm64
+  linux-u-boot-nanopik2-s905-next_5.71_arm64
   linux-u-boot-nanopik2-s905-next_5.70_arm64
   linux-u-boot-nanopik2-s905-next_5.60_arm64
   linux-u-boot-nanopik2-s905-next_5.49_arm64
@@ -8717,6 +8740,7 @@
   linux-u-boot-odroidc2-dev_5.49_arm64
   linux-u-boot-odroidc2-dev_5.38_arm64
   linux-u-boot-odroidc2-dev_5.35_arm64
+  linux-u-boot-odroidc2-next_5.71_arm64
   linux-u-boot-odroidc2-next_5.70_arm64
   linux-u-boot-odroidc2-next_5.60_arm64
   linux-u-boot-odroidc2-next_5.58_arm64
@@ -9185,6 +9209,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.71_all
   armbian-config_5.67_all
   armbian-config_5.64_all
   armbian-config_5.63_all
@@ -9509,6 +9534,7 @@
   linux-dtb-next-cubox_5.60_armhf
   linux-dtb-next-cubox_5.54_armhf
   linux-dtb-next-cubox_5.44_armhf
+  linux-dtb-next-meson64_5.71_arm64
   linux-dtb-next-meson64_5.70_arm64
   linux-dtb-next-meson64_5.60_arm64
   linux-dtb-next-meson64_5.55_arm64
@@ -9600,6 +9626,7 @@
   linux-headers-next-cubox_5.60_armhf
   linux-headers-next-cubox_5.54_armhf
   linux-headers-next-cubox_5.44_armhf
+  linux-headers-next-meson64_5.71_arm64
   linux-headers-next-meson64_5.70_arm64
   linux-headers-next-meson64_5.60_arm64
   linux-headers-next-meson64_5.55_arm64
@@ -9696,6 +9723,7 @@
   linux-image-next-cubox_5.60_armhf
   linux-image-next-cubox_5.54_armhf
   linux-image-next-cubox_5.44_armhf
+  linux-image-next-meson64_5.71_arm64
   linux-image-next-meson64_5.70_arm64
   linux-image-next-meson64_5.60_arm64
   linux-image-next-meson64_5.55_arm64
@@ -9799,6 +9827,7 @@
   linux-source-4.19.14-next-mvebu64_4.19.14-next-mvebu64+5.70_all
   linux-source-4.19.14-next-odroidxu4_4.19.14-next-odroidxu4+5.70_all
   linux-source-4.19.14-next-rockchip_4.19.14-next-rockchip+5.70_all
+  linux-source-4.19.15-next-meson64_4.19.15-next-meson64+5.71_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
   linux-source-4.20.0-dev-rockchip64_4.20.0-dev-rockchip64+5.70_all
   linux-source-4.20.0-dev-sunxi_4.20.0-dev-sunxi+5.70_all
@@ -9877,6 +9906,7 @@
   linux-u-boot-lepotato-default_5.49_arm64
   linux-u-boot-lepotato-dev_5.70_arm64
   linux-u-boot-lepotato-dev_5.49_arm64
+  linux-u-boot-lepotato-next_5.71_arm64
   linux-u-boot-lepotato-next_5.70_arm64
   linux-u-boot-lepotato-next_5.60_arm64
   linux-u-boot-lepotato-next_5.55_arm64
@@ -9934,6 +9964,7 @@
   linux-u-boot-nanopik2-s905-default_5.49_arm64
   linux-u-boot-nanopik2-s905-dev_5.70_arm64
   linux-u-boot-nanopik2-s905-dev_5.49_arm64
+  linux-u-boot-nanopik2-s905-next_5.71_arm64
   linux-u-boot-nanopik2-s905-next_5.70_arm64
   linux-u-boot-nanopik2-s905-next_5.60_arm64
   linux-u-boot-nanopik2-s905-next_5.49_arm64
@@ -9977,6 +10008,7 @@
   linux-u-boot-odroidc2-default_5.49_arm64
   linux-u-boot-odroidc2-dev_5.58_arm64
   linux-u-boot-odroidc2-dev_5.49_arm64
+  linux-u-boot-odroidc2-next_5.71_arm64
   linux-u-boot-odroidc2-next_5.70_arm64
   linux-u-boot-odroidc2-next_5.60_arm64
   linux-u-boot-odroidc2-next_5.58_arm64
