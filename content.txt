@@ -1,4 +1,5 @@
 
+  armbian-config_5.74_all
   armbian-config_5.73_all
   armbian-config_5.72_all
   armbian-config_5.71_all
@@ -75,6 +76,7 @@
   armbian-tools-xenial_5.25_armhf
   armbian-tools-xenial_5.22_arm64
   armbian-tools-xenial_5.22_armhf
+  chromium_71.0.3639.110-1~deb9u1_armhf
   chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   exagear-armbian_3006_arm64
@@ -3664,6 +3666,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.74_all
   armbian-config_5.73_all
   armbian-config_5.72_all
   armbian-config_5.71_all
@@ -3740,6 +3743,7 @@
   armbian-xenial-desktop_5.58_all
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
+  chromium_71.0.3639.110-1~deb9u1_armhf
   chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   exagear-armbian_3006_arm64
@@ -7367,6 +7371,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.74_all
   armbian-config_5.73_all
   armbian-config_5.72_all
   armbian-config_5.71_all
@@ -7444,6 +7449,7 @@
   armbian-tools-xenial_5.25_armhf
   armbian-tools-xenial_5.22_arm64
   armbian-tools-xenial_5.22_armhf
+  chromium_71.0.3639.110-1~deb9u1_armhf
   chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   exagear-armbian_3006_arm64
@@ -10416,6 +10422,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.74_all
   armbian-config_5.73_all
   armbian-config_5.72_all
   armbian-config_5.71_all
@@ -10454,6 +10461,7 @@
   armbian-tools-xenial_5.60_armhf
   armbian-tools-xenial_5.58_armhf
   armbian-tools-xenial_5.44_arm64
+  chromium_71.0.3639.110-1~deb9u1_armhf
   chromium_70.0.3539.110-1~deb9u1_armhf
   chromium_69.0.3497.93-1~deb9u1_armhf
   htop_2.1.1-3_arm64
