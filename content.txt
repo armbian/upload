@@ -621,6 +621,7 @@
   linux-headers-sun4i_5.26_armhf
   linux-headers-sun5i_5.31_armhf
   linux-headers-sun5i_5.30_armhf
+  linux-headers-sun7i_5.74_armhf
   linux-headers-sun7i_5.73_armhf
   linux-headers-sun7i_5.70_armhf
   linux-headers-sun7i_5.60_armhf
@@ -628,6 +629,7 @@
   linux-headers-sun7i_5.35_armhf
   linux-headers-sun7i_5.31_armhf
   linux-headers-sun7i_5.30_armhf
+  linux-headers-sun8i_5.74_armhf
   linux-headers-sun8i_5.73_armhf
   linux-headers-sun8i_5.70_armhf
   linux-headers-sun8i_5.60_armhf
@@ -896,6 +898,7 @@
   linux-image-sun5i_5.31_armhf
   linux-image-sun5i_5.30_armhf
   linux-image-sun5i_5.26_armhf
+  linux-image-sun7i_5.74_armhf
   linux-image-sun7i_5.73_armhf
   linux-image-sun7i_5.70_armhf
   linux-image-sun7i_5.60_armhf
@@ -905,6 +908,7 @@
   linux-image-sun7i_5.30_armhf
   linux-image-sun7i_5.26_armhf
   linux-image-sun7i_5.25_armhf
+  linux-image-sun8i_5.74_armhf
   linux-image-sun8i_5.73_armhf
   linux-image-sun8i_5.70_armhf
   linux-image-sun8i_5.60_armhf
@@ -2207,11 +2211,13 @@
   linux-source-3.16.57-default-odroidc2_3.16.57-default-odroidc2+5.60_all
   linux-source-3.4.113-default-sun4i_3.4.113-default-sun4i+5.38_all
   linux-source-3.4.113-default-sun4i_3.4.113-default-sun4i+5.35_all
+  linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.74_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.73_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.70_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.60_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.38_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.35_all
+  linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.74_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.73_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.70_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.60_all
@@ -4290,6 +4296,7 @@
   linux-headers-sun4i_5.26_armhf
   linux-headers-sun5i_5.31_armhf
   linux-headers-sun5i_5.30_armhf
+  linux-headers-sun7i_5.74_armhf
   linux-headers-sun7i_5.73_armhf
   linux-headers-sun7i_5.70_armhf
   linux-headers-sun7i_5.60_armhf
@@ -4297,6 +4304,7 @@
   linux-headers-sun7i_5.35_armhf
   linux-headers-sun7i_5.31_armhf
   linux-headers-sun7i_5.30_armhf
+  linux-headers-sun8i_5.74_armhf
   linux-headers-sun8i_5.73_armhf
   linux-headers-sun8i_5.70_armhf
   linux-headers-sun8i_5.60_armhf
@@ -4565,6 +4573,7 @@
   linux-image-sun5i_5.31_armhf
   linux-image-sun5i_5.30_armhf
   linux-image-sun5i_5.26_armhf
+  linux-image-sun7i_5.74_armhf
   linux-image-sun7i_5.73_armhf
   linux-image-sun7i_5.70_armhf
   linux-image-sun7i_5.60_armhf
@@ -4574,6 +4583,7 @@
   linux-image-sun7i_5.30_armhf
   linux-image-sun7i_5.26_armhf
   linux-image-sun7i_5.25_armhf
+  linux-image-sun8i_5.74_armhf
   linux-image-sun8i_5.73_armhf
   linux-image-sun8i_5.70_armhf
   linux-image-sun8i_5.60_armhf
@@ -4621,11 +4631,13 @@
   linux-source-3.16.57-default-odroidc2_3.16.57-default-odroidc2+5.60_all
   linux-source-3.4.113-default-sun4i_3.4.113-default-sun4i+5.38_all
   linux-source-3.4.113-default-sun4i_3.4.113-default-sun4i+5.35_all
+  linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.74_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.73_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.70_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.60_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.38_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.35_all
+  linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.74_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.73_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.70_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.60_all
@@ -7997,6 +8009,7 @@
   linux-headers-sun4i_5.26_armhf
   linux-headers-sun5i_5.31_armhf
   linux-headers-sun5i_5.30_armhf
+  linux-headers-sun7i_5.74_armhf
   linux-headers-sun7i_5.73_armhf
   linux-headers-sun7i_5.70_armhf
   linux-headers-sun7i_5.60_armhf
@@ -8004,6 +8017,7 @@
   linux-headers-sun7i_5.35_armhf
   linux-headers-sun7i_5.31_armhf
   linux-headers-sun7i_5.30_armhf
+  linux-headers-sun8i_5.74_armhf
   linux-headers-sun8i_5.73_armhf
   linux-headers-sun8i_5.70_armhf
   linux-headers-sun8i_5.60_armhf
@@ -8272,6 +8286,7 @@
   linux-image-sun5i_5.31_armhf
   linux-image-sun5i_5.30_armhf
   linux-image-sun5i_5.26_armhf
+  linux-image-sun7i_5.74_armhf
   linux-image-sun7i_5.73_armhf
   linux-image-sun7i_5.70_armhf
   linux-image-sun7i_5.60_armhf
@@ -8281,6 +8296,7 @@
   linux-image-sun7i_5.30_armhf
   linux-image-sun7i_5.26_armhf
   linux-image-sun7i_5.25_armhf
+  linux-image-sun8i_5.74_armhf
   linux-image-sun8i_5.73_armhf
   linux-image-sun8i_5.70_armhf
   linux-image-sun8i_5.60_armhf
@@ -8328,11 +8344,13 @@
   linux-source-3.16.57-default-odroidc2_3.16.57-default-odroidc2+5.60_all
   linux-source-3.4.113-default-sun4i_3.4.113-default-sun4i+5.38_all
   linux-source-3.4.113-default-sun4i_3.4.113-default-sun4i+5.35_all
+  linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.74_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.73_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.70_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.60_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.38_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.35_all
+  linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.74_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.73_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.70_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.60_all
@@ -11070,9 +11088,11 @@
   linux-headers-rockchip64_5.73_arm64
   linux-headers-rockchip64_5.70_arm64
   linux-headers-rockchip64_5.60_arm64
+  linux-headers-sun7i_5.74_armhf
   linux-headers-sun7i_5.73_armhf
   linux-headers-sun7i_5.70_armhf
   linux-headers-sun7i_5.60_armhf
+  linux-headers-sun8i_5.74_armhf
   linux-headers-sun8i_5.73_armhf
   linux-headers-sun8i_5.70_armhf
   linux-headers-sun8i_5.60_armhf
@@ -11196,9 +11216,11 @@
   linux-image-rockchip64_5.73_arm64
   linux-image-rockchip64_5.70_arm64
   linux-image-rockchip64_5.60_arm64
+  linux-image-sun7i_5.74_armhf
   linux-image-sun7i_5.73_armhf
   linux-image-sun7i_5.70_armhf
   linux-image-sun7i_5.60_armhf
+  linux-image-sun8i_5.74_armhf
   linux-image-sun8i_5.73_armhf
   linux-image-sun8i_5.70_armhf
   linux-image-sun8i_5.60_armhf
@@ -11209,9 +11231,11 @@
   linux-source-3.10.107-default-pine64_3.10.107-default-pine64+5.60_all
   linux-source-3.14.79-default-cubox_3.14.79-default-cubox+5.60_all
   linux-source-3.16.57-default-odroidc2_3.16.57-default-odroidc2+5.60_all
+  linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.74_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.73_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.70_all
   linux-source-3.4.113-default-sun7i_3.4.113-default-sun7i+5.60_all
+  linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.74_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.73_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.70_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.60_all
