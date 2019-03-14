@@ -206,6 +206,7 @@
   linux-dtb-next-meson64_5.42_arm64
   linux-dtb-next-meson64_5.38_arm64
   linux-dtb-next-meson64_5.35_arm64
+  linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
   linux-dtb-next-mvebu_5.70_armhf
@@ -520,6 +521,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
   linux-headers-next-mvebu_5.73_armhf
   linux-headers-next-mvebu_5.70_armhf
@@ -824,6 +826,7 @@
   linux-image-next-meson64_5.42_arm64
   linux-image-next-meson64_5.38_arm64
   linux-image-next-meson64_5.35_arm64
+  linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
   linux-image-next-mvebu_5.70_armhf
@@ -2327,6 +2330,7 @@
   linux-source-4.14.0-dev-udoo_4.14.0-dev-udoo+5.35_all
   linux-source-4.14.0-rc2-dev-rk3328_4.14.0-rc2-dev-rk3328+5.35_all
   linux-source-4.14.0-rc7-dev-sunxi64_4.14.0-rc7-dev-sunxi64+5.38_all
+  linux-source-4.14.106-next-mvebu_4.14.106-next-mvebu+5.77_all
   linux-source-4.14.14-next-cubox_4.14.14-next-cubox+5.38_all
   linux-source-4.14.14-next-meson64_4.14.14-next-meson64+5.38_all
   linux-source-4.14.14-next-mvebu_4.14.14-next-mvebu+5.38_all
@@ -2751,6 +2755,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.77_armhf
   linux-u-boot-helios4-next_5.75_armhf
   linux-u-boot-helios4-next_5.73_armhf
   linux-u-boot-helios4-next_5.70_armhf
@@ -4118,6 +4123,7 @@
   linux-dtb-next-meson64_5.42_arm64
   linux-dtb-next-meson64_5.38_arm64
   linux-dtb-next-meson64_5.35_arm64
+  linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
   linux-dtb-next-mvebu_5.70_armhf
@@ -4432,6 +4438,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
   linux-headers-next-mvebu_5.73_armhf
   linux-headers-next-mvebu_5.70_armhf
@@ -4736,6 +4743,7 @@
   linux-image-next-meson64_5.42_arm64
   linux-image-next-meson64_5.38_arm64
   linux-image-next-meson64_5.35_arm64
+  linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
   linux-image-next-mvebu_5.70_armhf
@@ -4984,6 +4992,7 @@
   linux-source-4.14.0-dev-udoo_4.14.0-dev-udoo+5.35_all
   linux-source-4.14.0-rc2-dev-rk3328_4.14.0-rc2-dev-rk3328+5.35_all
   linux-source-4.14.0-rc7-dev-sunxi64_4.14.0-rc7-dev-sunxi64+5.38_all
+  linux-source-4.14.106-next-mvebu_4.14.106-next-mvebu+5.77_all
   linux-source-4.14.14-next-cubox_4.14.14-next-cubox+5.38_all
   linux-source-4.14.14-next-meson64_4.14.14-next-meson64+5.38_all
   linux-source-4.14.14-next-mvebu_4.14.14-next-mvebu+5.38_all
@@ -5402,6 +5411,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.77_armhf
   linux-u-boot-helios4-next_5.75_armhf
   linux-u-boot-helios4-next_5.73_armhf
   linux-u-boot-helios4-next_5.70_armhf
@@ -8068,6 +8078,7 @@
   linux-dtb-next-meson64_5.42_arm64
   linux-dtb-next-meson64_5.38_arm64
   linux-dtb-next-meson64_5.35_arm64
+  linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
   linux-dtb-next-mvebu_5.70_armhf
@@ -8382,6 +8393,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
   linux-headers-next-mvebu_5.73_armhf
   linux-headers-next-mvebu_5.70_armhf
@@ -8686,6 +8698,7 @@
   linux-image-next-meson64_5.42_arm64
   linux-image-next-meson64_5.38_arm64
   linux-image-next-meson64_5.35_arm64
+  linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
   linux-image-next-mvebu_5.70_armhf
@@ -8934,6 +8947,7 @@
   linux-source-4.14.0-dev-udoo_4.14.0-dev-udoo+5.35_all
   linux-source-4.14.0-rc2-dev-rk3328_4.14.0-rc2-dev-rk3328+5.35_all
   linux-source-4.14.0-rc7-dev-sunxi64_4.14.0-rc7-dev-sunxi64+5.38_all
+  linux-source-4.14.106-next-mvebu_4.14.106-next-mvebu+5.77_all
   linux-source-4.14.14-next-cubox_4.14.14-next-cubox+5.38_all
   linux-source-4.14.14-next-meson64_4.14.14-next-meson64+5.38_all
   linux-source-4.14.14-next-mvebu_4.14.14-next-mvebu+5.38_all
@@ -9549,6 +9563,7 @@
   linux-stretch-root-next-espressobin_5.37_arm64
   linux-stretch-root-next-espressobin_5.36_arm64
   linux-stretch-root-next-espressobin_5.35_arm64
+  linux-stretch-root-next-helios4_5.77_armhf
   linux-stretch-root-next-helios4_5.73_armhf
   linux-stretch-root-next-helios4_5.67_armhf
   linux-stretch-root-next-helios4_5.64_armhf
@@ -10148,6 +10163,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.77_armhf
   linux-u-boot-helios4-next_5.75_armhf
   linux-u-boot-helios4-next_5.73_armhf
   linux-u-boot-helios4-next_5.64_armhf
@@ -11416,6 +11432,7 @@
   linux-bionic-root-next-espressobin_5.68_arm64
   linux-bionic-root-next-espressobin_5.60_arm64
   linux-bionic-root-next-espressobin_5.44_arm64
+  linux-bionic-root-next-helios4_5.77_armhf
   linux-bionic-root-next-helios4_5.73_armhf
   linux-bionic-root-next-helios4_5.67_armhf
   linux-bionic-root-next-helios4_5.64_armhf
@@ -11637,6 +11654,7 @@
   linux-dtb-next-meson64_5.60_arm64
   linux-dtb-next-meson64_5.55_arm64
   linux-dtb-next-meson64_5.49_arm64
+  linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
   linux-dtb-next-mvebu_5.70_armhf
@@ -11784,6 +11802,7 @@
   linux-headers-next-meson64_5.60_arm64
   linux-headers-next-meson64_5.55_arm64
   linux-headers-next-meson64_5.49_arm64
+  linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
   linux-headers-next-mvebu_5.73_armhf
   linux-headers-next-mvebu_5.70_armhf
@@ -11941,6 +11960,7 @@
   linux-image-next-meson64_5.60_arm64
   linux-image-next-meson64_5.55_arm64
   linux-image-next-meson64_5.49_arm64
+  linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
   linux-image-next-mvebu_5.70_armhf
@@ -12043,6 +12063,7 @@
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.73_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.70_all
   linux-source-3.4.113-default-sun8i_3.4.113-default-sun8i+5.60_all
+  linux-source-4.14.106-next-mvebu_4.14.106-next-mvebu+5.77_all
   linux-source-4.14.67-default-mvebu64_4.14.67-default-mvebu64+5.60_all
   linux-source-4.14.69-next-odroidxu4_4.14.69-next-odroidxu4+5.60_all
   linux-source-4.14.70-default-meson64_4.14.70-default-meson64+5.60_all
@@ -12243,6 +12264,7 @@
   linux-u-boot-helios4-default_5.73_armhf
   linux-u-boot-helios4-default_5.70_armhf
   linux-u-boot-helios4-default_5.60_armhf
+  linux-u-boot-helios4-next_5.77_armhf
   linux-u-boot-helios4-next_5.75_armhf
   linux-u-boot-helios4-next_5.73_armhf
   linux-u-boot-helios4-next_5.64_armhf
