@@ -257,6 +257,7 @@
   linux-dtb-next-odroidxu4_5.23_armhf
   linux-dtb-next-odroidxu4_5.22_armhf
   linux-dtb-next-odroidxu4_5.20_armhf
+  linux-dtb-next-rockchip_5.77_armhf
   linux-dtb-next-rockchip_5.75_armhf
   linux-dtb-next-rockchip_5.73_armhf
   linux-dtb-next-rockchip_5.72_armhf
@@ -363,6 +364,7 @@
   linux-dtb-rk3399_5.73_arm64
   linux-dtb-rk3399_5.70_arm64
   linux-dtb-rk3399_5.60_arm64
+  linux-dtb-rockchip_5.77_armhf
   linux-dtb-rockchip_5.75_armhf
   linux-dtb-rockchip_5.73_armhf
   linux-dtb-rockchip_5.70_armhf
@@ -566,6 +568,7 @@
   linux-headers-next-odroidxu4_5.38_armhf
   linux-headers-next-odroidxu4_5.35_armhf
   linux-headers-next-odroidxu4_5.31_armhf
+  linux-headers-next-rockchip_5.77_armhf
   linux-headers-next-rockchip_5.75_armhf
   linux-headers-next-rockchip_5.73_armhf
   linux-headers-next-rockchip_5.70_armhf
@@ -653,6 +656,7 @@
   linux-headers-rk3399_5.73_arm64
   linux-headers-rk3399_5.70_arm64
   linux-headers-rk3399_5.60_arm64
+  linux-headers-rockchip_5.77_armhf
   linux-headers-rockchip_5.75_armhf
   linux-headers-rockchip_5.73_armhf
   linux-headers-rockchip_5.70_armhf
@@ -876,6 +880,7 @@
   linux-image-next-odroidxu4_5.31_armhf
   linux-image-next-odroidxu4_5.30_armhf
   linux-image-next-odroidxu4_5.26_armhf
+  linux-image-next-rockchip_5.77_armhf
   linux-image-next-rockchip_5.75_armhf
   linux-image-next-rockchip_5.73_armhf
   linux-image-next-rockchip_5.70_armhf
@@ -959,6 +964,7 @@
   linux-image-rk3399_5.73_arm64
   linux-image-rk3399_5.70_arm64
   linux-image-rk3399_5.60_arm64
+  linux-image-rockchip_5.77_armhf
   linux-image-rockchip_5.75_armhf
   linux-image-rockchip_5.73_armhf
   linux-image-rockchip_5.70_armhf
@@ -2423,6 +2429,7 @@
   linux-source-4.19.20-next-rockchip_4.19.20-next-rockchip+5.75_all
   linux-source-4.19.20-next-sunxi_4.19.20-next-sunxi+5.75_all
   linux-source-4.19.20-next-sunxi64_4.19.20-next-sunxi64+5.75_all
+  linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -2467,6 +2474,7 @@
   linux-source-4.4.174-default-rk3399_4.4.174-default-rk3399+5.75_all
   linux-source-4.4.174-default-rockchip_4.4.174-default-rockchip+5.75_all
   linux-source-4.4.174-default-rockchip64_4.4.174-default-rockchip64+5.75_all
+  linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
   linux-source-4.9.71-dev-odroidxu4_4.9.71-dev-odroidxu4+5.38_all
@@ -4174,6 +4182,7 @@
   linux-dtb-next-odroidxu4_5.23_armhf
   linux-dtb-next-odroidxu4_5.22_armhf
   linux-dtb-next-odroidxu4_5.20_armhf
+  linux-dtb-next-rockchip_5.77_armhf
   linux-dtb-next-rockchip_5.75_armhf
   linux-dtb-next-rockchip_5.73_armhf
   linux-dtb-next-rockchip_5.72_armhf
@@ -4280,6 +4289,7 @@
   linux-dtb-rk3399_5.73_arm64
   linux-dtb-rk3399_5.70_arm64
   linux-dtb-rk3399_5.60_arm64
+  linux-dtb-rockchip_5.77_armhf
   linux-dtb-rockchip_5.75_armhf
   linux-dtb-rockchip_5.73_armhf
   linux-dtb-rockchip_5.70_armhf
@@ -4483,6 +4493,7 @@
   linux-headers-next-odroidxu4_5.38_armhf
   linux-headers-next-odroidxu4_5.35_armhf
   linux-headers-next-odroidxu4_5.31_armhf
+  linux-headers-next-rockchip_5.77_armhf
   linux-headers-next-rockchip_5.75_armhf
   linux-headers-next-rockchip_5.73_armhf
   linux-headers-next-rockchip_5.70_armhf
@@ -4570,6 +4581,7 @@
   linux-headers-rk3399_5.73_arm64
   linux-headers-rk3399_5.70_arm64
   linux-headers-rk3399_5.60_arm64
+  linux-headers-rockchip_5.77_armhf
   linux-headers-rockchip_5.75_armhf
   linux-headers-rockchip_5.73_armhf
   linux-headers-rockchip_5.70_armhf
@@ -4793,6 +4805,7 @@
   linux-image-next-odroidxu4_5.31_armhf
   linux-image-next-odroidxu4_5.30_armhf
   linux-image-next-odroidxu4_5.26_armhf
+  linux-image-next-rockchip_5.77_armhf
   linux-image-next-rockchip_5.75_armhf
   linux-image-next-rockchip_5.73_armhf
   linux-image-next-rockchip_5.70_armhf
@@ -4876,6 +4889,7 @@
   linux-image-rk3399_5.73_arm64
   linux-image-rk3399_5.70_arm64
   linux-image-rk3399_5.60_arm64
+  linux-image-rockchip_5.77_armhf
   linux-image-rockchip_5.75_armhf
   linux-image-rockchip_5.73_armhf
   linux-image-rockchip_5.70_armhf
@@ -5085,6 +5099,7 @@
   linux-source-4.19.20-next-rockchip_4.19.20-next-rockchip+5.75_all
   linux-source-4.19.20-next-sunxi_4.19.20-next-sunxi+5.75_all
   linux-source-4.19.20-next-sunxi64_4.19.20-next-sunxi64+5.75_all
+  linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -5129,6 +5144,7 @@
   linux-source-4.4.174-default-rk3399_4.4.174-default-rk3399+5.75_all
   linux-source-4.4.174-default-rockchip_4.4.174-default-rockchip+5.75_all
   linux-source-4.4.174-default-rockchip64_4.4.174-default-rockchip64+5.75_all
+  linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
   linux-source-4.9.71-dev-odroidxu4_4.9.71-dev-odroidxu4+5.38_all
@@ -8129,6 +8145,7 @@
   linux-dtb-next-odroidxu4_5.23_armhf
   linux-dtb-next-odroidxu4_5.22_armhf
   linux-dtb-next-odroidxu4_5.20_armhf
+  linux-dtb-next-rockchip_5.77_armhf
   linux-dtb-next-rockchip_5.75_armhf
   linux-dtb-next-rockchip_5.73_armhf
   linux-dtb-next-rockchip_5.72_armhf
@@ -8235,6 +8252,7 @@
   linux-dtb-rk3399_5.73_arm64
   linux-dtb-rk3399_5.70_arm64
   linux-dtb-rk3399_5.60_arm64
+  linux-dtb-rockchip_5.77_armhf
   linux-dtb-rockchip_5.75_armhf
   linux-dtb-rockchip_5.73_armhf
   linux-dtb-rockchip_5.70_armhf
@@ -8438,6 +8456,7 @@
   linux-headers-next-odroidxu4_5.38_armhf
   linux-headers-next-odroidxu4_5.35_armhf
   linux-headers-next-odroidxu4_5.31_armhf
+  linux-headers-next-rockchip_5.77_armhf
   linux-headers-next-rockchip_5.75_armhf
   linux-headers-next-rockchip_5.73_armhf
   linux-headers-next-rockchip_5.70_armhf
@@ -8525,6 +8544,7 @@
   linux-headers-rk3399_5.73_arm64
   linux-headers-rk3399_5.70_arm64
   linux-headers-rk3399_5.60_arm64
+  linux-headers-rockchip_5.77_armhf
   linux-headers-rockchip_5.75_armhf
   linux-headers-rockchip_5.73_armhf
   linux-headers-rockchip_5.70_armhf
@@ -8748,6 +8768,7 @@
   linux-image-next-odroidxu4_5.31_armhf
   linux-image-next-odroidxu4_5.30_armhf
   linux-image-next-odroidxu4_5.26_armhf
+  linux-image-next-rockchip_5.77_armhf
   linux-image-next-rockchip_5.75_armhf
   linux-image-next-rockchip_5.73_armhf
   linux-image-next-rockchip_5.70_armhf
@@ -8831,6 +8852,7 @@
   linux-image-rk3399_5.73_arm64
   linux-image-rk3399_5.70_arm64
   linux-image-rk3399_5.60_arm64
+  linux-image-rockchip_5.77_armhf
   linux-image-rockchip_5.75_armhf
   linux-image-rockchip_5.73_armhf
   linux-image-rockchip_5.70_armhf
@@ -9040,6 +9062,7 @@
   linux-source-4.19.20-next-rockchip_4.19.20-next-rockchip+5.75_all
   linux-source-4.19.20-next-sunxi_4.19.20-next-sunxi+5.75_all
   linux-source-4.19.20-next-sunxi64_4.19.20-next-sunxi64+5.75_all
+  linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -9084,6 +9107,7 @@
   linux-source-4.4.174-default-rk3399_4.4.174-default-rk3399+5.75_all
   linux-source-4.4.174-default-rockchip_4.4.174-default-rockchip+5.75_all
   linux-source-4.4.174-default-rockchip64_4.4.174-default-rockchip64+5.75_all
+  linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.61-next-odroidxu4_4.9.61-next-odroidxu4+5.35_all
   linux-source-4.9.71-dev-odroidxu4_4.9.71-dev-odroidxu4+5.38_all
@@ -11683,6 +11707,7 @@
   linux-dtb-next-odroidxu4_5.70_armhf
   linux-dtb-next-odroidxu4_5.60_armhf
   linux-dtb-next-odroidxu4_5.58_armhf
+  linux-dtb-next-rockchip_5.77_armhf
   linux-dtb-next-rockchip_5.75_armhf
   linux-dtb-next-rockchip_5.73_armhf
   linux-dtb-next-rockchip_5.72_armhf
@@ -11722,6 +11747,7 @@
   linux-dtb-rk3399_5.73_arm64
   linux-dtb-rk3399_5.70_arm64
   linux-dtb-rk3399_5.60_arm64
+  linux-dtb-rockchip_5.77_armhf
   linux-dtb-rockchip_5.75_armhf
   linux-dtb-rockchip_5.73_armhf
   linux-dtb-rockchip_5.70_armhf
@@ -11832,6 +11858,7 @@
   linux-headers-next-odroidxu4_5.70_armhf
   linux-headers-next-odroidxu4_5.60_armhf
   linux-headers-next-odroidxu4_5.58_armhf
+  linux-headers-next-rockchip_5.77_armhf
   linux-headers-next-rockchip_5.75_armhf
   linux-headers-next-rockchip_5.73_armhf
   linux-headers-next-rockchip_5.70_armhf
@@ -11870,6 +11897,7 @@
   linux-headers-rk3399_5.73_arm64
   linux-headers-rk3399_5.70_arm64
   linux-headers-rk3399_5.60_arm64
+  linux-headers-rockchip_5.77_armhf
   linux-headers-rockchip_5.75_armhf
   linux-headers-rockchip_5.73_armhf
   linux-headers-rockchip_5.70_armhf
@@ -11989,6 +12017,7 @@
   linux-image-next-odroidxu4_5.70_armhf
   linux-image-next-odroidxu4_5.60_armhf
   linux-image-next-odroidxu4_5.58_armhf
+  linux-image-next-rockchip_5.77_armhf
   linux-image-next-rockchip_5.75_armhf
   linux-image-next-rockchip_5.73_armhf
   linux-image-next-rockchip_5.70_armhf
@@ -12027,6 +12056,7 @@
   linux-image-rk3399_5.73_arm64
   linux-image-rk3399_5.70_arm64
   linux-image-rk3399_5.60_arm64
+  linux-image-rockchip_5.77_armhf
   linux-image-rockchip_5.75_armhf
   linux-image-rockchip_5.73_armhf
   linux-image-rockchip_5.70_armhf
@@ -12134,6 +12164,7 @@
   linux-source-4.19.20-next-rockchip_4.19.20-next-rockchip+5.75_all
   linux-source-4.19.20-next-sunxi_4.19.20-next-sunxi+5.75_all
   linux-source-4.19.20-next-sunxi64_4.19.20-next-sunxi64+5.75_all
+  linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -12167,6 +12198,7 @@
   linux-source-4.4.174-default-rk3399_4.4.174-default-rk3399+5.75_all
   linux-source-4.4.174-default-rockchip_4.4.174-default-rockchip+5.75_all
   linux-source-4.4.174-default-rockchip64_4.4.174-default-rockchip64+5.75_all
+  linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
   linux-u-boot-bananapi-default_5.75_armhf
