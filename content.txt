@@ -1,4 +1,5 @@
 
+  armbian-config_5.78_all
   armbian-config_5.77_all
   armbian-config_5.76_all
   armbian-config_5.75_all
@@ -20,6 +21,8 @@
   armbian-config_5.38_all
   armbian-config_5.36_all
   armbian-config_5.35_all
+  armbian-firmware_5.78_all
+  armbian-firmware_5.77_all
   armbian-firmware_5.75_all
   armbian-firmware_5.73_all
   armbian-firmware_5.60_all
@@ -28,6 +31,8 @@
   armbian-firmware_5.35_all
   armbian-firmware_5.30_arm64
   armbian-firmware_5.30_armhf
+  armbian-firmware-full_5.78_all
+  armbian-firmware-full_5.77_all
   armbian-firmware-full_5.75_all
   armbian-firmware-full_5.73_all
   armbian-firmware-full_5.60_all
@@ -3922,6 +3927,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.78_all
   armbian-config_5.77_all
   armbian-config_5.76_all
   armbian-config_5.75_all
@@ -3943,6 +3949,7 @@
   armbian-config_5.38_all
   armbian-config_5.36_all
   armbian-config_5.35_all
+  armbian-firmware_5.78_all
   armbian-firmware_5.75_all
   armbian-firmware_5.73_all
   armbian-firmware_5.60_all
@@ -3951,6 +3958,7 @@
   armbian-firmware_5.35_all
   armbian-firmware_5.30_arm64
   armbian-firmware_5.30_armhf
+  armbian-firmware-full_5.78_all
   armbian-firmware-full_5.75_all
   armbian-firmware-full_5.73_all
   armbian-firmware-full_5.60_all
