@@ -3829,6 +3829,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.80_all
   armbian-config_5.78_all
   armbian-config_5.77_all
   armbian-config_5.76_all
@@ -7702,6 +7703,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.80_all
   armbian-config_5.78_all
   armbian-config_5.77_all
   armbian-config_5.76_all
@@ -10917,6 +10919,7 @@
   armbian-bionic-desktop_5.58_all
   armbian-bionic-desktop_5.49_all
   armbian-bionic-desktop_5.44_all
+  armbian-config_5.80_all
   armbian-config_5.78_all
   armbian-config_5.77_all
   armbian-config_5.76_all
