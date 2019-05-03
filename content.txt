@@ -5417,6 +5417,7 @@
   linux-u-boot-nanopct4-dev_5.73_arm64
   linux-u-boot-nanopct4-dev_5.70_arm64
   linux-u-boot-nanopct4-dev_5.60_arm64
+  linux-u-boot-nanopi-r1-next_5.83_armhf
   linux-u-boot-nanopiair-default_5.73_armhf
   linux-u-boot-nanopiair-default_5.70_armhf
   linux-u-boot-nanopiair-default_5.60_armhf
@@ -10090,6 +10091,7 @@
   linux-u-boot-nanopct4-dev_5.73_arm64
   linux-u-boot-nanopct4-dev_5.70_arm64
   linux-u-boot-nanopct4-dev_5.60_arm64
+  linux-u-boot-nanopi-r1-next_5.83_armhf
   linux-u-boot-nanopiair-default_5.73_armhf
   linux-u-boot-nanopiair-default_5.70_armhf
   linux-u-boot-nanopiair-default_5.60_armhf
@@ -12874,6 +12876,7 @@
   linux-u-boot-nanopct4-dev_5.73_arm64
   linux-u-boot-nanopct4-dev_5.70_arm64
   linux-u-boot-nanopct4-dev_5.60_arm64
+  linux-u-boot-nanopi-r1-next_5.83_armhf
   linux-u-boot-nanopiair-default_5.73_armhf
   linux-u-boot-nanopiair-default_5.70_armhf
   linux-u-boot-nanopiair-default_5.60_armhf
