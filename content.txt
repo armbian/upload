@@ -4071,6 +4071,7 @@
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
+  linux-dtb-next-odroidc1_5.84_armhf
   linux-dtb-next-odroidc1_5.60_armhf
   linux-dtb-next-odroidc2_5.60_arm64
   linux-dtb-next-odroidc2_5.58_arm64
@@ -4394,6 +4395,7 @@
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
+  linux-headers-next-odroidc1_5.84_armhf
   linux-headers-next-odroidc1_5.60_armhf
   linux-headers-next-odroidc2_5.60_arm64
   linux-headers-next-odroidc2_5.58_arm64
@@ -4715,6 +4717,7 @@
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
+  linux-image-next-odroidc1_5.84_armhf
   linux-image-next-odroidc1_5.60_armhf
   linux-image-next-odroidc2_5.60_arm64
   linux-image-next-odroidc2_5.58_arm64
@@ -4983,6 +4986,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
+  linux-source-5.0.12-next-odroidc1_5.0.12-next-odroidc1+5.84_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -5636,6 +5640,7 @@
   linux-u-boot-odroidc1-default_5.22_armhf
   linux-u-boot-odroidc1-default_5.20_armhf
   linux-u-boot-odroidc1-default_5.12_armhf
+  linux-u-boot-odroidc1-next_5.84_armhf
   linux-u-boot-odroidc1-next_5.60_armhf
   linux-u-boot-odroidc2-default_5.75_arm64
   linux-u-boot-odroidc2-default_5.73_arm64
@@ -7983,6 +7988,7 @@
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
+  linux-dtb-next-odroidc1_5.84_armhf
   linux-dtb-next-odroidc1_5.60_armhf
   linux-dtb-next-odroidc2_5.60_arm64
   linux-dtb-next-odroidc2_5.58_arm64
@@ -8306,6 +8312,7 @@
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
+  linux-headers-next-odroidc1_5.84_armhf
   linux-headers-next-odroidc1_5.60_armhf
   linux-headers-next-odroidc2_5.60_arm64
   linux-headers-next-odroidc2_5.58_arm64
@@ -8627,6 +8634,7 @@
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
+  linux-image-next-odroidc1_5.84_armhf
   linux-image-next-odroidc1_5.60_armhf
   linux-image-next-odroidc2_5.60_arm64
   linux-image-next-odroidc2_5.58_arm64
@@ -8895,6 +8903,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
+  linux-source-5.0.12-next-odroidc1_5.0.12-next-odroidc1+5.84_all
   linux-stretch-root-clearfogbase_5.73_armhf
   linux-stretch-root-clearfogbase_5.70_armhf
   linux-stretch-root-clearfogbase_5.60_armhf
@@ -10347,6 +10356,7 @@
   linux-u-boot-odroidc1-default_5.22_armhf
   linux-u-boot-odroidc1-default_5.20_armhf
   linux-u-boot-odroidc1-default_5.12_armhf
+  linux-u-boot-odroidc1-next_5.84_armhf
   linux-u-boot-odroidc1-next_5.60_armhf
   linux-u-boot-odroidc2-default_5.75_arm64
   linux-u-boot-odroidc2-default_5.73_arm64
@@ -11604,6 +11614,7 @@
   linux-dtb-next-mvebu64_5.41_arm64
   linux-dtb-next-mvebu64_5.38_arm64
   linux-dtb-next-mvebu64_5.35_arm64
+  linux-dtb-next-odroidc1_5.84_armhf
   linux-dtb-next-odroidc1_5.60_armhf
   linux-dtb-next-odroidc2_5.60_arm64
   linux-dtb-next-odroidc2_5.58_arm64
@@ -11927,6 +11938,7 @@
   linux-headers-next-mvebu64_5.41_arm64
   linux-headers-next-mvebu64_5.38_arm64
   linux-headers-next-mvebu64_5.35_arm64
+  linux-headers-next-odroidc1_5.84_armhf
   linux-headers-next-odroidc1_5.60_armhf
   linux-headers-next-odroidc2_5.60_arm64
   linux-headers-next-odroidc2_5.58_arm64
@@ -12248,6 +12260,7 @@
   linux-image-next-mvebu64_5.41_arm64
   linux-image-next-mvebu64_5.38_arm64
   linux-image-next-mvebu64_5.35_arm64
+  linux-image-next-odroidc1_5.84_armhf
   linux-image-next-odroidc1_5.60_armhf
   linux-image-next-odroidc2_5.60_arm64
   linux-image-next-odroidc2_5.58_arm64
@@ -12516,6 +12529,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
+  linux-source-5.0.12-next-odroidc1_5.0.12-next-odroidc1+5.84_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -13169,6 +13183,7 @@
   linux-u-boot-odroidc1-default_5.22_armhf
   linux-u-boot-odroidc1-default_5.20_armhf
   linux-u-boot-odroidc1-default_5.12_armhf
+  linux-u-boot-odroidc1-next_5.84_armhf
   linux-u-boot-odroidc1-next_5.60_armhf
   linux-u-boot-odroidc2-default_5.75_arm64
   linux-u-boot-odroidc2-default_5.73_arm64
