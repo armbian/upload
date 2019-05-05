@@ -3925,6 +3925,8 @@
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
   chromium_71.0.3639.110-1~deb9u1_armhf
+  htop_2.1.2-3_arm64
+  htop_2.1.2-3_armhf
   htop_2.1.1-3_arm64
   htop_2.1.1-3_armhf
   lightdm-autologin-greeter_1.0-3_all
@@ -7842,6 +7844,8 @@
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
   chromium_71.0.3639.110-1~deb9u1_armhf
+  htop_2.1.2-3_arm64
+  htop_2.1.2-3_armhf
   htop_2.1.1-3_arm64
   htop_2.1.1-3_armhf
   lightdm-autologin-greeter_1.0-3_all
@@ -11103,6 +11107,8 @@
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
   chromium_71.0.3639.110-1~deb9u1_armhf
+  htop_2.1.2-3_arm64
+  htop_2.1.2-3_armhf
   htop_2.1.1-3_arm64
   htop_2.1.1-3_armhf
   lightdm-autologin-greeter_1.0-3_all
