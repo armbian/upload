@@ -3739,6 +3739,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.85_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
@@ -3875,6 +3876,7 @@
   linux-dtb-dev-udoo_5.38_armhf
   linux-dtb-dev-udoo_5.35_armhf
   linux-dtb-meson_5.26_armhf
+  linux-dtb-meson64_5.85_arm64
   linux-dtb-meson64_5.75_arm64
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
@@ -3905,6 +3907,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.85_arm64
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
@@ -4185,6 +4188,7 @@
   linux-headers-dev-udoo_5.38_armhf
   linux-headers-dev-udoo_5.35_armhf
   linux-headers-meson_5.26_armhf
+  linux-headers-meson64_5.85_arm64
   linux-headers-meson64_5.75_arm64
   linux-headers-meson64_5.73_arm64
   linux-headers-meson64_5.70_arm64
@@ -4221,6 +4225,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.85_arm64
   linux-headers-next-meson64_5.75_arm64
   linux-headers-next-meson64_5.73_arm64
   linux-headers-next-meson64_5.71_arm64
@@ -4498,6 +4503,7 @@
   linux-image-dev-udoo_5.38_armhf
   linux-image-dev-udoo_5.35_armhf
   linux-image-meson_5.26_armhf
+  linux-image-meson64_5.85_arm64
   linux-image-meson64_5.75_arm64
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
@@ -4527,6 +4533,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.85_arm64
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
@@ -4755,6 +4762,7 @@
   linux-source-4.14.111-default-odroidxu4_4.14.111-default-odroidxu4+5.83_all
   linux-source-4.14.111-next-odroidxu4_4.14.111-next-odroidxu4+5.83_all
   linux-source-4.14.115-next-s5p6818_4.14.115-next-s5p6818+5.83_all
+  linux-source-4.14.117-default-meson64_4.14.117-default-meson64+5.85_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
@@ -4800,6 +4808,7 @@
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
+  linux-source-4.19.41-next-meson64_4.19.41-next-meson64+5.85_all
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
@@ -7582,6 +7591,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.85_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
@@ -7718,6 +7728,7 @@
   linux-dtb-dev-udoo_5.38_armhf
   linux-dtb-dev-udoo_5.35_armhf
   linux-dtb-meson_5.26_armhf
+  linux-dtb-meson64_5.85_arm64
   linux-dtb-meson64_5.75_arm64
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
@@ -7748,6 +7759,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.85_arm64
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
@@ -8028,6 +8040,7 @@
   linux-headers-dev-udoo_5.38_armhf
   linux-headers-dev-udoo_5.35_armhf
   linux-headers-meson_5.26_armhf
+  linux-headers-meson64_5.85_arm64
   linux-headers-meson64_5.75_arm64
   linux-headers-meson64_5.73_arm64
   linux-headers-meson64_5.70_arm64
@@ -8064,6 +8077,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.85_arm64
   linux-headers-next-meson64_5.75_arm64
   linux-headers-next-meson64_5.73_arm64
   linux-headers-next-meson64_5.71_arm64
@@ -8341,6 +8355,7 @@
   linux-image-dev-udoo_5.38_armhf
   linux-image-dev-udoo_5.35_armhf
   linux-image-meson_5.26_armhf
+  linux-image-meson64_5.85_arm64
   linux-image-meson64_5.75_arm64
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
@@ -8370,6 +8385,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.85_arm64
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
@@ -8598,6 +8614,7 @@
   linux-source-4.14.111-default-odroidxu4_4.14.111-default-odroidxu4+5.83_all
   linux-source-4.14.111-next-odroidxu4_4.14.111-next-odroidxu4+5.83_all
   linux-source-4.14.115-next-s5p6818_4.14.115-next-s5p6818+5.83_all
+  linux-source-4.14.117-default-meson64_4.14.117-default-meson64+5.85_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
@@ -8643,6 +8660,7 @@
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
+  linux-source-4.19.41-next-meson64_4.19.41-next-meson64+5.85_all
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
@@ -10770,6 +10788,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_5.83_all
+  armbian-config_5.85_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
@@ -11270,6 +11289,7 @@
   linux-dtb-dev-udoo_5.38_armhf
   linux-dtb-dev-udoo_5.35_armhf
   linux-dtb-meson_5.26_armhf
+  linux-dtb-meson64_5.85_arm64
   linux-dtb-meson64_5.75_arm64
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
@@ -11300,6 +11320,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.85_arm64
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
@@ -11580,6 +11601,7 @@
   linux-headers-dev-udoo_5.38_armhf
   linux-headers-dev-udoo_5.35_armhf
   linux-headers-meson_5.26_armhf
+  linux-headers-meson64_5.85_arm64
   linux-headers-meson64_5.75_arm64
   linux-headers-meson64_5.73_arm64
   linux-headers-meson64_5.70_arm64
@@ -11616,6 +11638,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.85_arm64
   linux-headers-next-meson64_5.75_arm64
   linux-headers-next-meson64_5.73_arm64
   linux-headers-next-meson64_5.71_arm64
@@ -11893,6 +11916,7 @@
   linux-image-dev-udoo_5.38_armhf
   linux-image-dev-udoo_5.35_armhf
   linux-image-meson_5.26_armhf
+  linux-image-meson64_5.85_arm64
   linux-image-meson64_5.75_arm64
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
@@ -11922,6 +11946,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.85_arm64
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
@@ -12150,6 +12175,7 @@
   linux-source-4.14.111-default-odroidxu4_4.14.111-default-odroidxu4+5.83_all
   linux-source-4.14.111-next-odroidxu4_4.14.111-next-odroidxu4+5.83_all
   linux-source-4.14.115-next-s5p6818_4.14.115-next-s5p6818+5.83_all
+  linux-source-4.14.117-default-meson64_4.14.117-default-meson64+5.85_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
@@ -12195,6 +12221,7 @@
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
+  linux-source-4.19.41-next-meson64_4.19.41-next-meson64+5.85_all
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
