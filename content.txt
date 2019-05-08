@@ -3739,7 +3739,6 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
-  armbian-config_5.84_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
@@ -7583,7 +7582,6 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
-  armbian-config_5.84_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
@@ -10772,7 +10770,6 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_5.83_all
-  armbian-config_5.84_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
