@@ -1,43 +1,8 @@
 
-  armbian-bionic-desktop_5.73_all
-  armbian-bionic-desktop_5.72_all
-  armbian-bionic-desktop_5.70_all
-  armbian-bionic-desktop_5.60_all
-  armbian-bionic-desktop_5.58_all
-  armbian-bionic-desktop_5.49_all
-  armbian-bionic-desktop_5.44_all
-  armbian-config_5.79_all
-  armbian-config_5.78_all
-  armbian-config_5.77_all
-  armbian-config_5.76_all
-  armbian-config_5.75_all
-  armbian-config_5.74_all
-  armbian-config_5.73_all
-  armbian-config_5.72_all
-  armbian-config_5.71_all
-  armbian-config_5.67_all
-  armbian-config_5.64_all
-  armbian-config_5.63_all
-  armbian-config_5.62_all
-  armbian-config_5.61_all
-  armbian-config_5.60_all
-  armbian-config_5.58_all
-  armbian-config_5.54_all
-  armbian-config_5.49_all
-  armbian-config_5.45_all
-  armbian-config_5.44_all
-  armbian-config_5.38_all
-  armbian-config_5.36_all
-  armbian-config_5.35_all
   armbian-firmware_5.79_all
   armbian-firmware_5.78_all
   armbian-firmware-full_5.79_all
   armbian-firmware-full_5.78_all
-  armbian-jessie-desktop_5.70_all
-  armbian-jessie-desktop_5.60_all
-  armbian-jessie-desktop_5.58_all
-  armbian-jessie-desktop_5.49_all
-  armbian-jessie-desktop_5.44_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -3774,50 +3739,16 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
-  armbian-bionic-desktop_5.73_all
-  armbian-bionic-desktop_5.72_all
-  armbian-bionic-desktop_5.70_all
-  armbian-bionic-desktop_5.60_all
-  armbian-bionic-desktop_5.58_all
-  armbian-bionic-desktop_5.49_all
-  armbian-bionic-desktop_5.44_all
   armbian-config_5.84_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
-  armbian-config_5.78_all
-  armbian-config_5.77_all
-  armbian-config_5.76_all
-  armbian-config_5.75_all
-  armbian-config_5.74_all
-  armbian-config_5.73_all
-  armbian-config_5.72_all
-  armbian-config_5.71_all
-  armbian-config_5.67_all
-  armbian-config_5.64_all
-  armbian-config_5.63_all
-  armbian-config_5.62_all
-  armbian-config_5.61_all
-  armbian-config_5.60_all
-  armbian-config_5.58_all
-  armbian-config_5.54_all
-  armbian-config_5.49_all
-  armbian-config_5.45_all
-  armbian-config_5.44_all
-  armbian-config_5.38_all
-  armbian-config_5.36_all
-  armbian-config_5.35_all
   armbian-firmware_5.83_all
   armbian-firmware_5.79_all
   armbian-firmware_5.78_all
   armbian-firmware-full_5.83_all
   armbian-firmware-full_5.79_all
   armbian-firmware-full_5.78_all
-  armbian-jessie-desktop_5.70_all
-  armbian-jessie-desktop_5.60_all
-  armbian-jessie-desktop_5.58_all
-  armbian-jessie-desktop_5.49_all
-  armbian-jessie-desktop_5.44_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -3989,6 +3920,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.84_arm64
   linux-dtb-next-mvebu64_5.75_arm64
   linux-dtb-next-mvebu64_5.73_arm64
   linux-dtb-next-mvebu64_5.70_arm64
@@ -4313,6 +4245,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.84_arm64
   linux-headers-next-mvebu64_5.75_arm64
   linux-headers-next-mvebu64_5.73_arm64
   linux-headers-next-mvebu64_5.70_arm64
@@ -4612,6 +4545,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.84_arm64
   linux-image-next-mvebu64_5.75_arm64
   linux-image-next-mvebu64_5.73_arm64
   linux-image-next-mvebu64_5.70_arm64
@@ -4867,6 +4801,7 @@
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
+  linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -7648,50 +7583,16 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
-  armbian-bionic-desktop_5.73_all
-  armbian-bionic-desktop_5.72_all
-  armbian-bionic-desktop_5.70_all
-  armbian-bionic-desktop_5.60_all
-  armbian-bionic-desktop_5.58_all
-  armbian-bionic-desktop_5.49_all
-  armbian-bionic-desktop_5.44_all
   armbian-config_5.84_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
-  armbian-config_5.78_all
-  armbian-config_5.77_all
-  armbian-config_5.76_all
-  armbian-config_5.75_all
-  armbian-config_5.74_all
-  armbian-config_5.73_all
-  armbian-config_5.72_all
-  armbian-config_5.71_all
-  armbian-config_5.67_all
-  armbian-config_5.64_all
-  armbian-config_5.63_all
-  armbian-config_5.62_all
-  armbian-config_5.61_all
-  armbian-config_5.60_all
-  armbian-config_5.58_all
-  armbian-config_5.54_all
-  armbian-config_5.49_all
-  armbian-config_5.45_all
-  armbian-config_5.44_all
-  armbian-config_5.38_all
-  armbian-config_5.36_all
-  armbian-config_5.35_all
   armbian-firmware_5.83_all
   armbian-firmware_5.79_all
   armbian-firmware_5.78_all
   armbian-firmware-full_5.83_all
   armbian-firmware-full_5.79_all
   armbian-firmware-full_5.78_all
-  armbian-jessie-desktop_5.70_all
-  armbian-jessie-desktop_5.60_all
-  armbian-jessie-desktop_5.58_all
-  armbian-jessie-desktop_5.49_all
-  armbian-jessie-desktop_5.44_all
   armbian-stretch-desktop_5.83_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
@@ -7863,6 +7764,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.84_arm64
   linux-dtb-next-mvebu64_5.75_arm64
   linux-dtb-next-mvebu64_5.73_arm64
   linux-dtb-next-mvebu64_5.70_arm64
@@ -8187,6 +8089,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.84_arm64
   linux-headers-next-mvebu64_5.75_arm64
   linux-headers-next-mvebu64_5.73_arm64
   linux-headers-next-mvebu64_5.70_arm64
@@ -8486,6 +8389,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.84_arm64
   linux-image-next-mvebu64_5.75_arm64
   linux-image-next-mvebu64_5.73_arm64
   linux-image-next-mvebu64_5.70_arm64
@@ -8741,6 +8645,7 @@
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
+  linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -10867,50 +10772,16 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_5.83_all
-  armbian-bionic-desktop_5.73_all
-  armbian-bionic-desktop_5.72_all
-  armbian-bionic-desktop_5.70_all
-  armbian-bionic-desktop_5.60_all
-  armbian-bionic-desktop_5.58_all
-  armbian-bionic-desktop_5.49_all
-  armbian-bionic-desktop_5.44_all
   armbian-config_5.84_all
   armbian-config_5.83_all
   armbian-config_5.81_all
   armbian-config_5.80_all
-  armbian-config_5.78_all
-  armbian-config_5.77_all
-  armbian-config_5.76_all
-  armbian-config_5.75_all
-  armbian-config_5.74_all
-  armbian-config_5.73_all
-  armbian-config_5.72_all
-  armbian-config_5.71_all
-  armbian-config_5.67_all
-  armbian-config_5.64_all
-  armbian-config_5.63_all
-  armbian-config_5.62_all
-  armbian-config_5.61_all
-  armbian-config_5.60_all
-  armbian-config_5.58_all
-  armbian-config_5.54_all
-  armbian-config_5.49_all
-  armbian-config_5.45_all
-  armbian-config_5.44_all
-  armbian-config_5.38_all
-  armbian-config_5.36_all
-  armbian-config_5.35_all
   armbian-firmware_5.83_all
   armbian-firmware_5.79_all
   armbian-firmware_5.78_all
   armbian-firmware-full_5.83_all
   armbian-firmware-full_5.79_all
   armbian-firmware-full_5.78_all
-  armbian-jessie-desktop_5.70_all
-  armbian-jessie-desktop_5.60_all
-  armbian-jessie-desktop_5.58_all
-  armbian-jessie-desktop_5.49_all
-  armbian-jessie-desktop_5.44_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -11446,6 +11317,7 @@
   linux-dtb-next-mvebu_5.35_armhf
   linux-dtb-next-mvebu_5.32_armhf
   linux-dtb-next-mvebu_5.31_armhf
+  linux-dtb-next-mvebu64_5.84_arm64
   linux-dtb-next-mvebu64_5.75_arm64
   linux-dtb-next-mvebu64_5.73_arm64
   linux-dtb-next-mvebu64_5.70_arm64
@@ -11770,6 +11642,7 @@
   linux-headers-next-mvebu_5.38_armhf
   linux-headers-next-mvebu_5.35_armhf
   linux-headers-next-mvebu_5.32_armhf
+  linux-headers-next-mvebu64_5.84_arm64
   linux-headers-next-mvebu64_5.75_arm64
   linux-headers-next-mvebu64_5.73_arm64
   linux-headers-next-mvebu64_5.70_arm64
@@ -12069,6 +11942,7 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
+  linux-image-next-mvebu64_5.84_arm64
   linux-image-next-mvebu64_5.75_arm64
   linux-image-next-mvebu64_5.73_arm64
   linux-image-next-mvebu64_5.70_arm64
@@ -12324,6 +12198,7 @@
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
+  linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
