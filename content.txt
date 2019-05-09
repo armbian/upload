@@ -4616,7 +4616,6 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
-  linux-image-next-mvebu64_5.85_arm64
   linux-image-next-mvebu64_5.84_arm64
   linux-image-next-mvebu64_5.75_arm64
   linux-image-next-mvebu64_5.73_arm64
@@ -8854,7 +8853,6 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
-  linux-image-next-mvebu64_5.85_arm64
   linux-image-next-mvebu64_5.84_arm64
   linux-image-next-mvebu64_5.75_arm64
   linux-image-next-mvebu64_5.73_arm64
@@ -12825,7 +12823,6 @@
   linux-image-next-mvebu_5.30_armhf
   linux-image-next-mvebu_5.26_armhf
   linux-image-next-mvebu_5.25_armhf
-  linux-image-next-mvebu64_5.85_arm64
   linux-image-next-mvebu64_5.84_arm64
   linux-image-next-mvebu64_5.75_arm64
   linux-image-next-mvebu64_5.73_arm64
