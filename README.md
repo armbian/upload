@@ -6,7 +6,7 @@ Packages [full list](content.txt) | statistics:
 
 	 * [bionic-desktop]: Armbian bionic desktop (packages: 3)
 	 * [bionic-utils]: Armbian bionic utilities (packages: 24)
-	 * [bionic]: Armbian main repository (packages: 3075)
+	 * [bionic]: Armbian main repository (packages: 3073)
 	 * [buster-desktop]: Armbian buster desktop (packages: 1)
 	 * [buster-utils]: Armbian buster utilities (packages: 1)
 	 * [buster]: Armbian main repository (packages: 3)
@@ -15,10 +15,10 @@ Packages [full list](content.txt) | statistics:
 	 * [jessie]: Armbian main repository (packages: 3573)
 	 * [stretch-desktop]: Armbian stretch desktop (packages: 6)
 	 * [stretch-utils]: Armbian stretch utilities (packages: 40)
-	 * [stretch]: Armbian main repository (packages: 3509)
+	 * [stretch]: Armbian main repository (packages: 3507)
 	 * [utils]: Armbian utilities (backwards compatibility) (packages: 54)
 	 * [xenial-desktop]: Armbian xenial desktop (packages: 120)
 	 * [xenial-utils]: Armbian xenial utilities (packages: 41)
-	 * [xenial]: Armbian main repository (packages: 4110)
+	 * [xenial]: Armbian main repository (packages: 4108)
 
 [www.armbian.com](https://www.armbian.com)

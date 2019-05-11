@@ -3909,7 +3909,6 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
-  linux-dtb-next-meson64_5.85_arm64
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -4575,7 +4574,6 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
-  linux-image-next-meson64_5.85_arm64
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -8139,7 +8137,6 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
-  linux-dtb-next-meson64_5.85_arm64
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -8805,7 +8802,6 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
-  linux-image-next-meson64_5.85_arm64
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -12102,7 +12098,6 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
-  linux-dtb-next-meson64_5.85_arm64
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -12768,7 +12763,6 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
-  linux-image-next-meson64_5.85_arm64
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
