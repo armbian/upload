@@ -3864,6 +3864,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
   linux-dtb-dev-sunxi64_5.73_arm64
@@ -3909,6 +3910,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.86_arm64
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -3984,6 +3986,7 @@
   linux-dtb-next-s5p6818_5.70_arm64
   linux-dtb-next-s5p6818_5.60_arm64
   linux-dtb-next-s5p6818_5.54_arm64
+  linux-dtb-next-sunxi_5.86_armhf
   linux-dtb-next-sunxi_5.85_armhf
   linux-dtb-next-sunxi_5.83_armhf
   linux-dtb-next-sunxi_5.78_armhf
@@ -4003,6 +4006,7 @@
   linux-dtb-next-sunxi_5.23_armhf
   linux-dtb-next-sunxi_5.22_armhf
   linux-dtb-next-sunxi_5.20_armhf
+  linux-dtb-next-sunxi64_5.86_arm64
   linux-dtb-next-sunxi64_5.85_arm64
   linux-dtb-next-sunxi64_5.83_arm64
   linux-dtb-next-sunxi64_5.78_arm64
@@ -4198,6 +4202,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
   linux-headers-dev-sunxi64_5.75_arm64
   linux-headers-dev-sunxi64_5.73_arm64
@@ -4249,6 +4254,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.86_arm64
   linux-headers-next-meson64_5.85_arm64
   linux-headers-next-meson64_5.75_arm64
   linux-headers-next-meson64_5.73_arm64
@@ -4328,6 +4334,7 @@
   linux-headers-next-s5p6818_5.70_arm64
   linux-headers-next-s5p6818_5.60_arm64
   linux-headers-next-s5p6818_5.54_arm64
+  linux-headers-next-sunxi_5.86_armhf
   linux-headers-next-sunxi_5.85_armhf
   linux-headers-next-sunxi_5.83_armhf
   linux-headers-next-sunxi_5.78_armhf
@@ -4343,6 +4350,7 @@
   linux-headers-next-sunxi_5.31_armhf
   linux-headers-next-sunxi_5.30_armhf
   linux-headers-next-sunxi_5.26_armhf
+  linux-headers-next-sunxi64_5.86_arm64
   linux-headers-next-sunxi64_5.85_arm64
   linux-headers-next-sunxi64_5.83_arm64
   linux-headers-next-sunxi64_5.78_arm64
@@ -4534,6 +4542,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
   linux-image-dev-sunxi64_5.75_arm64
   linux-image-dev-sunxi64_5.73_arm64
@@ -4570,6 +4579,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.86_arm64
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -4643,6 +4653,7 @@
   linux-image-next-s5p6818_5.70_arm64
   linux-image-next-s5p6818_5.60_arm64
   linux-image-next-s5p6818_5.54_arm64
+  linux-image-next-sunxi_5.86_armhf
   linux-image-next-sunxi_5.85_armhf
   linux-image-next-sunxi_5.83_armhf
   linux-image-next-sunxi_5.78_armhf
@@ -4657,6 +4668,7 @@
   linux-image-next-sunxi_5.32_armhf
   linux-image-next-sunxi_5.31_armhf
   linux-image-next-sunxi_5.30_armhf
+  linux-image-next-sunxi64_5.86_arm64
   linux-image-next-sunxi64_5.85_arm64
   linux-image-next-sunxi64_5.83_arm64
   linux-image-next-sunxi64_5.78_arm64
@@ -4863,7 +4875,9 @@
   linux-source-4.19.25-next-sunxi_4.19.25-next-sunxi+5.78_all
   linux-source-4.19.25-next-sunxi64_4.19.25-next-sunxi64+5.78_all
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
+  linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.86_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
+  linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.86_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.85_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
   linux-source-4.19.41-dev-mvebu_4.19.41-dev-mvebu+5.85_all
@@ -4873,6 +4887,7 @@
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.85_all
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.19.41-next-rockchip_4.19.41-next-rockchip+5.85_all
+  linux-source-4.19.42-next-meson64_4.19.42-next-meson64+5.86_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -4912,6 +4927,7 @@
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.84_all
   linux-source-5.1.0-dev-rockchip_5.1.0-dev-rockchip+5.85_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
+  linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
@@ -8087,6 +8103,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
   linux-dtb-dev-sunxi64_5.73_arm64
@@ -8132,6 +8149,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.86_arm64
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -8207,6 +8225,7 @@
   linux-dtb-next-s5p6818_5.70_arm64
   linux-dtb-next-s5p6818_5.60_arm64
   linux-dtb-next-s5p6818_5.54_arm64
+  linux-dtb-next-sunxi_5.86_armhf
   linux-dtb-next-sunxi_5.85_armhf
   linux-dtb-next-sunxi_5.83_armhf
   linux-dtb-next-sunxi_5.78_armhf
@@ -8226,6 +8245,7 @@
   linux-dtb-next-sunxi_5.23_armhf
   linux-dtb-next-sunxi_5.22_armhf
   linux-dtb-next-sunxi_5.20_armhf
+  linux-dtb-next-sunxi64_5.86_arm64
   linux-dtb-next-sunxi64_5.85_arm64
   linux-dtb-next-sunxi64_5.83_arm64
   linux-dtb-next-sunxi64_5.78_arm64
@@ -8421,6 +8441,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
   linux-headers-dev-sunxi64_5.75_arm64
   linux-headers-dev-sunxi64_5.73_arm64
@@ -8472,6 +8493,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.86_arm64
   linux-headers-next-meson64_5.85_arm64
   linux-headers-next-meson64_5.75_arm64
   linux-headers-next-meson64_5.73_arm64
@@ -8551,6 +8573,7 @@
   linux-headers-next-s5p6818_5.70_arm64
   linux-headers-next-s5p6818_5.60_arm64
   linux-headers-next-s5p6818_5.54_arm64
+  linux-headers-next-sunxi_5.86_armhf
   linux-headers-next-sunxi_5.85_armhf
   linux-headers-next-sunxi_5.83_armhf
   linux-headers-next-sunxi_5.78_armhf
@@ -8566,6 +8589,7 @@
   linux-headers-next-sunxi_5.31_armhf
   linux-headers-next-sunxi_5.30_armhf
   linux-headers-next-sunxi_5.26_armhf
+  linux-headers-next-sunxi64_5.86_arm64
   linux-headers-next-sunxi64_5.85_arm64
   linux-headers-next-sunxi64_5.83_arm64
   linux-headers-next-sunxi64_5.78_arm64
@@ -8757,6 +8781,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
   linux-image-dev-sunxi64_5.75_arm64
   linux-image-dev-sunxi64_5.73_arm64
@@ -8793,6 +8818,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.86_arm64
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -8866,6 +8892,7 @@
   linux-image-next-s5p6818_5.70_arm64
   linux-image-next-s5p6818_5.60_arm64
   linux-image-next-s5p6818_5.54_arm64
+  linux-image-next-sunxi_5.86_armhf
   linux-image-next-sunxi_5.85_armhf
   linux-image-next-sunxi_5.83_armhf
   linux-image-next-sunxi_5.78_armhf
@@ -8880,6 +8907,7 @@
   linux-image-next-sunxi_5.32_armhf
   linux-image-next-sunxi_5.31_armhf
   linux-image-next-sunxi_5.30_armhf
+  linux-image-next-sunxi64_5.86_arm64
   linux-image-next-sunxi64_5.85_arm64
   linux-image-next-sunxi64_5.83_arm64
   linux-image-next-sunxi64_5.78_arm64
@@ -9086,7 +9114,9 @@
   linux-source-4.19.25-next-sunxi_4.19.25-next-sunxi+5.78_all
   linux-source-4.19.25-next-sunxi64_4.19.25-next-sunxi64+5.78_all
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
+  linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.86_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
+  linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.86_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.85_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
   linux-source-4.19.41-dev-mvebu_4.19.41-dev-mvebu+5.85_all
@@ -9096,6 +9126,7 @@
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.85_all
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.19.41-next-rockchip_4.19.41-next-rockchip+5.85_all
+  linux-source-4.19.42-next-meson64_4.19.42-next-meson64+5.86_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -9135,6 +9166,7 @@
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.84_all
   linux-source-5.1.0-dev-rockchip_5.1.0-dev-rockchip+5.85_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
+  linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
   linux-stretch-root-clearfogbase_5.85_armhf
   linux-stretch-root-clearfogbase_5.73_armhf
@@ -12043,6 +12075,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
   linux-dtb-dev-sunxi64_5.73_arm64
@@ -12088,6 +12121,7 @@
   linux-dtb-next-cubox_5.35_armhf
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
+  linux-dtb-next-meson64_5.86_arm64
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -12163,6 +12197,7 @@
   linux-dtb-next-s5p6818_5.70_arm64
   linux-dtb-next-s5p6818_5.60_arm64
   linux-dtb-next-s5p6818_5.54_arm64
+  linux-dtb-next-sunxi_5.86_armhf
   linux-dtb-next-sunxi_5.85_armhf
   linux-dtb-next-sunxi_5.83_armhf
   linux-dtb-next-sunxi_5.78_armhf
@@ -12182,6 +12217,7 @@
   linux-dtb-next-sunxi_5.23_armhf
   linux-dtb-next-sunxi_5.22_armhf
   linux-dtb-next-sunxi_5.20_armhf
+  linux-dtb-next-sunxi64_5.86_arm64
   linux-dtb-next-sunxi64_5.85_arm64
   linux-dtb-next-sunxi64_5.83_arm64
   linux-dtb-next-sunxi64_5.78_arm64
@@ -12377,6 +12413,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
   linux-headers-dev-sunxi64_5.75_arm64
   linux-headers-dev-sunxi64_5.73_arm64
@@ -12428,6 +12465,7 @@
   linux-headers-next-cubox_5.38_armhf
   linux-headers-next-cubox_5.35_armhf
   linux-headers-next-cubox_5.32_armhf
+  linux-headers-next-meson64_5.86_arm64
   linux-headers-next-meson64_5.85_arm64
   linux-headers-next-meson64_5.75_arm64
   linux-headers-next-meson64_5.73_arm64
@@ -12507,6 +12545,7 @@
   linux-headers-next-s5p6818_5.70_arm64
   linux-headers-next-s5p6818_5.60_arm64
   linux-headers-next-s5p6818_5.54_arm64
+  linux-headers-next-sunxi_5.86_armhf
   linux-headers-next-sunxi_5.85_armhf
   linux-headers-next-sunxi_5.83_armhf
   linux-headers-next-sunxi_5.78_armhf
@@ -12522,6 +12561,7 @@
   linux-headers-next-sunxi_5.31_armhf
   linux-headers-next-sunxi_5.30_armhf
   linux-headers-next-sunxi_5.26_armhf
+  linux-headers-next-sunxi64_5.86_arm64
   linux-headers-next-sunxi64_5.85_arm64
   linux-headers-next-sunxi64_5.83_arm64
   linux-headers-next-sunxi64_5.78_arm64
@@ -12713,6 +12753,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
   linux-image-dev-sunxi64_5.75_arm64
   linux-image-dev-sunxi64_5.73_arm64
@@ -12749,6 +12790,7 @@
   linux-image-next-cubox_5.38_armhf
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
+  linux-image-next-meson64_5.86_arm64
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -12822,6 +12864,7 @@
   linux-image-next-s5p6818_5.70_arm64
   linux-image-next-s5p6818_5.60_arm64
   linux-image-next-s5p6818_5.54_arm64
+  linux-image-next-sunxi_5.86_armhf
   linux-image-next-sunxi_5.85_armhf
   linux-image-next-sunxi_5.83_armhf
   linux-image-next-sunxi_5.78_armhf
@@ -12836,6 +12879,7 @@
   linux-image-next-sunxi_5.32_armhf
   linux-image-next-sunxi_5.31_armhf
   linux-image-next-sunxi_5.30_armhf
+  linux-image-next-sunxi64_5.86_arm64
   linux-image-next-sunxi64_5.85_arm64
   linux-image-next-sunxi64_5.83_arm64
   linux-image-next-sunxi64_5.78_arm64
@@ -13042,7 +13086,9 @@
   linux-source-4.19.25-next-sunxi_4.19.25-next-sunxi+5.78_all
   linux-source-4.19.25-next-sunxi64_4.19.25-next-sunxi64+5.78_all
   linux-source-4.19.33-next-rockchip_4.19.33-next-rockchip+5.77_all
+  linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.86_all
   linux-source-4.19.38-next-sunxi_4.19.38-next-sunxi+5.83_all
+  linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.86_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.85_all
   linux-source-4.19.38-next-sunxi64_4.19.38-next-sunxi64+5.83_all
   linux-source-4.19.41-dev-mvebu_4.19.41-dev-mvebu+5.85_all
@@ -13052,6 +13098,7 @@
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.85_all
   linux-source-4.19.41-next-mvebu64_4.19.41-next-mvebu64+5.84_all
   linux-source-4.19.41-next-rockchip_4.19.41-next-rockchip+5.85_all
+  linux-source-4.19.42-next-meson64_4.19.42-next-meson64+5.86_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -13091,6 +13138,7 @@
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.84_all
   linux-source-5.1.0-dev-rockchip_5.1.0-dev-rockchip+5.85_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
+  linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
