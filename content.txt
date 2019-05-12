@@ -5053,7 +5053,6 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
-  linux-u-boot-clearfogbase-default_5.85_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
   linux-u-boot-clearfogbase-default_5.70_armhf
@@ -5063,14 +5062,12 @@
   linux-u-boot-clearfogbase-default_5.31_armhf
   linux-u-boot-clearfogbase-default_5.30_armhf
   linux-u-boot-clearfogbase-default_5.25_armhf
-  linux-u-boot-clearfogbase-dev_5.85_armhf
   linux-u-boot-clearfogbase-dev_5.75_armhf
   linux-u-boot-clearfogbase-dev_5.73_armhf
   linux-u-boot-clearfogbase-dev_5.70_armhf
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
-  linux-u-boot-clearfogbase-next_5.85_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
   linux-u-boot-clearfogbase-next_5.70_armhf
@@ -5080,7 +5077,6 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
-  linux-u-boot-clearfogpro-default_5.85_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
   linux-u-boot-clearfogpro-default_5.70_armhf
@@ -5090,14 +5086,12 @@
   linux-u-boot-clearfogpro-default_5.31_armhf
   linux-u-boot-clearfogpro-default_5.30_armhf
   linux-u-boot-clearfogpro-default_5.25_armhf
-  linux-u-boot-clearfogpro-dev_5.85_armhf
   linux-u-boot-clearfogpro-dev_5.75_armhf
   linux-u-boot-clearfogpro-dev_5.73_armhf
   linux-u-boot-clearfogpro-dev_5.70_armhf
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
-  linux-u-boot-clearfogpro-next_5.85_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
   linux-u-boot-clearfogpro-next_5.70_armhf
@@ -10174,7 +10168,6 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
-  linux-u-boot-clearfogbase-default_5.85_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
   linux-u-boot-clearfogbase-default_5.70_armhf
@@ -10184,14 +10177,12 @@
   linux-u-boot-clearfogbase-default_5.31_armhf
   linux-u-boot-clearfogbase-default_5.30_armhf
   linux-u-boot-clearfogbase-default_5.25_armhf
-  linux-u-boot-clearfogbase-dev_5.85_armhf
   linux-u-boot-clearfogbase-dev_5.75_armhf
   linux-u-boot-clearfogbase-dev_5.73_armhf
   linux-u-boot-clearfogbase-dev_5.70_armhf
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
-  linux-u-boot-clearfogbase-next_5.85_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
   linux-u-boot-clearfogbase-next_5.70_armhf
@@ -10201,7 +10192,6 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
-  linux-u-boot-clearfogpro-default_5.85_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
   linux-u-boot-clearfogpro-default_5.70_armhf
@@ -10211,14 +10201,12 @@
   linux-u-boot-clearfogpro-default_5.31_armhf
   linux-u-boot-clearfogpro-default_5.30_armhf
   linux-u-boot-clearfogpro-default_5.25_armhf
-  linux-u-boot-clearfogpro-dev_5.85_armhf
   linux-u-boot-clearfogpro-dev_5.75_armhf
   linux-u-boot-clearfogpro-dev_5.73_armhf
   linux-u-boot-clearfogpro-dev_5.70_armhf
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
-  linux-u-boot-clearfogpro-next_5.85_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
   linux-u-boot-clearfogpro-next_5.70_armhf
@@ -13264,7 +13252,6 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
-  linux-u-boot-clearfogbase-default_5.85_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
   linux-u-boot-clearfogbase-default_5.70_armhf
@@ -13274,14 +13261,12 @@
   linux-u-boot-clearfogbase-default_5.31_armhf
   linux-u-boot-clearfogbase-default_5.30_armhf
   linux-u-boot-clearfogbase-default_5.25_armhf
-  linux-u-boot-clearfogbase-dev_5.85_armhf
   linux-u-boot-clearfogbase-dev_5.75_armhf
   linux-u-boot-clearfogbase-dev_5.73_armhf
   linux-u-boot-clearfogbase-dev_5.70_armhf
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
-  linux-u-boot-clearfogbase-next_5.85_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
   linux-u-boot-clearfogbase-next_5.70_armhf
@@ -13291,7 +13276,6 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
-  linux-u-boot-clearfogpro-default_5.85_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
   linux-u-boot-clearfogpro-default_5.70_armhf
@@ -13301,14 +13285,12 @@
   linux-u-boot-clearfogpro-default_5.31_armhf
   linux-u-boot-clearfogpro-default_5.30_armhf
   linux-u-boot-clearfogpro-default_5.25_armhf
-  linux-u-boot-clearfogpro-dev_5.85_armhf
   linux-u-boot-clearfogpro-dev_5.75_armhf
   linux-u-boot-clearfogpro-dev_5.73_armhf
   linux-u-boot-clearfogpro-dev_5.70_armhf
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
-  linux-u-boot-clearfogpro-next_5.85_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
   linux-u-boot-clearfogpro-next_5.70_armhf
