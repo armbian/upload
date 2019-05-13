@@ -9,7 +9,7 @@ Packages [full list](content.txt) | statistics:
 	 * [bionic]: Armbian main repository (packages: 3082)
 	 * [buster-desktop]: Armbian buster desktop (packages: 2)
 	 * [buster-utils]: Armbian buster utilities (packages: 9)
-	 * [buster]: Armbian main repository (packages: 7)
+	 * [buster]: Armbian main repository (packages: 8)
 	 * [disco-desktop]: Armbian disco desktop (packages: 1)
 	 * [disco-utils]: Armbian disco utilities (packages: 8)
 	 * [disco]: Armbian main repository (packages: 4)

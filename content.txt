@@ -14577,6 +14577,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
+  armbian-buster-desktop_5.86_all
   armbian-buster-desktop_5.79_all
   armbian-firmware_5.79_all
   armbian-firmware-full_5.79_all
