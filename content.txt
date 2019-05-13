@@ -3999,7 +3999,6 @@
   linux-dtb-next-s5p6818_5.70_arm64
   linux-dtb-next-s5p6818_5.60_arm64
   linux-dtb-next-s5p6818_5.54_arm64
-  linux-dtb-next-sunxi_5.86_armhf
   linux-dtb-next-sunxi_5.85_armhf
   linux-dtb-next-sunxi_5.83_armhf
   linux-dtb-next-sunxi_5.78_armhf
@@ -4348,7 +4347,6 @@
   linux-headers-next-s5p6818_5.70_arm64
   linux-headers-next-s5p6818_5.60_arm64
   linux-headers-next-s5p6818_5.54_arm64
-  linux-headers-next-sunxi_5.86_armhf
   linux-headers-next-sunxi_5.85_armhf
   linux-headers-next-sunxi_5.83_armhf
   linux-headers-next-sunxi_5.78_armhf
@@ -4668,7 +4666,6 @@
   linux-image-next-s5p6818_5.70_arm64
   linux-image-next-s5p6818_5.60_arm64
   linux-image-next-s5p6818_5.54_arm64
-  linux-image-next-sunxi_5.86_armhf
   linux-image-next-sunxi_5.85_armhf
   linux-image-next-sunxi_5.83_armhf
   linux-image-next-sunxi_5.78_armhf
@@ -8240,7 +8237,6 @@
   linux-dtb-next-s5p6818_5.70_arm64
   linux-dtb-next-s5p6818_5.60_arm64
   linux-dtb-next-s5p6818_5.54_arm64
-  linux-dtb-next-sunxi_5.86_armhf
   linux-dtb-next-sunxi_5.85_armhf
   linux-dtb-next-sunxi_5.83_armhf
   linux-dtb-next-sunxi_5.78_armhf
@@ -8589,7 +8585,6 @@
   linux-headers-next-s5p6818_5.70_arm64
   linux-headers-next-s5p6818_5.60_arm64
   linux-headers-next-s5p6818_5.54_arm64
-  linux-headers-next-sunxi_5.86_armhf
   linux-headers-next-sunxi_5.85_armhf
   linux-headers-next-sunxi_5.83_armhf
   linux-headers-next-sunxi_5.78_armhf
@@ -8909,7 +8904,6 @@
   linux-image-next-s5p6818_5.70_arm64
   linux-image-next-s5p6818_5.60_arm64
   linux-image-next-s5p6818_5.54_arm64
-  linux-image-next-sunxi_5.86_armhf
   linux-image-next-sunxi_5.85_armhf
   linux-image-next-sunxi_5.83_armhf
   linux-image-next-sunxi_5.78_armhf
@@ -12215,7 +12209,6 @@
   linux-dtb-next-s5p6818_5.70_arm64
   linux-dtb-next-s5p6818_5.60_arm64
   linux-dtb-next-s5p6818_5.54_arm64
-  linux-dtb-next-sunxi_5.86_armhf
   linux-dtb-next-sunxi_5.85_armhf
   linux-dtb-next-sunxi_5.83_armhf
   linux-dtb-next-sunxi_5.78_armhf
@@ -12564,7 +12557,6 @@
   linux-headers-next-s5p6818_5.70_arm64
   linux-headers-next-s5p6818_5.60_arm64
   linux-headers-next-s5p6818_5.54_arm64
-  linux-headers-next-sunxi_5.86_armhf
   linux-headers-next-sunxi_5.85_armhf
   linux-headers-next-sunxi_5.83_armhf
   linux-headers-next-sunxi_5.78_armhf
@@ -12884,7 +12876,6 @@
   linux-image-next-s5p6818_5.70_arm64
   linux-image-next-s5p6818_5.60_arm64
   linux-image-next-s5p6818_5.54_arm64
-  linux-image-next-sunxi_5.86_armhf
   linux-image-next-sunxi_5.85_armhf
   linux-image-next-sunxi_5.83_armhf
   linux-image-next-sunxi_5.78_armhf
