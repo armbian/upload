@@ -114,6 +114,7 @@
   linux-dtb-dev-rockchip64_5.70_arm64
   linux-dtb-dev-rockchip64_5.60_arm64
   linux-dtb-dev-sun8i_5.35_armhf
+  linux-dtb-dev-sunxi_5.86_armhf
   linux-dtb-dev-sunxi_5.75_armhf
   linux-dtb-dev-sunxi_5.73_armhf
   linux-dtb-dev-sunxi_5.70_armhf
@@ -417,6 +418,7 @@
   linux-headers-dev-rockchip64_5.70_arm64
   linux-headers-dev-rockchip64_5.60_arm64
   linux-headers-dev-sun8i_5.35_armhf
+  linux-headers-dev-sunxi_5.86_armhf
   linux-headers-dev-sunxi_5.75_armhf
   linux-headers-dev-sunxi_5.73_armhf
   linux-headers-dev-sunxi_5.70_armhf
@@ -715,6 +717,7 @@
   linux-image-dev-rockchip64_5.70_arm64
   linux-image-dev-rockchip64_5.60_arm64
   linux-image-dev-sun8i_5.35_armhf
+  linux-image-dev-sunxi_5.86_armhf
   linux-image-dev-sunxi_5.75_armhf
   linux-image-dev-sunxi_5.73_armhf
   linux-image-dev-sunxi_5.70_armhf
@@ -2289,6 +2292,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
+  linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -3865,6 +3869,7 @@
   linux-dtb-dev-rockchip64_5.70_arm64
   linux-dtb-dev-rockchip64_5.60_arm64
   linux-dtb-dev-sun8i_5.35_armhf
+  linux-dtb-dev-sunxi_5.86_armhf
   linux-dtb-dev-sunxi_5.85_armhf
   linux-dtb-dev-sunxi_5.75_armhf
   linux-dtb-dev-sunxi_5.73_armhf
@@ -4203,6 +4208,7 @@
   linux-headers-dev-rockchip64_5.70_arm64
   linux-headers-dev-rockchip64_5.60_arm64
   linux-headers-dev-sun8i_5.35_armhf
+  linux-headers-dev-sunxi_5.86_armhf
   linux-headers-dev-sunxi_5.85_armhf
   linux-headers-dev-sunxi_5.75_armhf
   linux-headers-dev-sunxi_5.73_armhf
@@ -4543,6 +4549,7 @@
   linux-image-dev-rockchip64_5.70_arm64
   linux-image-dev-rockchip64_5.60_arm64
   linux-image-dev-sun8i_5.35_armhf
+  linux-image-dev-sunxi_5.86_armhf
   linux-image-dev-sunxi_5.85_armhf
   linux-image-dev-sunxi_5.75_armhf
   linux-image-dev-sunxi_5.73_armhf
@@ -4934,6 +4941,7 @@
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.85_all
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.84_all
   linux-source-5.1.0-dev-rockchip_5.1.0-dev-rockchip+5.85_all
+  linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
@@ -8102,6 +8110,7 @@
   linux-dtb-dev-rockchip64_5.70_arm64
   linux-dtb-dev-rockchip64_5.60_arm64
   linux-dtb-dev-sun8i_5.35_armhf
+  linux-dtb-dev-sunxi_5.86_armhf
   linux-dtb-dev-sunxi_5.85_armhf
   linux-dtb-dev-sunxi_5.75_armhf
   linux-dtb-dev-sunxi_5.73_armhf
@@ -8440,6 +8449,7 @@
   linux-headers-dev-rockchip64_5.70_arm64
   linux-headers-dev-rockchip64_5.60_arm64
   linux-headers-dev-sun8i_5.35_armhf
+  linux-headers-dev-sunxi_5.86_armhf
   linux-headers-dev-sunxi_5.85_armhf
   linux-headers-dev-sunxi_5.75_armhf
   linux-headers-dev-sunxi_5.73_armhf
@@ -8780,6 +8790,7 @@
   linux-image-dev-rockchip64_5.70_arm64
   linux-image-dev-rockchip64_5.60_arm64
   linux-image-dev-sun8i_5.35_armhf
+  linux-image-dev-sunxi_5.86_armhf
   linux-image-dev-sunxi_5.85_armhf
   linux-image-dev-sunxi_5.75_armhf
   linux-image-dev-sunxi_5.73_armhf
@@ -9171,6 +9182,7 @@
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.85_all
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.84_all
   linux-source-5.1.0-dev-rockchip_5.1.0-dev-rockchip+5.85_all
+  linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
@@ -12073,6 +12085,7 @@
   linux-dtb-dev-rockchip64_5.70_arm64
   linux-dtb-dev-rockchip64_5.60_arm64
   linux-dtb-dev-sun8i_5.35_armhf
+  linux-dtb-dev-sunxi_5.86_armhf
   linux-dtb-dev-sunxi_5.85_armhf
   linux-dtb-dev-sunxi_5.75_armhf
   linux-dtb-dev-sunxi_5.73_armhf
@@ -12411,6 +12424,7 @@
   linux-headers-dev-rockchip64_5.70_arm64
   linux-headers-dev-rockchip64_5.60_arm64
   linux-headers-dev-sun8i_5.35_armhf
+  linux-headers-dev-sunxi_5.86_armhf
   linux-headers-dev-sunxi_5.85_armhf
   linux-headers-dev-sunxi_5.75_armhf
   linux-headers-dev-sunxi_5.73_armhf
@@ -12751,6 +12765,7 @@
   linux-image-dev-rockchip64_5.70_arm64
   linux-image-dev-rockchip64_5.60_arm64
   linux-image-dev-sun8i_5.35_armhf
+  linux-image-dev-sunxi_5.86_armhf
   linux-image-dev-sunxi_5.85_armhf
   linux-image-dev-sunxi_5.75_armhf
   linux-image-dev-sunxi_5.73_armhf
@@ -13142,6 +13157,7 @@
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.85_all
   linux-source-5.0.14-dev-meson64_5.0.14-dev-meson64+5.84_all
   linux-source-5.1.0-dev-rockchip_5.1.0-dev-rockchip+5.85_all
+  linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
@@ -14585,6 +14601,10 @@
   armbian-tools-buster_5.86_armhf
   armbian-tools-disco_5.86_arm64
   armbian-tools-disco_5.86_armhf
+  linux-dtb-dev-sunxi_5.86_armhf
+  linux-headers-dev-sunxi_5.86_armhf
+  linux-image-dev-sunxi_5.86_armhf
+  linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
 common utils
