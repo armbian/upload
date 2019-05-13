@@ -12,7 +12,7 @@ Packages [full list](content.txt) | statistics:
 	 * [buster]: Armbian main repository (packages: 8)
 	 * [disco-desktop]: Armbian disco desktop (packages: 1)
 	 * [disco-utils]: Armbian disco utilities (packages: 8)
-	 * [disco]: Armbian main repository (packages: 4)
+	 * [disco]: Armbian main repository (packages: 5)
 	 * [jessie-desktop]: Armbian jessie desktop (packages: 155)
 	 * [jessie-utils]: Armbian jessie utilities (packages: 54)
 	 * [jessie]: Armbian main repository (packages: 3577)
