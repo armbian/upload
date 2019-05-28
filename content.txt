@@ -2297,7 +2297,6 @@
   linux-source-4.4.174-default-rockchip64_4.4.174-default-rockchip64+5.75_all
   linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
-  linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
@@ -4947,8 +4946,6 @@
   linux-source-4.4.178-default-rk3399_4.4.178-default-rk3399+5.85_all
   linux-source-4.4.178-default-rockchip64_4.4.178-default-rockchip64+5.85_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
-  linux-source-4.9.173-default-odroidn2_4.9.173-default-odroidn2+5.86_all
-  linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-dev-rk3399_5.0.0-dev-rk3399+5.85_all
   linux-source-5.0.0-dev-rockchip64_5.0.0-dev-rockchip64+5.85_all
@@ -9196,8 +9193,6 @@
   linux-source-4.4.178-default-rk3399_4.4.178-default-rk3399+5.85_all
   linux-source-4.4.178-default-rockchip64_4.4.178-default-rockchip64+5.85_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
-  linux-source-4.9.173-default-odroidn2_4.9.173-default-odroidn2+5.86_all
-  linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-dev-rk3399_5.0.0-dev-rk3399+5.85_all
   linux-source-5.0.0-dev-rockchip64_5.0.0-dev-rockchip64+5.85_all
@@ -13183,8 +13178,6 @@
   linux-source-4.4.178-default-rk3399_4.4.178-default-rk3399+5.85_all
   linux-source-4.4.178-default-rockchip64_4.4.178-default-rockchip64+5.85_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
-  linux-source-4.9.173-default-odroidn2_4.9.173-default-odroidn2+5.86_all
-  linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-dev-rk3399_5.0.0-dev-rk3399+5.85_all
   linux-source-5.0.0-dev-rockchip64_5.0.0-dev-rockchip64+5.85_all
@@ -14650,7 +14643,6 @@
   linux-image-dev-sunxi_5.86_armhf
   linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
-  linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-u-boot-odroidn2-default_5.88_arm64
