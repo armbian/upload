@@ -1,4 +1,5 @@
 
+  armbian-config_5.88_all
   armbian-firmware_5.79_all
   armbian-firmware_5.78_all
   armbian-firmware-full_5.79_all
@@ -289,6 +290,7 @@
   linux-dtb-odroidc2_5.22_arm64
   linux-dtb-odroidc2_5.20_arm64
   linux-dtb-odroidc2_5.17_arm64
+  linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-dtb-odroidxu4_5.75_armhf
   linux-dtb-odroidxu4_5.73_armhf
@@ -589,6 +591,7 @@
   linux-headers-odroidc2_5.30_arm64
   linux-headers-odroidc2_5.25_arm64
   linux-headers-odroidc2_5.23_arm64
+  linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-headers-odroidxu4_5.75_armhf
   linux-headers-odroidxu4_5.73_armhf
@@ -864,6 +867,7 @@
   linux-image-odroidc2_5.32_arm64
   linux-image-odroidc2_5.31_arm64
   linux-image-odroidc2_5.30_arm64
+  linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-image-odroidxu4_5.75_armhf
   linux-image-odroidxu4_5.73_armhf
@@ -2294,6 +2298,7 @@
   linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
+  linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
@@ -2985,6 +2990,7 @@
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
   linux-u-boot-odroidc2-next_5.30_arm64
+  linux-u-boot-odroidn2-default_5.88_arm64
   linux-u-boot-odroidn2-default_5.87_arm64
   linux-u-boot-odroidxu4-default_5.75_armhf
   linux-u-boot-odroidxu4-default_5.73_armhf
@@ -3740,6 +3746,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.88_all
   armbian-config_5.86_all
   armbian-config_5.85_all
   armbian-config_5.83_all
@@ -4069,6 +4076,7 @@
   linux-dtb-odroidc2_5.22_arm64
   linux-dtb-odroidc2_5.20_arm64
   linux-dtb-odroidc2_5.17_arm64
+  linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-dtb-odroidn2_5.86_arm64
   linux-dtb-odroidxu4_5.85_armhf
@@ -4404,6 +4412,7 @@
   linux-headers-odroidc2_5.30_arm64
   linux-headers-odroidc2_5.25_arm64
   linux-headers-odroidc2_5.23_arm64
+  linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-headers-odroidn2_5.86_arm64
   linux-headers-odroidxu4_5.85_armhf
@@ -4719,6 +4728,7 @@
   linux-image-odroidc2_5.32_arm64
   linux-image-odroidc2_5.31_arm64
   linux-image-odroidc2_5.30_arm64
+  linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-image-odroidn2_5.86_arm64
   linux-image-odroidxu4_5.85_armhf
@@ -4939,6 +4949,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.173-default-odroidn2_4.9.173-default-odroidn2+5.86_all
   linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
+  linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-dev-rk3399_5.0.0-dev-rk3399+5.85_all
   linux-source-5.0.0-dev-rockchip64_5.0.0-dev-rockchip64+5.85_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
@@ -5701,6 +5712,7 @@
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
   linux-u-boot-odroidc2-next_5.30_arm64
+  linux-u-boot-odroidn2-default_5.88_arm64
   linux-u-boot-odroidn2-default_5.87_arm64
   linux-u-boot-odroidn2-default_5.86_arm64
   linux-u-boot-odroidxu4-default_5.85_armhf
@@ -7983,6 +7995,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.88_all
   armbian-config_5.86_all
   armbian-config_5.85_all
   armbian-config_5.83_all
@@ -8312,6 +8325,7 @@
   linux-dtb-odroidc2_5.22_arm64
   linux-dtb-odroidc2_5.20_arm64
   linux-dtb-odroidc2_5.17_arm64
+  linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-dtb-odroidn2_5.86_arm64
   linux-dtb-odroidxu4_5.85_armhf
@@ -8647,6 +8661,7 @@
   linux-headers-odroidc2_5.30_arm64
   linux-headers-odroidc2_5.25_arm64
   linux-headers-odroidc2_5.23_arm64
+  linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-headers-odroidn2_5.86_arm64
   linux-headers-odroidxu4_5.85_armhf
@@ -8962,6 +8977,7 @@
   linux-image-odroidc2_5.32_arm64
   linux-image-odroidc2_5.31_arm64
   linux-image-odroidc2_5.30_arm64
+  linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-image-odroidn2_5.86_arm64
   linux-image-odroidxu4_5.85_armhf
@@ -9182,6 +9198,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.173-default-odroidn2_4.9.173-default-odroidn2+5.86_all
   linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
+  linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-dev-rk3399_5.0.0-dev-rk3399+5.85_all
   linux-source-5.0.0-dev-rockchip64_5.0.0-dev-rockchip64+5.85_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
@@ -10044,6 +10061,7 @@
   linux-stretch-root-odroidc2_5.37_arm64
   linux-stretch-root-odroidc2_5.36_arm64
   linux-stretch-root-odroidc2_5.35_arm64
+  linux-stretch-root-odroidn2_5.88_arm64
   linux-stretch-root-odroidn2_5.87_arm64
   linux-stretch-root-odroidxu4_5.85_armhf
   linux-stretch-root-odroidxu4_5.83_armhf
@@ -10827,6 +10845,7 @@
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
   linux-u-boot-odroidc2-next_5.30_arm64
+  linux-u-boot-odroidn2-default_5.88_arm64
   linux-u-boot-odroidn2-default_5.87_arm64
   linux-u-boot-odroidn2-default_5.86_arm64
   linux-u-boot-odroidxu4-default_5.85_armhf
@@ -11515,6 +11534,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_5.85_all
   armbian-bionic-desktop_5.83_all
+  armbian-config_5.88_all
   armbian-config_5.86_all
   armbian-config_5.85_all
   armbian-config_5.83_all
@@ -12020,6 +12040,7 @@
   linux-bionic-root-odroidc2_5.70_arm64
   linux-bionic-root-odroidc2_5.60_arm64
   linux-bionic-root-odroidc2_5.58_arm64
+  linux-bionic-root-odroidn2_5.88_arm64
   linux-bionic-root-odroidn2_5.87_arm64
   linux-bionic-root-odroidxu4_5.85_armhf
   linux-bionic-root-odroidxu4_5.83_armhf
@@ -12291,6 +12312,7 @@
   linux-dtb-odroidc2_5.22_arm64
   linux-dtb-odroidc2_5.20_arm64
   linux-dtb-odroidc2_5.17_arm64
+  linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-dtb-odroidn2_5.86_arm64
   linux-dtb-odroidxu4_5.85_armhf
@@ -12626,6 +12648,7 @@
   linux-headers-odroidc2_5.30_arm64
   linux-headers-odroidc2_5.25_arm64
   linux-headers-odroidc2_5.23_arm64
+  linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-headers-odroidn2_5.86_arm64
   linux-headers-odroidxu4_5.85_armhf
@@ -12941,6 +12964,7 @@
   linux-image-odroidc2_5.32_arm64
   linux-image-odroidc2_5.31_arm64
   linux-image-odroidc2_5.30_arm64
+  linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-image-odroidn2_5.86_arm64
   linux-image-odroidxu4_5.85_armhf
@@ -13161,6 +13185,7 @@
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.173-default-odroidn2_4.9.173-default-odroidn2+5.86_all
   linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
+  linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.0.0-dev-rk3399_5.0.0-dev-rk3399+5.85_all
   linux-source-5.0.0-dev-rockchip64_5.0.0-dev-rockchip64+5.85_all
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
@@ -13923,6 +13948,7 @@
   linux-u-boot-odroidc2-next_5.35_arm64
   linux-u-boot-odroidc2-next_5.31_arm64
   linux-u-boot-odroidc2-next_5.30_arm64
+  linux-u-boot-odroidn2-default_5.88_arm64
   linux-u-boot-odroidn2-default_5.87_arm64
   linux-u-boot-odroidn2-default_5.86_arm64
   linux-u-boot-odroidxu4-default_5.85_armhf
@@ -14608,6 +14634,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
   armbian-buster-desktop_5.86_all
   armbian-buster-desktop_5.79_all
+  armbian-config_5.88_all
   armbian-firmware_5.79_all
   armbian-firmware-full_5.79_all
   armbian-tools-buster_5.86_arm64
@@ -14615,13 +14642,18 @@
   armbian-tools-disco_5.86_arm64
   armbian-tools-disco_5.86_armhf
   linux-dtb-dev-sunxi_5.86_armhf
+  linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-headers-dev-sunxi_5.86_armhf
+  linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-image-dev-sunxi_5.86_armhf
+  linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-source-4.9.177-default-odroidn2_4.9.177-default-odroidn2+5.87_all
+  linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
+  linux-u-boot-odroidn2-default_5.88_arm64
   linux-u-boot-odroidn2-default_5.87_arm64
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
