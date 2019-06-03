@@ -65,6 +65,7 @@
   armbian-xenial-desktop_5.58_all
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
+  chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   htop_2.1.1-3_arm64
   htop_2.1.1-3_armhf
@@ -3820,6 +3821,7 @@
   armbian-xenial-desktop_5.58_all
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
+  chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -8067,6 +8069,7 @@
   armbian-xenial-desktop_5.58_all
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
+  chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -11602,6 +11605,7 @@
   armbian-xenial-desktop_5.58_all
   armbian-xenial-desktop_5.49_all
   armbian-xenial-desktop_5.44_all
+  chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -14634,6 +14638,7 @@
   armbian-tools-buster_5.86_armhf
   armbian-tools-disco_5.86_arm64
   armbian-tools-disco_5.86_armhf
+  chromium_72.0.3626.123-1~deb9u1_armhf
   linux-dtb-dev-sunxi_5.86_armhf
   linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
