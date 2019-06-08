@@ -123,6 +123,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
   linux-dtb-dev-sunxi64_5.73_arm64
   linux-dtb-dev-sunxi64_5.70_arm64
@@ -430,6 +431,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.75_arm64
   linux-headers-dev-sunxi64_5.73_arm64
   linux-headers-dev-sunxi64_5.70_arm64
@@ -732,6 +734,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.75_arm64
   linux-image-dev-sunxi64_5.73_arm64
   linux-image-dev-sunxi64_5.70_arm64
@@ -2306,6 +2309,7 @@
   linux-source-5.0.0-rc4-dev-rockchip_5.0.0-rc4-dev-rockchip+5.73_all
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
+  linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -3103,6 +3107,7 @@
   linux-u-boot-orangepi2-next_5.60_armhf
   linux-u-boot-orangepi2-next_5.38_armhf
   linux-u-boot-orangepi2-next_5.35_armhf
+  linux-u-boot-orangepi3-dev_5.88_arm64
   linux-u-boot-orangepilite-default_5.75_armhf
   linux-u-boot-orangepilite-default_5.73_armhf
   linux-u-boot-orangepilite-default_5.70_armhf
@@ -3129,6 +3134,7 @@
   linux-u-boot-orangepilite-next_5.60_armhf
   linux-u-boot-orangepilite-next_5.38_armhf
   linux-u-boot-orangepilite-next_5.35_armhf
+  linux-u-boot-orangepilite2-dev_5.88_arm64
   linux-u-boot-orangepilite2-dev_5.75_arm64
   linux-u-boot-orangepilite2-dev_5.73_arm64
   linux-u-boot-orangepilite2-dev_5.70_arm64
@@ -3161,6 +3167,7 @@
   linux-u-boot-orangepione-next_5.60_armhf
   linux-u-boot-orangepione-next_5.38_armhf
   linux-u-boot-orangepione-next_5.35_armhf
+  linux-u-boot-orangepioneplus-dev_5.88_arm64
   linux-u-boot-orangepioneplus-dev_5.75_arm64
   linux-u-boot-orangepioneplus-dev_5.73_arm64
   linux-u-boot-orangepioneplus-dev_5.70_arm64
@@ -3894,6 +3901,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
@@ -4235,6 +4243,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
   linux-headers-dev-sunxi64_5.75_arm64
@@ -4578,6 +4587,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
   linux-image-dev-sunxi64_5.75_arm64
@@ -4969,6 +4979,7 @@
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
+  linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -5842,6 +5853,7 @@
   linux-u-boot-orangepi2-next_5.60_armhf
   linux-u-boot-orangepi2-next_5.38_armhf
   linux-u-boot-orangepi2-next_5.35_armhf
+  linux-u-boot-orangepi3-dev_5.88_arm64
   linux-u-boot-orangepi3-dev_5.85_arm64
   linux-u-boot-orangepi3-next_5.85_arm64
   linux-u-boot-orangepilite-default_5.85_armhf
@@ -5873,6 +5885,7 @@
   linux-u-boot-orangepilite-next_5.60_armhf
   linux-u-boot-orangepilite-next_5.38_armhf
   linux-u-boot-orangepilite-next_5.35_armhf
+  linux-u-boot-orangepilite2-dev_5.88_arm64
   linux-u-boot-orangepilite2-dev_5.85_arm64
   linux-u-boot-orangepilite2-dev_5.75_arm64
   linux-u-boot-orangepilite2-dev_5.73_arm64
@@ -5910,6 +5923,7 @@
   linux-u-boot-orangepione-next_5.60_armhf
   linux-u-boot-orangepione-next_5.38_armhf
   linux-u-boot-orangepione-next_5.35_armhf
+  linux-u-boot-orangepioneplus-dev_5.88_arm64
   linux-u-boot-orangepioneplus-dev_5.85_arm64
   linux-u-boot-orangepioneplus-dev_5.75_arm64
   linux-u-boot-orangepioneplus-dev_5.73_arm64
@@ -8146,6 +8160,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
@@ -8487,6 +8502,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
   linux-headers-dev-sunxi64_5.75_arm64
@@ -8830,6 +8846,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
   linux-image-dev-sunxi64_5.75_arm64
@@ -9221,6 +9238,7 @@
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
+  linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-stretch-root-clearfogbase_5.85_armhf
   linux-stretch-root-clearfogbase_5.73_armhf
   linux-stretch-root-clearfogbase_5.70_armhf
@@ -9457,6 +9475,7 @@
   linux-stretch-root-dev-orangepi2_5.37_armhf
   linux-stretch-root-dev-orangepi2_5.36_armhf
   linux-stretch-root-dev-orangepi2_5.35_armhf
+  linux-stretch-root-dev-orangepi3_5.88_arm64
   linux-stretch-root-dev-orangepilite_5.85_armhf
   linux-stretch-root-dev-orangepilite_5.73_armhf
   linux-stretch-root-dev-orangepilite_5.70_armhf
@@ -9465,6 +9484,7 @@
   linux-stretch-root-dev-orangepilite_5.37_armhf
   linux-stretch-root-dev-orangepilite_5.36_armhf
   linux-stretch-root-dev-orangepilite_5.35_armhf
+  linux-stretch-root-dev-orangepilite2_5.88_arm64
   linux-stretch-root-dev-orangepilite2_5.73_arm64
   linux-stretch-root-dev-orangepilite2_5.70_arm64
   linux-stretch-root-dev-orangepilite2_5.60_arm64
@@ -9476,6 +9496,7 @@
   linux-stretch-root-dev-orangepione_5.37_armhf
   linux-stretch-root-dev-orangepione_5.36_armhf
   linux-stretch-root-dev-orangepione_5.35_armhf
+  linux-stretch-root-dev-orangepioneplus_5.88_arm64
   linux-stretch-root-dev-orangepioneplus_5.73_arm64
   linux-stretch-root-dev-orangepioneplus_5.70_arm64
   linux-stretch-root-dev-orangepioneplus_5.60_arm64
@@ -10979,6 +11000,7 @@
   linux-u-boot-orangepi2-next_5.60_armhf
   linux-u-boot-orangepi2-next_5.38_armhf
   linux-u-boot-orangepi2-next_5.35_armhf
+  linux-u-boot-orangepi3-dev_5.88_arm64
   linux-u-boot-orangepi3-dev_5.85_arm64
   linux-u-boot-orangepi3-next_5.85_arm64
   linux-u-boot-orangepilite-default_5.85_armhf
@@ -11010,6 +11032,7 @@
   linux-u-boot-orangepilite-next_5.60_armhf
   linux-u-boot-orangepilite-next_5.38_armhf
   linux-u-boot-orangepilite-next_5.35_armhf
+  linux-u-boot-orangepilite2-dev_5.88_arm64
   linux-u-boot-orangepilite2-dev_5.85_arm64
   linux-u-boot-orangepilite2-dev_5.75_arm64
   linux-u-boot-orangepilite2-dev_5.73_arm64
@@ -11047,6 +11070,7 @@
   linux-u-boot-orangepione-next_5.60_armhf
   linux-u-boot-orangepione-next_5.38_armhf
   linux-u-boot-orangepione-next_5.35_armhf
+  linux-u-boot-orangepioneplus-dev_5.88_arm64
   linux-u-boot-orangepioneplus-dev_5.85_arm64
   linux-u-boot-orangepioneplus-dev_5.75_arm64
   linux-u-boot-orangepioneplus-dev_5.73_arm64
@@ -11741,10 +11765,12 @@
   linux-bionic-root-dev-orangepi2_5.73_armhf
   linux-bionic-root-dev-orangepi2_5.70_armhf
   linux-bionic-root-dev-orangepi2_5.60_armhf
+  linux-bionic-root-dev-orangepi3_5.88_arm64
   linux-bionic-root-dev-orangepilite_5.85_armhf
   linux-bionic-root-dev-orangepilite_5.73_armhf
   linux-bionic-root-dev-orangepilite_5.70_armhf
   linux-bionic-root-dev-orangepilite_5.60_armhf
+  linux-bionic-root-dev-orangepilite2_5.88_arm64
   linux-bionic-root-dev-orangepilite2_5.73_arm64
   linux-bionic-root-dev-orangepilite2_5.70_arm64
   linux-bionic-root-dev-orangepilite2_5.60_arm64
@@ -11752,6 +11778,7 @@
   linux-bionic-root-dev-orangepione_5.73_armhf
   linux-bionic-root-dev-orangepione_5.70_armhf
   linux-bionic-root-dev-orangepione_5.60_armhf
+  linux-bionic-root-dev-orangepioneplus_5.88_arm64
   linux-bionic-root-dev-orangepioneplus_5.73_arm64
   linux-bionic-root-dev-orangepioneplus_5.70_arm64
   linux-bionic-root-dev-orangepioneplus_5.60_arm64
@@ -12138,6 +12165,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
@@ -12479,6 +12507,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
   linux-headers-dev-sunxi64_5.75_arm64
@@ -12822,6 +12851,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
   linux-image-dev-sunxi64_5.75_arm64
@@ -13213,6 +13243,7 @@
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.85_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
+  linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -14086,6 +14117,7 @@
   linux-u-boot-orangepi2-next_5.60_armhf
   linux-u-boot-orangepi2-next_5.38_armhf
   linux-u-boot-orangepi2-next_5.35_armhf
+  linux-u-boot-orangepi3-dev_5.88_arm64
   linux-u-boot-orangepi3-dev_5.85_arm64
   linux-u-boot-orangepi3-next_5.85_arm64
   linux-u-boot-orangepilite-default_5.85_armhf
@@ -14117,6 +14149,7 @@
   linux-u-boot-orangepilite-next_5.60_armhf
   linux-u-boot-orangepilite-next_5.38_armhf
   linux-u-boot-orangepilite-next_5.35_armhf
+  linux-u-boot-orangepilite2-dev_5.88_arm64
   linux-u-boot-orangepilite2-dev_5.85_arm64
   linux-u-boot-orangepilite2-dev_5.75_arm64
   linux-u-boot-orangepilite2-dev_5.73_arm64
@@ -14154,6 +14187,7 @@
   linux-u-boot-orangepione-next_5.60_armhf
   linux-u-boot-orangepione-next_5.38_armhf
   linux-u-boot-orangepione-next_5.35_armhf
+  linux-u-boot-orangepioneplus-dev_5.88_arm64
   linux-u-boot-orangepioneplus-dev_5.85_arm64
   linux-u-boot-orangepioneplus-dev_5.75_arm64
   linux-u-boot-orangepioneplus-dev_5.73_arm64
@@ -14658,22 +14692,29 @@
   armbian-tools-disco_5.86_armhf
   chromium_72.0.3626.123-1~deb9u1_armhf
   linux-dtb-dev-sunxi_5.86_armhf
+  linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-dev-sunxi_5.86_armhf
+  linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-headers-rockchip64_5.88_arm64
   linux-image-dev-sunxi_5.86_armhf
+  linux-image-dev-sunxi64_5.88_arm64
   linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-image-rockchip64_5.88_arm64
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
+  linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-u-boot-odroidn2-default_5.88_arm64
   linux-u-boot-odroidn2-default_5.87_arm64
+  linux-u-boot-orangepi3-dev_5.88_arm64
+  linux-u-boot-orangepilite2-dev_5.88_arm64
+  linux-u-boot-orangepioneplus-dev_5.88_arm64
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
 common utils
