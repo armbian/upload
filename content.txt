@@ -330,6 +330,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.90_arm64
   linux-dtb-rk3399_5.75_arm64
   linux-dtb-rk3399_5.73_arm64
   linux-dtb-rk3399_5.70_arm64
@@ -636,6 +637,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.90_arm64
   linux-headers-rk3399_5.75_arm64
   linux-headers-rk3399_5.73_arm64
   linux-headers-rk3399_5.70_arm64
@@ -922,6 +924,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.90_arm64
   linux-image-rk3399_5.75_arm64
   linux-image-rk3399_5.73_arm64
   linux-image-rk3399_5.70_arm64
@@ -2329,6 +2332,7 @@
   linux-source-4.4.174-default-rockchip_4.4.174-default-rockchip+5.75_all
   linux-source-4.4.174-default-rockchip64_4.4.174-default-rockchip64+5.75_all
   linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
+  linux-source-4.4.179-default-rk3399_4.4.179-default-rk3399+5.90_all
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
@@ -4165,6 +4169,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.90_arm64
   linux-dtb-rk3399_5.85_arm64
   linux-dtb-rk3399_5.75_arm64
   linux-dtb-rk3399_5.73_arm64
@@ -4507,6 +4512,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.90_arm64
   linux-headers-rk3399_5.85_arm64
   linux-headers-rk3399_5.75_arm64
   linux-headers-rk3399_5.73_arm64
@@ -4833,6 +4839,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.90_arm64
   linux-image-rk3399_5.85_arm64
   linux-image-rk3399_5.75_arm64
   linux-image-rk3399_5.73_arm64
@@ -5024,6 +5031,7 @@
   linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.178-default-rk3399_4.4.178-default-rk3399+5.85_all
   linux-source-4.4.178-default-rockchip64_4.4.178-default-rockchip64+5.85_all
+  linux-source-4.4.179-default-rk3399_4.4.179-default-rk3399+5.90_all
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
@@ -8458,6 +8466,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.90_arm64
   linux-dtb-rk3399_5.85_arm64
   linux-dtb-rk3399_5.75_arm64
   linux-dtb-rk3399_5.73_arm64
@@ -8800,6 +8809,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.90_arm64
   linux-headers-rk3399_5.85_arm64
   linux-headers-rk3399_5.75_arm64
   linux-headers-rk3399_5.73_arm64
@@ -9126,6 +9136,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.90_arm64
   linux-image-rk3399_5.85_arm64
   linux-image-rk3399_5.75_arm64
   linux-image-rk3399_5.73_arm64
@@ -9317,6 +9328,7 @@
   linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.178-default-rk3399_4.4.178-default-rk3399+5.85_all
   linux-source-4.4.178-default-rockchip64_4.4.178-default-rockchip64+5.85_all
+  linux-source-4.4.179-default-rk3399_4.4.179-default-rk3399+5.90_all
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
@@ -12501,6 +12513,7 @@
   linux-dtb-pine64_5.26_arm64
   linux-dtb-pine64_5.25_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.90_arm64
   linux-dtb-rk3399_5.85_arm64
   linux-dtb-rk3399_5.75_arm64
   linux-dtb-rk3399_5.73_arm64
@@ -12843,6 +12856,7 @@
   linux-headers-pine64_5.26_arm64
   linux-headers-pine64_5.25_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.90_arm64
   linux-headers-rk3399_5.85_arm64
   linux-headers-rk3399_5.75_arm64
   linux-headers-rk3399_5.73_arm64
@@ -13169,6 +13183,7 @@
   linux-image-pine64_5.26_arm64
   linux-image-pine64_5.25_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.90_arm64
   linux-image-rk3399_5.85_arm64
   linux-image-rk3399_5.75_arm64
   linux-image-rk3399_5.73_arm64
@@ -13360,6 +13375,7 @@
   linux-source-4.4.176-default-rockchip_4.4.176-default-rockchip+5.77_all
   linux-source-4.4.178-default-rk3399_4.4.178-default-rk3399+5.85_all
   linux-source-4.4.178-default-rockchip64_4.4.178-default-rockchip64+5.85_all
+  linux-source-4.4.179-default-rk3399_4.4.179-default-rk3399+5.90_all
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
@@ -14843,6 +14859,7 @@
   linux-dtb-odroidn2_5.88_arm64
   linux-dtb-odroidn2_5.87_arm64
   linux-dtb-odroidxu4_5.89_armhf
+  linux-dtb-rk3399_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-dev-odroidxu4_5.89_armhf
   linux-headers-dev-sunxi_5.86_armhf
@@ -14855,6 +14872,7 @@
   linux-headers-odroidn2_5.88_arm64
   linux-headers-odroidn2_5.87_arm64
   linux-headers-odroidxu4_5.89_armhf
+  linux-headers-rk3399_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
   linux-image-dev-odroidxu4_5.89_armhf
   linux-image-dev-sunxi_5.86_armhf
@@ -14867,11 +14885,13 @@
   linux-image-odroidn2_5.88_arm64
   linux-image-odroidn2_5.87_arm64
   linux-image-odroidxu4_5.89_armhf
+  linux-image-rk3399_5.90_arm64
   linux-image-rockchip64_5.88_arm64
   linux-source-4.14.127-default-odroidxu4_4.14.127-default-odroidxu4+5.89_all
   linux-source-4.14.127-next-odroidxu4_4.14.127-next-odroidxu4+5.89_all
   linux-source-4.14.130-next-s5p6818_4.14.130-next-s5p6818+5.89_all
   linux-source-4.19.56-next-mvebu64_4.19.56-next-mvebu64+5.89_all
+  linux-source-4.4.179-default-rk3399_4.4.179-default-rk3399+5.90_all
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
   linux-source-4.9.180-default-odroidn2_4.9.180-default-odroidn2+5.89_all
