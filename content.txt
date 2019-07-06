@@ -125,6 +125,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.90_arm64
   linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.75_arm64
   linux-dtb-dev-sunxi64_5.73_arm64
@@ -446,6 +447,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.90_arm64
   linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.75_arm64
   linux-headers-dev-sunxi64_5.73_arm64
@@ -762,6 +764,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.90_arm64
   linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.75_arm64
   linux-image-dev-sunxi64_5.73_arm64
@@ -2361,6 +2364,7 @@
   linux-source-5.0.0-rc5-dev-rockchip_5.0.0-rc5-dev-rockchip+5.75_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-source-5.1.15-dev-odroidxu4_5.1.15-dev-odroidxu4+5.89_all
+  linux-source-5.1.15-dev-sunxi64_5.1.15-dev-sunxi64+5.90_all
   linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-source-5.1.8-next-odroidc1_5.1.8-next-odroidc1+5.89_all
   linux-u-boot-armada-default_5.23_armhf
@@ -3551,6 +3555,7 @@
   linux-u-boot-pinebook-a64-default_5.35_arm64
   linux-u-boot-pinebook-a64-default_5.31_arm64
   linux-u-boot-pinebook-a64-default_5.30_arm64
+  linux-u-boot-pinebook-a64-dev_5.90_arm64
   linux-u-boot-pinebook-a64-dev_5.60_arm64
   linux-u-boot-pinebook-a64-dev_5.35_arm64
   linux-u-boot-pinebook-a64-next_5.75_arm64
@@ -3961,6 +3966,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.90_arm64
   linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
@@ -4316,6 +4322,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.90_arm64
   linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
@@ -4673,6 +4680,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.90_arm64
   linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
@@ -5089,6 +5097,7 @@
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
   linux-source-5.1.15-dev-odroidxu4_5.1.15-dev-odroidxu4+5.89_all
+  linux-source-5.1.15-dev-sunxi64_5.1.15-dev-sunxi64+5.90_all
   linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-source-5.1.8-next-odroidc1_5.1.8-next-odroidc1+5.89_all
   linux-u-boot-armada-default_5.23_armhf
@@ -6403,6 +6412,7 @@
   linux-u-boot-pinebook-a64-default_5.35_arm64
   linux-u-boot-pinebook-a64-default_5.31_arm64
   linux-u-boot-pinebook-a64-default_5.30_arm64
+  linux-u-boot-pinebook-a64-dev_5.90_arm64
   linux-u-boot-pinebook-a64-dev_5.85_arm64
   linux-u-boot-pinebook-a64-dev_5.60_arm64
   linux-u-boot-pinebook-a64-dev_5.35_arm64
@@ -8278,6 +8288,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.90_arm64
   linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
@@ -8633,6 +8644,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.90_arm64
   linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
@@ -8990,6 +9002,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.90_arm64
   linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
@@ -9406,6 +9419,7 @@
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
   linux-source-5.1.15-dev-odroidxu4_5.1.15-dev-odroidxu4+5.89_all
+  linux-source-5.1.15-dev-sunxi64_5.1.15-dev-sunxi64+5.90_all
   linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-source-5.1.8-next-odroidc1_5.1.8-next-odroidc1+5.89_all
   linux-stretch-root-clearfogbase_5.85_armhf
@@ -11610,6 +11624,7 @@
   linux-u-boot-pinebook-a64-default_5.35_arm64
   linux-u-boot-pinebook-a64-default_5.31_arm64
   linux-u-boot-pinebook-a64-default_5.30_arm64
+  linux-u-boot-pinebook-a64-dev_5.90_arm64
   linux-u-boot-pinebook-a64-dev_5.85_arm64
   linux-u-boot-pinebook-a64-dev_5.60_arm64
   linux-u-boot-pinebook-a64-dev_5.35_arm64
@@ -12345,6 +12360,7 @@
   linux-dtb-dev-sunxi_5.60_armhf
   linux-dtb-dev-sunxi_5.38_armhf
   linux-dtb-dev-sunxi_5.35_armhf
+  linux-dtb-dev-sunxi64_5.90_arm64
   linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-dev-sunxi64_5.86_arm64
   linux-dtb-dev-sunxi64_5.85_arm64
@@ -12700,6 +12716,7 @@
   linux-headers-dev-sunxi_5.60_armhf
   linux-headers-dev-sunxi_5.38_armhf
   linux-headers-dev-sunxi_5.35_armhf
+  linux-headers-dev-sunxi64_5.90_arm64
   linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-dev-sunxi64_5.86_arm64
   linux-headers-dev-sunxi64_5.85_arm64
@@ -13057,6 +13074,7 @@
   linux-image-dev-sunxi_5.60_armhf
   linux-image-dev-sunxi_5.38_armhf
   linux-image-dev-sunxi_5.35_armhf
+  linux-image-dev-sunxi64_5.90_arm64
   linux-image-dev-sunxi64_5.88_arm64
   linux-image-dev-sunxi64_5.86_arm64
   linux-image-dev-sunxi64_5.85_arm64
@@ -13473,6 +13491,7 @@
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.86_all
   linux-source-5.1.0-dev-sunxi64_5.1.0-dev-sunxi64+5.85_all
   linux-source-5.1.15-dev-odroidxu4_5.1.15-dev-odroidxu4+5.89_all
+  linux-source-5.1.15-dev-sunxi64_5.1.15-dev-sunxi64+5.90_all
   linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-source-5.1.8-next-odroidc1_5.1.8-next-odroidc1+5.89_all
   linux-u-boot-armada-default_5.23_armhf
@@ -14787,6 +14806,7 @@
   linux-u-boot-pinebook-a64-default_5.35_arm64
   linux-u-boot-pinebook-a64-default_5.31_arm64
   linux-u-boot-pinebook-a64-default_5.30_arm64
+  linux-u-boot-pinebook-a64-dev_5.90_arm64
   linux-u-boot-pinebook-a64-dev_5.85_arm64
   linux-u-boot-pinebook-a64-dev_5.60_arm64
   linux-u-boot-pinebook-a64-dev_5.35_arm64
@@ -14930,6 +14950,7 @@
   chromium_72.0.3626.123-1~deb9u1_armhf
   linux-dtb-dev-odroidxu4_5.89_armhf
   linux-dtb-dev-sunxi_5.86_armhf
+  linux-dtb-dev-sunxi64_5.90_arm64
   linux-dtb-dev-sunxi64_5.88_arm64
   linux-dtb-next-mvebu64_5.89_arm64
   linux-dtb-next-odroidc1_5.89_armhf
@@ -14948,6 +14969,7 @@
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-dev-odroidxu4_5.89_armhf
   linux-headers-dev-sunxi_5.86_armhf
+  linux-headers-dev-sunxi64_5.90_arm64
   linux-headers-dev-sunxi64_5.88_arm64
   linux-headers-next-mvebu64_5.89_arm64
   linux-headers-next-odroidc1_5.89_armhf
@@ -14966,6 +14988,7 @@
   linux-headers-rockchip64_5.88_arm64
   linux-image-dev-odroidxu4_5.89_armhf
   linux-image-dev-sunxi_5.86_armhf
+  linux-image-dev-sunxi64_5.90_arm64
   linux-image-dev-sunxi64_5.88_arm64
   linux-image-next-mvebu64_5.89_arm64
   linux-image-next-odroidc1_5.89_armhf
@@ -14997,6 +15020,7 @@
   linux-source-4.9.180-default-odroidn2_4.9.180-default-odroidn2+5.89_all
   linux-source-5.1.0-dev-sunxi_5.1.0-dev-sunxi+5.86_all
   linux-source-5.1.15-dev-odroidxu4_5.1.15-dev-odroidxu4+5.89_all
+  linux-source-5.1.15-dev-sunxi64_5.1.15-dev-sunxi64+5.90_all
   linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-source-5.1.8-next-odroidc1_5.1.8-next-odroidc1+5.89_all
   linux-u-boot-odroidc1-next_5.89_armhf
@@ -15009,6 +15033,7 @@
   linux-u-boot-orangepi3-dev_5.88_arm64
   linux-u-boot-orangepilite2-dev_5.88_arm64
   linux-u-boot-orangepioneplus-dev_5.88_arm64
+  linux-u-boot-pinebook-a64-dev_5.90_arm64
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
 common utils
