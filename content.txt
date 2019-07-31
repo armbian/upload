@@ -144,6 +144,7 @@
   linux-dtb-dev-udoo_5.35_armhf
   linux-dtb-meson_5.26_armhf
   linux-dtb-meson64_5.75_arm64
+  linux-dtb-mvebu_5.91_armhf
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
   linux-dtb-mvebu_5.70_armhf
@@ -175,6 +176,7 @@
   linux-dtb-next-cubox_5.32_armhf
   linux-dtb-next-cubox_5.31_armhf
   linux-dtb-next-meson64_5.90_arm64
+  linux-dtb-next-mvebu_5.91_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
   linux-dtb-next-mvebu_5.73_armhf
@@ -485,6 +487,7 @@
   linux-headers-meson64_5.38_arm64
   linux-headers-meson64_5.35_arm64
   linux-headers-meson64_5.26_arm64
+  linux-headers-mvebu_5.91_armhf
   linux-headers-mvebu_5.75_armhf
   linux-headers-mvebu_5.73_armhf
   linux-headers-mvebu_5.70_armhf
@@ -524,6 +527,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.91_armhf
   linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
   linux-headers-next-mvebu_5.73_armhf
@@ -805,6 +809,7 @@
   linux-image-dev-udoo_5.35_armhf
   linux-image-meson_5.26_armhf
   linux-image-meson64_5.75_arm64
+  linux-image-mvebu_5.91_armhf
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
   linux-image-mvebu_5.70_armhf
@@ -827,6 +832,7 @@
   linux-image-next-cubox_5.35_armhf
   linux-image-next-cubox_5.32_armhf
   linux-image-next-meson64_5.90_arm64
+  linux-image-next-mvebu_5.91_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
   linux-image-next-mvebu_5.73_armhf
@@ -2488,6 +2494,7 @@
   linux-source-4.14.132-default-cubox_4.14.132-default-cubox+5.90_all
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
+  linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
@@ -2536,6 +2543,7 @@
   linux-source-4.19.57-next-rockchip_4.19.57-next-rockchip+5.90_all
   linux-source-4.19.57-next-sunxi_4.19.57-next-sunxi+5.90_all
   linux-source-4.19.57-next-sunxi64_4.19.57-next-sunxi64+5.90_all
+  linux-source-4.19.63-next-mvebu_4.19.63-next-mvebu+5.91_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -2707,6 +2715,7 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
+  linux-u-boot-clearfogbase-default_5.91_armhf
   linux-u-boot-clearfogbase-default_5.90_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
@@ -2724,6 +2733,7 @@
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
+  linux-u-boot-clearfogbase-next_5.91_armhf
   linux-u-boot-clearfogbase-next_5.90_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
@@ -2734,6 +2744,7 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
+  linux-u-boot-clearfogpro-default_5.91_armhf
   linux-u-boot-clearfogpro-default_5.90_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
@@ -2751,6 +2762,7 @@
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
+  linux-u-boot-clearfogpro-next_5.91_armhf
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
@@ -2880,6 +2892,7 @@
   linux-u-boot-guitar-default_5.23_armhf
   linux-u-boot-guitar-default_5.22_armhf
   linux-u-boot-guitar-default_5.20_armhf
+  linux-u-boot-helios4-default_5.91_armhf
   linux-u-boot-helios4-default_5.90_armhf
   linux-u-boot-helios4-default_5.75_armhf
   linux-u-boot-helios4-default_5.73_armhf
@@ -2888,6 +2901,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.91_armhf
   linux-u-boot-helios4-next_5.90_armhf
   linux-u-boot-helios4-next_5.77_armhf
   linux-u-boot-helios4-next_5.75_armhf
@@ -4365,6 +4379,7 @@
   linux-dtb-meson_5.26_armhf
   linux-dtb-meson64_5.85_arm64
   linux-dtb-meson64_5.75_arm64
+  linux-dtb-mvebu_5.91_armhf
   linux-dtb-mvebu_5.85_armhf
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
@@ -4400,6 +4415,7 @@
   linux-dtb-next-cubox_5.31_armhf
   linux-dtb-next-meson64_5.90_arm64
   linux-dtb-next-meson64_5.86_arm64
+  linux-dtb-next-mvebu_5.91_armhf
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -4740,6 +4756,7 @@
   linux-headers-meson64_5.38_arm64
   linux-headers-meson64_5.35_arm64
   linux-headers-meson64_5.26_arm64
+  linux-headers-mvebu_5.91_armhf
   linux-headers-mvebu_5.85_armhf
   linux-headers-mvebu_5.75_armhf
   linux-headers-mvebu_5.73_armhf
@@ -4784,6 +4801,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.91_armhf
   linux-headers-next-mvebu_5.85_armhf
   linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
@@ -5101,6 +5119,7 @@
   linux-image-meson_5.26_armhf
   linux-image-meson64_5.85_arm64
   linux-image-meson64_5.75_arm64
+  linux-image-mvebu_5.91_armhf
   linux-image-mvebu_5.85_armhf
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
@@ -5127,6 +5146,7 @@
   linux-image-next-cubox_5.32_armhf
   linux-image-next-meson64_5.90_arm64
   linux-image-next-meson64_5.86_arm64
+  linux-image-next-mvebu_5.91_armhf
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -5408,6 +5428,7 @@
   linux-source-4.14.132-default-cubox_4.14.132-default-cubox+5.90_all
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
+  linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.85_all
@@ -5470,6 +5491,7 @@
   linux-source-4.19.57-next-rockchip_4.19.57-next-rockchip+5.90_all
   linux-source-4.19.57-next-sunxi_4.19.57-next-sunxi+5.90_all
   linux-source-4.19.57-next-sunxi64_4.19.57-next-sunxi64+5.90_all
+  linux-source-4.19.63-next-mvebu_4.19.63-next-mvebu+5.91_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -5660,6 +5682,7 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
+  linux-u-boot-clearfogbase-default_5.91_armhf
   linux-u-boot-clearfogbase-default_5.90_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
@@ -5677,6 +5700,7 @@
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
+  linux-u-boot-clearfogbase-next_5.91_armhf
   linux-u-boot-clearfogbase-next_5.90_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
@@ -5687,6 +5711,7 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
+  linux-u-boot-clearfogpro-default_5.91_armhf
   linux-u-boot-clearfogpro-default_5.90_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
@@ -5704,6 +5729,7 @@
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
+  linux-u-boot-clearfogpro-next_5.91_armhf
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
@@ -5840,6 +5866,7 @@
   linux-u-boot-guitar-default_5.23_armhf
   linux-u-boot-guitar-default_5.22_armhf
   linux-u-boot-guitar-default_5.20_armhf
+  linux-u-boot-helios4-default_5.91_armhf
   linux-u-boot-helios4-default_5.90_armhf
   linux-u-boot-helios4-default_5.85_armhf
   linux-u-boot-helios4-default_5.75_armhf
@@ -5849,6 +5876,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.91_armhf
   linux-u-boot-helios4-next_5.90_armhf
   linux-u-boot-helios4-next_5.85_armhf
   linux-u-boot-helios4-next_5.77_armhf
@@ -9065,6 +9093,7 @@
   linux-dtb-meson_5.26_armhf
   linux-dtb-meson64_5.85_arm64
   linux-dtb-meson64_5.75_arm64
+  linux-dtb-mvebu_5.91_armhf
   linux-dtb-mvebu_5.85_armhf
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
@@ -9100,6 +9129,7 @@
   linux-dtb-next-cubox_5.31_armhf
   linux-dtb-next-meson64_5.90_arm64
   linux-dtb-next-meson64_5.86_arm64
+  linux-dtb-next-mvebu_5.91_armhf
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -9440,6 +9470,7 @@
   linux-headers-meson64_5.38_arm64
   linux-headers-meson64_5.35_arm64
   linux-headers-meson64_5.26_arm64
+  linux-headers-mvebu_5.91_armhf
   linux-headers-mvebu_5.85_armhf
   linux-headers-mvebu_5.75_armhf
   linux-headers-mvebu_5.73_armhf
@@ -9484,6 +9515,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.91_armhf
   linux-headers-next-mvebu_5.85_armhf
   linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
@@ -9801,6 +9833,7 @@
   linux-image-meson_5.26_armhf
   linux-image-meson64_5.85_arm64
   linux-image-meson64_5.75_arm64
+  linux-image-mvebu_5.91_armhf
   linux-image-mvebu_5.85_armhf
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
@@ -9827,6 +9860,7 @@
   linux-image-next-cubox_5.32_armhf
   linux-image-next-meson64_5.90_arm64
   linux-image-next-meson64_5.86_arm64
+  linux-image-next-mvebu_5.91_armhf
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -10108,6 +10142,7 @@
   linux-source-4.14.132-default-cubox_4.14.132-default-cubox+5.90_all
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
+  linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.85_all
@@ -10170,6 +10205,7 @@
   linux-source-4.19.57-next-rockchip_4.19.57-next-rockchip+5.90_all
   linux-source-4.19.57-next-sunxi_4.19.57-next-sunxi+5.90_all
   linux-source-4.19.57-next-sunxi64_4.19.57-next-sunxi64+5.90_all
+  linux-source-4.19.63-next-mvebu_4.19.63-next-mvebu+5.91_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -10225,6 +10261,7 @@
   linux-source-5.1.16-next-cubox_5.1.16-next-cubox+5.90_all
   linux-source-5.1.7-dev-sunxi64_5.1.7-dev-sunxi64+5.88_all
   linux-source-5.1.8-next-odroidc1_5.1.8-next-odroidc1+5.89_all
+  linux-stretch-root-clearfogbase_5.91_armhf
   linux-stretch-root-clearfogbase_5.90_armhf
   linux-stretch-root-clearfogbase_5.85_armhf
   linux-stretch-root-clearfogbase_5.73_armhf
@@ -10234,6 +10271,7 @@
   linux-stretch-root-clearfogbase_5.37_armhf
   linux-stretch-root-clearfogbase_5.36_armhf
   linux-stretch-root-clearfogbase_5.35_armhf
+  linux-stretch-root-clearfogpro_5.91_armhf
   linux-stretch-root-clearfogpro_5.90_armhf
   linux-stretch-root-clearfogpro_5.85_armhf
   linux-stretch-root-clearfogpro_5.73_armhf
@@ -10702,6 +10740,7 @@
   linux-stretch-root-espressobin_5.36_arm64
   linux-stretch-root-espressobin_5.35_arm64
   linux-stretch-root-firefly-rk3399_5.60_arm64
+  linux-stretch-root-helios4_5.91_armhf
   linux-stretch-root-helios4_5.90_armhf
   linux-stretch-root-helios4_5.85_armhf
   linux-stretch-root-helios4_5.73_armhf
@@ -10780,6 +10819,7 @@
   linux-stretch-root-next-beelinkx2_5.37_armhf
   linux-stretch-root-next-beelinkx2_5.36_armhf
   linux-stretch-root-next-beelinkx2_5.35_armhf
+  linux-stretch-root-next-clearfogbase_5.91_armhf
   linux-stretch-root-next-clearfogbase_5.90_armhf
   linux-stretch-root-next-clearfogbase_5.85_armhf
   linux-stretch-root-next-clearfogbase_5.73_armhf
@@ -10789,6 +10829,7 @@
   linux-stretch-root-next-clearfogbase_5.37_armhf
   linux-stretch-root-next-clearfogbase_5.36_armhf
   linux-stretch-root-next-clearfogbase_5.35_armhf
+  linux-stretch-root-next-clearfogpro_5.91_armhf
   linux-stretch-root-next-clearfogpro_5.90_armhf
   linux-stretch-root-next-clearfogpro_5.85_armhf
   linux-stretch-root-next-clearfogpro_5.73_armhf
@@ -10832,6 +10873,7 @@
   linux-stretch-root-next-espressobin_5.37_arm64
   linux-stretch-root-next-espressobin_5.36_arm64
   linux-stretch-root-next-espressobin_5.35_arm64
+  linux-stretch-root-next-helios4_5.91_armhf
   linux-stretch-root-next-helios4_5.90_armhf
   linux-stretch-root-next-helios4_5.85_armhf
   linux-stretch-root-next-helios4_5.77_armhf
@@ -11390,6 +11432,7 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
+  linux-u-boot-clearfogbase-default_5.91_armhf
   linux-u-boot-clearfogbase-default_5.90_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
@@ -11407,6 +11450,7 @@
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
+  linux-u-boot-clearfogbase-next_5.91_armhf
   linux-u-boot-clearfogbase-next_5.90_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
@@ -11417,6 +11461,7 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
+  linux-u-boot-clearfogpro-default_5.91_armhf
   linux-u-boot-clearfogpro-default_5.90_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
@@ -11434,6 +11479,7 @@
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
+  linux-u-boot-clearfogpro-next_5.91_armhf
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
@@ -11570,6 +11616,7 @@
   linux-u-boot-guitar-default_5.23_armhf
   linux-u-boot-guitar-default_5.22_armhf
   linux-u-boot-guitar-default_5.20_armhf
+  linux-u-boot-helios4-default_5.91_armhf
   linux-u-boot-helios4-default_5.90_armhf
   linux-u-boot-helios4-default_5.85_armhf
   linux-u-boot-helios4-default_5.75_armhf
@@ -11579,6 +11626,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.91_armhf
   linux-u-boot-helios4-next_5.90_armhf
   linux-u-boot-helios4-next_5.85_armhf
   linux-u-boot-helios4-next_5.77_armhf
@@ -12954,11 +13002,13 @@
   htop_2.1.1-3_arm64
   htop_2.1.1-3_armhf
   lightdm-autologin-greeter_1.0-3_all
+  linux-bionic-root-clearfogbase_5.91_armhf
   linux-bionic-root-clearfogbase_5.90_armhf
   linux-bionic-root-clearfogbase_5.85_armhf
   linux-bionic-root-clearfogbase_5.73_armhf
   linux-bionic-root-clearfogbase_5.70_armhf
   linux-bionic-root-clearfogbase_5.60_armhf
+  linux-bionic-root-clearfogpro_5.91_armhf
   linux-bionic-root-clearfogpro_5.90_armhf
   linux-bionic-root-clearfogpro_5.85_armhf
   linux-bionic-root-clearfogpro_5.73_armhf
@@ -13224,6 +13274,7 @@
   linux-bionic-root-espressobin_5.70_arm64
   linux-bionic-root-espressobin_5.60_arm64
   linux-bionic-root-firefly-rk3399_5.60_arm64
+  linux-bionic-root-helios4_5.91_armhf
   linux-bionic-root-helios4_5.90_armhf
   linux-bionic-root-helios4_5.85_armhf
   linux-bionic-root-helios4_5.73_armhf
@@ -13270,11 +13321,13 @@
   linux-bionic-root-next-bananapipro_5.90_armhf
   linux-bionic-root-next-bananapipro_5.60_armhf
   linux-bionic-root-next-beelinkx2_5.60_armhf
+  linux-bionic-root-next-clearfogbase_5.91_armhf
   linux-bionic-root-next-clearfogbase_5.90_armhf
   linux-bionic-root-next-clearfogbase_5.85_armhf
   linux-bionic-root-next-clearfogbase_5.73_armhf
   linux-bionic-root-next-clearfogbase_5.70_armhf
   linux-bionic-root-next-clearfogbase_5.60_armhf
+  linux-bionic-root-next-clearfogpro_5.91_armhf
   linux-bionic-root-next-clearfogpro_5.90_armhf
   linux-bionic-root-next-clearfogpro_5.85_armhf
   linux-bionic-root-next-clearfogpro_5.73_armhf
@@ -13298,6 +13351,7 @@
   linux-bionic-root-next-espressobin_5.68_arm64
   linux-bionic-root-next-espressobin_5.60_arm64
   linux-bionic-root-next-espressobin_5.44_arm64
+  linux-bionic-root-next-helios4_5.91_armhf
   linux-bionic-root-next-helios4_5.90_armhf
   linux-bionic-root-next-helios4_5.85_armhf
   linux-bionic-root-next-helios4_5.77_armhf
@@ -13632,6 +13686,7 @@
   linux-dtb-meson_5.26_armhf
   linux-dtb-meson64_5.85_arm64
   linux-dtb-meson64_5.75_arm64
+  linux-dtb-mvebu_5.91_armhf
   linux-dtb-mvebu_5.85_armhf
   linux-dtb-mvebu_5.75_armhf
   linux-dtb-mvebu_5.73_armhf
@@ -13667,6 +13722,7 @@
   linux-dtb-next-cubox_5.31_armhf
   linux-dtb-next-meson64_5.90_arm64
   linux-dtb-next-meson64_5.86_arm64
+  linux-dtb-next-mvebu_5.91_armhf
   linux-dtb-next-mvebu_5.85_armhf
   linux-dtb-next-mvebu_5.77_armhf
   linux-dtb-next-mvebu_5.75_armhf
@@ -14007,6 +14063,7 @@
   linux-headers-meson64_5.38_arm64
   linux-headers-meson64_5.35_arm64
   linux-headers-meson64_5.26_arm64
+  linux-headers-mvebu_5.91_armhf
   linux-headers-mvebu_5.85_armhf
   linux-headers-mvebu_5.75_armhf
   linux-headers-mvebu_5.73_armhf
@@ -14051,6 +14108,7 @@
   linux-headers-next-meson64_5.42_arm64
   linux-headers-next-meson64_5.38_arm64
   linux-headers-next-meson64_5.35_arm64
+  linux-headers-next-mvebu_5.91_armhf
   linux-headers-next-mvebu_5.85_armhf
   linux-headers-next-mvebu_5.77_armhf
   linux-headers-next-mvebu_5.75_armhf
@@ -14368,6 +14426,7 @@
   linux-image-meson_5.26_armhf
   linux-image-meson64_5.85_arm64
   linux-image-meson64_5.75_arm64
+  linux-image-mvebu_5.91_armhf
   linux-image-mvebu_5.85_armhf
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu_5.73_armhf
@@ -14394,6 +14453,7 @@
   linux-image-next-cubox_5.32_armhf
   linux-image-next-meson64_5.90_arm64
   linux-image-next-meson64_5.86_arm64
+  linux-image-next-mvebu_5.91_armhf
   linux-image-next-mvebu_5.85_armhf
   linux-image-next-mvebu_5.77_armhf
   linux-image-next-mvebu_5.75_armhf
@@ -14675,6 +14735,7 @@
   linux-source-4.14.132-default-cubox_4.14.132-default-cubox+5.90_all
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
+  linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
   linux-source-4.14.15-dev-udoo_4.14.15-dev-udoo+5.38_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.85_all
@@ -14737,6 +14798,7 @@
   linux-source-4.19.57-next-rockchip_4.19.57-next-rockchip+5.90_all
   linux-source-4.19.57-next-sunxi_4.19.57-next-sunxi+5.90_all
   linux-source-4.19.57-next-sunxi64_4.19.57-next-sunxi64+5.90_all
+  linux-source-4.19.63-next-mvebu_4.19.63-next-mvebu+5.91_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.75_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.73_all
   linux-source-4.20.0-dev-rk3399_4.20.0-dev-rk3399+5.70_all
@@ -14927,6 +14989,7 @@
   linux-u-boot-beelinkx2-next_5.60_armhf
   linux-u-boot-beelinkx2-next_5.38_armhf
   linux-u-boot-beelinkx2-next_5.35_armhf
+  linux-u-boot-clearfogbase-default_5.91_armhf
   linux-u-boot-clearfogbase-default_5.90_armhf
   linux-u-boot-clearfogbase-default_5.75_armhf
   linux-u-boot-clearfogbase-default_5.73_armhf
@@ -14944,6 +15007,7 @@
   linux-u-boot-clearfogbase-dev_5.60_armhf
   linux-u-boot-clearfogbase-dev_5.38_armhf
   linux-u-boot-clearfogbase-dev_5.35_armhf
+  linux-u-boot-clearfogbase-next_5.91_armhf
   linux-u-boot-clearfogbase-next_5.90_armhf
   linux-u-boot-clearfogbase-next_5.75_armhf
   linux-u-boot-clearfogbase-next_5.73_armhf
@@ -14954,6 +15018,7 @@
   linux-u-boot-clearfogbase-next_5.31_armhf
   linux-u-boot-clearfogbase-next_5.30_armhf
   linux-u-boot-clearfogbase-next_5.25_armhf
+  linux-u-boot-clearfogpro-default_5.91_armhf
   linux-u-boot-clearfogpro-default_5.90_armhf
   linux-u-boot-clearfogpro-default_5.75_armhf
   linux-u-boot-clearfogpro-default_5.73_armhf
@@ -14971,6 +15036,7 @@
   linux-u-boot-clearfogpro-dev_5.60_armhf
   linux-u-boot-clearfogpro-dev_5.38_armhf
   linux-u-boot-clearfogpro-dev_5.35_armhf
+  linux-u-boot-clearfogpro-next_5.91_armhf
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-clearfogpro-next_5.75_armhf
   linux-u-boot-clearfogpro-next_5.73_armhf
@@ -15107,6 +15173,7 @@
   linux-u-boot-guitar-default_5.23_armhf
   linux-u-boot-guitar-default_5.22_armhf
   linux-u-boot-guitar-default_5.20_armhf
+  linux-u-boot-helios4-default_5.91_armhf
   linux-u-boot-helios4-default_5.90_armhf
   linux-u-boot-helios4-default_5.85_armhf
   linux-u-boot-helios4-default_5.75_armhf
@@ -15116,6 +15183,7 @@
   linux-u-boot-helios4-default_5.40_armhf
   linux-u-boot-helios4-default_5.38_armhf
   linux-u-boot-helios4-default_5.35_armhf
+  linux-u-boot-helios4-next_5.91_armhf
   linux-u-boot-helios4-next_5.90_armhf
   linux-u-boot-helios4-next_5.85_armhf
   linux-u-boot-helios4-next_5.77_armhf
@@ -16419,7 +16487,9 @@
   linux-buster-root-bananapi_5.90_armhf
   linux-buster-root-bananapim2plus_5.90_armhf
   linux-buster-root-bananapipro_5.90_armhf
+  linux-buster-root-clearfogbase_5.91_armhf
   linux-buster-root-clearfogbase_5.90_armhf
+  linux-buster-root-clearfogpro_5.91_armhf
   linux-buster-root-clearfogpro_5.90_armhf
   linux-buster-root-cubietruck_5.90_armhf
   linux-buster-root-cubox-i_5.90_armhf
@@ -16484,6 +16554,7 @@
   linux-buster-root-dev-tritium-h5_5.90_arm64
   linux-buster-root-dev-xt-q8l-v10_5.90_armhf
   linux-buster-root-espressobin_5.90_arm64
+  linux-buster-root-helios4_5.91_armhf
   linux-buster-root-helios4_5.90_armhf
   linux-buster-root-lepotato_5.90_arm64
   linux-buster-root-lime-a64_5.90_arm64
@@ -16501,11 +16572,14 @@
   linux-buster-root-next-bananapim2plus_5.90_armhf
   linux-buster-root-next-bananapim64_5.90_arm64
   linux-buster-root-next-bananapipro_5.90_armhf
+  linux-buster-root-next-clearfogbase_5.91_armhf
   linux-buster-root-next-clearfogbase_5.90_armhf
+  linux-buster-root-next-clearfogpro_5.91_armhf
   linux-buster-root-next-clearfogpro_5.90_armhf
   linux-buster-root-next-cubietruck_5.90_armhf
   linux-buster-root-next-cubox-i_5.90_armhf
   linux-buster-root-next-espressobin_5.90_arm64
+  linux-buster-root-next-helios4_5.91_armhf
   linux-buster-root-next-helios4_5.90_armhf
   linux-buster-root-next-lepotato_5.90_arm64
   linux-buster-root-next-lime_5.90_armhf
@@ -16587,8 +16661,10 @@
   linux-dtb-dev-sunxi_5.86_armhf
   linux-dtb-dev-sunxi64_5.90_arm64
   linux-dtb-dev-sunxi64_5.88_arm64
+  linux-dtb-mvebu_5.91_armhf
   linux-dtb-next-cubox_5.90_armhf
   linux-dtb-next-meson64_5.90_arm64
+  linux-dtb-next-mvebu_5.91_armhf
   linux-dtb-next-mvebu64_5.89_arm64
   linux-dtb-next-odroidc1_5.90_armhf
   linux-dtb-next-odroidc1_5.89_armhf
@@ -16617,8 +16693,10 @@
   linux-headers-dev-sunxi_5.86_armhf
   linux-headers-dev-sunxi64_5.90_arm64
   linux-headers-dev-sunxi64_5.88_arm64
+  linux-headers-mvebu_5.91_armhf
   linux-headers-next-cubox_5.90_armhf
   linux-headers-next-meson64_5.90_arm64
+  linux-headers-next-mvebu_5.91_armhf
   linux-headers-next-mvebu64_5.89_arm64
   linux-headers-next-odroidc1_5.90_armhf
   linux-headers-next-odroidc1_5.89_armhf
@@ -16647,8 +16725,10 @@
   linux-image-dev-sunxi_5.86_armhf
   linux-image-dev-sunxi64_5.90_arm64
   linux-image-dev-sunxi64_5.88_arm64
+  linux-image-mvebu_5.91_armhf
   linux-image-next-cubox_5.90_armhf
   linux-image-next-meson64_5.90_arm64
+  linux-image-next-mvebu_5.91_armhf
   linux-image-next-mvebu64_5.89_arm64
   linux-image-next-odroidc1_5.90_armhf
   linux-image-next-odroidc1_5.89_armhf
@@ -16680,11 +16760,13 @@
   linux-source-4.14.132-default-cubox_4.14.132-default-cubox+5.90_all
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
+  linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
   linux-source-4.19.56-next-mvebu64_4.19.56-next-mvebu64+5.89_all
   linux-source-4.19.57-next-meson64_4.19.57-next-meson64+5.90_all
   linux-source-4.19.57-next-rockchip_4.19.57-next-rockchip+5.90_all
   linux-source-4.19.57-next-sunxi_4.19.57-next-sunxi+5.90_all
   linux-source-4.19.57-next-sunxi64_4.19.57-next-sunxi64+5.90_all
+  linux-source-4.19.63-next-mvebu_4.19.63-next-mvebu+5.91_all
   linux-source-4.4.167-next-udoo_4.4.167-next-udoo+5.90_all
   linux-source-4.4.179-default-rk3399_4.4.179-default-rk3399+5.90_all
   linux-source-4.4.180-default-rockchip64_4.4.180-default-rockchip64+5.88_all
@@ -16711,11 +16793,15 @@
   linux-u-boot-bananapipro-default_5.90_armhf
   linux-u-boot-bananapipro-dev_5.90_armhf
   linux-u-boot-bananapipro-next_5.90_armhf
+  linux-u-boot-clearfogbase-default_5.91_armhf
   linux-u-boot-clearfogbase-default_5.90_armhf
   linux-u-boot-clearfogbase-dev_5.90_armhf
+  linux-u-boot-clearfogbase-next_5.91_armhf
   linux-u-boot-clearfogbase-next_5.90_armhf
+  linux-u-boot-clearfogpro-default_5.91_armhf
   linux-u-boot-clearfogpro-default_5.90_armhf
   linux-u-boot-clearfogpro-dev_5.90_armhf
+  linux-u-boot-clearfogpro-next_5.91_armhf
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-cubietruck-default_5.90_armhf
   linux-u-boot-cubietruck-dev_5.90_armhf
@@ -16726,7 +16812,9 @@
   linux-u-boot-espressobin-default_5.90_arm64
   linux-u-boot-espressobin-dev_5.90_arm64
   linux-u-boot-espressobin-next_5.90_arm64
+  linux-u-boot-helios4-default_5.91_armhf
   linux-u-boot-helios4-default_5.90_armhf
+  linux-u-boot-helios4-next_5.91_armhf
   linux-u-boot-helios4-next_5.90_armhf
   linux-u-boot-lepotato-default_5.90_arm64
   linux-u-boot-lepotato-dev_5.90_arm64
