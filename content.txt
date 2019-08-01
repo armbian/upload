@@ -1,4 +1,5 @@
 
+  armbian-config_5.91_all
   armbian-config_5.90_all
   armbian-config_5.89_all
   armbian-config_5.88_all
@@ -4211,6 +4212,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.91_all
   armbian-config_5.90_all
   armbian-config_5.89_all
   armbian-config_5.88_all
@@ -8925,6 +8927,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.91_all
   armbian-config_5.90_all
   armbian-config_5.89_all
   armbian-config_5.88_all
@@ -12918,6 +12921,7 @@
   armbian-bionic-desktop_5.90_all
   armbian-bionic-desktop_5.85_all
   armbian-bionic-desktop_5.83_all
+  armbian-config_5.91_all
   armbian-config_5.90_all
   armbian-config_5.89_all
   armbian-config_5.88_all
@@ -16472,6 +16476,7 @@
   armbian-buster-desktop_5.90_all
   armbian-buster-desktop_5.86_all
   armbian-buster-desktop_5.79_all
+  armbian-config_5.91_all
   armbian-config_5.90_all
   armbian-config_5.89_all
   armbian-config_5.88_all
