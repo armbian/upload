@@ -4073,6 +4073,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20190702-3_arm64
+  wireguard-tools_0.0.20190702-3_armhf
   dri2-utils_1.0.1~armbian5.73+1_armhf
   dri2-utils_1.0.1~armbian5.60+1_armhf
   dri2-utils_1.0.1~armbian5.38+1_armhf
@@ -8839,6 +8841,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20190702-3_arm64
+  wireguard-tools_0.0.20190702-3_armhf
   fswebcam-gc2035_20140113-1~armbian5.31+1_armhf
   fswebcam-gc2035_20140113-1~armbian5.30+1_armhf
   guvcview_2.0.2.1~armbian5.31+1_armhf
@@ -12959,6 +12963,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20190702-3_arm64
+  wireguard-tools_0.0.20190702-3_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
@@ -16533,6 +16539,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20190702-3_arm64
+  wireguard-tools_0.0.20190702-3_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
@@ -17050,6 +17058,8 @@
   linux-u-boot-xt-q8l-v10-dev_5.90_armhf
   linux-u-boot-xt-q8l-v10-next_5.90_armhf
   linux-u-boot-z28pro-default_5.90_arm64
+  wireguard-tools_0.0.20190702-3_arm64
+  wireguard-tools_0.0.20190702-3_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
 common utils
