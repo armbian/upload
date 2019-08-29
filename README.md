@@ -2,6 +2,11 @@
 
 **Upload files to the desired directory and they will automatically be published to the repository.**
 
+1. [Make debs with our build tools](https://github.com/armbian/build)
+2. Clone this repository and copy the content from build/output/debs to this upload/debs. Use prepared structure when making armbian debs! If you need to add some 3rd party generic package for all Armbian variants, just put it to the upload/debs
+3. Commit and create a pull request
+
+
 Packages [full list](content.txt) | statistics:
 
 	 * [bionic-desktop]: Armbian bionic desktop (packages: 4)
