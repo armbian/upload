@@ -1,4 +1,4 @@
-# apt.armbian.com uploader
+# beta.armbian.com uploader
 
 **Upload files to the desired directory and they will automatically be published to the repository.**
 
