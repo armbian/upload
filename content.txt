@@ -10,6 +10,7 @@
   armbian-firmware-full_5.94.190829_all
   armbian-xenial-desktop_5.94.190830_all
   armbian-xenial-desktop_5.94.190829_all
+  hello_1.0_all
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
   linux-dtb-dev-meson64_5.94.190830_arm64
@@ -70,16 +71,6 @@
   linux-image-next-odroidc1_5.94.190829_armhf
   linux-image-odroidn2_5.94.190830_arm64
   linux-image-odroidn2_5.94.190829_arm64
-  linux-source-4.9.185-default-odroidn2_4.9.185-default-odroidn2+5.94.190830_all
-  linux-source-5.2.11-dev-rockchip_5.2.11-dev-rockchip+5.94.190830_all
-  linux-source-5.2.11-next-odroidc1_5.2.11-next-odroidc1+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190831_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi64_5.3.0-rc3-dev-sunxi64+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rk3399_5.3.0-rc4-dev-rk3399+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rockchip64_5.3.0-rc4-dev-rockchip64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-meson64_5.3.0-rc6-dev-meson64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-odroidxu4_5.3.0-rc6-dev-odroidxu4+5.94.190830_all
   linux-u-boot-bananapi-dev_5.94.190831_armhf
   linux-u-boot-bananapi-dev_5.94.190830_armhf
   linux-u-boot-bananapi-dev_5.94.190829_armhf
@@ -337,6 +328,7 @@
   armbian-firmware-full_5.94.190829_all
   armbian-stretch-desktop_5.94.190830_all
   armbian-stretch-desktop_5.94.190829_all
+  hello_1.0_all
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
   linux-dtb-dev-meson64_5.94.190830_arm64
@@ -397,16 +389,6 @@
   linux-image-next-odroidc1_5.94.190829_armhf
   linux-image-odroidn2_5.94.190830_arm64
   linux-image-odroidn2_5.94.190829_arm64
-  linux-source-4.9.185-default-odroidn2_4.9.185-default-odroidn2+5.94.190830_all
-  linux-source-5.2.11-dev-rockchip_5.2.11-dev-rockchip+5.94.190830_all
-  linux-source-5.2.11-next-odroidc1_5.2.11-next-odroidc1+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190831_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi64_5.3.0-rc3-dev-sunxi64+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rk3399_5.3.0-rc4-dev-rk3399+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rockchip64_5.3.0-rc4-dev-rockchip64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-meson64_5.3.0-rc6-dev-meson64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-odroidxu4_5.3.0-rc6-dev-odroidxu4+5.94.190830_all
   linux-stretch-root-dev-bananapi_5.94.190830_armhf
   linux-stretch-root-dev-bananapi_5.94.190829_armhf
   linux-stretch-root-dev-bananapim2plus_5.94.190830_armhf
@@ -664,6 +646,7 @@
   armbian-firmware-full_5.94.190831_all
   armbian-firmware-full_5.94.190830_all
   armbian-firmware-full_5.94.190829_all
+  hello_1.0_all
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
   linux-bionic-root-dev-bananapi_5.94.190830_armhf
@@ -841,16 +824,6 @@
   linux-image-next-odroidc1_5.94.190829_armhf
   linux-image-odroidn2_5.94.190830_arm64
   linux-image-odroidn2_5.94.190829_arm64
-  linux-source-4.9.185-default-odroidn2_4.9.185-default-odroidn2+5.94.190830_all
-  linux-source-5.2.11-dev-rockchip_5.2.11-dev-rockchip+5.94.190830_all
-  linux-source-5.2.11-next-odroidc1_5.2.11-next-odroidc1+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190831_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi64_5.3.0-rc3-dev-sunxi64+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rk3399_5.3.0-rc4-dev-rk3399+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rockchip64_5.3.0-rc4-dev-rockchip64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-meson64_5.3.0-rc6-dev-meson64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-odroidxu4_5.3.0-rc6-dev-odroidxu4+5.94.190830_all
   linux-u-boot-bananapi-dev_5.94.190831_armhf
   linux-u-boot-bananapi-dev_5.94.190830_armhf
   linux-u-boot-bananapi-dev_5.94.190829_armhf
@@ -992,6 +965,7 @@
   armbian-firmware-full_5.94.190831_all
   armbian-firmware-full_5.94.190830_all
   armbian-firmware-full_5.94.190829_all
+  hello_1.0_all
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
   linux-buster-root-dev-bananapi_5.94.190831_armhf
@@ -1174,16 +1148,6 @@
   linux-image-next-odroidc1_5.94.190829_armhf
   linux-image-odroidn2_5.94.190830_arm64
   linux-image-odroidn2_5.94.190829_arm64
-  linux-source-4.9.185-default-odroidn2_4.9.185-default-odroidn2+5.94.190830_all
-  linux-source-5.2.11-dev-rockchip_5.2.11-dev-rockchip+5.94.190830_all
-  linux-source-5.2.11-next-odroidc1_5.2.11-next-odroidc1+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190831_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi64_5.3.0-rc3-dev-sunxi64+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rk3399_5.3.0-rc4-dev-rk3399+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rockchip64_5.3.0-rc4-dev-rockchip64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-meson64_5.3.0-rc6-dev-meson64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-odroidxu4_5.3.0-rc6-dev-odroidxu4+5.94.190830_all
   linux-u-boot-bananapi-dev_5.94.190831_armhf
   linux-u-boot-bananapi-dev_5.94.190830_armhf
   linux-u-boot-bananapi-dev_5.94.190829_armhf
@@ -1324,6 +1288,7 @@
   armbian-firmware-full_5.94.190831_all
   armbian-firmware-full_5.94.190830_all
   armbian-firmware-full_5.94.190829_all
+  hello_1.0_all
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
   linux-disco-root-dev-bananapi_5.94.190830_armhf
@@ -1501,16 +1466,6 @@
   linux-image-next-odroidc1_5.94.190829_armhf
   linux-image-odroidn2_5.94.190830_arm64
   linux-image-odroidn2_5.94.190829_arm64
-  linux-source-4.9.185-default-odroidn2_4.9.185-default-odroidn2+5.94.190830_all
-  linux-source-5.2.11-dev-rockchip_5.2.11-dev-rockchip+5.94.190830_all
-  linux-source-5.2.11-next-odroidc1_5.2.11-next-odroidc1+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190831_all
-  linux-source-5.3.0-rc3-dev-sunxi_5.3.0-rc3-dev-sunxi+5.94.190830_all
-  linux-source-5.3.0-rc3-dev-sunxi64_5.3.0-rc3-dev-sunxi64+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rk3399_5.3.0-rc4-dev-rk3399+5.94.190830_all
-  linux-source-5.3.0-rc4-dev-rockchip64_5.3.0-rc4-dev-rockchip64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-meson64_5.3.0-rc6-dev-meson64+5.94.190830_all
-  linux-source-5.3.0-rc6-dev-odroidxu4_5.3.0-rc6-dev-odroidxu4+5.94.190830_all
   linux-u-boot-bananapi-dev_5.94.190831_armhf
   linux-u-boot-bananapi-dev_5.94.190830_armhf
   linux-u-boot-bananapi-dev_5.94.190829_armhf
