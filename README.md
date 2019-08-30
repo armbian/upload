@@ -93,10 +93,10 @@ This repository is incoming location for **beta.armbian.com** packages repositor
 	</tr>	
 </table>
 
-	$release = board support packages
-	$release-utilities = htop, hostapd
-	$release-desktop = accelerated drivers
-	main = armbian-$release-desktop, armbian-firmware, armbian-config + various
+	$release = board support packages (linux-$release-root-orangepi)
+	$release-utilities = htop, hostapd (packages that are release dependant)
+	$release-desktop = accelerated drivers (... and desktop related)
+	main = kernel, u-boot, armbian-$release-desktop, armbian-firmware* , armbian-config
 
 ## Statistics
 
