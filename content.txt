@@ -48,9 +48,9 @@
   htop_2.1.1-3_armhf
   lightdm-autologin-greeter_1.0-3_all
   linux-dtb-aml-g12_5.95_arm64
+  linux-dtb-cubox_5.98_armhf
   linux-dtb-cubox_5.90_armhf
   linux-dtb-cubox_5.85_armhf
-  linux-dtb-cubox_5.75_armhf
   linux-dtb-dev-meson64_5.97.190927_arm64
   linux-dtb-dev-meson64_5.97.190926_arm64
   linux-dtb-dev-meson64_5.97.190925_arm64
@@ -81,9 +81,9 @@
   linux-dtb-mvebu64_5.85_arm64
   linux-dtb-mvebu64_5.75_arm64
   linux-dtb-mvebu64_5.73_arm64
+  linux-dtb-next-cubox_5.98_armhf
   linux-dtb-next-cubox_5.90_armhf
   linux-dtb-next-cubox_5.85_armhf
-  linux-dtb-next-cubox_5.75_armhf
   linux-dtb-next-meson64_5.95_arm64
   linux-dtb-next-meson64_5.90_arm64
   linux-dtb-next-meson64_5.86_arm64
@@ -152,9 +152,9 @@
   linux-dtb-udoo-neo_5.31_armhf
   linux-dtb-udoo-neo_5.30_armhf
   linux-headers-aml-g12_5.95_arm64
+  linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-cubox_5.85_armhf
-  linux-headers-cubox_5.75_armhf
   linux-headers-dev-meson64_5.97.190927_arm64
   linux-headers-dev-meson64_5.97.190926_arm64
   linux-headers-dev-meson64_5.97.190925_arm64
@@ -186,9 +186,9 @@
   linux-headers-mvebu64_5.85_arm64
   linux-headers-mvebu64_5.75_arm64
   linux-headers-mvebu64_5.73_arm64
+  linux-headers-next-cubox_5.98_armhf
   linux-headers-next-cubox_5.90_armhf
   linux-headers-next-cubox_5.85_armhf
-  linux-headers-next-cubox_5.75_armhf
   linux-headers-next-meson64_5.95_arm64
   linux-headers-next-meson64_5.90_arm64
   linux-headers-next-meson64_5.86_arm64
@@ -267,9 +267,9 @@
   linux-headers-udoo-neo_5.31_armhf
   linux-headers-udoo-neo_5.30_armhf
   linux-image-aml-g12_5.95_arm64
+  linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-cubox_5.85_armhf
-  linux-image-cubox_5.75_armhf
   linux-image-dev-meson64_5.97.190927_arm64
   linux-image-dev-meson64_5.97.190926_arm64
   linux-image-dev-meson64_5.97.190925_arm64
@@ -299,9 +299,9 @@
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu64_5.85_arm64
   linux-image-mvebu64_5.54_arm64
+  linux-image-next-cubox_5.98_armhf
   linux-image-next-cubox_5.90_armhf
   linux-image-next-cubox_5.85_armhf
-  linux-image-next-cubox_5.75_armhf
   linux-image-next-meson64_5.95_arm64
   linux-image-next-meson64_5.90_arm64
   linux-image-next-meson64_5.86_arm64
@@ -616,12 +616,12 @@
   linux-u-boot-cubietruck-next_5.90_armhf
   linux-u-boot-cubietruck-next_5.85_armhf
   linux-u-boot-cubietruck-next_5.75_armhf
+  linux-u-boot-cubox-i-default_5.98_armhf
   linux-u-boot-cubox-i-default_5.90_armhf
   linux-u-boot-cubox-i-default_5.85_armhf
-  linux-u-boot-cubox-i-default_5.75_armhf
+  linux-u-boot-cubox-i-next_5.98_armhf
   linux-u-boot-cubox-i-next_5.90_armhf
   linux-u-boot-cubox-i-next_5.85_armhf
-  linux-u-boot-cubox-i-next_5.75_armhf
   linux-u-boot-espressobin-default_5.90_arm64
   linux-u-boot-espressobin-default_5.85_arm64
   linux-u-boot-espressobin-default_5.75_arm64
@@ -1570,9 +1570,9 @@
   htop_2.1.1-3_armhf
   lightdm-autologin-greeter_1.0-3_all
   linux-dtb-aml-g12_5.95_arm64
+  linux-dtb-cubox_5.98_armhf
   linux-dtb-cubox_5.90_armhf
   linux-dtb-cubox_5.85_armhf
-  linux-dtb-cubox_5.75_armhf
   linux-dtb-dev-meson64_5.97.190927_arm64
   linux-dtb-dev-meson64_5.97.190926_arm64
   linux-dtb-dev-meson64_5.97.190925_arm64
@@ -1603,9 +1603,9 @@
   linux-dtb-mvebu64_5.85_arm64
   linux-dtb-mvebu64_5.75_arm64
   linux-dtb-mvebu64_5.73_arm64
+  linux-dtb-next-cubox_5.98_armhf
   linux-dtb-next-cubox_5.90_armhf
   linux-dtb-next-cubox_5.85_armhf
-  linux-dtb-next-cubox_5.75_armhf
   linux-dtb-next-meson64_5.95_arm64
   linux-dtb-next-meson64_5.90_arm64
   linux-dtb-next-meson64_5.86_arm64
@@ -1674,9 +1674,9 @@
   linux-dtb-udoo-neo_5.31_armhf
   linux-dtb-udoo-neo_5.30_armhf
   linux-headers-aml-g12_5.95_arm64
+  linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-cubox_5.85_armhf
-  linux-headers-cubox_5.75_armhf
   linux-headers-dev-meson64_5.97.190927_arm64
   linux-headers-dev-meson64_5.97.190926_arm64
   linux-headers-dev-meson64_5.97.190925_arm64
@@ -1708,9 +1708,9 @@
   linux-headers-mvebu64_5.85_arm64
   linux-headers-mvebu64_5.75_arm64
   linux-headers-mvebu64_5.73_arm64
+  linux-headers-next-cubox_5.98_armhf
   linux-headers-next-cubox_5.90_armhf
   linux-headers-next-cubox_5.85_armhf
-  linux-headers-next-cubox_5.75_armhf
   linux-headers-next-meson64_5.95_arm64
   linux-headers-next-meson64_5.90_arm64
   linux-headers-next-meson64_5.86_arm64
@@ -1789,9 +1789,9 @@
   linux-headers-udoo-neo_5.31_armhf
   linux-headers-udoo-neo_5.30_armhf
   linux-image-aml-g12_5.95_arm64
+  linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-cubox_5.85_armhf
-  linux-image-cubox_5.75_armhf
   linux-image-dev-meson64_5.97.190927_arm64
   linux-image-dev-meson64_5.97.190926_arm64
   linux-image-dev-meson64_5.97.190925_arm64
@@ -1821,9 +1821,9 @@
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu64_5.85_arm64
   linux-image-mvebu64_5.54_arm64
+  linux-image-next-cubox_5.98_armhf
   linux-image-next-cubox_5.90_armhf
   linux-image-next-cubox_5.85_armhf
-  linux-image-next-cubox_5.75_armhf
   linux-image-next-meson64_5.95_arm64
   linux-image-next-meson64_5.90_arm64
   linux-image-next-meson64_5.86_arm64
@@ -2408,12 +2408,12 @@
   linux-u-boot-cubietruck-next_5.90_armhf
   linux-u-boot-cubietruck-next_5.85_armhf
   linux-u-boot-cubietruck-next_5.75_armhf
+  linux-u-boot-cubox-i-default_5.98_armhf
   linux-u-boot-cubox-i-default_5.90_armhf
   linux-u-boot-cubox-i-default_5.85_armhf
-  linux-u-boot-cubox-i-default_5.75_armhf
+  linux-u-boot-cubox-i-next_5.98_armhf
   linux-u-boot-cubox-i-next_5.90_armhf
   linux-u-boot-cubox-i-next_5.85_armhf
-  linux-u-boot-cubox-i-next_5.75_armhf
   linux-u-boot-espressobin-default_5.90_arm64
   linux-u-boot-espressobin-default_5.85_arm64
   linux-u-boot-espressobin-default_5.75_arm64
@@ -2780,9 +2780,9 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.38+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
+  armbian-bionic-desktop_5.98_all
   armbian-bionic-desktop_5.97_all
   armbian-bionic-desktop_5.95_all
-  armbian-bionic-desktop_5.90_all
   armbian-config_5.95_all
   armbian-config_5.94_all
   armbian-config_5.91_all
@@ -2837,9 +2837,9 @@
   linux-bionic-root-clearfogpro_5.91_armhf
   linux-bionic-root-clearfogpro_5.90_armhf
   linux-bionic-root-clearfogpro_5.85_armhf
+  linux-bionic-root-cubox-i_5.98_armhf
   linux-bionic-root-cubox-i_5.90_armhf
   linux-bionic-root-cubox-i_5.85_armhf
-  linux-bionic-root-cubox-i_5.73_armhf
   linux-bionic-root-espressobin_5.90_arm64
   linux-bionic-root-espressobin_5.85_arm64
   linux-bionic-root-espressobin_5.73_arm64
@@ -2883,9 +2883,9 @@
   linux-bionic-root-next-cubietruck_5.90_armhf
   linux-bionic-root-next-cubietruck_5.85_armhf
   linux-bionic-root-next-cubietruck_5.73_armhf
+  linux-bionic-root-next-cubox-i_5.98_armhf
   linux-bionic-root-next-cubox-i_5.90_armhf
   linux-bionic-root-next-cubox-i_5.85_armhf
-  linux-bionic-root-next-cubox-i_5.73_armhf
   linux-bionic-root-next-espressobin_5.90_arm64
   linux-bionic-root-next-espressobin_5.85_arm64
   linux-bionic-root-next-espressobin_5.73_arm64
@@ -3064,9 +3064,9 @@
   linux-bionic-root-xt-q8l-v10_5.90_armhf
   linux-bionic-root-z28pro_5.90_arm64
   linux-dtb-aml-g12_5.95_arm64
+  linux-dtb-cubox_5.98_armhf
   linux-dtb-cubox_5.90_armhf
   linux-dtb-cubox_5.85_armhf
-  linux-dtb-cubox_5.75_armhf
   linux-dtb-dev-meson64_5.97.190927_arm64
   linux-dtb-dev-meson64_5.97.190926_arm64
   linux-dtb-dev-meson64_5.97.190925_arm64
@@ -3097,9 +3097,9 @@
   linux-dtb-mvebu64_5.85_arm64
   linux-dtb-mvebu64_5.75_arm64
   linux-dtb-mvebu64_5.73_arm64
+  linux-dtb-next-cubox_5.98_armhf
   linux-dtb-next-cubox_5.90_armhf
   linux-dtb-next-cubox_5.85_armhf
-  linux-dtb-next-cubox_5.75_armhf
   linux-dtb-next-meson64_5.95_arm64
   linux-dtb-next-meson64_5.90_arm64
   linux-dtb-next-meson64_5.86_arm64
@@ -3168,9 +3168,9 @@
   linux-dtb-udoo-neo_5.31_armhf
   linux-dtb-udoo-neo_5.30_armhf
   linux-headers-aml-g12_5.95_arm64
+  linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-cubox_5.85_armhf
-  linux-headers-cubox_5.75_armhf
   linux-headers-dev-meson64_5.97.190927_arm64
   linux-headers-dev-meson64_5.97.190926_arm64
   linux-headers-dev-meson64_5.97.190925_arm64
@@ -3202,9 +3202,9 @@
   linux-headers-mvebu64_5.85_arm64
   linux-headers-mvebu64_5.75_arm64
   linux-headers-mvebu64_5.73_arm64
+  linux-headers-next-cubox_5.98_armhf
   linux-headers-next-cubox_5.90_armhf
   linux-headers-next-cubox_5.85_armhf
-  linux-headers-next-cubox_5.75_armhf
   linux-headers-next-meson64_5.95_arm64
   linux-headers-next-meson64_5.90_arm64
   linux-headers-next-meson64_5.86_arm64
@@ -3283,9 +3283,9 @@
   linux-headers-udoo-neo_5.31_armhf
   linux-headers-udoo-neo_5.30_armhf
   linux-image-aml-g12_5.95_arm64
+  linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-cubox_5.85_armhf
-  linux-image-cubox_5.75_armhf
   linux-image-dev-meson64_5.97.190927_arm64
   linux-image-dev-meson64_5.97.190926_arm64
   linux-image-dev-meson64_5.97.190925_arm64
@@ -3315,9 +3315,9 @@
   linux-image-mvebu_5.75_armhf
   linux-image-mvebu64_5.85_arm64
   linux-image-mvebu64_5.54_arm64
+  linux-image-next-cubox_5.98_armhf
   linux-image-next-cubox_5.90_armhf
   linux-image-next-cubox_5.85_armhf
-  linux-image-next-cubox_5.75_armhf
   linux-image-next-meson64_5.95_arm64
   linux-image-next-meson64_5.90_arm64
   linux-image-next-meson64_5.86_arm64
@@ -3632,12 +3632,12 @@
   linux-u-boot-cubietruck-next_5.90_armhf
   linux-u-boot-cubietruck-next_5.85_armhf
   linux-u-boot-cubietruck-next_5.75_armhf
+  linux-u-boot-cubox-i-default_5.98_armhf
   linux-u-boot-cubox-i-default_5.90_armhf
   linux-u-boot-cubox-i-default_5.85_armhf
-  linux-u-boot-cubox-i-default_5.75_armhf
+  linux-u-boot-cubox-i-next_5.98_armhf
   linux-u-boot-cubox-i-next_5.90_armhf
   linux-u-boot-cubox-i-next_5.85_armhf
-  linux-u-boot-cubox-i-next_5.75_armhf
   linux-u-boot-espressobin-default_5.90_arm64
   linux-u-boot-espressobin-default_5.85_arm64
   linux-u-boot-espressobin-default_5.75_arm64
@@ -4001,9 +4001,9 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
+  armbian-buster-desktop_5.98_all
   armbian-buster-desktop_5.95_all
   armbian-buster-desktop_5.90_all
-  armbian-buster-desktop_5.86_all
   armbian-config_5.95_all
   armbian-config_5.94_all
   armbian-config_5.91_all
@@ -4027,6 +4027,7 @@
   linux-buster-root-clearfogpro_5.91_armhf
   linux-buster-root-clearfogpro_5.90_armhf
   linux-buster-root-cubietruck_5.90_armhf
+  linux-buster-root-cubox-i_5.98_armhf
   linux-buster-root-cubox-i_5.90_armhf
   linux-buster-root-espressobin_5.90_arm64
   linux-buster-root-helios4_5.91_armhf
@@ -4055,6 +4056,7 @@
   linux-buster-root-next-clearfogpro_5.91_armhf
   linux-buster-root-next-clearfogpro_5.90_armhf
   linux-buster-root-next-cubietruck_5.90_armhf
+  linux-buster-root-next-cubox-i_5.98_armhf
   linux-buster-root-next-cubox-i_5.90_armhf
   linux-buster-root-next-espressobin_5.90_arm64
   linux-buster-root-next-helios4_5.91_armhf
@@ -4148,6 +4150,7 @@
   linux-buster-root-xt-q8l-v10_5.90_armhf
   linux-buster-root-z28pro_5.90_arm64
   linux-dtb-aml-g12_5.95_arm64
+  linux-dtb-cubox_5.98_armhf
   linux-dtb-cubox_5.90_armhf
   linux-dtb-dev-meson64_5.97.190927_arm64
   linux-dtb-dev-meson64_5.97.190926_arm64
@@ -4171,6 +4174,7 @@
   linux-dtb-dev-sunxi64_5.97.190926_arm64
   linux-dtb-dev-sunxi64_5.97.190925_arm64
   linux-dtb-mvebu_5.91_armhf
+  linux-dtb-next-cubox_5.98_armhf
   linux-dtb-next-cubox_5.90_armhf
   linux-dtb-next-meson64_5.95_arm64
   linux-dtb-next-meson64_5.90_arm64
@@ -4204,6 +4208,7 @@
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-aml-g12_5.95_arm64
+  linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-dev-meson64_5.97.190927_arm64
   linux-headers-dev-meson64_5.97.190926_arm64
@@ -4227,6 +4232,7 @@
   linux-headers-dev-sunxi64_5.97.190926_arm64
   linux-headers-dev-sunxi64_5.97.190925_arm64
   linux-headers-mvebu_5.91_armhf
+  linux-headers-next-cubox_5.98_armhf
   linux-headers-next-cubox_5.90_armhf
   linux-headers-next-meson64_5.95_arm64
   linux-headers-next-meson64_5.90_arm64
@@ -4260,6 +4266,7 @@
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
   linux-image-aml-g12_5.95_arm64
+  linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-dev-meson64_5.97.190927_arm64
   linux-image-dev-meson64_5.97.190926_arm64
@@ -4283,6 +4290,7 @@
   linux-image-dev-sunxi64_5.97.190926_arm64
   linux-image-dev-sunxi64_5.97.190925_arm64
   linux-image-mvebu_5.91_armhf
+  linux-image-next-cubox_5.98_armhf
   linux-image-next-cubox_5.90_armhf
   linux-image-next-meson64_5.95_arm64
   linux-image-next-meson64_5.90_arm64
@@ -4413,7 +4421,9 @@
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-cubietruck-default_5.90_armhf
   linux-u-boot-cubietruck-next_5.90_armhf
+  linux-u-boot-cubox-i-default_5.98_armhf
   linux-u-boot-cubox-i-default_5.90_armhf
+  linux-u-boot-cubox-i-next_5.98_armhf
   linux-u-boot-cubox-i-next_5.90_armhf
   linux-u-boot-espressobin-default_5.90_arm64
   linux-u-boot-espressobin-next_5.90_arm64
@@ -4656,6 +4666,7 @@
   linux-disco-root-xt-q8l-v10_5.90_armhf
   linux-disco-root-z28pro_5.90_arm64
   linux-dtb-aml-g12_5.95_arm64
+  linux-dtb-cubox_5.98_armhf
   linux-dtb-cubox_5.90_armhf
   linux-dtb-dev-meson64_5.97.190927_arm64
   linux-dtb-dev-meson64_5.97.190926_arm64
@@ -4679,6 +4690,7 @@
   linux-dtb-dev-sunxi64_5.97.190926_arm64
   linux-dtb-dev-sunxi64_5.97.190925_arm64
   linux-dtb-mvebu_5.91_armhf
+  linux-dtb-next-cubox_5.98_armhf
   linux-dtb-next-cubox_5.90_armhf
   linux-dtb-next-meson64_5.95_arm64
   linux-dtb-next-meson64_5.90_arm64
@@ -4712,6 +4724,7 @@
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-aml-g12_5.95_arm64
+  linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-dev-meson64_5.97.190927_arm64
   linux-headers-dev-meson64_5.97.190926_arm64
@@ -4735,6 +4748,7 @@
   linux-headers-dev-sunxi64_5.97.190926_arm64
   linux-headers-dev-sunxi64_5.97.190925_arm64
   linux-headers-mvebu_5.91_armhf
+  linux-headers-next-cubox_5.98_armhf
   linux-headers-next-cubox_5.90_armhf
   linux-headers-next-meson64_5.95_arm64
   linux-headers-next-meson64_5.90_arm64
@@ -4768,6 +4782,7 @@
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
   linux-image-aml-g12_5.95_arm64
+  linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-dev-meson64_5.97.190927_arm64
   linux-image-dev-meson64_5.97.190926_arm64
@@ -4791,6 +4806,7 @@
   linux-image-dev-sunxi64_5.97.190926_arm64
   linux-image-dev-sunxi64_5.97.190925_arm64
   linux-image-mvebu_5.91_armhf
+  linux-image-next-cubox_5.98_armhf
   linux-image-next-cubox_5.90_armhf
   linux-image-next-meson64_5.95_arm64
   linux-image-next-meson64_5.90_arm64
@@ -4921,7 +4937,9 @@
   linux-u-boot-clearfogpro-next_5.90_armhf
   linux-u-boot-cubietruck-default_5.90_armhf
   linux-u-boot-cubietruck-next_5.90_armhf
+  linux-u-boot-cubox-i-default_5.98_armhf
   linux-u-boot-cubox-i-default_5.90_armhf
+  linux-u-boot-cubox-i-next_5.98_armhf
   linux-u-boot-cubox-i-next_5.90_armhf
   linux-u-boot-espressobin-default_5.90_arm64
   linux-u-boot-espressobin-next_5.90_arm64
