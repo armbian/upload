@@ -99,9 +99,9 @@
   linux-dtb-next-odroidc2_5.60_arm64
   linux-dtb-next-odroidc2_5.58_arm64
   linux-dtb-next-odroidc2_5.55_arm64
+  linux-dtb-next-odroidxu4_5.98_armhf
   linux-dtb-next-odroidxu4_5.97_armhf
   linux-dtb-next-odroidxu4_5.91_armhf
-  linux-dtb-next-odroidxu4_5.90_armhf
   linux-dtb-next-rockchip_5.95_armhf
   linux-dtb-next-rockchip_5.90_armhf
   linux-dtb-next-rockchip_5.85_armhf
@@ -126,9 +126,9 @@
   linux-dtb-odroidn2_5.95_arm64
   linux-dtb-odroidn2_5.89_arm64
   linux-dtb-odroidn2_5.88_arm64
+  linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
-  linux-dtb-odroidxu4_5.91_armhf
   linux-dtb-pine64_5.85_arm64
   linux-dtb-pine64_5.75_arm64
   linux-dtb-pine64_5.73_arm64
@@ -204,9 +204,9 @@
   linux-headers-next-odroidc2_5.60_arm64
   linux-headers-next-odroidc2_5.58_arm64
   linux-headers-next-odroidc2_5.55_arm64
+  linux-headers-next-odroidxu4_5.98_armhf
   linux-headers-next-odroidxu4_5.97_armhf
   linux-headers-next-odroidxu4_5.91_armhf
-  linux-headers-next-odroidxu4_5.90_armhf
   linux-headers-next-rockchip_5.95_armhf
   linux-headers-next-rockchip_5.90_armhf
   linux-headers-next-rockchip_5.85_armhf
@@ -231,9 +231,9 @@
   linux-headers-odroidn2_5.95_arm64
   linux-headers-odroidn2_5.89_arm64
   linux-headers-odroidn2_5.88_arm64
+  linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
-  linux-headers-odroidxu4_5.91_armhf
   linux-headers-pine64_5.85_arm64
   linux-headers-pine64_5.83_arm64
   linux-headers-pine64_5.75_arm64
@@ -317,9 +317,9 @@
   linux-image-next-odroidc2_5.60_arm64
   linux-image-next-odroidc2_5.58_arm64
   linux-image-next-odroidc2_5.55_arm64
+  linux-image-next-odroidxu4_5.98_armhf
   linux-image-next-odroidxu4_5.97_armhf
   linux-image-next-odroidxu4_5.91_armhf
-  linux-image-next-odroidxu4_5.90_armhf
   linux-image-next-rockchip_5.95_armhf
   linux-image-next-rockchip_5.90_armhf
   linux-image-next-rockchip_5.85_armhf
@@ -344,9 +344,9 @@
   linux-image-odroidn2_5.95_arm64
   linux-image-odroidn2_5.89_arm64
   linux-image-odroidn2_5.88_arm64
+  linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
-  linux-image-odroidxu4_5.91_armhf
   linux-image-pine64_5.85_arm64
   linux-image-pine64_5.83_arm64
   linux-image-pine64_5.75_arm64
@@ -412,6 +412,8 @@
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
   linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
+  linux-source-4.14.141-default-odroidxu4_4.14.141-default-odroidxu4+5.98_all
+  linux-source-4.14.141-next-odroidxu4_4.14.141-next-odroidxu4+5.98_all
   linux-source-4.14.144-default-odroidxu4_4.14.144-default-odroidxu4+5.97_all
   linux-source-4.14.144-next-odroidxu4_4.14.144-next-odroidxu4+5.97_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
@@ -786,12 +788,12 @@
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidxu4-default_5.98_armhf
   linux-u-boot-odroidxu4-default_5.97_armhf
   linux-u-boot-odroidxu4-default_5.95_armhf
-  linux-u-boot-odroidxu4-default_5.90_armhf
+  linux-u-boot-odroidxu4-next_5.98_armhf
   linux-u-boot-odroidxu4-next_5.97_armhf
   linux-u-boot-odroidxu4-next_5.90_armhf
-  linux-u-boot-odroidxu4-next_5.89_armhf
   linux-u-boot-olinux-som-a13-default_5.31_armhf
   linux-u-boot-olinux-som-a13-default_5.30_armhf
   linux-u-boot-olinux-som-a13-default_5.25_armhf
@@ -1621,9 +1623,9 @@
   linux-dtb-next-odroidc2_5.60_arm64
   linux-dtb-next-odroidc2_5.58_arm64
   linux-dtb-next-odroidc2_5.55_arm64
+  linux-dtb-next-odroidxu4_5.98_armhf
   linux-dtb-next-odroidxu4_5.97_armhf
   linux-dtb-next-odroidxu4_5.91_armhf
-  linux-dtb-next-odroidxu4_5.90_armhf
   linux-dtb-next-rockchip_5.95_armhf
   linux-dtb-next-rockchip_5.90_armhf
   linux-dtb-next-rockchip_5.85_armhf
@@ -1648,9 +1650,9 @@
   linux-dtb-odroidn2_5.95_arm64
   linux-dtb-odroidn2_5.89_arm64
   linux-dtb-odroidn2_5.88_arm64
+  linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
-  linux-dtb-odroidxu4_5.91_armhf
   linux-dtb-pine64_5.85_arm64
   linux-dtb-pine64_5.75_arm64
   linux-dtb-pine64_5.73_arm64
@@ -1726,9 +1728,9 @@
   linux-headers-next-odroidc2_5.60_arm64
   linux-headers-next-odroidc2_5.58_arm64
   linux-headers-next-odroidc2_5.55_arm64
+  linux-headers-next-odroidxu4_5.98_armhf
   linux-headers-next-odroidxu4_5.97_armhf
   linux-headers-next-odroidxu4_5.91_armhf
-  linux-headers-next-odroidxu4_5.90_armhf
   linux-headers-next-rockchip_5.95_armhf
   linux-headers-next-rockchip_5.90_armhf
   linux-headers-next-rockchip_5.85_armhf
@@ -1753,9 +1755,9 @@
   linux-headers-odroidn2_5.95_arm64
   linux-headers-odroidn2_5.89_arm64
   linux-headers-odroidn2_5.88_arm64
+  linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
-  linux-headers-odroidxu4_5.91_armhf
   linux-headers-pine64_5.85_arm64
   linux-headers-pine64_5.83_arm64
   linux-headers-pine64_5.75_arm64
@@ -1839,9 +1841,9 @@
   linux-image-next-odroidc2_5.60_arm64
   linux-image-next-odroidc2_5.58_arm64
   linux-image-next-odroidc2_5.55_arm64
+  linux-image-next-odroidxu4_5.98_armhf
   linux-image-next-odroidxu4_5.97_armhf
   linux-image-next-odroidxu4_5.91_armhf
-  linux-image-next-odroidxu4_5.90_armhf
   linux-image-next-rockchip_5.95_armhf
   linux-image-next-rockchip_5.90_armhf
   linux-image-next-rockchip_5.85_armhf
@@ -1866,9 +1868,9 @@
   linux-image-odroidn2_5.95_arm64
   linux-image-odroidn2_5.89_arm64
   linux-image-odroidn2_5.88_arm64
+  linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
-  linux-image-odroidxu4_5.91_armhf
   linux-image-pine64_5.85_arm64
   linux-image-pine64_5.83_arm64
   linux-image-pine64_5.75_arm64
@@ -1934,6 +1936,8 @@
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
   linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
+  linux-source-4.14.141-default-odroidxu4_4.14.141-default-odroidxu4+5.98_all
+  linux-source-4.14.141-next-odroidxu4_4.14.141-next-odroidxu4+5.98_all
   linux-source-4.14.144-default-odroidxu4_4.14.144-default-odroidxu4+5.97_all
   linux-source-4.14.144-next-odroidxu4_4.14.144-next-odroidxu4+5.97_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
@@ -2578,12 +2582,12 @@
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidxu4-default_5.98_armhf
   linux-u-boot-odroidxu4-default_5.97_armhf
   linux-u-boot-odroidxu4-default_5.95_armhf
-  linux-u-boot-odroidxu4-default_5.90_armhf
+  linux-u-boot-odroidxu4-next_5.98_armhf
   linux-u-boot-odroidxu4-next_5.97_armhf
   linux-u-boot-odroidxu4-next_5.90_armhf
-  linux-u-boot-odroidxu4-next_5.89_armhf
   linux-u-boot-olinux-som-a13-default_5.31_armhf
   linux-u-boot-olinux-som-a13-default_5.30_armhf
   linux-u-boot-olinux-som-a13-default_5.25_armhf
@@ -3115,9 +3119,9 @@
   linux-dtb-next-odroidc2_5.60_arm64
   linux-dtb-next-odroidc2_5.58_arm64
   linux-dtb-next-odroidc2_5.55_arm64
+  linux-dtb-next-odroidxu4_5.98_armhf
   linux-dtb-next-odroidxu4_5.97_armhf
   linux-dtb-next-odroidxu4_5.91_armhf
-  linux-dtb-next-odroidxu4_5.90_armhf
   linux-dtb-next-rockchip_5.95_armhf
   linux-dtb-next-rockchip_5.90_armhf
   linux-dtb-next-rockchip_5.85_armhf
@@ -3142,9 +3146,9 @@
   linux-dtb-odroidn2_5.95_arm64
   linux-dtb-odroidn2_5.89_arm64
   linux-dtb-odroidn2_5.88_arm64
+  linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
-  linux-dtb-odroidxu4_5.91_armhf
   linux-dtb-pine64_5.85_arm64
   linux-dtb-pine64_5.75_arm64
   linux-dtb-pine64_5.73_arm64
@@ -3220,9 +3224,9 @@
   linux-headers-next-odroidc2_5.60_arm64
   linux-headers-next-odroidc2_5.58_arm64
   linux-headers-next-odroidc2_5.55_arm64
+  linux-headers-next-odroidxu4_5.98_armhf
   linux-headers-next-odroidxu4_5.97_armhf
   linux-headers-next-odroidxu4_5.91_armhf
-  linux-headers-next-odroidxu4_5.90_armhf
   linux-headers-next-rockchip_5.95_armhf
   linux-headers-next-rockchip_5.90_armhf
   linux-headers-next-rockchip_5.85_armhf
@@ -3247,9 +3251,9 @@
   linux-headers-odroidn2_5.95_arm64
   linux-headers-odroidn2_5.89_arm64
   linux-headers-odroidn2_5.88_arm64
+  linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
-  linux-headers-odroidxu4_5.91_armhf
   linux-headers-pine64_5.85_arm64
   linux-headers-pine64_5.83_arm64
   linux-headers-pine64_5.75_arm64
@@ -3333,9 +3337,9 @@
   linux-image-next-odroidc2_5.60_arm64
   linux-image-next-odroidc2_5.58_arm64
   linux-image-next-odroidc2_5.55_arm64
+  linux-image-next-odroidxu4_5.98_armhf
   linux-image-next-odroidxu4_5.97_armhf
   linux-image-next-odroidxu4_5.91_armhf
-  linux-image-next-odroidxu4_5.90_armhf
   linux-image-next-rockchip_5.95_armhf
   linux-image-next-rockchip_5.90_armhf
   linux-image-next-rockchip_5.85_armhf
@@ -3360,9 +3364,9 @@
   linux-image-odroidn2_5.95_arm64
   linux-image-odroidn2_5.89_arm64
   linux-image-odroidn2_5.88_arm64
+  linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
-  linux-image-odroidxu4_5.91_armhf
   linux-image-pine64_5.85_arm64
   linux-image-pine64_5.83_arm64
   linux-image-pine64_5.75_arm64
@@ -3428,6 +3432,8 @@
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
   linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
+  linux-source-4.14.141-default-odroidxu4_4.14.141-default-odroidxu4+5.98_all
+  linux-source-4.14.141-next-odroidxu4_4.14.141-next-odroidxu4+5.98_all
   linux-source-4.14.144-default-odroidxu4_4.14.144-default-odroidxu4+5.97_all
   linux-source-4.14.144-next-odroidxu4_4.14.144-next-odroidxu4+5.97_all
   linux-source-4.14.70-next-s5p6818_4.14.70-next-s5p6818+5.60_all
@@ -3802,12 +3808,12 @@
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidxu4-default_5.98_armhf
   linux-u-boot-odroidxu4-default_5.97_armhf
   linux-u-boot-odroidxu4-default_5.95_armhf
-  linux-u-boot-odroidxu4-default_5.90_armhf
+  linux-u-boot-odroidxu4-next_5.98_armhf
   linux-u-boot-odroidxu4-next_5.97_armhf
   linux-u-boot-odroidxu4-next_5.90_armhf
-  linux-u-boot-odroidxu4-next_5.89_armhf
   linux-u-boot-olinux-som-a13-default_5.31_armhf
   linux-u-boot-olinux-som-a13-default_5.30_armhf
   linux-u-boot-olinux-som-a13-default_5.25_armhf
@@ -4182,9 +4188,9 @@
   linux-dtb-next-mvebu64_5.89_arm64
   linux-dtb-next-odroidc1_5.90_armhf
   linux-dtb-next-odroidc1_5.89_armhf
+  linux-dtb-next-odroidxu4_5.98_armhf
   linux-dtb-next-odroidxu4_5.97_armhf
   linux-dtb-next-odroidxu4_5.91_armhf
-  linux-dtb-next-odroidxu4_5.90_armhf
   linux-dtb-next-rockchip_5.95_armhf
   linux-dtb-next-rockchip_5.90_armhf
   linux-dtb-next-s5p6818_5.95_arm64
@@ -4198,9 +4204,9 @@
   linux-dtb-odroidn2_5.95_arm64
   linux-dtb-odroidn2_5.89_arm64
   linux-dtb-odroidn2_5.88_arm64
+  linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
-  linux-dtb-odroidxu4_5.91_armhf
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
   linux-dtb-rockchip_5.95_armhf
@@ -4240,9 +4246,9 @@
   linux-headers-next-mvebu64_5.89_arm64
   linux-headers-next-odroidc1_5.90_armhf
   linux-headers-next-odroidc1_5.89_armhf
+  linux-headers-next-odroidxu4_5.98_armhf
   linux-headers-next-odroidxu4_5.97_armhf
   linux-headers-next-odroidxu4_5.91_armhf
-  linux-headers-next-odroidxu4_5.90_armhf
   linux-headers-next-rockchip_5.95_armhf
   linux-headers-next-rockchip_5.90_armhf
   linux-headers-next-s5p6818_5.95_arm64
@@ -4256,9 +4262,9 @@
   linux-headers-odroidn2_5.95_arm64
   linux-headers-odroidn2_5.89_arm64
   linux-headers-odroidn2_5.88_arm64
+  linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
-  linux-headers-odroidxu4_5.91_armhf
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
   linux-headers-rockchip_5.95_armhf
@@ -4298,9 +4304,9 @@
   linux-image-next-mvebu64_5.89_arm64
   linux-image-next-odroidc1_5.90_armhf
   linux-image-next-odroidc1_5.89_armhf
+  linux-image-next-odroidxu4_5.98_armhf
   linux-image-next-odroidxu4_5.97_armhf
   linux-image-next-odroidxu4_5.91_armhf
-  linux-image-next-odroidxu4_5.90_armhf
   linux-image-next-rockchip_5.95_armhf
   linux-image-next-rockchip_5.90_armhf
   linux-image-next-s5p6818_5.95_arm64
@@ -4314,9 +4320,9 @@
   linux-image-odroidn2_5.95_arm64
   linux-image-odroidn2_5.89_arm64
   linux-image-odroidn2_5.88_arm64
+  linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
-  linux-image-odroidxu4_5.91_armhf
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
   linux-image-rockchip_5.95_armhf
@@ -4333,6 +4339,8 @@
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
   linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
+  linux-source-4.14.141-default-odroidxu4_4.14.141-default-odroidxu4+5.98_all
+  linux-source-4.14.141-next-odroidxu4_4.14.141-next-odroidxu4+5.98_all
   linux-source-4.14.144-default-odroidxu4_4.14.144-default-odroidxu4+5.97_all
   linux-source-4.14.144-next-odroidxu4_4.14.144-next-odroidxu4+5.97_all
   linux-source-4.19.56-next-mvebu64_4.19.56-next-mvebu64+5.89_all
@@ -4480,12 +4488,12 @@
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidxu4-default_5.98_armhf
   linux-u-boot-odroidxu4-default_5.97_armhf
   linux-u-boot-odroidxu4-default_5.95_armhf
-  linux-u-boot-odroidxu4-default_5.90_armhf
+  linux-u-boot-odroidxu4-next_5.98_armhf
   linux-u-boot-odroidxu4-next_5.97_armhf
   linux-u-boot-odroidxu4-next_5.90_armhf
-  linux-u-boot-odroidxu4-next_5.89_armhf
   linux-u-boot-orangepi-r1-default_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.90_armhf
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
@@ -4698,9 +4706,9 @@
   linux-dtb-next-mvebu64_5.89_arm64
   linux-dtb-next-odroidc1_5.90_armhf
   linux-dtb-next-odroidc1_5.89_armhf
+  linux-dtb-next-odroidxu4_5.98_armhf
   linux-dtb-next-odroidxu4_5.97_armhf
   linux-dtb-next-odroidxu4_5.91_armhf
-  linux-dtb-next-odroidxu4_5.90_armhf
   linux-dtb-next-rockchip_5.95_armhf
   linux-dtb-next-rockchip_5.90_armhf
   linux-dtb-next-s5p6818_5.95_arm64
@@ -4714,9 +4722,9 @@
   linux-dtb-odroidn2_5.95_arm64
   linux-dtb-odroidn2_5.89_arm64
   linux-dtb-odroidn2_5.88_arm64
+  linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
-  linux-dtb-odroidxu4_5.91_armhf
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
   linux-dtb-rockchip_5.95_armhf
@@ -4756,9 +4764,9 @@
   linux-headers-next-mvebu64_5.89_arm64
   linux-headers-next-odroidc1_5.90_armhf
   linux-headers-next-odroidc1_5.89_armhf
+  linux-headers-next-odroidxu4_5.98_armhf
   linux-headers-next-odroidxu4_5.97_armhf
   linux-headers-next-odroidxu4_5.91_armhf
-  linux-headers-next-odroidxu4_5.90_armhf
   linux-headers-next-rockchip_5.95_armhf
   linux-headers-next-rockchip_5.90_armhf
   linux-headers-next-s5p6818_5.95_arm64
@@ -4772,9 +4780,9 @@
   linux-headers-odroidn2_5.95_arm64
   linux-headers-odroidn2_5.89_arm64
   linux-headers-odroidn2_5.88_arm64
+  linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
-  linux-headers-odroidxu4_5.91_armhf
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
   linux-headers-rockchip_5.95_armhf
@@ -4814,9 +4822,9 @@
   linux-image-next-mvebu64_5.89_arm64
   linux-image-next-odroidc1_5.90_armhf
   linux-image-next-odroidc1_5.89_armhf
+  linux-image-next-odroidxu4_5.98_armhf
   linux-image-next-odroidxu4_5.97_armhf
   linux-image-next-odroidxu4_5.91_armhf
-  linux-image-next-odroidxu4_5.90_armhf
   linux-image-next-rockchip_5.95_armhf
   linux-image-next-rockchip_5.90_armhf
   linux-image-next-s5p6818_5.95_arm64
@@ -4830,9 +4838,9 @@
   linux-image-odroidn2_5.95_arm64
   linux-image-odroidn2_5.89_arm64
   linux-image-odroidn2_5.88_arm64
+  linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
-  linux-image-odroidxu4_5.91_armhf
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
   linux-image-rockchip_5.95_armhf
@@ -4849,6 +4857,8 @@
   linux-source-4.14.133-default-odroidxu4_4.14.133-default-odroidxu4+5.91_all
   linux-source-4.14.133-next-odroidxu4_4.14.133-next-odroidxu4+5.91_all
   linux-source-4.14.135-default-mvebu_4.14.135-default-mvebu+5.91_all
+  linux-source-4.14.141-default-odroidxu4_4.14.141-default-odroidxu4+5.98_all
+  linux-source-4.14.141-next-odroidxu4_4.14.141-next-odroidxu4+5.98_all
   linux-source-4.14.144-default-odroidxu4_4.14.144-default-odroidxu4+5.97_all
   linux-source-4.14.144-next-odroidxu4_4.14.144-next-odroidxu4+5.97_all
   linux-source-4.19.56-next-mvebu64_4.19.56-next-mvebu64+5.89_all
@@ -4996,12 +5006,12 @@
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidxu4-default_5.98_armhf
   linux-u-boot-odroidxu4-default_5.97_armhf
   linux-u-boot-odroidxu4-default_5.95_armhf
-  linux-u-boot-odroidxu4-default_5.90_armhf
+  linux-u-boot-odroidxu4-next_5.98_armhf
   linux-u-boot-odroidxu4-next_5.97_armhf
   linux-u-boot-odroidxu4-next_5.90_armhf
-  linux-u-boot-odroidxu4-next_5.89_armhf
   linux-u-boot-orangepi-r1-default_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.90_armhf
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
