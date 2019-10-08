@@ -151,6 +151,7 @@
   linux-dtb-udoo-neo_5.35_armhf
   linux-dtb-udoo-neo_5.31_armhf
   linux-dtb-udoo-neo_5.30_armhf
+  linux-headers-aml-g12_5.98_arm64
   linux-headers-aml-g12_5.95_arm64
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
@@ -266,6 +267,7 @@
   linux-headers-udoo-neo_5.35_armhf
   linux-headers-udoo-neo_5.31_armhf
   linux-headers-udoo-neo_5.30_armhf
+  linux-image-aml-g12_5.98_arm64
   linux-image-aml-g12_5.95_arm64
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
@@ -1701,6 +1703,7 @@
   linux-dtb-udoo-neo_5.35_armhf
   linux-dtb-udoo-neo_5.31_armhf
   linux-dtb-udoo-neo_5.30_armhf
+  linux-headers-aml-g12_5.98_arm64
   linux-headers-aml-g12_5.95_arm64
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
@@ -1816,6 +1819,7 @@
   linux-headers-udoo-neo_5.35_armhf
   linux-headers-udoo-neo_5.31_armhf
   linux-headers-udoo-neo_5.30_armhf
+  linux-image-aml-g12_5.98_arm64
   linux-image-aml-g12_5.95_arm64
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
@@ -3223,6 +3227,7 @@
   linux-dtb-udoo-neo_5.35_armhf
   linux-dtb-udoo-neo_5.31_armhf
   linux-dtb-udoo-neo_5.30_armhf
+  linux-headers-aml-g12_5.98_arm64
   linux-headers-aml-g12_5.95_arm64
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
@@ -3338,6 +3343,7 @@
   linux-headers-udoo-neo_5.35_armhf
   linux-headers-udoo-neo_5.31_armhf
   linux-headers-udoo-neo_5.30_armhf
+  linux-image-aml-g12_5.98_arm64
   linux-image-aml-g12_5.95_arm64
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
@@ -4291,6 +4297,7 @@
   linux-dtb-rockchip_5.90_armhf
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
+  linux-headers-aml-g12_5.98_arm64
   linux-headers-aml-g12_5.95_arm64
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
@@ -4349,6 +4356,7 @@
   linux-headers-rockchip_5.90_armhf
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
+  linux-image-aml-g12_5.98_arm64
   linux-image-aml-g12_5.95_arm64
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
@@ -4835,6 +4843,7 @@
   linux-dtb-rockchip_5.90_armhf
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
+  linux-headers-aml-g12_5.98_arm64
   linux-headers-aml-g12_5.95_arm64
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
@@ -4893,6 +4902,7 @@
   linux-headers-rockchip_5.90_armhf
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
+  linux-image-aml-g12_5.98_arm64
   linux-image-aml-g12_5.95_arm64
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
