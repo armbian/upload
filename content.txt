@@ -133,15 +133,15 @@
   linux-dtb-pine64_5.75_arm64
   linux-dtb-pine64_5.73_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.98_arm64
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
-  linux-dtb-rk3399_5.85_arm64
   linux-dtb-rockchip_5.95_armhf
   linux-dtb-rockchip_5.90_armhf
   linux-dtb-rockchip_5.85_armhf
+  linux-dtb-rockchip64_5.98_arm64
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
-  linux-dtb-rockchip64_5.85_arm64
   linux-dtb-s500_5.26_armhf
   linux-dtb-s500_5.25_armhf
   linux-dtb-s500_5.23_armhf
@@ -239,15 +239,15 @@
   linux-headers-pine64_5.83_arm64
   linux-headers-pine64_5.75_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.98_arm64
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
-  linux-headers-rk3399_5.85_arm64
   linux-headers-rockchip_5.95_armhf
   linux-headers-rockchip_5.90_armhf
   linux-headers-rockchip_5.85_armhf
+  linux-headers-rockchip64_5.98_arm64
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
-  linux-headers-rockchip64_5.85_arm64
   linux-headers-s500_5.26_armhf
   linux-headers-s500_5.25_armhf
   linux-headers-sun4i_5.38_armhf
@@ -353,15 +353,15 @@
   linux-image-pine64_5.83_arm64
   linux-image-pine64_5.75_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.98_arm64
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
-  linux-image-rk3399_5.85_arm64
   linux-image-rockchip_5.95_armhf
   linux-image-rockchip_5.90_armhf
   linux-image-rockchip_5.85_armhf
+  linux-image-rockchip64_5.98_arm64
   linux-image-rockchip64_5.90_arm64
   linux-image-rockchip64_5.88_arm64
-  linux-image-rockchip64_5.85_arm64
   linux-image-s500_5.26_armhf
   linux-image-s500_5.25_armhf
   linux-image-sun4i_5.38_armhf
@@ -729,9 +729,9 @@
   linux-u-boot-nanopct3plus-next_5.95_arm64
   linux-u-boot-nanopct3plus-next_5.90_arm64
   linux-u-boot-nanopct3plus-next_5.85_arm64
+  linux-u-boot-nanopct4-default_5.98_arm64
   linux-u-boot-nanopct4-default_5.95_arm64
   linux-u-boot-nanopct4-default_5.90_arm64
-  linux-u-boot-nanopct4-default_5.85_arm64
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
@@ -780,9 +780,9 @@
   linux-u-boot-nanopim3-next_5.95_arm64
   linux-u-boot-nanopim3-next_5.90_arm64
   linux-u-boot-nanopim3-next_5.54_arm64
+  linux-u-boot-nanopim4-default_5.98_arm64
   linux-u-boot-nanopim4-default_5.95_arm64
   linux-u-boot-nanopim4-default_5.90_arm64
-  linux-u-boot-nanopim4-default_5.85_arm64
   linux-u-boot-nanopineo-default_5.90_armhf
   linux-u-boot-nanopineo-default_5.85_armhf
   linux-u-boot-nanopineo-default_5.73_armhf
@@ -792,9 +792,9 @@
   linux-u-boot-nanopineo2-next_5.90_arm64
   linux-u-boot-nanopineo2-next_5.85_arm64
   linux-u-boot-nanopineo2-next_5.75_arm64
+  linux-u-boot-nanopineo4-default_5.98_arm64
   linux-u-boot-nanopineo4-default_5.95_arm64
   linux-u-boot-nanopineo4-default_5.90_arm64
-  linux-u-boot-nanopineo4-default_5.85_arm64
   linux-u-boot-nanopineocore2-next_5.90_arm64
   linux-u-boot-nanopineocore2-next_5.85_arm64
   linux-u-boot-nanopineocore2-next_5.75_arm64
@@ -842,9 +842,9 @@
   linux-u-boot-orangepi-r1-next_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.85_armhf
   linux-u-boot-orangepi-r1-next_5.75_armhf
+  linux-u-boot-orangepi-rk3399-default_5.98_arm64
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
   linux-u-boot-orangepi-rk3399-default_5.90_arm64
-  linux-u-boot-orangepi-rk3399-default_5.85_arm64
   linux-u-boot-orangepi2-default_5.90_armhf
   linux-u-boot-orangepi2-default_5.85_armhf
   linux-u-boot-orangepi2-default_5.75_armhf
@@ -964,18 +964,18 @@
   linux-u-boot-pineh64-next_5.90_arm64
   linux-u-boot-pineh64-next_5.85_arm64
   linux-u-boot-pineh64-next_5.75_arm64
+  linux-u-boot-renegade-default_5.98_arm64
   linux-u-boot-renegade-default_5.90_arm64
   linux-u-boot-renegade-default_5.85_arm64
-  linux-u-boot-renegade-default_5.75_arm64
+  linux-u-boot-rock64-default_5.98_arm64
   linux-u-boot-rock64-default_5.90_arm64
   linux-u-boot-rock64-default_5.85_arm64
-  linux-u-boot-rock64-default_5.75_arm64
+  linux-u-boot-rockpi-4b-default_5.98_arm64
   linux-u-boot-rockpi-4b-default_5.90_arm64
   linux-u-boot-rockpi-4b-default_5.85_arm64
-  linux-u-boot-rockpi-4b-default_5.75_arm64
+  linux-u-boot-rockpro64-default_5.98_arm64
   linux-u-boot-rockpro64-default_5.90_arm64
   linux-u-boot-rockpro64-default_5.85_arm64
-  linux-u-boot-rockpro64-default_5.75_arm64
   linux-u-boot-roseapple-default_5.25_armhf
   linux-u-boot-roseapple-default_5.23_armhf
   linux-u-boot-roseapple-default_5.22_armhf
@@ -1685,15 +1685,15 @@
   linux-dtb-pine64_5.75_arm64
   linux-dtb-pine64_5.73_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.98_arm64
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
-  linux-dtb-rk3399_5.85_arm64
   linux-dtb-rockchip_5.95_armhf
   linux-dtb-rockchip_5.90_armhf
   linux-dtb-rockchip_5.85_armhf
+  linux-dtb-rockchip64_5.98_arm64
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
-  linux-dtb-rockchip64_5.85_arm64
   linux-dtb-s500_5.26_armhf
   linux-dtb-s500_5.25_armhf
   linux-dtb-s500_5.23_armhf
@@ -1791,15 +1791,15 @@
   linux-headers-pine64_5.83_arm64
   linux-headers-pine64_5.75_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.98_arm64
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
-  linux-headers-rk3399_5.85_arm64
   linux-headers-rockchip_5.95_armhf
   linux-headers-rockchip_5.90_armhf
   linux-headers-rockchip_5.85_armhf
+  linux-headers-rockchip64_5.98_arm64
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
-  linux-headers-rockchip64_5.85_arm64
   linux-headers-s500_5.26_armhf
   linux-headers-s500_5.25_armhf
   linux-headers-sun4i_5.38_armhf
@@ -1905,15 +1905,15 @@
   linux-image-pine64_5.83_arm64
   linux-image-pine64_5.75_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.98_arm64
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
-  linux-image-rk3399_5.85_arm64
   linux-image-rockchip_5.95_armhf
   linux-image-rockchip_5.90_armhf
   linux-image-rockchip_5.85_armhf
+  linux-image-rockchip64_5.98_arm64
   linux-image-rockchip64_5.90_arm64
   linux-image-rockchip64_5.88_arm64
-  linux-image-rockchip64_5.85_arm64
   linux-image-s500_5.26_armhf
   linux-image-s500_5.25_armhf
   linux-image-sun4i_5.38_armhf
@@ -2551,9 +2551,9 @@
   linux-u-boot-nanopct3plus-next_5.95_arm64
   linux-u-boot-nanopct3plus-next_5.90_arm64
   linux-u-boot-nanopct3plus-next_5.85_arm64
+  linux-u-boot-nanopct4-default_5.98_arm64
   linux-u-boot-nanopct4-default_5.95_arm64
   linux-u-boot-nanopct4-default_5.90_arm64
-  linux-u-boot-nanopct4-default_5.85_arm64
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
@@ -2602,9 +2602,9 @@
   linux-u-boot-nanopim3-next_5.95_arm64
   linux-u-boot-nanopim3-next_5.90_arm64
   linux-u-boot-nanopim3-next_5.54_arm64
+  linux-u-boot-nanopim4-default_5.98_arm64
   linux-u-boot-nanopim4-default_5.95_arm64
   linux-u-boot-nanopim4-default_5.90_arm64
-  linux-u-boot-nanopim4-default_5.85_arm64
   linux-u-boot-nanopineo-default_5.90_armhf
   linux-u-boot-nanopineo-default_5.85_armhf
   linux-u-boot-nanopineo-default_5.73_armhf
@@ -2614,9 +2614,9 @@
   linux-u-boot-nanopineo2-next_5.90_arm64
   linux-u-boot-nanopineo2-next_5.85_arm64
   linux-u-boot-nanopineo2-next_5.75_arm64
+  linux-u-boot-nanopineo4-default_5.98_arm64
   linux-u-boot-nanopineo4-default_5.95_arm64
   linux-u-boot-nanopineo4-default_5.90_arm64
-  linux-u-boot-nanopineo4-default_5.85_arm64
   linux-u-boot-nanopineocore2-next_5.90_arm64
   linux-u-boot-nanopineocore2-next_5.85_arm64
   linux-u-boot-nanopineocore2-next_5.75_arm64
@@ -2664,9 +2664,9 @@
   linux-u-boot-orangepi-r1-next_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.85_armhf
   linux-u-boot-orangepi-r1-next_5.75_armhf
+  linux-u-boot-orangepi-rk3399-default_5.98_arm64
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
   linux-u-boot-orangepi-rk3399-default_5.90_arm64
-  linux-u-boot-orangepi-rk3399-default_5.85_arm64
   linux-u-boot-orangepi2-default_5.90_armhf
   linux-u-boot-orangepi2-default_5.85_armhf
   linux-u-boot-orangepi2-default_5.75_armhf
@@ -2786,18 +2786,18 @@
   linux-u-boot-pineh64-next_5.90_arm64
   linux-u-boot-pineh64-next_5.85_arm64
   linux-u-boot-pineh64-next_5.75_arm64
+  linux-u-boot-renegade-default_5.98_arm64
   linux-u-boot-renegade-default_5.90_arm64
   linux-u-boot-renegade-default_5.85_arm64
-  linux-u-boot-renegade-default_5.75_arm64
+  linux-u-boot-rock64-default_5.98_arm64
   linux-u-boot-rock64-default_5.90_arm64
   linux-u-boot-rock64-default_5.85_arm64
-  linux-u-boot-rock64-default_5.75_arm64
+  linux-u-boot-rockpi-4b-default_5.98_arm64
   linux-u-boot-rockpi-4b-default_5.90_arm64
   linux-u-boot-rockpi-4b-default_5.85_arm64
-  linux-u-boot-rockpi-4b-default_5.75_arm64
+  linux-u-boot-rockpro64-default_5.98_arm64
   linux-u-boot-rockpro64-default_5.90_arm64
   linux-u-boot-rockpro64-default_5.85_arm64
-  linux-u-boot-rockpro64-default_5.75_arm64
   linux-u-boot-roseapple-default_5.25_armhf
   linux-u-boot-roseapple-default_5.23_armhf
   linux-u-boot-roseapple-default_5.22_armhf
@@ -2912,18 +2912,18 @@
   linux-bionic-root-lepotato_5.73_arm64
   linux-bionic-root-macchiatobin-doubleshot_5.90_arm64
   linux-bionic-root-miqi_5.60_armhf
+  linux-bionic-root-nanopct4_5.98_arm64
   linux-bionic-root-nanopct4_5.95_arm64
   linux-bionic-root-nanopct4_5.90_arm64
-  linux-bionic-root-nanopct4_5.85_arm64
   linux-bionic-root-nanopik2-s905_5.90_arm64
   linux-bionic-root-nanopik2-s905_5.85_arm64
   linux-bionic-root-nanopik2-s905_5.73_arm64
+  linux-bionic-root-nanopim4_5.98_arm64
   linux-bionic-root-nanopim4_5.95_arm64
   linux-bionic-root-nanopim4_5.90_arm64
-  linux-bionic-root-nanopim4_5.85_arm64
+  linux-bionic-root-nanopineo4_5.98_arm64
   linux-bionic-root-nanopineo4_5.95_arm64
   linux-bionic-root-nanopineo4_5.90_arm64
-  linux-bionic-root-nanopineo4_5.85_arm64
   linux-bionic-root-next-bananapi_5.90_armhf
   linux-bionic-root-next-bananapi_5.85_armhf
   linux-bionic-root-next-bananapi_5.73_armhf
@@ -3102,21 +3102,21 @@
   linux-bionic-root-odroidxu4_5.95_armhf
   linux-bionic-root-odroidxu4_5.90_armhf
   linux-bionic-root-odroidxu4_5.85_armhf
+  linux-bionic-root-orangepi-rk3399_5.98_arm64
   linux-bionic-root-orangepi-rk3399_5.95_arm64
   linux-bionic-root-orangepi-rk3399_5.90_arm64
-  linux-bionic-root-orangepi-rk3399_5.73_arm64
+  linux-bionic-root-renegade_5.98_arm64
   linux-bionic-root-renegade_5.90_arm64
   linux-bionic-root-renegade_5.73_arm64
-  linux-bionic-root-renegade_5.70_arm64
+  linux-bionic-root-rock64_5.98_arm64
   linux-bionic-root-rock64_5.90_arm64
   linux-bionic-root-rock64_5.88_arm64
-  linux-bionic-root-rock64_5.73_arm64
+  linux-bionic-root-rockpi-4b_5.98_arm64
   linux-bionic-root-rockpi-4b_5.90_arm64
   linux-bionic-root-rockpi-4b_5.73_arm64
-  linux-bionic-root-rockpi-4b_5.70_arm64
+  linux-bionic-root-rockpro64_5.98_arm64
   linux-bionic-root-rockpro64_5.90_arm64
   linux-bionic-root-rockpro64_5.73_arm64
-  linux-bionic-root-rockpro64_5.70_arm64
   linux-bionic-root-tinkerboard_5.95_armhf
   linux-bionic-root-tinkerboard_5.90_armhf
   linux-bionic-root-tinkerboard_5.73_armhf
@@ -3209,15 +3209,15 @@
   linux-dtb-pine64_5.75_arm64
   linux-dtb-pine64_5.73_arm64
   linux-dtb-rk3328_5.35_arm64
+  linux-dtb-rk3399_5.98_arm64
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
-  linux-dtb-rk3399_5.85_arm64
   linux-dtb-rockchip_5.95_armhf
   linux-dtb-rockchip_5.90_armhf
   linux-dtb-rockchip_5.85_armhf
+  linux-dtb-rockchip64_5.98_arm64
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
-  linux-dtb-rockchip64_5.85_arm64
   linux-dtb-s500_5.26_armhf
   linux-dtb-s500_5.25_armhf
   linux-dtb-s500_5.23_armhf
@@ -3315,15 +3315,15 @@
   linux-headers-pine64_5.83_arm64
   linux-headers-pine64_5.75_arm64
   linux-headers-rk3328_5.35_arm64
+  linux-headers-rk3399_5.98_arm64
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
-  linux-headers-rk3399_5.85_arm64
   linux-headers-rockchip_5.95_armhf
   linux-headers-rockchip_5.90_armhf
   linux-headers-rockchip_5.85_armhf
+  linux-headers-rockchip64_5.98_arm64
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
-  linux-headers-rockchip64_5.85_arm64
   linux-headers-s500_5.26_armhf
   linux-headers-s500_5.25_armhf
   linux-headers-sun4i_5.38_armhf
@@ -3429,15 +3429,15 @@
   linux-image-pine64_5.83_arm64
   linux-image-pine64_5.75_arm64
   linux-image-rk3328_5.35_arm64
+  linux-image-rk3399_5.98_arm64
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
-  linux-image-rk3399_5.85_arm64
   linux-image-rockchip_5.95_armhf
   linux-image-rockchip_5.90_armhf
   linux-image-rockchip_5.85_armhf
+  linux-image-rockchip64_5.98_arm64
   linux-image-rockchip64_5.90_arm64
   linux-image-rockchip64_5.88_arm64
-  linux-image-rockchip64_5.85_arm64
   linux-image-s500_5.26_armhf
   linux-image-s500_5.25_armhf
   linux-image-sun4i_5.38_armhf
@@ -3805,9 +3805,9 @@
   linux-u-boot-nanopct3plus-next_5.95_arm64
   linux-u-boot-nanopct3plus-next_5.90_arm64
   linux-u-boot-nanopct3plus-next_5.85_arm64
+  linux-u-boot-nanopct4-default_5.98_arm64
   linux-u-boot-nanopct4-default_5.95_arm64
   linux-u-boot-nanopct4-default_5.90_arm64
-  linux-u-boot-nanopct4-default_5.85_arm64
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
@@ -3856,9 +3856,9 @@
   linux-u-boot-nanopim3-next_5.95_arm64
   linux-u-boot-nanopim3-next_5.90_arm64
   linux-u-boot-nanopim3-next_5.54_arm64
+  linux-u-boot-nanopim4-default_5.98_arm64
   linux-u-boot-nanopim4-default_5.95_arm64
   linux-u-boot-nanopim4-default_5.90_arm64
-  linux-u-boot-nanopim4-default_5.85_arm64
   linux-u-boot-nanopineo-default_5.90_armhf
   linux-u-boot-nanopineo-default_5.85_armhf
   linux-u-boot-nanopineo-default_5.73_armhf
@@ -3868,9 +3868,9 @@
   linux-u-boot-nanopineo2-next_5.90_arm64
   linux-u-boot-nanopineo2-next_5.85_arm64
   linux-u-boot-nanopineo2-next_5.75_arm64
+  linux-u-boot-nanopineo4-default_5.98_arm64
   linux-u-boot-nanopineo4-default_5.95_arm64
   linux-u-boot-nanopineo4-default_5.90_arm64
-  linux-u-boot-nanopineo4-default_5.85_arm64
   linux-u-boot-nanopineocore2-next_5.90_arm64
   linux-u-boot-nanopineocore2-next_5.85_arm64
   linux-u-boot-nanopineocore2-next_5.75_arm64
@@ -3918,9 +3918,9 @@
   linux-u-boot-orangepi-r1-next_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.85_armhf
   linux-u-boot-orangepi-r1-next_5.75_armhf
+  linux-u-boot-orangepi-rk3399-default_5.98_arm64
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
   linux-u-boot-orangepi-rk3399-default_5.90_arm64
-  linux-u-boot-orangepi-rk3399-default_5.85_arm64
   linux-u-boot-orangepi2-default_5.90_armhf
   linux-u-boot-orangepi2-default_5.85_armhf
   linux-u-boot-orangepi2-default_5.75_armhf
@@ -4040,18 +4040,18 @@
   linux-u-boot-pineh64-next_5.90_arm64
   linux-u-boot-pineh64-next_5.85_arm64
   linux-u-boot-pineh64-next_5.75_arm64
+  linux-u-boot-renegade-default_5.98_arm64
   linux-u-boot-renegade-default_5.90_arm64
   linux-u-boot-renegade-default_5.85_arm64
-  linux-u-boot-renegade-default_5.75_arm64
+  linux-u-boot-rock64-default_5.98_arm64
   linux-u-boot-rock64-default_5.90_arm64
   linux-u-boot-rock64-default_5.85_arm64
-  linux-u-boot-rock64-default_5.75_arm64
+  linux-u-boot-rockpi-4b-default_5.98_arm64
   linux-u-boot-rockpi-4b-default_5.90_arm64
   linux-u-boot-rockpi-4b-default_5.85_arm64
-  linux-u-boot-rockpi-4b-default_5.75_arm64
+  linux-u-boot-rockpro64-default_5.98_arm64
   linux-u-boot-rockpro64-default_5.90_arm64
   linux-u-boot-rockpro64-default_5.85_arm64
-  linux-u-boot-rockpro64-default_5.75_arm64
   linux-u-boot-roseapple-default_5.25_armhf
   linux-u-boot-roseapple-default_5.23_armhf
   linux-u-boot-roseapple-default_5.22_armhf
@@ -4126,15 +4126,18 @@
   linux-buster-root-lime-a64_5.90_arm64
   linux-buster-root-lime2_5.90_armhf
   linux-buster-root-macchiatobin-doubleshot_5.90_arm64
+  linux-buster-root-nanopct4_5.98_arm64
   linux-buster-root-nanopct4_5.95_arm64
   linux-buster-root-nanopct4_5.90_arm64
   linux-buster-root-nanopiair_5.90_armhf
   linux-buster-root-nanopiduo_5.90_armhf
   linux-buster-root-nanopik2-s905_5.90_arm64
   linux-buster-root-nanopim1_5.90_armhf
+  linux-buster-root-nanopim4_5.98_arm64
   linux-buster-root-nanopim4_5.95_arm64
   linux-buster-root-nanopim4_5.90_arm64
   linux-buster-root-nanopineo_5.90_armhf
+  linux-buster-root-nanopineo4_5.98_arm64
   linux-buster-root-nanopineo4_5.95_arm64
   linux-buster-root-nanopineo4_5.90_arm64
   linux-buster-root-next-bananapi_5.90_armhf
@@ -4215,6 +4218,7 @@
   linux-buster-root-odroidxu4_5.95_armhf
   linux-buster-root-odroidxu4_5.90_armhf
   linux-buster-root-orangepi-r1_5.90_armhf
+  linux-buster-root-orangepi-rk3399_5.98_arm64
   linux-buster-root-orangepi-rk3399_5.95_arm64
   linux-buster-root-orangepi-rk3399_5.90_arm64
   linux-buster-root-orangepi2_5.90_armhf
@@ -4230,9 +4234,13 @@
   linux-buster-root-pine64_5.90_arm64
   linux-buster-root-pine64so_5.90_arm64
   linux-buster-root-pinebook-a64_5.90_arm64
+  linux-buster-root-renegade_5.98_arm64
   linux-buster-root-renegade_5.90_arm64
+  linux-buster-root-rock64_5.98_arm64
   linux-buster-root-rock64_5.90_arm64
+  linux-buster-root-rockpi-4b_5.98_arm64
   linux-buster-root-rockpi-4b_5.90_arm64
+  linux-buster-root-rockpro64_5.98_arm64
   linux-buster-root-rockpro64_5.90_arm64
   linux-buster-root-tinkerboard_5.95_armhf
   linux-buster-root-tinkerboard_5.90_armhf
@@ -4291,10 +4299,12 @@
   linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
+  linux-dtb-rk3399_5.98_arm64
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
   linux-dtb-rockchip_5.95_armhf
   linux-dtb-rockchip_5.90_armhf
+  linux-dtb-rockchip64_5.98_arm64
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-aml-g12_5.98_arm64
@@ -4350,10 +4360,12 @@
   linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
+  linux-headers-rk3399_5.98_arm64
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
   linux-headers-rockchip_5.95_armhf
   linux-headers-rockchip_5.90_armhf
+  linux-headers-rockchip64_5.98_arm64
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
   linux-image-aml-g12_5.98_arm64
@@ -4409,10 +4421,12 @@
   linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
+  linux-image-rk3399_5.98_arm64
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
   linux-image-rockchip_5.95_armhf
   linux-image-rockchip_5.90_armhf
+  linux-image-rockchip64_5.98_arm64
   linux-image-rockchip64_5.90_arm64
   linux-image-rockchip64_5.88_arm64
   linux-source-4.14.127-default-odroidxu4_4.14.127-default-odroidxu4+5.90_all
@@ -4565,6 +4579,7 @@
   linux-u-boot-nanopct3-next_5.90_arm64
   linux-u-boot-nanopct3plus-next_5.95_arm64
   linux-u-boot-nanopct3plus-next_5.90_arm64
+  linux-u-boot-nanopct4-default_5.98_arm64
   linux-u-boot-nanopct4-default_5.95_arm64
   linux-u-boot-nanopct4-default_5.90_arm64
   linux-u-boot-nanopi-r1-next_5.90_armhf
@@ -4583,11 +4598,13 @@
   linux-u-boot-nanopim1-next_5.90_armhf
   linux-u-boot-nanopim3-next_5.95_arm64
   linux-u-boot-nanopim3-next_5.90_arm64
+  linux-u-boot-nanopim4-default_5.98_arm64
   linux-u-boot-nanopim4-default_5.95_arm64
   linux-u-boot-nanopim4-default_5.90_arm64
   linux-u-boot-nanopineo-default_5.90_armhf
   linux-u-boot-nanopineo-next_5.90_armhf
   linux-u-boot-nanopineo2-next_5.90_arm64
+  linux-u-boot-nanopineo4-default_5.98_arm64
   linux-u-boot-nanopineo4-default_5.95_arm64
   linux-u-boot-nanopineo4-default_5.90_arm64
   linux-u-boot-nanopineocore2-next_5.90_arm64
@@ -4608,6 +4625,7 @@
   linux-u-boot-odroidxu4-next_5.90_armhf
   linux-u-boot-orangepi-r1-default_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.90_armhf
+  linux-u-boot-orangepi-rk3399-default_5.98_arm64
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
   linux-u-boot-orangepi-rk3399-default_5.90_arm64
   linux-u-boot-orangepi2-default_5.90_armhf
@@ -4645,9 +4663,13 @@
   linux-u-boot-pinebook-a64-default_5.90_arm64
   linux-u-boot-pinebook-a64-next_5.90_arm64
   linux-u-boot-pineh64-next_5.90_arm64
+  linux-u-boot-renegade-default_5.98_arm64
   linux-u-boot-renegade-default_5.90_arm64
+  linux-u-boot-rock64-default_5.98_arm64
   linux-u-boot-rock64-default_5.90_arm64
+  linux-u-boot-rockpi-4b-default_5.98_arm64
   linux-u-boot-rockpi-4b-default_5.90_arm64
+  linux-u-boot-rockpro64-default_5.98_arm64
   linux-u-boot-rockpro64-default_5.90_arm64
   linux-u-boot-teres-a64-next_5.90_arm64
   linux-u-boot-tinkerboard-default_5.95_armhf
@@ -4837,10 +4859,12 @@
   linux-dtb-odroidxu4_5.98_armhf
   linux-dtb-odroidxu4_5.97_armhf
   linux-dtb-odroidxu4_5.95_armhf
+  linux-dtb-rk3399_5.98_arm64
   linux-dtb-rk3399_5.95_arm64
   linux-dtb-rk3399_5.90_arm64
   linux-dtb-rockchip_5.95_armhf
   linux-dtb-rockchip_5.90_armhf
+  linux-dtb-rockchip64_5.98_arm64
   linux-dtb-rockchip64_5.90_arm64
   linux-dtb-rockchip64_5.88_arm64
   linux-headers-aml-g12_5.98_arm64
@@ -4896,10 +4920,12 @@
   linux-headers-odroidxu4_5.98_armhf
   linux-headers-odroidxu4_5.97_armhf
   linux-headers-odroidxu4_5.95_armhf
+  linux-headers-rk3399_5.98_arm64
   linux-headers-rk3399_5.95_arm64
   linux-headers-rk3399_5.90_arm64
   linux-headers-rockchip_5.95_armhf
   linux-headers-rockchip_5.90_armhf
+  linux-headers-rockchip64_5.98_arm64
   linux-headers-rockchip64_5.90_arm64
   linux-headers-rockchip64_5.88_arm64
   linux-image-aml-g12_5.98_arm64
@@ -4955,10 +4981,12 @@
   linux-image-odroidxu4_5.98_armhf
   linux-image-odroidxu4_5.97_armhf
   linux-image-odroidxu4_5.95_armhf
+  linux-image-rk3399_5.98_arm64
   linux-image-rk3399_5.95_arm64
   linux-image-rk3399_5.90_arm64
   linux-image-rockchip_5.95_armhf
   linux-image-rockchip_5.90_armhf
+  linux-image-rockchip64_5.98_arm64
   linux-image-rockchip64_5.90_arm64
   linux-image-rockchip64_5.88_arm64
   linux-source-4.14.127-default-odroidxu4_4.14.127-default-odroidxu4+5.90_all
@@ -5111,6 +5139,7 @@
   linux-u-boot-nanopct3-next_5.90_arm64
   linux-u-boot-nanopct3plus-next_5.95_arm64
   linux-u-boot-nanopct3plus-next_5.90_arm64
+  linux-u-boot-nanopct4-default_5.98_arm64
   linux-u-boot-nanopct4-default_5.95_arm64
   linux-u-boot-nanopct4-default_5.90_arm64
   linux-u-boot-nanopi-r1-next_5.90_armhf
@@ -5129,11 +5158,13 @@
   linux-u-boot-nanopim1-next_5.90_armhf
   linux-u-boot-nanopim3-next_5.95_arm64
   linux-u-boot-nanopim3-next_5.90_arm64
+  linux-u-boot-nanopim4-default_5.98_arm64
   linux-u-boot-nanopim4-default_5.95_arm64
   linux-u-boot-nanopim4-default_5.90_arm64
   linux-u-boot-nanopineo-default_5.90_armhf
   linux-u-boot-nanopineo-next_5.90_armhf
   linux-u-boot-nanopineo2-next_5.90_arm64
+  linux-u-boot-nanopineo4-default_5.98_arm64
   linux-u-boot-nanopineo4-default_5.95_arm64
   linux-u-boot-nanopineo4-default_5.90_arm64
   linux-u-boot-nanopineocore2-next_5.90_arm64
@@ -5154,6 +5185,7 @@
   linux-u-boot-odroidxu4-next_5.90_armhf
   linux-u-boot-orangepi-r1-default_5.90_armhf
   linux-u-boot-orangepi-r1-next_5.90_armhf
+  linux-u-boot-orangepi-rk3399-default_5.98_arm64
   linux-u-boot-orangepi-rk3399-default_5.95_arm64
   linux-u-boot-orangepi-rk3399-default_5.90_arm64
   linux-u-boot-orangepi2-default_5.90_armhf
@@ -5191,9 +5223,13 @@
   linux-u-boot-pinebook-a64-default_5.90_arm64
   linux-u-boot-pinebook-a64-next_5.90_arm64
   linux-u-boot-pineh64-next_5.90_arm64
+  linux-u-boot-renegade-default_5.98_arm64
   linux-u-boot-renegade-default_5.90_arm64
+  linux-u-boot-rock64-default_5.98_arm64
   linux-u-boot-rock64-default_5.90_arm64
+  linux-u-boot-rockpi-4b-default_5.98_arm64
   linux-u-boot-rockpi-4b-default_5.90_arm64
+  linux-u-boot-rockpro64-default_5.98_arm64
   linux-u-boot-rockpro64-default_5.90_arm64
   linux-u-boot-teres-a64-next_5.90_arm64
   linux-u-boot-tinkerboard-default_5.95_armhf
