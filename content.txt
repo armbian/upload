@@ -1394,6 +1394,40 @@
   hello_1.0_all
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
+  libd3dadapter9-mesa_19.3.0-3_arm64
+  libd3dadapter9-mesa_19.3.0-3_armhf
+  libd3dadapter9-mesa-dev_19.3.0-3_arm64
+  libd3dadapter9-mesa-dev_19.3.0-3_armhf
+  libegl-mesa0_19.3.0-3_arm64
+  libegl-mesa0_19.3.0-3_armhf
+  libegl1-mesa_19.3.0-3_arm64
+  libegl1-mesa_19.3.0-3_armhf
+  libegl1-mesa-dev_19.3.0-3_arm64
+  libegl1-mesa-dev_19.3.0-3_armhf
+  libgbm-dev_19.3.0-3_arm64
+  libgbm-dev_19.3.0-3_armhf
+  libgbm1_19.3.0-3_arm64
+  libgbm1_19.3.0-3_armhf
+  libgl1-mesa-dev_19.3.0-3_arm64
+  libgl1-mesa-dev_19.3.0-3_armhf
+  libgl1-mesa-dri_19.3.0-3_arm64
+  libgl1-mesa-dri_19.3.0-3_armhf
+  libgl1-mesa-glx_19.3.0-3_arm64
+  libgl1-mesa-glx_19.3.0-3_armhf
+  libglapi-mesa_19.3.0-3_arm64
+  libglapi-mesa_19.3.0-3_armhf
+  libgles2-mesa_19.3.0-3_arm64
+  libgles2-mesa_19.3.0-3_armhf
+  libgles2-mesa-dev_19.3.0-3_arm64
+  libgles2-mesa-dev_19.3.0-3_armhf
+  libglx-mesa0_19.3.0-3_arm64
+  libglx-mesa0_19.3.0-3_armhf
+  libosmesa6_19.3.0-3_arm64
+  libosmesa6_19.3.0-3_armhf
+  libosmesa6-dev_19.3.0-3_arm64
+  libosmesa6-dev_19.3.0-3_armhf
+  libwayland-egl1-mesa_19.3.0-3_arm64
+  libwayland-egl1-mesa_19.3.0-3_armhf
   linux-buster-root-dev-bananapi_5.98.191017_armhf
   linux-buster-root-dev-bananapi_5.98.191016_armhf
   linux-buster-root-dev-bananapi_5.98.191015_armhf
@@ -1835,6 +1869,16 @@
   linux-u-boot-tritium-h5-dev_5.98.191017_arm64
   linux-u-boot-tritium-h5-dev_5.98.191016_arm64
   linux-u-boot-tritium-h5-dev_5.98.191015_arm64
+  mesa-common-dev_19.3.0-3_arm64
+  mesa-common-dev_19.3.0-3_armhf
+  mesa-opencl-icd_19.3.0-3_arm64
+  mesa-opencl-icd_19.3.0-3_armhf
+  mesa-va-drivers_19.3.0-3_arm64
+  mesa-va-drivers_19.3.0-3_armhf
+  mesa-vdpau-drivers_19.3.0-3_arm64
+  mesa-vdpau-drivers_19.3.0-3_armhf
+  mesa-vulkan-drivers_19.3.0-3_arm64
+  mesa-vulkan-drivers_19.3.0-3_armhf
   numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
