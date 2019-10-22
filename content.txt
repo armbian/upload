@@ -1,13 +1,13 @@
 
+  armbian-config_5.98_all
   armbian-config_5.95_all
   armbian-config_5.94_all
-  armbian-config_5.91_all
+  armbian-firmware_5.98_all
   armbian-firmware_5.95_all
   armbian-firmware_5.94_all
-  armbian-firmware_5.90_all
+  armbian-firmware-full_5.98_all
   armbian-firmware-full_5.95_all
   armbian-firmware-full_5.94_all
-  armbian-firmware-full_5.90_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -1588,15 +1588,15 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_5.98_all
   armbian-config_5.95_all
   armbian-config_5.94_all
-  armbian-config_5.91_all
+  armbian-firmware_5.98_all
   armbian-firmware_5.95_all
   armbian-firmware_5.94_all
-  armbian-firmware_5.90_all
+  armbian-firmware-full_5.98_all
   armbian-firmware-full_5.95_all
   armbian-firmware-full_5.94_all
-  armbian-firmware-full_5.90_all
   armbian-stretch-desktop_5.95_all
   armbian-stretch-desktop_5.90_all
   armbian-stretch-desktop_5.85_all
@@ -2917,15 +2917,15 @@
   armbian-bionic-desktop_5.98_all
   armbian-bionic-desktop_5.97_all
   armbian-bionic-desktop_5.95_all
+  armbian-config_5.98_all
   armbian-config_5.95_all
   armbian-config_5.94_all
-  armbian-config_5.91_all
+  armbian-firmware_5.98_all
   armbian-firmware_5.95_all
   armbian-firmware_5.94_all
-  armbian-firmware_5.90_all
+  armbian-firmware-full_5.98_all
   armbian-firmware-full_5.95_all
   armbian-firmware-full_5.94_all
-  armbian-firmware-full_5.90_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -4205,15 +4205,15 @@
   armbian-buster-desktop_5.98_all
   armbian-buster-desktop_5.95_all
   armbian-buster-desktop_5.90_all
+  armbian-config_5.98_all
   armbian-config_5.95_all
   armbian-config_5.94_all
-  armbian-config_5.91_all
+  armbian-firmware_5.98_all
   armbian-firmware_5.95_all
   armbian-firmware_5.94_all
-  armbian-firmware_5.90_all
+  armbian-firmware-full_5.98_all
   armbian-firmware-full_5.95_all
   armbian-firmware-full_5.94_all
-  armbian-firmware-full_5.90_all
   armbian-tools-buster_5.86_arm64
   armbian-tools-buster_5.86_armhf
   armbian-tools-disco_5.86_arm64
@@ -4836,17 +4836,17 @@
   hello_1.0_all
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
+  armbian-config_5.98_all
   armbian-config_5.95_all
   armbian-config_5.94_all
-  armbian-config_5.91_all
   armbian-disco-desktop_5.90_all
   armbian-disco-desktop_5.86_all
+  armbian-firmware_5.98_all
   armbian-firmware_5.95_all
   armbian-firmware_5.94_all
-  armbian-firmware_5.90_all
+  armbian-firmware-full_5.98_all
   armbian-firmware-full_5.95_all
   armbian-firmware-full_5.94_all
-  armbian-firmware-full_5.90_all
   armbian-tools-buster_5.86_arm64
   armbian-tools-buster_5.86_armhf
   armbian-tools-disco_5.86_arm64
