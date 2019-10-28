@@ -103,7 +103,7 @@ This repository is incoming location for **beta.armbian.com** packages repositor
 	 * [bionic-desktop]: Armbian bionic desktop (packages: 1)
 	 * [bionic-utils]: Armbian bionic utilities (packages: 1)
 	 * [bionic]: Armbian main repository (packages: 459)
-	 * [buster-desktop]: Armbian buster desktop (packages: 1)
+	 * [buster-desktop]: Armbian buster desktop (packages: 45)
 	 * [buster-utils]: Armbian buster utilities (packages: 1)
 	 * [buster]: Armbian main repository (packages: 505)
 	 * [disco-desktop]: Armbian disco desktop (packages: 1)
