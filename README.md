@@ -16,7 +16,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 
 ## Upload locations
 
-<table width="100%" cellpadding="4" cellspacing="0">
+<table width="100%" cellpadding="4" cellspacing="0" border="1">
 	<tr>
 		<td align="center" rowspan="4">
 			<b>Debian</b>
@@ -29,7 +29,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 			<a href="debs/extra/stretch-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
 			<br><a href="debs/extra/stretch-utils">utilities</a>
 		</td>
-		<td align="center" rowspan="8" width="50%">
+		<td align="center" rowspan="10" width="50%">
 			<a href="debs/"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
 			<br><a href="debs/">main</a>
 		</td>
@@ -57,7 +57,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 		</td>
 	</tr>
 		<tr>
-		<td align="center" rowspan="4">
+		<td align="center" rowspan="6">
 			<b>Ubuntu</b>
 		</td>
 		<td align="center" rowspan="2" width="60%" valign="center">
@@ -90,7 +90,23 @@ This repository is incoming location for **apt.armbian.com** packages repository
 			<a href="debs/extra/disco-desktop"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
 			<br><a href="debs/extra/disco-desktop">desktop</a>
 		</td>
-	</tr>	
+	</tr>
+	<tr>
+		<td align="center" rowspan="2" width="33%" valign="center">
+			<a href="debs/eoan"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
+			<br><a href="debs/eoan">Eoan</a>			
+		</td>
+		<td align="center" width="33%" valign="center">
+			<a href="debs/extra/eoan-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
+			<br><a href="debs/extra/eoan-utils">utilities</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="33%" valign="center">
+			<a href="debs/extra/eoan-desktop"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
+			<br><a href="debs/extra/eoan-desktop">desktop</a>
+		</td>
+	</tr>
 </table>
 
 	$release = board support packages (linux-$release-root-orangepi)
