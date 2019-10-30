@@ -16,7 +16,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 
 ## Upload locations
 
-<table width="100%" cellpadding="4" cellspacing="0" border="1">
+<table width="100%" cellpadding="4" cellspacing="0">
 	<tr>
 		<td align="center" rowspan="4">
 			<b>Debian</b>
