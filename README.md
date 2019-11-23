@@ -29,7 +29,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 			<a href="debs/extra/stretch-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
 			<br><a href="debs/extra/stretch-utils">utilities</a>
 		</td>
-		<td align="center" rowspan="8" width="50%">
+		<td align="center" rowspan="10" width="50%">
 			<a href="debs/"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="32" height="32" border="0"/></a>
 			<br><a href="debs/">main</a>
 		</td>
@@ -57,7 +57,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 		</td>
 	</tr>
 		<tr>
-		<td align="center" rowspan="4">
+		<td align="center" rowspan="6">
 			<b>Ubuntu</b>
 		</td>
 		<td align="center" rowspan="2" width="60%" valign="center">
@@ -90,7 +90,23 @@ This repository is incoming location for **apt.armbian.com** packages repository
 			<a href="debs/extra/disco-desktop"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
 			<br><a href="debs/extra/disco-desktop">desktop</a>
 		</td>
-	</tr>	
+	</tr>
+	<tr>
+		<td align="center" rowspan="2" width="33%" valign="center">
+			<a href="debs/eoan"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
+			<br><a href="debs/eoan">Eoan</a>			
+		</td>
+		<td align="center" width="33%" valign="center">
+			<a href="debs/extra/eoan-utils"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
+			<br><a href="debs/extra/eoan-utils">utilities</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="33%" valign="center">
+			<a href="debs/extra/eoan-desktop"><img src="https://dl.armbian.com/_h5ai/public/images/themes/comity/cloud-upload-1.png" name="Upload" align="bottom" width="24" height="24" border="0"/></a>
+			<br><a href="debs/extra/eoan-desktop">desktop</a>
+		</td>
+	</tr>
 </table>
 
 	$release = board support packages (linux-$release-root-orangepi)
@@ -102,23 +118,26 @@ This repository is incoming location for **apt.armbian.com** packages repository
 
 	 * [bionic-desktop]: Armbian bionic desktop (packages: 5)
 	 * [bionic-utils]: Armbian bionic utilities (packages: 33)
-	 * [bionic]: Armbian main repository (packages: 1123)
+	 * [bionic]: Armbian main repository (packages: 1301)
 	 * [buster-desktop]: Armbian buster desktop (packages: 3)
 	 * [buster-utils]: Armbian buster utilities (packages: 12)
-	 * [buster]: Armbian main repository (packages: 397)
+	 * [buster]: Armbian main repository (packages: 649)
 	 * [disco-desktop]: Armbian disco desktop (packages: 2)
 	 * [disco-utils]: Armbian disco utilities (packages: 11)
-	 * [disco]: Armbian main repository (packages: 387)
+	 * [disco]: Armbian main repository (packages: 612)
+	 * [eoan-desktop]: Armbian eoan desktop (packages: 1)
+	 * [eoan-utils]: Armbian eoan utilities (packages: 10)
+	 * [eoan]: Armbian main repository (packages: 15)
 	 * [jessie-desktop]: Armbian jessie desktop (packages: 155)
 	 * [jessie-utils]: Armbian jessie utilities (packages: 54)
 	 * [jessie]: Armbian main repository (packages: 4076)
 	 * [stretch-desktop]: Armbian stretch desktop (packages: 8)
 	 * [stretch-utils]: Armbian stretch utilities (packages: 49)
-	 * [stretch]: Armbian main repository (packages: 1160)
+	 * [stretch]: Armbian main repository (packages: 1336)
 	 * [utils]: Armbian utilities (backwards compatibility) (packages: 54)
 	 * [xenial-desktop]: Armbian xenial desktop (packages: 121)
 	 * [xenial-utils]: Armbian xenial utilities (packages: 42)
-	 * [xenial]: Armbian main repository (packages: 1310)
+	 * [xenial]: Armbian main repository (packages: 1486)
 
 Packages [full list](content.txt)
 
