@@ -87,6 +87,7 @@
   linux-dtb-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-dtb-legacy-odroidxu4_19.11.3_armhf
   linux-dtb-legacy-rk3399_19.11.3_arm64
+  linux-dtb-legacy-rockchip_19.11.3.346_armhf
   linux-dtb-legacy-rockchip_19.11.3_armhf
   linux-dtb-legacy-rockchip64_19.11.3_arm64
   linux-dtb-legacy-rockpis_19.11.3.334_arm64
@@ -222,6 +223,7 @@
   linux-headers-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-headers-legacy-odroidxu4_19.11.3_armhf
   linux-headers-legacy-rk3399_19.11.3_arm64
+  linux-headers-legacy-rockchip_19.11.3.346_armhf
   linux-headers-legacy-rockchip_19.11.3_armhf
   linux-headers-legacy-rockchip64_19.11.3_arm64
   linux-headers-legacy-rockpis_19.11.3.334_arm64
@@ -368,6 +370,7 @@
   linux-image-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-image-legacy-odroidxu4_19.11.3_armhf
   linux-image-legacy-rk3399_19.11.3_arm64
+  linux-image-legacy-rockchip_19.11.3.346_armhf
   linux-image-legacy-rockchip_19.11.3_armhf
   linux-image-legacy-rockchip64_19.11.3_arm64
   linux-image-legacy-rockpis_19.11.3.334_arm64
@@ -1375,6 +1378,7 @@
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-default_5.85_armhf
   linux-u-boot-tinkerboard-dev_19.11.3_armhf
+  linux-u-boot-tinkerboard-legacy_19.11.3.346_armhf
   linux-u-boot-tinkerboard-legacy_19.11.3_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
   linux-u-boot-tinkerboard-next_5.90_armhf
@@ -2232,6 +2236,7 @@
   linux-dtb-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-dtb-legacy-odroidxu4_19.11.3_armhf
   linux-dtb-legacy-rk3399_19.11.3_arm64
+  linux-dtb-legacy-rockchip_19.11.3.346_armhf
   linux-dtb-legacy-rockchip_19.11.3_armhf
   linux-dtb-legacy-rockchip64_19.11.3_arm64
   linux-dtb-legacy-rockpis_19.11.3.334_arm64
@@ -2367,6 +2372,7 @@
   linux-headers-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-headers-legacy-odroidxu4_19.11.3_armhf
   linux-headers-legacy-rk3399_19.11.3_arm64
+  linux-headers-legacy-rockchip_19.11.3.346_armhf
   linux-headers-legacy-rockchip_19.11.3_armhf
   linux-headers-legacy-rockchip64_19.11.3_arm64
   linux-headers-legacy-rockpis_19.11.3.334_arm64
@@ -2513,6 +2519,7 @@
   linux-image-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-image-legacy-odroidxu4_19.11.3_armhf
   linux-image-legacy-rk3399_19.11.3_arm64
+  linux-image-legacy-rockchip_19.11.3.346_armhf
   linux-image-legacy-rockchip_19.11.3_armhf
   linux-image-legacy-rockchip64_19.11.3_arm64
   linux-image-legacy-rockpis_19.11.3.334_arm64
@@ -3979,6 +3986,7 @@
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-default_5.85_armhf
   linux-u-boot-tinkerboard-dev_19.11.3_armhf
+  linux-u-boot-tinkerboard-legacy_19.11.3.346_armhf
   linux-u-boot-tinkerboard-legacy_19.11.3_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
   linux-u-boot-tinkerboard-next_5.90_armhf
@@ -4547,6 +4555,7 @@
   linux-dtb-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-dtb-legacy-odroidxu4_19.11.3_armhf
   linux-dtb-legacy-rk3399_19.11.3_arm64
+  linux-dtb-legacy-rockchip_19.11.3.346_armhf
   linux-dtb-legacy-rockchip_19.11.3_armhf
   linux-dtb-legacy-rockchip64_19.11.3_arm64
   linux-dtb-legacy-rockpis_19.11.3.334_arm64
@@ -4682,6 +4691,7 @@
   linux-headers-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-headers-legacy-odroidxu4_19.11.3_armhf
   linux-headers-legacy-rk3399_19.11.3_arm64
+  linux-headers-legacy-rockchip_19.11.3.346_armhf
   linux-headers-legacy-rockchip_19.11.3_armhf
   linux-headers-legacy-rockchip64_19.11.3_arm64
   linux-headers-legacy-rockpis_19.11.3.334_arm64
@@ -4828,6 +4838,7 @@
   linux-image-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-image-legacy-odroidxu4_19.11.3_armhf
   linux-image-legacy-rk3399_19.11.3_arm64
+  linux-image-legacy-rockchip_19.11.3.346_armhf
   linux-image-legacy-rockchip_19.11.3_armhf
   linux-image-legacy-rockchip64_19.11.3_arm64
   linux-image-legacy-rockpis_19.11.3.334_arm64
@@ -5835,6 +5846,7 @@
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-default_5.85_armhf
   linux-u-boot-tinkerboard-dev_19.11.3_armhf
+  linux-u-boot-tinkerboard-legacy_19.11.3.346_armhf
   linux-u-boot-tinkerboard-legacy_19.11.3_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
   linux-u-boot-tinkerboard-next_5.90_armhf
@@ -5880,6 +5892,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
+  armbian-buster-desktop_19.11.3.346_all
   armbian-buster-desktop_5.98_all
   armbian-config_5.98_all
   armbian-firmware_5.98_all
@@ -6096,6 +6109,7 @@
   linux-buster-root-legacy-rockpi-s_19.11.3.334_arm64
   linux-buster-root-legacy-rockpi-s_19.11.3_arm64
   linux-buster-root-legacy-rockpro64_19.11.3_arm64
+  linux-buster-root-legacy-tinkerboard_19.11.3.346_armhf
   linux-buster-root-legacy-tinkerboard_19.11.3_armhf
   linux-buster-root-legacy-tritium-h3_19.11.3_armhf
   linux-buster-root-legacy-tritium-h5_19.11.3_arm64
@@ -6272,6 +6286,7 @@
   linux-dtb-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-dtb-legacy-odroidxu4_19.11.3_armhf
   linux-dtb-legacy-rk3399_19.11.3_arm64
+  linux-dtb-legacy-rockchip_19.11.3.346_armhf
   linux-dtb-legacy-rockchip_19.11.3_armhf
   linux-dtb-legacy-rockchip64_19.11.3_arm64
   linux-dtb-legacy-rockpis_19.11.3.334_arm64
@@ -6363,6 +6378,7 @@
   linux-headers-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-headers-legacy-odroidxu4_19.11.3_armhf
   linux-headers-legacy-rk3399_19.11.3_arm64
+  linux-headers-legacy-rockchip_19.11.3.346_armhf
   linux-headers-legacy-rockchip_19.11.3_armhf
   linux-headers-legacy-rockchip64_19.11.3_arm64
   linux-headers-legacy-rockpis_19.11.3.334_arm64
@@ -6454,6 +6470,7 @@
   linux-image-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-image-legacy-odroidxu4_19.11.3_armhf
   linux-image-legacy-rk3399_19.11.3_arm64
+  linux-image-legacy-rockchip_19.11.3.346_armhf
   linux-image-legacy-rockchip_19.11.3_armhf
   linux-image-legacy-rockchip64_19.11.3_arm64
   linux-image-legacy-rockpis_19.11.3.334_arm64
@@ -7050,6 +7067,7 @@
   linux-u-boot-tinkerboard-default_5.95_armhf
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-dev_19.11.3_armhf
+  linux-u-boot-tinkerboard-legacy_19.11.3.346_armhf
   linux-u-boot-tinkerboard-legacy_19.11.3_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
   linux-u-boot-tinkerboard-next_5.90_armhf
@@ -7428,6 +7446,7 @@
   linux-dtb-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-dtb-legacy-odroidxu4_19.11.3_armhf
   linux-dtb-legacy-rk3399_19.11.3_arm64
+  linux-dtb-legacy-rockchip_19.11.3.346_armhf
   linux-dtb-legacy-rockchip_19.11.3_armhf
   linux-dtb-legacy-rockchip64_19.11.3_arm64
   linux-dtb-legacy-rockpis_19.11.3.334_arm64
@@ -7519,6 +7538,7 @@
   linux-headers-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-headers-legacy-odroidxu4_19.11.3_armhf
   linux-headers-legacy-rk3399_19.11.3_arm64
+  linux-headers-legacy-rockchip_19.11.3.346_armhf
   linux-headers-legacy-rockchip_19.11.3_armhf
   linux-headers-legacy-rockchip64_19.11.3_arm64
   linux-headers-legacy-rockpis_19.11.3.334_arm64
@@ -7610,6 +7630,7 @@
   linux-image-legacy-odroidxu4_19.11.3.20191205_armhf
   linux-image-legacy-odroidxu4_19.11.3_armhf
   linux-image-legacy-rk3399_19.11.3_arm64
+  linux-image-legacy-rockchip_19.11.3.346_armhf
   linux-image-legacy-rockchip_19.11.3_armhf
   linux-image-legacy-rockchip64_19.11.3_arm64
   linux-image-legacy-rockpis_19.11.3.334_arm64
@@ -8206,6 +8227,7 @@
   linux-u-boot-tinkerboard-default_5.95_armhf
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-dev_19.11.3_armhf
+  linux-u-boot-tinkerboard-legacy_19.11.3.346_armhf
   linux-u-boot-tinkerboard-legacy_19.11.3_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
   linux-u-boot-tinkerboard-next_5.90_armhf
