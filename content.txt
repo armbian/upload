@@ -1,4 +1,5 @@
 
+  armbian-config_19.11.4.361_all
   armbian-firmware_19.11.3.346_all
   armbian-firmware_19.11.3_all
   armbian-firmware_5.98_all
@@ -2199,6 +2200,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_19.11.4.361_all
   armbian-firmware_19.11.3.346_all
   armbian-firmware_19.11.3_all
   armbian-firmware_5.98_all
@@ -4138,6 +4140,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_5.98_all
+  armbian-config_19.11.4.361_all
   armbian-firmware_19.11.3.346_all
   armbian-firmware_19.11.3_all
   armbian-firmware_5.98_all
@@ -6047,6 +6050,7 @@
   armbian-buster-desktop_19.11.3.346_all
   armbian-buster-desktop_19.11.3_all
   armbian-buster-desktop_5.98_all
+  armbian-config_19.11.4.361_all
   armbian-firmware_19.11.3.346_all
   armbian-firmware_19.11.3_all
   armbian-firmware_5.98_all
@@ -7295,16 +7299,13 @@
   linux-u-boot-z28pro-legacy_19.11.3_arm64
   linux-u-boot-zeropi-current_19.11.3_armhf
   linux-u-boot-zeropi-dev_19.11.3_armhf
-  openjdk-8-jdk_8u232-b09-1_arm64
-  openjdk-8-jdk_8u232-b09-1_armhf
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
+  armbian-config_19.11.4.361_all
   armbian-config_19.11.4_all
-  armbian-config_19.11.3.346_all
-  armbian-config_19.11.3_all
   armbian-firmware_19.11.3_all
   armbian-firmware-full_19.11.3_all
   hello_1.0_all
@@ -7443,6 +7444,7 @@
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
   armbian-bullseye-desktop_19.11.3_all
+  armbian-config_19.11.4.361_all
   armbian-config_19.11.4_all
   armbian-config_19.11.3_all
   armbian-firmware_19.11.3_all
@@ -7578,8 +7580,6 @@
   linux-source-5.4.6-dev-sunxi64_5.4.6-dev-sunxi64+19.11.4.356_all
   linux-u-boot-bananapi-current_19.11.3_armhf
   linux-u-boot-lepotato-current_19.11.3_arm64
-  openjdk-8-jdk_8u232-b09-1_arm64
-  openjdk-8-jdk_8u232-b09-1_armhf
   hello_1.0_all
   libcedrus1_1.0.1~armbian19.11.3+1_arm64
   libcedrus1_1.0.1~armbian19.11.3+1_armhf
