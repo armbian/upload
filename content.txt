@@ -2078,6 +2078,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20191219-1_arm64
+  wireguard-tools_0.0.20191219-1_armhf
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   fswebcam-gc2035_20140113-1~armbian5.31+1_armhf
@@ -4131,6 +4133,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20191219-1_arm64
+  wireguard-tools_0.0.20191219-1_armhf
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
@@ -6043,6 +6047,8 @@
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
+  wireguard-tools_0.0.20191219-1_arm64
+  wireguard-tools_0.0.20191219-1_armhf
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
@@ -7303,6 +7309,8 @@
   linux-u-boot-z28pro-legacy_19.11.3_arm64
   linux-u-boot-zeropi-current_19.11.3_armhf
   linux-u-boot-zeropi-dev_19.11.3_armhf
+  wireguard-tools_0.0.20191219-1_arm64
+  wireguard-tools_0.0.20191219-1_armhf
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
@@ -7445,6 +7453,8 @@
   linux-source-5.4.6-dev-sunxi64_5.4.6-dev-sunxi64+19.11.4.356_all
   linux-u-boot-bananapi-current_19.11.3_armhf
   linux-u-boot-lepotato-current_19.11.3_arm64
+  wireguard-tools_0.0.20191219-1_arm64
+  wireguard-tools_0.0.20191219-1_armhf
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
@@ -7585,6 +7595,8 @@
   linux-source-5.4.6-dev-sunxi64_5.4.6-dev-sunxi64+19.11.4.356_all
   linux-u-boot-bananapi-current_19.11.3_armhf
   linux-u-boot-lepotato-current_19.11.3_arm64
+  wireguard-tools_0.0.20191219-1_arm64
+  wireguard-tools_0.0.20191219-1_armhf
   hello_1.0_all
   libcedrus1_1.0.1~armbian19.11.3+1_arm64
   libcedrus1_1.0.1~armbian19.11.3+1_armhf
