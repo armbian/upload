@@ -7791,6 +7791,7 @@
   armbian-firmware_19.11.3_all
   armbian-firmware-full_19.11.8_all
   armbian-firmware-full_19.11.3_all
+  armbian-focal-desktop_19.11.9_all
   armbian-focal-desktop_19.11.8_all
   armbian-focal-desktop_19.11.6_all
   hello_1.0_all
@@ -8056,6 +8057,12 @@
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
+  libcedrus1_1.0.1~armbian19.11.9+1_armhf
+  libcedrus1-dev_1.0.1~armbian19.11.9+1_armhf
+  libump_3.0-0sunxi1~armbian19.11.9+1_armhf
+  libump-dev_3.0-0sunxi1~armbian19.11.9+1_armhf
+  xserver-xorg-video-armsoc-sun4i_1.4.1~armbian19.11.9+1_armhf
+  xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_armhf
   armbian-bullseye-desktop_19.11.8_all
   armbian-bullseye-desktop_19.11.6_all
   armbian-bullseye-desktop_19.11.3_all
