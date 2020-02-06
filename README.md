@@ -132,7 +132,7 @@ This repository is incoming location for **apt.armbian.com** packages repository
 	 * [eoan-utils]: Armbian eoan utilities (packages: 11)
 	 * [eoan]: Armbian main repository (packages: 426)
 	 * [focal-desktop]: Armbian focal desktop (packages: 10)
-	 * [focal-utils]: Armbian focal utilities (packages: 9)
+	 * [focal-utils]: Armbian focal utilities (packages: 11)
 	 * [focal]: Armbian main repository (packages: 81)
 	 * [jessie-desktop]: Armbian jessie desktop (packages: 155)
 	 * [jessie-utils]: Armbian jessie utilities (packages: 54)
