@@ -36,6 +36,7 @@
   armbian-tools-xenial_5.60_armhf
   armbian-tools-xenial_5.58_armhf
   armbian-tools-xenial_5.44_arm64
+  armbian-xenial-desktop_20.02.4_all
   chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   hello_1.0_all
@@ -1411,6 +1412,7 @@
   linux-xenial-root-current-cubox-i_19.11.3_armhf
   linux-xenial-root-current-espressobin_20.02.1_arm64
   linux-xenial-root-current-firefly-rk3399_20.02.1_arm64
+  linux-xenial-root-current-helios4_20.02.4_armhf
   linux-xenial-root-current-helios4_20.02.1_armhf
   linux-xenial-root-current-helios4_19.11.3_armhf
   linux-xenial-root-current-kvim1_20.02.3_arm64
@@ -1551,6 +1553,7 @@
   linux-xenial-root-current-z28pro_19.11.3_arm64
   linux-xenial-root-current-zeropi_20.02.1_armhf
   linux-xenial-root-current-zeropi_19.11.3_armhf
+  linux-xenial-root-dev-helios4_20.02.4_armhf
   linux-xenial-root-espressobin_5.90_arm64
   linux-xenial-root-espressobin_5.85_arm64
   linux-xenial-root-espressobin_5.73_arm64
@@ -1582,6 +1585,7 @@
   linux-xenial-root-legacy-cubietruck_19.11.3_armhf
   linux-xenial-root-legacy-espressobin_20.02.1_arm64
   linux-xenial-root-legacy-firefly-rk3399_20.02.1_arm64
+  linux-xenial-root-legacy-helios4_20.02.4_armhf
   linux-xenial-root-legacy-helios4_20.02.1_armhf
   linux-xenial-root-legacy-helios4_19.11.3_armhf
   linux-xenial-root-legacy-lime2_20.02.1_armhf
@@ -2190,6 +2194,7 @@
   armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
+  armbian-stretch-desktop_20.02.4_all
   armbian-tools-bionic_5.75_arm64
   armbian-tools-bionic_5.75_armhf
   armbian-tools-bionic_5.63_armhf
@@ -2851,6 +2856,7 @@
   linux-stretch-root-current-cubox-i_19.11.3_armhf
   linux-stretch-root-current-espressobin_20.02.1_arm64
   linux-stretch-root-current-firefly-rk3399_20.02.1_arm64
+  linux-stretch-root-current-helios4_20.02.4_armhf
   linux-stretch-root-current-helios4_20.02.1_armhf
   linux-stretch-root-current-helios4_19.11.3_armhf
   linux-stretch-root-current-kvim1_20.02.3_arm64
@@ -2991,6 +2997,7 @@
   linux-stretch-root-current-z28pro_19.11.3_arm64
   linux-stretch-root-current-zeropi_20.02.1_armhf
   linux-stretch-root-current-zeropi_19.11.3_armhf
+  linux-stretch-root-dev-helios4_20.02.4_armhf
   linux-stretch-root-espressobin_5.90_arm64
   linux-stretch-root-espressobin_5.85_arm64
   linux-stretch-root-espressobin_5.73_arm64
@@ -3017,6 +3024,7 @@
   linux-stretch-root-legacy-cubietruck_19.11.3_armhf
   linux-stretch-root-legacy-espressobin_20.02.1_arm64
   linux-stretch-root-legacy-firefly-rk3399_20.02.1_arm64
+  linux-stretch-root-legacy-helios4_20.02.4_armhf
   linux-stretch-root-legacy-helios4_20.02.1_armhf
   linux-stretch-root-legacy-helios4_19.11.3_armhf
   linux-stretch-root-legacy-lime2_20.02.1_armhf
@@ -4101,6 +4109,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.38+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
+  armbian-bionic-desktop_20.02.4_all
   armbian-bionic-desktop_20.02.2_all
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
@@ -4187,6 +4196,7 @@
   linux-bionic-root-current-espressobin_20.02.1_arm64
   linux-bionic-root-current-espressobin_19.11.3_arm64
   linux-bionic-root-current-firefly-rk3399_20.02.1_arm64
+  linux-bionic-root-current-helios4_20.02.4_armhf
   linux-bionic-root-current-helios4_20.02.1_armhf
   linux-bionic-root-current-helios4_19.11.3_armhf
   linux-bionic-root-current-kvim1_20.02.3_arm64
@@ -4327,6 +4337,7 @@
   linux-bionic-root-current-z28pro_19.11.3_arm64
   linux-bionic-root-current-zeropi_20.02.1_armhf
   linux-bionic-root-current-zeropi_19.11.3_armhf
+  linux-bionic-root-dev-helios4_20.02.4_armhf
   linux-bionic-root-espressobin_5.90_arm64
   linux-bionic-root-espressobin_5.85_arm64
   linux-bionic-root-espressobin_5.73_arm64
@@ -4355,6 +4366,7 @@
   linux-bionic-root-legacy-espressobin_19.11.3_arm64
   linux-bionic-root-legacy-firefly-rk3399_20.02.1_arm64
   linux-bionic-root-legacy-firefly-rk3399_19.11.3_arm64
+  linux-bionic-root-legacy-helios4_20.02.4_armhf
   linux-bionic-root-legacy-helios4_20.02.1_armhf
   linux-bionic-root-legacy-helios4_19.11.3_armhf
   linux-bionic-root-legacy-lime2_20.02.1_armhf
@@ -5989,9 +6001,9 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
+  armbian-buster-desktop_20.02.4_all
   armbian-buster-desktop_20.02.2_all
   armbian-buster-desktop_20.02.1_all
-  armbian-buster-desktop_19.11.8_all
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
@@ -6045,6 +6057,7 @@
   linux-buster-root-current-espressobin_20.02.1_arm64
   linux-buster-root-current-espressobin_19.11.3_arm64
   linux-buster-root-current-firefly-rk3399_20.02.1_arm64
+  linux-buster-root-current-helios4_20.02.4_armhf
   linux-buster-root-current-helios4_20.02.1_armhf
   linux-buster-root-current-helios4_19.11.3_armhf
   linux-buster-root-current-kvim1_20.02.3_arm64
@@ -6186,6 +6199,7 @@
   linux-buster-root-current-z28pro_19.11.3_arm64
   linux-buster-root-current-zeropi_20.02.1_armhf
   linux-buster-root-current-zeropi_19.11.3_armhf
+  linux-buster-root-dev-helios4_20.02.4_armhf
   linux-buster-root-espressobin_5.90_arm64
   linux-buster-root-helios4_5.91_armhf
   linux-buster-root-helios4_5.90_armhf
@@ -6210,6 +6224,7 @@
   linux-buster-root-legacy-espressobin_19.11.3_arm64
   linux-buster-root-legacy-firefly-rk3399_20.02.1_arm64
   linux-buster-root-legacy-firefly-rk3399_19.11.3_arm64
+  linux-buster-root-legacy-helios4_20.02.4_armhf
   linux-buster-root-legacy-helios4_20.02.1_armhf
   linux-buster-root-legacy-helios4_19.11.3_armhf
   linux-buster-root-legacy-lime2_20.02.1_armhf
@@ -7236,9 +7251,9 @@
   armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
+  armbian-focal-desktop_20.02.4_all
   armbian-focal-desktop_20.02.2_all
   armbian-focal-desktop_20.02.1_all
-  armbian-focal-desktop_19.11.9_all
   hello_1.0_all
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
@@ -7289,6 +7304,7 @@
   linux-focal-root-current-cubox-i_19.11.8_armhf
   linux-focal-root-current-espressobin_20.02.1_arm64
   linux-focal-root-current-firefly-rk3399_20.02.1_arm64
+  linux-focal-root-current-helios4_20.02.4_armhf
   linux-focal-root-current-helios4_20.02.1_armhf
   linux-focal-root-current-kvim1_20.02.3_arm64
   linux-focal-root-current-kvim1_20.02.1_arm64
@@ -7372,6 +7388,7 @@
   linux-focal-root-current-xt-q8l-v10_19.11.8_armhf
   linux-focal-root-current-z28pro_20.02.1_arm64
   linux-focal-root-current-zeropi_20.02.1_armhf
+  linux-focal-root-dev-helios4_20.02.4_armhf
   linux-focal-root-legacy-bananapi_20.02.1_armhf
   linux-focal-root-legacy-bananapim2plus_20.02.1_armhf
   linux-focal-root-legacy-bananapipro_20.02.1_armhf
@@ -7384,6 +7401,7 @@
   linux-focal-root-legacy-cubietruck_20.02.1_armhf
   linux-focal-root-legacy-espressobin_20.02.1_arm64
   linux-focal-root-legacy-firefly-rk3399_20.02.1_arm64
+  linux-focal-root-legacy-helios4_20.02.4_armhf
   linux-focal-root-legacy-helios4_20.02.1_armhf
   linux-focal-root-legacy-lime2_20.02.1_armhf
   linux-focal-root-legacy-macchiatobin-doubleshot_20.02.1_arm64
@@ -7713,9 +7731,9 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian19.11.9+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_armhf
+  armbian-bullseye-desktop_20.02.4_all
   armbian-bullseye-desktop_20.02.2_all
   armbian-bullseye-desktop_20.02.1_all
-  armbian-bullseye-desktop_19.11.8_all
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
@@ -7742,6 +7760,7 @@
   linux-bullseye-root-current-cubox-i_19.11.8_armhf
   linux-bullseye-root-current-espressobin_20.02.1_arm64
   linux-bullseye-root-current-firefly-rk3399_20.02.1_arm64
+  linux-bullseye-root-current-helios4_20.02.4_armhf
   linux-bullseye-root-current-helios4_20.02.1_armhf
   linux-bullseye-root-current-kvim1_20.02.3_arm64
   linux-bullseye-root-current-kvim1_20.02.1_arm64
@@ -7825,6 +7844,7 @@
   linux-bullseye-root-current-xt-q8l-v10_19.11.8_armhf
   linux-bullseye-root-current-z28pro_20.02.1_arm64
   linux-bullseye-root-current-zeropi_20.02.1_armhf
+  linux-bullseye-root-dev-helios4_20.02.4_armhf
   linux-bullseye-root-legacy-bananapi_20.02.1_armhf
   linux-bullseye-root-legacy-bananapim2plus_20.02.1_armhf
   linux-bullseye-root-legacy-bananapipro_20.02.1_armhf
@@ -7837,6 +7857,7 @@
   linux-bullseye-root-legacy-cubietruck_20.02.1_armhf
   linux-bullseye-root-legacy-espressobin_20.02.1_arm64
   linux-bullseye-root-legacy-firefly-rk3399_20.02.1_arm64
+  linux-bullseye-root-legacy-helios4_20.02.4_armhf
   linux-bullseye-root-legacy-helios4_20.02.1_armhf
   linux-bullseye-root-legacy-lime2_20.02.1_armhf
   linux-bullseye-root-legacy-macchiatobin-doubleshot_20.02.1_arm64
