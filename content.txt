@@ -2,12 +2,12 @@
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
+  armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
-  armbian-firmware_20.02.1_all
+  armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
-  armbian-firmware-full_20.02.1_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -2184,12 +2184,12 @@
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
+  armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
-  armbian-firmware_20.02.1_all
+  armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
-  armbian-firmware-full_20.02.1_all
   armbian-tools-bionic_5.75_arm64
   armbian-tools-bionic_5.75_armhf
   armbian-tools-bionic_5.63_armhf
@@ -4105,12 +4105,12 @@
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
+  armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
-  armbian-firmware_20.02.1_all
+  armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
-  armbian-firmware-full_20.02.1_all
   armbian-stretch-desktop_5.72_all
   armbian-stretch-desktop_5.70_all
   armbian-stretch-desktop_5.60_all
@@ -5995,12 +5995,12 @@
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
+  armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
-  armbian-firmware_20.02.1_all
+  armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
-  armbian-firmware-full_20.02.1_all
   armbian-tools-buster_5.86_arm64
   armbian-tools-buster_5.86_armhf
   armbian-tools-disco_5.86_arm64
@@ -7230,12 +7230,12 @@
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
+  armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
-  armbian-firmware_20.02.1_all
+  armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
-  armbian-firmware-full_20.02.1_all
   armbian-focal-desktop_20.02.2_all
   armbian-focal-desktop_20.02.1_all
   armbian-focal-desktop_19.11.9_all
@@ -7719,12 +7719,12 @@
   armbian-config_20.02.2_all
   armbian-config_20.02.1_all
   armbian-config_19.11.8_all
+  armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
-  armbian-firmware_20.02.1_all
+  armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
-  armbian-firmware-full_20.02.1_all
   hello_1.0_all
   linux-bullseye-root-current-bananapi_20.02.1_armhf
   linux-bullseye-root-current-bananapi_19.11.3_armhf
