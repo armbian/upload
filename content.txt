@@ -1553,7 +1553,6 @@
   linux-xenial-root-current-z28pro_19.11.3_arm64
   linux-xenial-root-current-zeropi_20.02.1_armhf
   linux-xenial-root-current-zeropi_19.11.3_armhf
-  linux-xenial-root-dev-helios4_20.02.4_armhf
   linux-xenial-root-espressobin_5.90_arm64
   linux-xenial-root-espressobin_5.85_arm64
   linux-xenial-root-espressobin_5.73_arm64
@@ -2997,7 +2996,6 @@
   linux-stretch-root-current-z28pro_19.11.3_arm64
   linux-stretch-root-current-zeropi_20.02.1_armhf
   linux-stretch-root-current-zeropi_19.11.3_armhf
-  linux-stretch-root-dev-helios4_20.02.4_armhf
   linux-stretch-root-espressobin_5.90_arm64
   linux-stretch-root-espressobin_5.85_arm64
   linux-stretch-root-espressobin_5.73_arm64
@@ -4337,7 +4335,6 @@
   linux-bionic-root-current-z28pro_19.11.3_arm64
   linux-bionic-root-current-zeropi_20.02.1_armhf
   linux-bionic-root-current-zeropi_19.11.3_armhf
-  linux-bionic-root-dev-helios4_20.02.4_armhf
   linux-bionic-root-espressobin_5.90_arm64
   linux-bionic-root-espressobin_5.85_arm64
   linux-bionic-root-espressobin_5.73_arm64
@@ -6199,7 +6196,6 @@
   linux-buster-root-current-z28pro_19.11.3_arm64
   linux-buster-root-current-zeropi_20.02.1_armhf
   linux-buster-root-current-zeropi_19.11.3_armhf
-  linux-buster-root-dev-helios4_20.02.4_armhf
   linux-buster-root-espressobin_5.90_arm64
   linux-buster-root-helios4_5.91_armhf
   linux-buster-root-helios4_5.90_armhf
@@ -7388,7 +7384,6 @@
   linux-focal-root-current-xt-q8l-v10_19.11.8_armhf
   linux-focal-root-current-z28pro_20.02.1_arm64
   linux-focal-root-current-zeropi_20.02.1_armhf
-  linux-focal-root-dev-helios4_20.02.4_armhf
   linux-focal-root-legacy-bananapi_20.02.1_armhf
   linux-focal-root-legacy-bananapim2plus_20.02.1_armhf
   linux-focal-root-legacy-bananapipro_20.02.1_armhf
@@ -7844,7 +7839,6 @@
   linux-bullseye-root-current-xt-q8l-v10_19.11.8_armhf
   linux-bullseye-root-current-z28pro_20.02.1_arm64
   linux-bullseye-root-current-zeropi_20.02.1_armhf
-  linux-bullseye-root-dev-helios4_20.02.4_armhf
   linux-bullseye-root-legacy-bananapi_20.02.1_armhf
   linux-bullseye-root-legacy-bananapim2plus_20.02.1_armhf
   linux-bullseye-root-legacy-bananapipro_20.02.1_armhf
