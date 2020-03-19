@@ -65,6 +65,7 @@
   linux-dtb-current-odroidxu4_19.11.6_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.4_arm64
   linux-dtb-current-rockchip64_20.02.1_arm64
   linux-dtb-current-rockchip64_19.11.3_arm64
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -202,6 +203,7 @@
   linux-headers-current-odroidxu4_19.11.6_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.4_arm64
   linux-headers-current-rockchip64_20.02.1_arm64
   linux-headers-current-rockchip64_19.11.3_arm64
   linux-headers-current-sunxi_20.02.1_armhf
@@ -350,6 +352,7 @@
   linux-image-current-odroidxu4_19.11.6_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.4_arm64
   linux-image-current-rockchip64_20.02.1_arm64
   linux-image-current-rockchip64_19.11.3_arm64
   linux-image-current-sunxi_20.02.1_armhf
@@ -885,6 +888,7 @@
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
   linux-u-boot-nanopiair-default_5.90_armhf
@@ -1437,6 +1441,7 @@
   linux-xenial-root-current-nanopct4_19.11.3_arm64
   linux-xenial-root-current-nanopi-r1_20.02.1_armhf
   linux-xenial-root-current-nanopi-r1_19.11.3_armhf
+  linux-xenial-root-current-nanopi-r2s_20.02.4_arm64
   linux-xenial-root-current-nanopiair_20.02.1_armhf
   linux-xenial-root-current-nanopiair_19.11.3_armhf
   linux-xenial-root-current-nanopiduo_20.02.1_armhf
@@ -2251,6 +2256,7 @@
   linux-dtb-current-odroidxu4_19.11.6_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.4_arm64
   linux-dtb-current-rockchip64_20.02.1_arm64
   linux-dtb-current-rockchip64_19.11.3_arm64
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -2388,6 +2394,7 @@
   linux-headers-current-odroidxu4_19.11.6_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.4_arm64
   linux-headers-current-rockchip64_20.02.1_arm64
   linux-headers-current-rockchip64_19.11.3_arm64
   linux-headers-current-sunxi_20.02.1_armhf
@@ -2536,6 +2543,7 @@
   linux-image-current-odroidxu4_19.11.6_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.4_arm64
   linux-image-current-rockchip64_20.02.1_arm64
   linux-image-current-rockchip64_19.11.3_arm64
   linux-image-current-sunxi_20.02.1_armhf
@@ -2881,6 +2889,7 @@
   linux-stretch-root-current-nanopct4_19.11.3_arm64
   linux-stretch-root-current-nanopi-r1_20.02.1_armhf
   linux-stretch-root-current-nanopi-r1_19.11.3_armhf
+  linux-stretch-root-current-nanopi-r2s_20.02.4_arm64
   linux-stretch-root-current-nanopiair_20.02.1_armhf
   linux-stretch-root-current-nanopiair_19.11.3_armhf
   linux-stretch-root-current-nanopiduo_20.02.1_armhf
@@ -3624,6 +3633,7 @@
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
   linux-u-boot-nanopiair-default_5.90_armhf
@@ -4221,6 +4231,7 @@
   linux-bionic-root-current-nanopct4_19.11.3_arm64
   linux-bionic-root-current-nanopi-r1_20.02.1_armhf
   linux-bionic-root-current-nanopi-r1_19.11.3_armhf
+  linux-bionic-root-current-nanopi-r2s_20.02.4_arm64
   linux-bionic-root-current-nanopiair_20.02.1_armhf
   linux-bionic-root-current-nanopiair_19.11.3_armhf
   linux-bionic-root-current-nanopiduo_20.02.1_armhf
@@ -4699,6 +4710,7 @@
   linux-dtb-current-odroidxu4_19.11.6_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.4_arm64
   linux-dtb-current-rockchip64_20.02.1_arm64
   linux-dtb-current-rockchip64_19.11.3_arm64
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -4836,6 +4848,7 @@
   linux-headers-current-odroidxu4_19.11.6_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.4_arm64
   linux-headers-current-rockchip64_20.02.1_arm64
   linux-headers-current-rockchip64_19.11.3_arm64
   linux-headers-current-sunxi_20.02.1_armhf
@@ -4984,6 +4997,7 @@
   linux-image-current-odroidxu4_19.11.6_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.4_arm64
   linux-image-current-rockchip64_20.02.1_arm64
   linux-image-current-rockchip64_19.11.3_arm64
   linux-image-current-sunxi_20.02.1_armhf
@@ -5519,6 +5533,7 @@
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
   linux-u-boot-nanopiair-default_5.90_armhf
@@ -6082,6 +6097,7 @@
   linux-buster-root-current-nanopct4_19.11.3_arm64
   linux-buster-root-current-nanopi-r1_20.02.1_armhf
   linux-buster-root-current-nanopi-r1_19.11.3_armhf
+  linux-buster-root-current-nanopi-r2s_20.02.4_arm64
   linux-buster-root-current-nanopiair_20.02.1_armhf
   linux-buster-root-current-nanopiair_19.11.3_armhf
   linux-buster-root-current-nanopiduo_20.02.1_armhf
@@ -6466,6 +6482,7 @@
   linux-dtb-current-odroidxu4_19.11.6_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.4_arm64
   linux-dtb-current-rockchip64_20.02.1_arm64
   linux-dtb-current-rockchip64_19.11.3_arm64
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -6559,6 +6576,7 @@
   linux-headers-current-odroidxu4_19.11.6_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.4_arm64
   linux-headers-current-rockchip64_20.02.1_arm64
   linux-headers-current-rockchip64_19.11.3_arm64
   linux-headers-current-sunxi_20.02.1_armhf
@@ -6652,6 +6670,7 @@
   linux-image-current-odroidxu4_19.11.6_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.4_arm64
   linux-image-current-rockchip64_20.02.1_arm64
   linux-image-current-rockchip64_19.11.3_arm64
   linux-image-current-sunxi_20.02.1_armhf
@@ -6935,6 +6954,7 @@
   linux-u-boot-nanopi-r1-legacy_20.02.1_armhf
   linux-u-boot-nanopi-r1-legacy_19.11.3_armhf
   linux-u-boot-nanopi-r1-next_5.90_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
   linux-u-boot-nanopiair-default_5.90_armhf
@@ -7267,6 +7287,7 @@
   linux-dtb-current-odroidxu4_19.11.6_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.4_arm64
   linux-dtb-current-rockchip64_20.02.1_arm64
   linux-dtb-current-sunxi_20.02.1_armhf
   linux-dtb-current-sunxi_19.11.3_armhf
@@ -7322,6 +7343,7 @@
   linux-focal-root-current-miqi_20.02.1_armhf
   linux-focal-root-current-nanopct4_20.02.1_arm64
   linux-focal-root-current-nanopi-r1_20.02.1_armhf
+  linux-focal-root-current-nanopi-r2s_20.02.4_arm64
   linux-focal-root-current-nanopiair_20.02.1_armhf
   linux-focal-root-current-nanopiduo_20.02.1_armhf
   linux-focal-root-current-nanopiduo2_20.02.1_armhf
@@ -7469,6 +7491,7 @@
   linux-headers-current-odroidxu4_19.11.6_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.4_arm64
   linux-headers-current-rockchip64_20.02.1_arm64
   linux-headers-current-sunxi_20.02.1_armhf
   linux-headers-current-sunxi_19.11.3_armhf
@@ -7505,6 +7528,7 @@
   linux-image-current-odroidxu4_19.11.6_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.4_arm64
   linux-image-current-rockchip64_20.02.1_arm64
   linux-image-current-sunxi_20.02.1_armhf
   linux-image-current-sunxi_19.11.3_armhf
@@ -7605,6 +7629,7 @@
   linux-u-boot-nanopct4-legacy_20.02.1_arm64
   linux-u-boot-nanopi-r1-current_20.02.1_armhf
   linux-u-boot-nanopi-r1-legacy_20.02.1_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-legacy_20.02.1_armhf
   linux-u-boot-nanopiduo-current_20.02.1_armhf
@@ -7778,6 +7803,7 @@
   linux-bullseye-root-current-miqi_20.02.1_armhf
   linux-bullseye-root-current-nanopct4_20.02.1_arm64
   linux-bullseye-root-current-nanopi-r1_20.02.1_armhf
+  linux-bullseye-root-current-nanopi-r2s_20.02.4_arm64
   linux-bullseye-root-current-nanopiair_20.02.1_armhf
   linux-bullseye-root-current-nanopiduo_20.02.1_armhf
   linux-bullseye-root-current-nanopiduo2_20.02.1_armhf
@@ -7923,6 +7949,7 @@
   linux-dtb-current-odroidxu4_19.11.6_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.4_arm64
   linux-dtb-current-rockchip64_20.02.1_arm64
   linux-dtb-current-sunxi_20.02.1_armhf
   linux-dtb-current-sunxi_19.11.3_armhf
@@ -7959,6 +7986,7 @@
   linux-headers-current-odroidxu4_19.11.6_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.4_arm64
   linux-headers-current-rockchip64_20.02.1_arm64
   linux-headers-current-sunxi_20.02.1_armhf
   linux-headers-current-sunxi_19.11.3_armhf
@@ -7995,6 +8023,7 @@
   linux-image-current-odroidxu4_19.11.6_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.4_arm64
   linux-image-current-rockchip64_20.02.1_arm64
   linux-image-current-sunxi_20.02.1_armhf
   linux-image-current-sunxi_19.11.3_armhf
@@ -8095,6 +8124,7 @@
   linux-u-boot-nanopct4-legacy_20.02.1_arm64
   linux-u-boot-nanopi-r1-current_20.02.1_armhf
   linux-u-boot-nanopi-r1-legacy_20.02.1_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-legacy_20.02.1_armhf
   linux-u-boot-nanopiduo-current_20.02.1_armhf
