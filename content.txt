@@ -55,9 +55,9 @@
   linux-dtb-current-imx6_19.11.3_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
+  linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
   linux-dtb-current-meson64_20.02.2_arm64
-  linux-dtb-current-meson64_20.02.1_arm64
   linux-dtb-current-mvebu_20.02.1_armhf
   linux-dtb-current-mvebu_19.11.3_armhf
   linux-dtb-current-mvebu64_20.02.1_arm64
@@ -74,9 +74,9 @@
   linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
+  linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
   linux-dtb-legacy-meson64_20.02.1_arm64
-  linux-dtb-legacy-meson64_19.11.8_arm64
   linux-dtb-legacy-mt7623_20.02.2_armhf
   linux-dtb-legacy-mt7623_20.02.1_armhf
   linux-dtb-legacy-mt7623_19.11.3_armhf
@@ -196,9 +196,9 @@
   linux-headers-current-imx6_19.11.3_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
+  linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
   linux-headers-current-meson64_20.02.2_arm64
-  linux-headers-current-meson64_20.02.1_arm64
   linux-headers-current-mvebu_20.02.1_armhf
   linux-headers-current-mvebu_19.11.3_armhf
   linux-headers-current-mvebu64_20.02.1_arm64
@@ -215,9 +215,9 @@
   linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
+  linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
   linux-headers-legacy-meson64_20.02.1_arm64
-  linux-headers-legacy-meson64_19.11.8_arm64
   linux-headers-legacy-mt7623_20.02.2_armhf
   linux-headers-legacy-mt7623_20.02.1_armhf
   linux-headers-legacy-mt7623_19.11.3_armhf
@@ -348,9 +348,9 @@
   linux-image-current-imx6_19.11.3_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
   linux-image-current-meson64_20.02.2_arm64
-  linux-image-current-meson64_20.02.1_arm64
   linux-image-current-mvebu_20.02.1_armhf
   linux-image-current-mvebu_19.11.3_armhf
   linux-image-current-mvebu64_20.02.1_arm64
@@ -367,9 +367,9 @@
   linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
+  linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
   linux-image-legacy-meson64_20.02.1_arm64
-  linux-image-legacy-meson64_19.11.8_arm64
   linux-image-legacy-mt7623_20.02.2_armhf
   linux-image-legacy-mt7623_20.02.1_armhf
   linux-image-legacy-mt7623_19.11.3_armhf
@@ -1037,15 +1037,15 @@
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
   linux-u-boot-odroidc2-next_5.85_arm64
+  linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
-  linux-u-boot-odroidn2-current_19.11.8_arm64
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidn2-legacy_20.02.5_arm64
   linux-u-boot-odroidn2-legacy_20.02.3_arm64
   linux-u-boot-odroidn2-legacy_20.02.1_arm64
-  linux-u-boot-odroidn2-legacy_19.11.8_arm64
   linux-u-boot-odroidxu4-current_20.02.1_armhf
   linux-u-boot-odroidxu4-current_19.11.6_armhf
   linux-u-boot-odroidxu4-default_5.98_armhf
@@ -1491,9 +1491,9 @@
   linux-xenial-root-current-odroidc2_20.02.1_arm64
   linux-xenial-root-current-odroidc2_19.11.8_arm64
   linux-xenial-root-current-odroidc2_19.11.3_arm64
+  linux-xenial-root-current-odroidn2_20.02.5_arm64
   linux-xenial-root-current-odroidn2_20.02.3_arm64
   linux-xenial-root-current-odroidn2_20.02.1_arm64
-  linux-xenial-root-current-odroidn2_19.11.8_arm64
   linux-xenial-root-current-odroidxu4_20.02.1_armhf
   linux-xenial-root-current-odroidxu4_19.11.6_armhf
   linux-xenial-root-current-orangepi-r1_20.02.1_armhf
@@ -1645,9 +1645,9 @@
   linux-xenial-root-legacy-nanopineocore2_19.11.3_arm64
   linux-xenial-root-legacy-nanopineoplus2_20.02.1_arm64
   linux-xenial-root-legacy-nanopineoplus2_19.11.3_arm64
+  linux-xenial-root-legacy-odroidn2_20.02.5_arm64
   linux-xenial-root-legacy-odroidn2_20.02.3_arm64
   linux-xenial-root-legacy-odroidn2_20.02.1_arm64
-  linux-xenial-root-legacy-odroidn2_19.11.8_arm64
   linux-xenial-root-legacy-odroidxu4_20.02.1_armhf
   linux-xenial-root-legacy-odroidxu4_19.11.6_armhf
   linux-xenial-root-legacy-odroidxu4_19.11.3_armhf
@@ -2265,9 +2265,9 @@
   linux-dtb-current-imx6_19.11.3_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
+  linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
   linux-dtb-current-meson64_20.02.2_arm64
-  linux-dtb-current-meson64_20.02.1_arm64
   linux-dtb-current-mvebu_20.02.1_armhf
   linux-dtb-current-mvebu_19.11.3_armhf
   linux-dtb-current-mvebu64_20.02.1_arm64
@@ -2284,9 +2284,9 @@
   linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
+  linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
   linux-dtb-legacy-meson64_20.02.1_arm64
-  linux-dtb-legacy-meson64_19.11.8_arm64
   linux-dtb-legacy-mt7623_20.02.2_armhf
   linux-dtb-legacy-mt7623_20.02.1_armhf
   linux-dtb-legacy-mt7623_19.11.3_armhf
@@ -2406,9 +2406,9 @@
   linux-headers-current-imx6_19.11.3_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
+  linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
   linux-headers-current-meson64_20.02.2_arm64
-  linux-headers-current-meson64_20.02.1_arm64
   linux-headers-current-mvebu_20.02.1_armhf
   linux-headers-current-mvebu_19.11.3_armhf
   linux-headers-current-mvebu64_20.02.1_arm64
@@ -2425,9 +2425,9 @@
   linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
+  linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
   linux-headers-legacy-meson64_20.02.1_arm64
-  linux-headers-legacy-meson64_19.11.8_arm64
   linux-headers-legacy-mt7623_20.02.2_armhf
   linux-headers-legacy-mt7623_20.02.1_armhf
   linux-headers-legacy-mt7623_19.11.3_armhf
@@ -2558,9 +2558,9 @@
   linux-image-current-imx6_19.11.3_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
   linux-image-current-meson64_20.02.2_arm64
-  linux-image-current-meson64_20.02.1_arm64
   linux-image-current-mvebu_20.02.1_armhf
   linux-image-current-mvebu_19.11.3_armhf
   linux-image-current-mvebu64_20.02.1_arm64
@@ -2577,9 +2577,9 @@
   linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
+  linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
   linux-image-legacy-meson64_20.02.1_arm64
-  linux-image-legacy-meson64_19.11.8_arm64
   linux-image-legacy-mt7623_20.02.2_armhf
   linux-image-legacy-mt7623_20.02.1_armhf
   linux-image-legacy-mt7623_19.11.3_armhf
@@ -2954,9 +2954,9 @@
   linux-stretch-root-current-odroidc2_20.02.1_arm64
   linux-stretch-root-current-odroidc2_19.11.8_arm64
   linux-stretch-root-current-odroidc2_19.11.3_arm64
+  linux-stretch-root-current-odroidn2_20.02.5_arm64
   linux-stretch-root-current-odroidn2_20.02.3_arm64
   linux-stretch-root-current-odroidn2_20.02.1_arm64
-  linux-stretch-root-current-odroidn2_19.11.8_arm64
   linux-stretch-root-current-odroidxu4_20.02.1_armhf
   linux-stretch-root-current-odroidxu4_19.11.6_armhf
   linux-stretch-root-current-orangepi-r1_20.02.1_armhf
@@ -3103,9 +3103,9 @@
   linux-stretch-root-legacy-nanopineocore2_19.11.3_arm64
   linux-stretch-root-legacy-nanopineoplus2_20.02.1_arm64
   linux-stretch-root-legacy-nanopineoplus2_19.11.3_arm64
+  linux-stretch-root-legacy-odroidn2_20.02.5_arm64
   linux-stretch-root-legacy-odroidn2_20.02.3_arm64
   linux-stretch-root-legacy-odroidn2_20.02.1_arm64
-  linux-stretch-root-legacy-odroidn2_19.11.8_arm64
   linux-stretch-root-legacy-odroidxu4_20.02.1_armhf
   linux-stretch-root-legacy-odroidxu4_19.11.6_armhf
   linux-stretch-root-legacy-odroidxu4_19.11.3_armhf
@@ -3806,15 +3806,15 @@
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
   linux-u-boot-odroidc2-next_5.85_arm64
+  linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
-  linux-u-boot-odroidn2-current_19.11.8_arm64
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidn2-legacy_20.02.5_arm64
   linux-u-boot-odroidn2-legacy_20.02.3_arm64
   linux-u-boot-odroidn2-legacy_20.02.1_arm64
-  linux-u-boot-odroidn2-legacy_19.11.8_arm64
   linux-u-boot-odroidxu4-current_20.02.1_armhf
   linux-u-boot-odroidxu4-current_19.11.6_armhf
   linux-u-boot-odroidxu4-default_5.98_armhf
@@ -4306,9 +4306,9 @@
   linux-bionic-root-current-odroidc2_20.02.1_arm64
   linux-bionic-root-current-odroidc2_19.11.8_arm64
   linux-bionic-root-current-odroidc2_19.11.3_arm64
+  linux-bionic-root-current-odroidn2_20.02.5_arm64
   linux-bionic-root-current-odroidn2_20.02.3_arm64
   linux-bionic-root-current-odroidn2_20.02.1_arm64
-  linux-bionic-root-current-odroidn2_19.11.8_arm64
   linux-bionic-root-current-odroidxu4_20.02.1_armhf
   linux-bionic-root-current-odroidxu4_19.11.6_armhf
   linux-bionic-root-current-orangepi-r1_20.02.1_armhf
@@ -4457,9 +4457,9 @@
   linux-bionic-root-legacy-nanopineocore2_19.11.3_arm64
   linux-bionic-root-legacy-nanopineoplus2_20.02.1_arm64
   linux-bionic-root-legacy-nanopineoplus2_19.11.3_arm64
+  linux-bionic-root-legacy-odroidn2_20.02.5_arm64
   linux-bionic-root-legacy-odroidn2_20.02.3_arm64
   linux-bionic-root-legacy-odroidn2_20.02.1_arm64
-  linux-bionic-root-legacy-odroidn2_19.11.8_arm64
   linux-bionic-root-legacy-odroidxu4_20.02.1_armhf
   linux-bionic-root-legacy-odroidxu4_19.11.6_armhf
   linux-bionic-root-legacy-odroidxu4_19.11.3_armhf
@@ -4743,9 +4743,9 @@
   linux-dtb-current-imx6_19.11.3_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
+  linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
   linux-dtb-current-meson64_20.02.2_arm64
-  linux-dtb-current-meson64_20.02.1_arm64
   linux-dtb-current-mvebu_20.02.1_armhf
   linux-dtb-current-mvebu_19.11.3_armhf
   linux-dtb-current-mvebu64_20.02.1_arm64
@@ -4762,9 +4762,9 @@
   linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
+  linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
   linux-dtb-legacy-meson64_20.02.1_arm64
-  linux-dtb-legacy-meson64_19.11.8_arm64
   linux-dtb-legacy-mt7623_20.02.2_armhf
   linux-dtb-legacy-mt7623_20.02.1_armhf
   linux-dtb-legacy-mt7623_19.11.3_armhf
@@ -4884,9 +4884,9 @@
   linux-headers-current-imx6_19.11.3_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
+  linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
   linux-headers-current-meson64_20.02.2_arm64
-  linux-headers-current-meson64_20.02.1_arm64
   linux-headers-current-mvebu_20.02.1_armhf
   linux-headers-current-mvebu_19.11.3_armhf
   linux-headers-current-mvebu64_20.02.1_arm64
@@ -4903,9 +4903,9 @@
   linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
+  linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
   linux-headers-legacy-meson64_20.02.1_arm64
-  linux-headers-legacy-meson64_19.11.8_arm64
   linux-headers-legacy-mt7623_20.02.2_armhf
   linux-headers-legacy-mt7623_20.02.1_armhf
   linux-headers-legacy-mt7623_19.11.3_armhf
@@ -5036,9 +5036,9 @@
   linux-image-current-imx6_19.11.3_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
   linux-image-current-meson64_20.02.2_arm64
-  linux-image-current-meson64_20.02.1_arm64
   linux-image-current-mvebu_20.02.1_armhf
   linux-image-current-mvebu_19.11.3_armhf
   linux-image-current-mvebu64_20.02.1_arm64
@@ -5055,9 +5055,9 @@
   linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
+  linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
   linux-image-legacy-meson64_20.02.1_arm64
-  linux-image-legacy-meson64_19.11.8_arm64
   linux-image-legacy-mt7623_20.02.2_armhf
   linux-image-legacy-mt7623_20.02.1_armhf
   linux-image-legacy-mt7623_19.11.3_armhf
@@ -5725,15 +5725,15 @@
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
   linux-u-boot-odroidc2-next_5.85_arm64
+  linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
-  linux-u-boot-odroidn2-current_19.11.8_arm64
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidn2-legacy_20.02.5_arm64
   linux-u-boot-odroidn2-legacy_20.02.3_arm64
   linux-u-boot-odroidn2-legacy_20.02.1_arm64
-  linux-u-boot-odroidn2-legacy_19.11.8_arm64
   linux-u-boot-odroidxu4-current_20.02.1_armhf
   linux-u-boot-odroidxu4-current_19.11.6_armhf
   linux-u-boot-odroidxu4-default_5.98_armhf
@@ -6191,9 +6191,9 @@
   linux-buster-root-current-odroidc2_20.02.1_arm64
   linux-buster-root-current-odroidc2_19.11.8_arm64
   linux-buster-root-current-odroidc2_19.11.3_arm64
+  linux-buster-root-current-odroidn2_20.02.5_arm64
   linux-buster-root-current-odroidn2_20.02.3_arm64
   linux-buster-root-current-odroidn2_20.02.1_arm64
-  linux-buster-root-current-odroidn2_19.11.8_arm64
   linux-buster-root-current-odroidxu4_20.02.1_armhf
   linux-buster-root-current-odroidxu4_19.11.6_armhf
   linux-buster-root-current-orangepi-r1_20.02.1_armhf
@@ -6338,9 +6338,9 @@
   linux-buster-root-legacy-nanopineocore2_19.11.3_arm64
   linux-buster-root-legacy-nanopineoplus2_20.02.1_arm64
   linux-buster-root-legacy-nanopineoplus2_19.11.3_arm64
+  linux-buster-root-legacy-odroidn2_20.02.5_arm64
   linux-buster-root-legacy-odroidn2_20.02.3_arm64
   linux-buster-root-legacy-odroidn2_20.02.1_arm64
-  linux-buster-root-legacy-odroidn2_19.11.8_arm64
   linux-buster-root-legacy-odroidxu4_20.02.1_armhf
   linux-buster-root-legacy-odroidxu4_19.11.6_armhf
   linux-buster-root-legacy-odroidxu4_19.11.3_armhf
@@ -6532,9 +6532,9 @@
   linux-dtb-current-imx6_19.11.3_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
+  linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
   linux-dtb-current-meson64_20.02.2_arm64
-  linux-dtb-current-meson64_20.02.1_arm64
   linux-dtb-current-mvebu_20.02.1_armhf
   linux-dtb-current-mvebu_19.11.3_armhf
   linux-dtb-current-mvebu64_20.02.1_arm64
@@ -6551,9 +6551,9 @@
   linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
+  linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
   linux-dtb-legacy-meson64_20.02.1_arm64
-  linux-dtb-legacy-meson64_19.11.8_arm64
   linux-dtb-legacy-mt7623_20.02.2_armhf
   linux-dtb-legacy-mt7623_20.02.1_armhf
   linux-dtb-legacy-mt7623_19.11.3_armhf
@@ -6629,9 +6629,9 @@
   linux-headers-current-imx6_19.11.3_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
+  linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
   linux-headers-current-meson64_20.02.2_arm64
-  linux-headers-current-meson64_20.02.1_arm64
   linux-headers-current-mvebu_20.02.1_armhf
   linux-headers-current-mvebu_19.11.3_armhf
   linux-headers-current-mvebu64_20.02.1_arm64
@@ -6648,9 +6648,9 @@
   linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
+  linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
   linux-headers-legacy-meson64_20.02.1_arm64
-  linux-headers-legacy-meson64_19.11.8_arm64
   linux-headers-legacy-mt7623_20.02.2_armhf
   linux-headers-legacy-mt7623_20.02.1_armhf
   linux-headers-legacy-mt7623_19.11.3_armhf
@@ -6726,9 +6726,9 @@
   linux-image-current-imx6_19.11.3_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
   linux-image-current-meson64_20.02.2_arm64
-  linux-image-current-meson64_20.02.1_arm64
   linux-image-current-mvebu_20.02.1_armhf
   linux-image-current-mvebu_19.11.3_armhf
   linux-image-current-mvebu64_20.02.1_arm64
@@ -6745,9 +6745,9 @@
   linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
+  linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
   linux-image-legacy-meson64_20.02.1_arm64
-  linux-image-legacy-meson64_19.11.8_arm64
   linux-image-legacy-mt7623_20.02.2_armhf
   linux-image-legacy-mt7623_20.02.1_armhf
   linux-image-legacy-mt7623_19.11.3_armhf
@@ -7116,15 +7116,15 @@
   linux-u-boot-odroidc2-default_5.90_arm64
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
+  linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
-  linux-u-boot-odroidn2-current_19.11.8_arm64
   linux-u-boot-odroidn2-default_5.95_arm64
   linux-u-boot-odroidn2-default_5.89_arm64
   linux-u-boot-odroidn2-default_5.88_arm64
+  linux-u-boot-odroidn2-legacy_20.02.5_arm64
   linux-u-boot-odroidn2-legacy_20.02.3_arm64
   linux-u-boot-odroidn2-legacy_20.02.1_arm64
-  linux-u-boot-odroidn2-legacy_19.11.8_arm64
   linux-u-boot-odroidxu4-current_20.02.1_armhf
   linux-u-boot-odroidxu4-current_19.11.6_armhf
   linux-u-boot-odroidxu4-default_5.98_armhf
@@ -7352,9 +7352,9 @@
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
   linux-dtb-current-meson_20.02.1_armhf
+  linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
   linux-dtb-current-meson64_20.02.2_arm64
-  linux-dtb-current-meson64_20.02.1_arm64
   linux-dtb-current-mvebu_20.02.1_armhf
   linux-dtb-current-mvebu64_20.02.1_arm64
   linux-dtb-current-odroidxu4_20.02.1_armhf
@@ -7368,9 +7368,9 @@
   linux-dtb-current-sunxi_20.02.1_armhf
   linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
+  linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
   linux-dtb-legacy-meson64_20.02.1_arm64
-  linux-dtb-legacy-meson64_19.11.8_arm64
   linux-dtb-legacy-mt7623_20.02.2_armhf
   linux-dtb-legacy-mt7623_20.02.1_armhf
   linux-dtb-legacy-mvebu_20.02.1_armhf
@@ -7445,9 +7445,9 @@
   linux-focal-root-current-odroidc1_20.02.1_armhf
   linux-focal-root-current-odroidc2_20.02.1_arm64
   linux-focal-root-current-odroidc2_19.11.8_arm64
+  linux-focal-root-current-odroidn2_20.02.5_arm64
   linux-focal-root-current-odroidn2_20.02.3_arm64
   linux-focal-root-current-odroidn2_20.02.1_arm64
-  linux-focal-root-current-odroidn2_19.11.8_arm64
   linux-focal-root-current-odroidxu4_20.02.1_armhf
   linux-focal-root-current-odroidxu4_19.11.6_armhf
   linux-focal-root-current-orangepi-r1_20.02.1_armhf
@@ -7526,9 +7526,9 @@
   linux-focal-root-legacy-nanopineo4_20.02.1_arm64
   linux-focal-root-legacy-nanopineocore2_20.02.1_arm64
   linux-focal-root-legacy-nanopineoplus2_20.02.1_arm64
+  linux-focal-root-legacy-odroidn2_20.02.5_arm64
   linux-focal-root-legacy-odroidn2_20.02.3_arm64
   linux-focal-root-legacy-odroidn2_20.02.1_arm64
-  linux-focal-root-legacy-odroidn2_19.11.8_arm64
   linux-focal-root-legacy-odroidxu4_20.02.1_armhf
   linux-focal-root-legacy-odroidxu4_19.11.6_armhf
   linux-focal-root-legacy-orangepi-rk3399_20.02.1_arm64
@@ -7568,9 +7568,9 @@
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
   linux-headers-current-meson_20.02.1_armhf
+  linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
   linux-headers-current-meson64_20.02.2_arm64
-  linux-headers-current-meson64_20.02.1_arm64
   linux-headers-current-mvebu_20.02.1_armhf
   linux-headers-current-mvebu64_20.02.1_arm64
   linux-headers-current-odroidxu4_20.02.1_armhf
@@ -7584,9 +7584,9 @@
   linux-headers-current-sunxi_20.02.1_armhf
   linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
+  linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
   linux-headers-legacy-meson64_20.02.1_arm64
-  linux-headers-legacy-meson64_19.11.8_arm64
   linux-headers-legacy-mt7623_20.02.2_armhf
   linux-headers-legacy-mt7623_20.02.1_armhf
   linux-headers-legacy-mvebu_20.02.1_armhf
@@ -7611,9 +7611,9 @@
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
+  linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
   linux-image-current-meson64_20.02.2_arm64
-  linux-image-current-meson64_20.02.1_arm64
   linux-image-current-mvebu_20.02.1_armhf
   linux-image-current-mvebu64_20.02.1_arm64
   linux-image-current-odroidxu4_20.02.1_armhf
@@ -7627,9 +7627,9 @@
   linux-image-current-sunxi_20.02.1_armhf
   linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
+  linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
   linux-image-legacy-meson64_20.02.1_arm64
-  linux-image-legacy-meson64_19.11.8_arm64
   linux-image-legacy-mt7623_20.02.2_armhf
   linux-image-legacy-mt7623_20.02.1_armhf
   linux-image-legacy-mvebu_20.02.1_armhf
@@ -7762,12 +7762,12 @@
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc2-current_20.02.1_arm64
   linux-u-boot-odroidc2-current_19.11.8_arm64
+  linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
-  linux-u-boot-odroidn2-current_19.11.8_arm64
+  linux-u-boot-odroidn2-legacy_20.02.5_arm64
   linux-u-boot-odroidn2-legacy_20.02.3_arm64
   linux-u-boot-odroidn2-legacy_20.02.1_arm64
-  linux-u-boot-odroidn2-legacy_19.11.8_arm64
   linux-u-boot-odroidxu4-current_20.02.1_armhf
   linux-u-boot-odroidxu4-current_19.11.6_armhf
   linux-u-boot-odroidxu4-legacy_20.02.1_armhf
@@ -7929,9 +7929,9 @@
   linux-bullseye-root-current-odroidc1_20.02.1_armhf
   linux-bullseye-root-current-odroidc2_20.02.1_arm64
   linux-bullseye-root-current-odroidc2_19.11.8_arm64
+  linux-bullseye-root-current-odroidn2_20.02.5_arm64
   linux-bullseye-root-current-odroidn2_20.02.3_arm64
   linux-bullseye-root-current-odroidn2_20.02.1_arm64
-  linux-bullseye-root-current-odroidn2_19.11.8_arm64
   linux-bullseye-root-current-odroidxu4_20.02.1_armhf
   linux-bullseye-root-current-odroidxu4_19.11.6_armhf
   linux-bullseye-root-current-orangepi-r1_20.02.1_armhf
@@ -8010,9 +8010,9 @@
   linux-bullseye-root-legacy-nanopineo4_20.02.1_arm64
   linux-bullseye-root-legacy-nanopineocore2_20.02.1_arm64
   linux-bullseye-root-legacy-nanopineoplus2_20.02.1_arm64
+  linux-bullseye-root-legacy-odroidn2_20.02.5_arm64
   linux-bullseye-root-legacy-odroidn2_20.02.3_arm64
   linux-bullseye-root-legacy-odroidn2_20.02.1_arm64
-  linux-bullseye-root-legacy-odroidn2_19.11.8_arm64
   linux-bullseye-root-legacy-odroidxu4_20.02.1_armhf
   linux-bullseye-root-legacy-odroidxu4_19.11.6_armhf
   linux-bullseye-root-legacy-orangepi-rk3399_20.02.1_arm64
@@ -8050,9 +8050,9 @@
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
   linux-dtb-current-meson_20.02.1_armhf
+  linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
   linux-dtb-current-meson64_20.02.2_arm64
-  linux-dtb-current-meson64_20.02.1_arm64
   linux-dtb-current-mvebu_20.02.1_armhf
   linux-dtb-current-mvebu64_20.02.1_arm64
   linux-dtb-current-odroidxu4_20.02.1_armhf
@@ -8066,9 +8066,9 @@
   linux-dtb-current-sunxi_20.02.1_armhf
   linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
+  linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
   linux-dtb-legacy-meson64_20.02.1_arm64
-  linux-dtb-legacy-meson64_19.11.8_arm64
   linux-dtb-legacy-mt7623_20.02.2_armhf
   linux-dtb-legacy-mt7623_20.02.1_armhf
   linux-dtb-legacy-mvebu_20.02.1_armhf
@@ -8093,9 +8093,9 @@
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
   linux-headers-current-meson_20.02.1_armhf
+  linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
   linux-headers-current-meson64_20.02.2_arm64
-  linux-headers-current-meson64_20.02.1_arm64
   linux-headers-current-mvebu_20.02.1_armhf
   linux-headers-current-mvebu64_20.02.1_arm64
   linux-headers-current-odroidxu4_20.02.1_armhf
@@ -8109,9 +8109,9 @@
   linux-headers-current-sunxi_20.02.1_armhf
   linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
+  linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
   linux-headers-legacy-meson64_20.02.1_arm64
-  linux-headers-legacy-meson64_19.11.8_arm64
   linux-headers-legacy-mt7623_20.02.2_armhf
   linux-headers-legacy-mt7623_20.02.1_armhf
   linux-headers-legacy-mvebu_20.02.1_armhf
@@ -8136,9 +8136,9 @@
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
+  linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
   linux-image-current-meson64_20.02.2_arm64
-  linux-image-current-meson64_20.02.1_arm64
   linux-image-current-mvebu_20.02.1_armhf
   linux-image-current-mvebu64_20.02.1_arm64
   linux-image-current-odroidxu4_20.02.1_armhf
@@ -8152,9 +8152,9 @@
   linux-image-current-sunxi_20.02.1_armhf
   linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
+  linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
   linux-image-legacy-meson64_20.02.1_arm64
-  linux-image-legacy-meson64_19.11.8_arm64
   linux-image-legacy-mt7623_20.02.2_armhf
   linux-image-legacy-mt7623_20.02.1_armhf
   linux-image-legacy-mvebu_20.02.1_armhf
@@ -8287,12 +8287,12 @@
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc2-current_20.02.1_arm64
   linux-u-boot-odroidc2-current_19.11.8_arm64
+  linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
-  linux-u-boot-odroidn2-current_19.11.8_arm64
+  linux-u-boot-odroidn2-legacy_20.02.5_arm64
   linux-u-boot-odroidn2-legacy_20.02.3_arm64
   linux-u-boot-odroidn2-legacy_20.02.1_arm64
-  linux-u-boot-odroidn2-legacy_19.11.8_arm64
   linux-u-boot-odroidxu4-current_20.02.1_armhf
   linux-u-boot-odroidxu4-current_19.11.6_armhf
   linux-u-boot-odroidxu4-legacy_20.02.1_armhf
