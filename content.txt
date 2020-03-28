@@ -1,7 +1,7 @@
 
+  armbian-config_20.02.8_all
   armbian-config_20.02.7_all
   armbian-config_20.02.6_all
-  armbian-config_20.02.3_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -36,9 +36,9 @@
   armbian-tools-xenial_5.60_armhf
   armbian-tools-xenial_5.58_armhf
   armbian-tools-xenial_5.44_arm64
+  armbian-xenial-desktop_20.02.8_all
   armbian-xenial-desktop_20.02.7_all
   armbian-xenial-desktop_20.02.6_all
-  armbian-xenial-desktop_20.02.5_all
   chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   hello_1.0_all
@@ -70,9 +70,9 @@
   linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.8_arm64
   linux-dtb-current-rockchip64_20.02.7_arm64
   linux-dtb-current-rockchip64_20.02.6_arm64
-  linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -219,9 +219,9 @@
   linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.8_arm64
   linux-headers-current-rockchip64_20.02.7_arm64
   linux-headers-current-rockchip64_20.02.6_arm64
-  linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
@@ -379,9 +379,9 @@
   linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.8_arm64
   linux-image-current-rockchip64_20.02.7_arm64
   linux-image-current-rockchip64_20.02.6_arm64
-  linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
@@ -689,6 +689,7 @@
   linux-source-5.4.28-current-imx6_5.4.28-current-imx6+20.02.7_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
   linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.8_all
   linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.7_all
   linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-source-5.4.28-current-sunxi64_5.4.28-current-sunxi64+20.02.7_all
@@ -951,6 +952,7 @@
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.8_arm64
   linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
@@ -1527,6 +1529,7 @@
   linux-xenial-root-current-nanopct4_19.11.3_arm64
   linux-xenial-root-current-nanopi-r1_20.02.1_armhf
   linux-xenial-root-current-nanopi-r1_19.11.3_armhf
+  linux-xenial-root-current-nanopi-r2s_20.02.8_arm64
   linux-xenial-root-current-nanopi-r2s_20.02.4_arm64
   linux-xenial-root-current-nanopiair_20.02.1_armhf
   linux-xenial-root-current-nanopiair_19.11.3_armhf
@@ -2299,18 +2302,18 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_20.02.8_all
   armbian-config_20.02.7_all
   armbian-config_20.02.6_all
-  armbian-config_20.02.3_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
   armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
+  armbian-stretch-desktop_20.02.8_all
   armbian-stretch-desktop_20.02.7_all
   armbian-stretch-desktop_20.02.6_all
-  armbian-stretch-desktop_20.02.5_all
   armbian-tools-bionic_5.75_arm64
   armbian-tools-bionic_5.75_armhf
   armbian-tools-bionic_5.63_armhf
@@ -2370,9 +2373,9 @@
   linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.8_arm64
   linux-dtb-current-rockchip64_20.02.7_arm64
   linux-dtb-current-rockchip64_20.02.6_arm64
-  linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -2519,9 +2522,9 @@
   linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.8_arm64
   linux-headers-current-rockchip64_20.02.7_arm64
   linux-headers-current-rockchip64_20.02.6_arm64
-  linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
@@ -2679,9 +2682,9 @@
   linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.8_arm64
   linux-image-current-rockchip64_20.02.7_arm64
   linux-image-current-rockchip64_20.02.6_arm64
-  linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
@@ -2989,6 +2992,7 @@
   linux-source-5.4.28-current-imx6_5.4.28-current-imx6+20.02.7_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
   linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.8_all
   linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.7_all
   linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-source-5.4.28-current-sunxi64_5.4.28-current-sunxi64+20.02.7_all
@@ -3055,6 +3059,7 @@
   linux-stretch-root-current-nanopct4_19.11.3_arm64
   linux-stretch-root-current-nanopi-r1_20.02.1_armhf
   linux-stretch-root-current-nanopi-r1_19.11.3_armhf
+  linux-stretch-root-current-nanopi-r2s_20.02.8_arm64
   linux-stretch-root-current-nanopi-r2s_20.02.4_arm64
   linux-stretch-root-current-nanopiair_20.02.1_armhf
   linux-stretch-root-current-nanopiair_19.11.3_armhf
@@ -3833,6 +3838,7 @@
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.8_arm64
   linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
@@ -4337,12 +4343,12 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.38+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
+  armbian-bionic-desktop_20.02.8_all
   armbian-bionic-desktop_20.02.7_all
   armbian-bionic-desktop_20.02.6_all
-  armbian-bionic-desktop_20.02.5_all
+  armbian-config_20.02.8_all
   armbian-config_20.02.7_all
   armbian-config_20.02.6_all
-  armbian-config_20.02.3_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -4455,6 +4461,7 @@
   linux-bionic-root-current-nanopct4_19.11.3_arm64
   linux-bionic-root-current-nanopi-r1_20.02.1_armhf
   linux-bionic-root-current-nanopi-r1_19.11.3_armhf
+  linux-bionic-root-current-nanopi-r2s_20.02.8_arm64
   linux-bionic-root-current-nanopi-r2s_20.02.4_arm64
   linux-bionic-root-current-nanopiair_20.02.1_armhf
   linux-bionic-root-current-nanopiair_19.11.3_armhf
@@ -4962,9 +4969,9 @@
   linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.8_arm64
   linux-dtb-current-rockchip64_20.02.7_arm64
   linux-dtb-current-rockchip64_20.02.6_arm64
-  linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -5111,9 +5118,9 @@
   linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.8_arm64
   linux-headers-current-rockchip64_20.02.7_arm64
   linux-headers-current-rockchip64_20.02.6_arm64
-  linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
@@ -5271,9 +5278,9 @@
   linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.8_arm64
   linux-image-current-rockchip64_20.02.7_arm64
   linux-image-current-rockchip64_20.02.6_arm64
-  linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
@@ -5581,6 +5588,7 @@
   linux-source-5.4.28-current-imx6_5.4.28-current-imx6+20.02.7_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
   linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.8_all
   linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.7_all
   linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-source-5.4.28-current-sunxi64_5.4.28-current-sunxi64+20.02.7_all
@@ -5843,6 +5851,7 @@
   linux-u-boot-nanopi-r1-next_5.90_armhf
   linux-u-boot-nanopi-r1-next_5.85_armhf
   linux-u-boot-nanopi-r1-next_5.83_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.8_arm64
   linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
@@ -6344,12 +6353,12 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
+  armbian-buster-desktop_20.02.8_all
   armbian-buster-desktop_20.02.7_all
   armbian-buster-desktop_20.02.6_all
-  armbian-buster-desktop_20.02.5_all
+  armbian-config_20.02.8_all
   armbian-config_20.02.7_all
   armbian-config_20.02.6_all
-  armbian-config_20.02.3_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -6430,6 +6439,7 @@
   linux-buster-root-current-nanopct4_19.11.3_arm64
   linux-buster-root-current-nanopi-r1_20.02.1_armhf
   linux-buster-root-current-nanopi-r1_19.11.3_armhf
+  linux-buster-root-current-nanopi-r2s_20.02.8_arm64
   linux-buster-root-current-nanopi-r2s_20.02.4_arm64
   linux-buster-root-current-nanopiair_20.02.1_armhf
   linux-buster-root-current-nanopiair_19.11.3_armhf
@@ -6842,9 +6852,9 @@
   linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.8_arm64
   linux-dtb-current-rockchip64_20.02.7_arm64
   linux-dtb-current-rockchip64_20.02.6_arm64
-  linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -6947,9 +6957,9 @@
   linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.8_arm64
   linux-headers-current-rockchip64_20.02.7_arm64
   linux-headers-current-rockchip64_20.02.6_arm64
-  linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
@@ -7052,9 +7062,9 @@
   linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.8_arm64
   linux-image-current-rockchip64_20.02.7_arm64
   linux-image-current-rockchip64_20.02.6_arm64
-  linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
@@ -7225,6 +7235,7 @@
   linux-source-5.4.28-current-imx6_5.4.28-current-imx6+20.02.7_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
   linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.8_all
   linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.7_all
   linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-source-5.4.28-current-sunxi64_5.4.28-current-sunxi64+20.02.7_all
@@ -7372,6 +7383,7 @@
   linux-u-boot-nanopi-r1-legacy_20.02.1_armhf
   linux-u-boot-nanopi-r1-legacy_19.11.3_armhf
   linux-u-boot-nanopi-r1-next_5.90_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.8_arm64
   linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-current_19.11.3_armhf
@@ -7698,18 +7710,18 @@
   hello_1.0_all
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
+  armbian-config_20.02.8_all
   armbian-config_20.02.7_all
   armbian-config_20.02.6_all
-  armbian-config_20.02.3_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
   armbian-firmware-full_20.02.4_all
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
+  armbian-focal-desktop_20.02.8_all
   armbian-focal-desktop_20.02.7_all
   armbian-focal-desktop_20.02.6_all
-  armbian-focal-desktop_20.02.5_all
   hello_1.0_all
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
@@ -7727,9 +7739,9 @@
   linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.8_arm64
   linux-dtb-current-rockchip64_20.02.7_arm64
   linux-dtb-current-rockchip64_20.02.6_arm64
-  linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -7801,6 +7813,7 @@
   linux-focal-root-current-nanopct4_20.02.7_arm64
   linux-focal-root-current-nanopct4_20.02.1_arm64
   linux-focal-root-current-nanopi-r1_20.02.1_armhf
+  linux-focal-root-current-nanopi-r2s_20.02.8_arm64
   linux-focal-root-current-nanopi-r2s_20.02.4_arm64
   linux-focal-root-current-nanopiair_20.02.1_armhf
   linux-focal-root-current-nanopiduo_20.02.1_armhf
@@ -7980,9 +7993,9 @@
   linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.8_arm64
   linux-headers-current-rockchip64_20.02.7_arm64
   linux-headers-current-rockchip64_20.02.6_arm64
-  linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
@@ -8033,9 +8046,9 @@
   linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.8_arm64
   linux-image-current-rockchip64_20.02.7_arm64
   linux-image-current-rockchip64_20.02.6_arm64
-  linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
@@ -8107,6 +8120,7 @@
   linux-source-5.4.28-current-imx6_5.4.28-current-imx6+20.02.7_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
   linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.8_all
   linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.7_all
   linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-source-5.4.28-current-sunxi64_5.4.28-current-sunxi64+20.02.7_all
@@ -8175,6 +8189,7 @@
   linux-u-boot-nanopct4-legacy_20.02.1_arm64
   linux-u-boot-nanopi-r1-current_20.02.1_armhf
   linux-u-boot-nanopi-r1-legacy_20.02.1_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.8_arm64
   linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-legacy_20.02.1_armhf
@@ -8323,12 +8338,12 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian19.11.9+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_armhf
+  armbian-bullseye-desktop_20.02.8_all
   armbian-bullseye-desktop_20.02.7_all
   armbian-bullseye-desktop_20.02.6_all
-  armbian-bullseye-desktop_20.02.5_all
+  armbian-config_20.02.8_all
   armbian-config_20.02.7_all
   armbian-config_20.02.6_all
-  armbian-config_20.02.3_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -8376,6 +8391,7 @@
   linux-bullseye-root-current-nanopct4_20.02.7_arm64
   linux-bullseye-root-current-nanopct4_20.02.1_arm64
   linux-bullseye-root-current-nanopi-r1_20.02.1_armhf
+  linux-bullseye-root-current-nanopi-r2s_20.02.8_arm64
   linux-bullseye-root-current-nanopi-r2s_20.02.4_arm64
   linux-bullseye-root-current-nanopiair_20.02.1_armhf
   linux-bullseye-root-current-nanopiduo_20.02.1_armhf
@@ -8553,9 +8569,9 @@
   linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
+  linux-dtb-current-rockchip64_20.02.8_arm64
   linux-dtb-current-rockchip64_20.02.7_arm64
   linux-dtb-current-rockchip64_20.02.6_arm64
-  linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
@@ -8606,9 +8622,9 @@
   linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
+  linux-headers-current-rockchip64_20.02.8_arm64
   linux-headers-current-rockchip64_20.02.7_arm64
   linux-headers-current-rockchip64_20.02.6_arm64
-  linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
@@ -8659,9 +8675,9 @@
   linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
+  linux-image-current-rockchip64_20.02.8_arm64
   linux-image-current-rockchip64_20.02.7_arm64
   linux-image-current-rockchip64_20.02.6_arm64
-  linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
@@ -8733,6 +8749,7 @@
   linux-source-5.4.28-current-imx6_5.4.28-current-imx6+20.02.7_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
   linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.8_all
   linux-source-5.4.28-current-rockchip64_5.4.28-current-rockchip64+20.02.7_all
   linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-source-5.4.28-current-sunxi64_5.4.28-current-sunxi64+20.02.7_all
@@ -8801,6 +8818,7 @@
   linux-u-boot-nanopct4-legacy_20.02.1_arm64
   linux-u-boot-nanopi-r1-current_20.02.1_armhf
   linux-u-boot-nanopi-r1-legacy_20.02.1_armhf
+  linux-u-boot-nanopi-r2s-current_20.02.8_arm64
   linux-u-boot-nanopi-r2s-current_20.02.4_arm64
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-legacy_20.02.1_armhf
