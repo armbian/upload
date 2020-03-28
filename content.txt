@@ -66,14 +66,15 @@
   linux-dtb-current-odroidxu4_20.02.7_armhf
   linux-dtb-current-odroidxu4_20.02.1_armhf
   linux-dtb-current-odroidxu4_19.11.6_armhf
+  linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
   linux-dtb-current-rockchip64_20.02.6_arm64
   linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-rockchip64_20.02.4_arm64
+  linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
-  linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-legacy-meson64_20.02.5_arm64
@@ -92,6 +93,7 @@
   linux-dtb-legacy-rk3399_20.02.6_arm64
   linux-dtb-legacy-rk3399_20.02.5_arm64
   linux-dtb-legacy-rk3399_20.02.1_arm64
+  linux-dtb-legacy-rockchip_20.02.7_armhf
   linux-dtb-legacy-rockchip_20.02.1_armhf
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.1_arm64
@@ -209,14 +211,15 @@
   linux-headers-current-odroidxu4_20.02.7_armhf
   linux-headers-current-odroidxu4_20.02.1_armhf
   linux-headers-current-odroidxu4_19.11.6_armhf
+  linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
   linux-headers-current-rockchip64_20.02.6_arm64
   linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-rockchip64_20.02.4_arm64
+  linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
-  linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-legacy-meson64_20.02.5_arm64
@@ -235,6 +238,7 @@
   linux-headers-legacy-rk3399_20.02.6_arm64
   linux-headers-legacy-rk3399_20.02.5_arm64
   linux-headers-legacy-rk3399_20.02.1_arm64
+  linux-headers-legacy-rockchip_20.02.7_armhf
   linux-headers-legacy-rockchip_20.02.1_armhf
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.1_arm64
@@ -363,14 +367,15 @@
   linux-image-current-odroidxu4_20.02.7_armhf
   linux-image-current-odroidxu4_20.02.1_armhf
   linux-image-current-odroidxu4_19.11.6_armhf
+  linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
   linux-image-current-rockchip64_20.02.6_arm64
   linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-rockchip64_20.02.4_arm64
+  linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
-  linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-legacy-meson64_20.02.5_arm64
@@ -389,6 +394,7 @@
   linux-image-legacy-rk3399_20.02.6_arm64
   linux-image-legacy-rk3399_20.02.5_arm64
   linux-image-legacy-rk3399_20.02.1_arm64
+  linux-image-legacy-rockchip_20.02.7_armhf
   linux-image-legacy-rockchip_20.02.1_armhf
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.1_arm64
@@ -634,6 +640,7 @@
   linux-source-4.4.207-legacy-rockpis_4.4.207-legacy-rockpis+20.02.1_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.6_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.1_all
+  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.7_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
@@ -664,6 +671,8 @@
   linux-source-5.4.20-current-sunxi64_5.4.20-current-sunxi64+20.02.1_all
   linux-source-5.4.27-current-rockchip64_5.4.27-current-rockchip64+20.02.6_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
+  linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -935,6 +944,7 @@
   linux-u-boot-nanopiduo-next_5.90_armhf
   linux-u-boot-nanopiduo-next_5.85_armhf
   linux-u-boot-nanopiduo-next_5.75_armhf
+  linux-u-boot-nanopiduo2-current_20.02.7_armhf
   linux-u-boot-nanopiduo2-current_20.02.1_armhf
   linux-u-boot-nanopiduo2-current_19.11.3_armhf
   linux-u-boot-nanopiduo2-next_5.90_armhf
@@ -1345,11 +1355,13 @@
   linux-u-boot-teres-a64-next_5.90_arm64
   linux-u-boot-teres-a64-next_5.85_arm64
   linux-u-boot-teres-a64-next_5.75_arm64
+  linux-u-boot-tinkerboard-current_20.02.7_armhf
   linux-u-boot-tinkerboard-current_20.02.1_armhf
   linux-u-boot-tinkerboard-current_19.11.8_armhf
   linux-u-boot-tinkerboard-default_5.95_armhf
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-default_5.85_armhf
+  linux-u-boot-tinkerboard-legacy_20.02.7_armhf
   linux-u-boot-tinkerboard-legacy_20.02.1_armhf
   linux-u-boot-tinkerboard-legacy_19.11.8_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
@@ -1482,6 +1494,7 @@
   linux-xenial-root-current-nanopiair_19.11.3_armhf
   linux-xenial-root-current-nanopiduo_20.02.1_armhf
   linux-xenial-root-current-nanopiduo_19.11.3_armhf
+  linux-xenial-root-current-nanopiduo2_20.02.7_armhf
   linux-xenial-root-current-nanopiduo2_20.02.1_armhf
   linux-xenial-root-current-nanopiduo2_19.11.3_armhf
   linux-xenial-root-current-nanopik1plus_20.02.1_arm64
@@ -1582,9 +1595,9 @@
   linux-xenial-root-current-rockpro64_19.11.3_arm64
   linux-xenial-root-current-teres-a64_20.02.1_arm64
   linux-xenial-root-current-teres-a64_19.11.3_arm64
+  linux-xenial-root-current-tinkerboard_20.02.7_armhf
   linux-xenial-root-current-tinkerboard_20.02.1_armhf
   linux-xenial-root-current-tinkerboard_19.11.8_armhf
-  linux-xenial-root-current-tinkerboard_19.11.3_armhf
   linux-xenial-root-current-tritium-h3_20.02.1_armhf
   linux-xenial-root-current-tritium-h3_19.11.3_armhf
   linux-xenial-root-current-tritium-h5_20.02.1_arm64
@@ -1723,9 +1736,9 @@
   linux-xenial-root-legacy-rockpi-s_20.02.5_arm64
   linux-xenial-root-legacy-rockpro64_20.02.1_arm64
   linux-xenial-root-legacy-rockpro64_19.11.3_arm64
+  linux-xenial-root-legacy-tinkerboard_20.02.7_armhf
   linux-xenial-root-legacy-tinkerboard_20.02.1_armhf
   linux-xenial-root-legacy-tinkerboard_19.11.8_armhf
-  linux-xenial-root-legacy-tinkerboard_19.11.3_armhf
   linux-xenial-root-legacy-tritium-h3_20.02.1_armhf
   linux-xenial-root-legacy-tritium-h3_19.11.3_armhf
   linux-xenial-root-legacy-tritium-h5_20.02.1_arm64
@@ -2304,14 +2317,15 @@
   linux-dtb-current-odroidxu4_20.02.7_armhf
   linux-dtb-current-odroidxu4_20.02.1_armhf
   linux-dtb-current-odroidxu4_19.11.6_armhf
+  linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
   linux-dtb-current-rockchip64_20.02.6_arm64
   linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-rockchip64_20.02.4_arm64
+  linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
-  linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-legacy-meson64_20.02.5_arm64
@@ -2330,6 +2344,7 @@
   linux-dtb-legacy-rk3399_20.02.6_arm64
   linux-dtb-legacy-rk3399_20.02.5_arm64
   linux-dtb-legacy-rk3399_20.02.1_arm64
+  linux-dtb-legacy-rockchip_20.02.7_armhf
   linux-dtb-legacy-rockchip_20.02.1_armhf
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.1_arm64
@@ -2447,14 +2462,15 @@
   linux-headers-current-odroidxu4_20.02.7_armhf
   linux-headers-current-odroidxu4_20.02.1_armhf
   linux-headers-current-odroidxu4_19.11.6_armhf
+  linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
   linux-headers-current-rockchip64_20.02.6_arm64
   linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-rockchip64_20.02.4_arm64
+  linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
-  linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-legacy-meson64_20.02.5_arm64
@@ -2473,6 +2489,7 @@
   linux-headers-legacy-rk3399_20.02.6_arm64
   linux-headers-legacy-rk3399_20.02.5_arm64
   linux-headers-legacy-rk3399_20.02.1_arm64
+  linux-headers-legacy-rockchip_20.02.7_armhf
   linux-headers-legacy-rockchip_20.02.1_armhf
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.1_arm64
@@ -2601,14 +2618,15 @@
   linux-image-current-odroidxu4_20.02.7_armhf
   linux-image-current-odroidxu4_20.02.1_armhf
   linux-image-current-odroidxu4_19.11.6_armhf
+  linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
   linux-image-current-rockchip64_20.02.6_arm64
   linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-rockchip64_20.02.4_arm64
+  linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
-  linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-legacy-meson64_20.02.5_arm64
@@ -2627,6 +2645,7 @@
   linux-image-legacy-rk3399_20.02.6_arm64
   linux-image-legacy-rk3399_20.02.5_arm64
   linux-image-legacy-rk3399_20.02.1_arm64
+  linux-image-legacy-rockchip_20.02.7_armhf
   linux-image-legacy-rockchip_20.02.1_armhf
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.1_arm64
@@ -2872,6 +2891,7 @@
   linux-source-4.4.207-legacy-rockpis_4.4.207-legacy-rockpis+20.02.1_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.6_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.1_all
+  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.7_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
@@ -2902,6 +2922,8 @@
   linux-source-5.4.20-current-sunxi64_5.4.20-current-sunxi64+20.02.1_all
   linux-source-5.4.27-current-rockchip64_5.4.27-current-rockchip64+20.02.6_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
+  linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-stretch-root-clearfogbase_5.91_armhf
   linux-stretch-root-clearfogbase_5.90_armhf
   linux-stretch-root-clearfogbase_5.85_armhf
@@ -2966,6 +2988,7 @@
   linux-stretch-root-current-nanopiair_19.11.3_armhf
   linux-stretch-root-current-nanopiduo_20.02.1_armhf
   linux-stretch-root-current-nanopiduo_19.11.3_armhf
+  linux-stretch-root-current-nanopiduo2_20.02.7_armhf
   linux-stretch-root-current-nanopiduo2_20.02.1_armhf
   linux-stretch-root-current-nanopiduo2_19.11.3_armhf
   linux-stretch-root-current-nanopik1plus_20.02.1_arm64
@@ -3066,9 +3089,9 @@
   linux-stretch-root-current-rockpro64_19.11.3_arm64
   linux-stretch-root-current-teres-a64_20.02.1_arm64
   linux-stretch-root-current-teres-a64_19.11.3_arm64
+  linux-stretch-root-current-tinkerboard_20.02.7_armhf
   linux-stretch-root-current-tinkerboard_20.02.1_armhf
   linux-stretch-root-current-tinkerboard_19.11.8_armhf
-  linux-stretch-root-current-tinkerboard_19.11.3_armhf
   linux-stretch-root-current-tritium-h3_20.02.1_armhf
   linux-stretch-root-current-tritium-h3_19.11.3_armhf
   linux-stretch-root-current-tritium-h5_20.02.1_arm64
@@ -3202,9 +3225,9 @@
   linux-stretch-root-legacy-rockpi-s_20.02.5_arm64
   linux-stretch-root-legacy-rockpro64_20.02.1_arm64
   linux-stretch-root-legacy-rockpro64_19.11.3_arm64
+  linux-stretch-root-legacy-tinkerboard_20.02.7_armhf
   linux-stretch-root-legacy-tinkerboard_20.02.1_armhf
   linux-stretch-root-legacy-tinkerboard_19.11.8_armhf
-  linux-stretch-root-legacy-tinkerboard_19.11.3_armhf
   linux-stretch-root-legacy-tritium-h3_20.02.1_armhf
   linux-stretch-root-legacy-tritium-h3_19.11.3_armhf
   linux-stretch-root-legacy-tritium-h5_20.02.1_arm64
@@ -3739,6 +3762,7 @@
   linux-u-boot-nanopiduo-next_5.90_armhf
   linux-u-boot-nanopiduo-next_5.85_armhf
   linux-u-boot-nanopiduo-next_5.75_armhf
+  linux-u-boot-nanopiduo2-current_20.02.7_armhf
   linux-u-boot-nanopiduo2-current_20.02.1_armhf
   linux-u-boot-nanopiduo2-current_19.11.3_armhf
   linux-u-boot-nanopiduo2-next_5.90_armhf
@@ -4149,11 +4173,13 @@
   linux-u-boot-teres-a64-next_5.90_arm64
   linux-u-boot-teres-a64-next_5.85_arm64
   linux-u-boot-teres-a64-next_5.75_arm64
+  linux-u-boot-tinkerboard-current_20.02.7_armhf
   linux-u-boot-tinkerboard-current_20.02.1_armhf
   linux-u-boot-tinkerboard-current_19.11.8_armhf
   linux-u-boot-tinkerboard-default_5.95_armhf
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-default_5.85_armhf
+  linux-u-boot-tinkerboard-legacy_20.02.7_armhf
   linux-u-boot-tinkerboard-legacy_20.02.1_armhf
   linux-u-boot-tinkerboard-legacy_19.11.8_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
@@ -4332,6 +4358,7 @@
   linux-bionic-root-current-nanopiair_19.11.3_armhf
   linux-bionic-root-current-nanopiduo_20.02.1_armhf
   linux-bionic-root-current-nanopiduo_19.11.3_armhf
+  linux-bionic-root-current-nanopiduo2_20.02.7_armhf
   linux-bionic-root-current-nanopiduo2_20.02.1_armhf
   linux-bionic-root-current-nanopiduo2_19.11.3_armhf
   linux-bionic-root-current-nanopik1plus_20.02.1_arm64
@@ -4432,6 +4459,7 @@
   linux-bionic-root-current-rockpro64_19.11.3_arm64
   linux-bionic-root-current-teres-a64_20.02.1_arm64
   linux-bionic-root-current-teres-a64_19.11.3_arm64
+  linux-bionic-root-current-tinkerboard_20.02.7_armhf
   linux-bionic-root-current-tinkerboard_20.02.1_armhf
   linux-bionic-root-current-tinkerboard_19.11.8_armhf
   linux-bionic-root-current-tritium-h3_20.02.1_armhf
@@ -4570,6 +4598,7 @@
   linux-bionic-root-legacy-rockpi-s_20.02.5_arm64
   linux-bionic-root-legacy-rockpro64_20.02.1_arm64
   linux-bionic-root-legacy-rockpro64_19.11.3_arm64
+  linux-bionic-root-legacy-tinkerboard_20.02.7_armhf
   linux-bionic-root-legacy-tinkerboard_20.02.1_armhf
   linux-bionic-root-legacy-tinkerboard_19.11.8_armhf
   linux-bionic-root-legacy-tritium-h3_20.02.1_armhf
@@ -4816,14 +4845,15 @@
   linux-dtb-current-odroidxu4_20.02.7_armhf
   linux-dtb-current-odroidxu4_20.02.1_armhf
   linux-dtb-current-odroidxu4_19.11.6_armhf
+  linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
   linux-dtb-current-rockchip64_20.02.6_arm64
   linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-rockchip64_20.02.4_arm64
+  linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
-  linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-legacy-meson64_20.02.5_arm64
@@ -4842,6 +4872,7 @@
   linux-dtb-legacy-rk3399_20.02.6_arm64
   linux-dtb-legacy-rk3399_20.02.5_arm64
   linux-dtb-legacy-rk3399_20.02.1_arm64
+  linux-dtb-legacy-rockchip_20.02.7_armhf
   linux-dtb-legacy-rockchip_20.02.1_armhf
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.1_arm64
@@ -4959,14 +4990,15 @@
   linux-headers-current-odroidxu4_20.02.7_armhf
   linux-headers-current-odroidxu4_20.02.1_armhf
   linux-headers-current-odroidxu4_19.11.6_armhf
+  linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
   linux-headers-current-rockchip64_20.02.6_arm64
   linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-rockchip64_20.02.4_arm64
+  linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
-  linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-legacy-meson64_20.02.5_arm64
@@ -4985,6 +5017,7 @@
   linux-headers-legacy-rk3399_20.02.6_arm64
   linux-headers-legacy-rk3399_20.02.5_arm64
   linux-headers-legacy-rk3399_20.02.1_arm64
+  linux-headers-legacy-rockchip_20.02.7_armhf
   linux-headers-legacy-rockchip_20.02.1_armhf
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.1_arm64
@@ -5113,14 +5146,15 @@
   linux-image-current-odroidxu4_20.02.7_armhf
   linux-image-current-odroidxu4_20.02.1_armhf
   linux-image-current-odroidxu4_19.11.6_armhf
+  linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
   linux-image-current-rockchip64_20.02.6_arm64
   linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-rockchip64_20.02.4_arm64
+  linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
-  linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-legacy-meson64_20.02.5_arm64
@@ -5139,6 +5173,7 @@
   linux-image-legacy-rk3399_20.02.6_arm64
   linux-image-legacy-rk3399_20.02.5_arm64
   linux-image-legacy-rk3399_20.02.1_arm64
+  linux-image-legacy-rockchip_20.02.7_armhf
   linux-image-legacy-rockchip_20.02.1_armhf
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.1_arm64
@@ -5384,6 +5419,7 @@
   linux-source-4.4.207-legacy-rockpis_4.4.207-legacy-rockpis+20.02.1_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.6_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.1_all
+  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.7_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
@@ -5414,6 +5450,8 @@
   linux-source-5.4.20-current-sunxi64_5.4.20-current-sunxi64+20.02.1_all
   linux-source-5.4.27-current-rockchip64_5.4.27-current-rockchip64+20.02.6_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
+  linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -5685,6 +5723,7 @@
   linux-u-boot-nanopiduo-next_5.90_armhf
   linux-u-boot-nanopiduo-next_5.85_armhf
   linux-u-boot-nanopiduo-next_5.75_armhf
+  linux-u-boot-nanopiduo2-current_20.02.7_armhf
   linux-u-boot-nanopiduo2-current_20.02.1_armhf
   linux-u-boot-nanopiduo2-current_19.11.3_armhf
   linux-u-boot-nanopiduo2-next_5.90_armhf
@@ -6095,11 +6134,13 @@
   linux-u-boot-teres-a64-next_5.90_arm64
   linux-u-boot-teres-a64-next_5.85_arm64
   linux-u-boot-teres-a64-next_5.75_arm64
+  linux-u-boot-tinkerboard-current_20.02.7_armhf
   linux-u-boot-tinkerboard-current_20.02.1_armhf
   linux-u-boot-tinkerboard-current_19.11.8_armhf
   linux-u-boot-tinkerboard-default_5.95_armhf
   linux-u-boot-tinkerboard-default_5.90_armhf
   linux-u-boot-tinkerboard-default_5.85_armhf
+  linux-u-boot-tinkerboard-legacy_20.02.7_armhf
   linux-u-boot-tinkerboard-legacy_20.02.1_armhf
   linux-u-boot-tinkerboard-legacy_19.11.8_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
@@ -6243,6 +6284,7 @@
   linux-buster-root-current-nanopiair_19.11.3_armhf
   linux-buster-root-current-nanopiduo_20.02.1_armhf
   linux-buster-root-current-nanopiduo_19.11.3_armhf
+  linux-buster-root-current-nanopiduo2_20.02.7_armhf
   linux-buster-root-current-nanopiduo2_20.02.1_armhf
   linux-buster-root-current-nanopiduo2_19.11.3_armhf
   linux-buster-root-current-nanopik1plus_20.02.1_arm64
@@ -6344,6 +6386,7 @@
   linux-buster-root-current-rockpro64_19.11.3_arm64
   linux-buster-root-current-teres-a64_20.02.1_arm64
   linux-buster-root-current-teres-a64_19.11.3_arm64
+  linux-buster-root-current-tinkerboard_20.02.7_armhf
   linux-buster-root-current-tinkerboard_20.02.1_armhf
   linux-buster-root-current-tinkerboard_19.11.8_armhf
   linux-buster-root-current-tritium-h3_20.02.1_armhf
@@ -6478,6 +6521,7 @@
   linux-buster-root-legacy-rockpi-s_20.02.5_arm64
   linux-buster-root-legacy-rockpro64_20.02.1_arm64
   linux-buster-root-legacy-rockpro64_19.11.3_arm64
+  linux-buster-root-legacy-tinkerboard_20.02.7_armhf
   linux-buster-root-legacy-tinkerboard_20.02.1_armhf
   linux-buster-root-legacy-tinkerboard_19.11.8_armhf
   linux-buster-root-legacy-tritium-h3_20.02.1_armhf
@@ -6632,14 +6676,15 @@
   linux-dtb-current-odroidxu4_20.02.7_armhf
   linux-dtb-current-odroidxu4_20.02.1_armhf
   linux-dtb-current-odroidxu4_19.11.6_armhf
+  linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
   linux-dtb-current-rockchip64_20.02.6_arm64
   linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-rockchip64_20.02.4_arm64
+  linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
-  linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-legacy-meson64_20.02.5_arm64
@@ -6658,6 +6703,7 @@
   linux-dtb-legacy-rk3399_20.02.6_arm64
   linux-dtb-legacy-rk3399_20.02.5_arm64
   linux-dtb-legacy-rk3399_20.02.1_arm64
+  linux-dtb-legacy-rockchip_20.02.7_armhf
   linux-dtb-legacy-rockchip_20.02.1_armhf
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.1_arm64
@@ -6731,14 +6777,15 @@
   linux-headers-current-odroidxu4_20.02.7_armhf
   linux-headers-current-odroidxu4_20.02.1_armhf
   linux-headers-current-odroidxu4_19.11.6_armhf
+  linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
   linux-headers-current-rockchip64_20.02.6_arm64
   linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-rockchip64_20.02.4_arm64
+  linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
-  linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-legacy-meson64_20.02.5_arm64
@@ -6757,6 +6804,7 @@
   linux-headers-legacy-rk3399_20.02.6_arm64
   linux-headers-legacy-rk3399_20.02.5_arm64
   linux-headers-legacy-rk3399_20.02.1_arm64
+  linux-headers-legacy-rockchip_20.02.7_armhf
   linux-headers-legacy-rockchip_20.02.1_armhf
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.1_arm64
@@ -6830,14 +6878,15 @@
   linux-image-current-odroidxu4_20.02.7_armhf
   linux-image-current-odroidxu4_20.02.1_armhf
   linux-image-current-odroidxu4_19.11.6_armhf
+  linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
   linux-image-current-rockchip64_20.02.6_arm64
   linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-rockchip64_20.02.4_arm64
+  linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
-  linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-legacy-meson64_20.02.5_arm64
@@ -6856,6 +6905,7 @@
   linux-image-legacy-rk3399_20.02.6_arm64
   linux-image-legacy-rk3399_20.02.5_arm64
   linux-image-legacy-rk3399_20.02.1_arm64
+  linux-image-legacy-rockchip_20.02.7_armhf
   linux-image-legacy-rockchip_20.02.1_armhf
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.1_arm64
@@ -6966,6 +7016,7 @@
   linux-source-4.4.207-legacy-rockpis_4.4.207-legacy-rockpis+20.02.1_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.6_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.1_all
+  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.7_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
@@ -6994,6 +7045,8 @@
   linux-source-5.4.20-current-sunxi64_5.4.20-current-sunxi64+20.02.1_all
   linux-source-5.4.27-current-rockchip64_5.4.27-current-rockchip64+20.02.6_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
+  linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
   linux-u-boot-bananapi-current_19.11.3_armhf
@@ -7142,6 +7195,7 @@
   linux-u-boot-nanopiduo-current_19.11.3_armhf
   linux-u-boot-nanopiduo-default_5.90_armhf
   linux-u-boot-nanopiduo-next_5.90_armhf
+  linux-u-boot-nanopiduo2-current_20.02.7_armhf
   linux-u-boot-nanopiduo2-current_20.02.1_armhf
   linux-u-boot-nanopiduo2-current_19.11.3_armhf
   linux-u-boot-nanopiduo2-next_5.90_armhf
@@ -7402,10 +7456,12 @@
   linux-u-boot-teres-a64-current_20.02.1_arm64
   linux-u-boot-teres-a64-current_19.11.3_arm64
   linux-u-boot-teres-a64-next_5.90_arm64
+  linux-u-boot-tinkerboard-current_20.02.7_armhf
   linux-u-boot-tinkerboard-current_20.02.1_armhf
   linux-u-boot-tinkerboard-current_19.11.8_armhf
   linux-u-boot-tinkerboard-default_5.95_armhf
   linux-u-boot-tinkerboard-default_5.90_armhf
+  linux-u-boot-tinkerboard-legacy_20.02.7_armhf
   linux-u-boot-tinkerboard-legacy_20.02.1_armhf
   linux-u-boot-tinkerboard-legacy_19.11.8_armhf
   linux-u-boot-tinkerboard-next_5.95_armhf
@@ -7470,14 +7526,15 @@
   linux-dtb-current-odroidxu4_20.02.7_armhf
   linux-dtb-current-odroidxu4_20.02.1_armhf
   linux-dtb-current-odroidxu4_19.11.6_armhf
+  linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
   linux-dtb-current-rockchip64_20.02.6_arm64
   linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-rockchip64_20.02.4_arm64
+  linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
-  linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
@@ -7492,6 +7549,7 @@
   linux-dtb-legacy-rk3399_20.02.6_arm64
   linux-dtb-legacy-rk3399_20.02.5_arm64
   linux-dtb-legacy-rk3399_20.02.1_arm64
+  linux-dtb-legacy-rockchip_20.02.7_armhf
   linux-dtb-legacy-rockchip_20.02.1_armhf
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.1_arm64
@@ -7540,6 +7598,7 @@
   linux-focal-root-current-nanopi-r2s_20.02.4_arm64
   linux-focal-root-current-nanopiair_20.02.1_armhf
   linux-focal-root-current-nanopiduo_20.02.1_armhf
+  linux-focal-root-current-nanopiduo2_20.02.7_armhf
   linux-focal-root-current-nanopiduo2_20.02.1_armhf
   linux-focal-root-current-nanopik1plus_20.02.1_arm64
   linux-focal-root-current-nanopik2-s905_20.02.3_arm64
@@ -7598,6 +7657,7 @@
   linux-focal-root-current-rockpi-4b_20.02.1_arm64
   linux-focal-root-current-rockpro64_20.02.1_arm64
   linux-focal-root-current-teres-a64_20.02.1_arm64
+  linux-focal-root-current-tinkerboard_20.02.7_armhf
   linux-focal-root-current-tinkerboard_20.02.1_armhf
   linux-focal-root-current-tinkerboard_19.11.8_armhf
   linux-focal-root-current-tritium-h3_20.02.1_armhf
@@ -7677,6 +7737,7 @@
   linux-focal-root-legacy-rockpi-s_20.02.6_arm64
   linux-focal-root-legacy-rockpi-s_20.02.5_arm64
   linux-focal-root-legacy-rockpro64_20.02.1_arm64
+  linux-focal-root-legacy-tinkerboard_20.02.7_armhf
   linux-focal-root-legacy-tinkerboard_20.02.1_armhf
   linux-focal-root-legacy-tinkerboard_19.11.8_armhf
   linux-focal-root-legacy-tritium-h3_20.02.1_armhf
@@ -7697,14 +7758,15 @@
   linux-headers-current-odroidxu4_20.02.7_armhf
   linux-headers-current-odroidxu4_20.02.1_armhf
   linux-headers-current-odroidxu4_19.11.6_armhf
+  linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
   linux-headers-current-rockchip64_20.02.6_arm64
   linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-rockchip64_20.02.4_arm64
+  linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
-  linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
@@ -7719,6 +7781,7 @@
   linux-headers-legacy-rk3399_20.02.6_arm64
   linux-headers-legacy-rk3399_20.02.5_arm64
   linux-headers-legacy-rk3399_20.02.1_arm64
+  linux-headers-legacy-rockchip_20.02.7_armhf
   linux-headers-legacy-rockchip_20.02.1_armhf
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.1_arm64
@@ -7743,14 +7806,15 @@
   linux-image-current-odroidxu4_20.02.7_armhf
   linux-image-current-odroidxu4_20.02.1_armhf
   linux-image-current-odroidxu4_19.11.6_armhf
+  linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
   linux-image-current-rockchip64_20.02.6_arm64
   linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-rockchip64_20.02.4_arm64
+  linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
-  linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
@@ -7765,6 +7829,7 @@
   linux-image-legacy-rk3399_20.02.6_arm64
   linux-image-legacy-rk3399_20.02.5_arm64
   linux-image-legacy-rk3399_20.02.1_arm64
+  linux-image-legacy-rockchip_20.02.7_armhf
   linux-image-legacy-rockchip_20.02.1_armhf
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.1_arm64
@@ -7793,6 +7858,7 @@
   linux-source-4.4.207-legacy-rockpis_4.4.207-legacy-rockpis+20.02.1_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.6_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.1_all
+  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.7_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
@@ -7808,6 +7874,8 @@
   linux-source-5.4.20-current-sunxi64_5.4.20-current-sunxi64+20.02.1_all
   linux-source-5.4.27-current-rockchip64_5.4.27-current-rockchip64+20.02.6_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
+  linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
   linux-u-boot-bananapi-current_19.11.3_armhf
@@ -7869,6 +7937,7 @@
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-legacy_20.02.1_armhf
   linux-u-boot-nanopiduo-current_20.02.1_armhf
+  linux-u-boot-nanopiduo2-current_20.02.7_armhf
   linux-u-boot-nanopiduo2-current_20.02.1_armhf
   linux-u-boot-nanopifire3-legacy_20.02.7_arm64
   linux-u-boot-nanopifire3-legacy_20.02.1_arm64
@@ -7972,8 +8041,10 @@
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-legacy_20.02.1_arm64
   linux-u-boot-teres-a64-current_20.02.1_arm64
+  linux-u-boot-tinkerboard-current_20.02.7_armhf
   linux-u-boot-tinkerboard-current_20.02.1_armhf
   linux-u-boot-tinkerboard-current_19.11.8_armhf
+  linux-u-boot-tinkerboard-legacy_20.02.7_armhf
   linux-u-boot-tinkerboard-legacy_20.02.1_armhf
   linux-u-boot-tinkerboard-legacy_19.11.8_armhf
   linux-u-boot-tritium-h3-current_20.02.1_armhf
@@ -8053,6 +8124,7 @@
   linux-bullseye-root-current-nanopi-r2s_20.02.4_arm64
   linux-bullseye-root-current-nanopiair_20.02.1_armhf
   linux-bullseye-root-current-nanopiduo_20.02.1_armhf
+  linux-bullseye-root-current-nanopiduo2_20.02.7_armhf
   linux-bullseye-root-current-nanopiduo2_20.02.1_armhf
   linux-bullseye-root-current-nanopik1plus_20.02.1_arm64
   linux-bullseye-root-current-nanopik2-s905_20.02.3_arm64
@@ -8111,6 +8183,7 @@
   linux-bullseye-root-current-rockpi-4b_20.02.1_arm64
   linux-bullseye-root-current-rockpro64_20.02.1_arm64
   linux-bullseye-root-current-teres-a64_20.02.1_arm64
+  linux-bullseye-root-current-tinkerboard_20.02.7_armhf
   linux-bullseye-root-current-tinkerboard_20.02.1_armhf
   linux-bullseye-root-current-tinkerboard_19.11.8_armhf
   linux-bullseye-root-current-tritium-h3_20.02.1_armhf
@@ -8190,6 +8263,7 @@
   linux-bullseye-root-legacy-rockpi-s_20.02.6_arm64
   linux-bullseye-root-legacy-rockpi-s_20.02.5_arm64
   linux-bullseye-root-legacy-rockpro64_20.02.1_arm64
+  linux-bullseye-root-legacy-tinkerboard_20.02.7_armhf
   linux-bullseye-root-legacy-tinkerboard_20.02.1_armhf
   linux-bullseye-root-legacy-tinkerboard_19.11.8_armhf
   linux-bullseye-root-legacy-tritium-h3_20.02.1_armhf
@@ -8208,14 +8282,15 @@
   linux-dtb-current-odroidxu4_20.02.7_armhf
   linux-dtb-current-odroidxu4_20.02.1_armhf
   linux-dtb-current-odroidxu4_19.11.6_armhf
+  linux-dtb-current-rockchip_20.02.7_armhf
   linux-dtb-current-rockchip_20.02.1_armhf
   linux-dtb-current-rockchip_19.11.8_armhf
   linux-dtb-current-rockchip64_20.02.6_arm64
   linux-dtb-current-rockchip64_20.02.5_arm64
   linux-dtb-current-rockchip64_20.02.4_arm64
+  linux-dtb-current-sunxi_20.02.7_armhf
   linux-dtb-current-sunxi_20.02.5_armhf
   linux-dtb-current-sunxi_20.02.1_armhf
-  linux-dtb-current-sunxi_19.11.3_armhf
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-legacy-meson64_20.02.5_arm64
   linux-dtb-legacy-meson64_20.02.3_arm64
@@ -8230,6 +8305,7 @@
   linux-dtb-legacy-rk3399_20.02.6_arm64
   linux-dtb-legacy-rk3399_20.02.5_arm64
   linux-dtb-legacy-rk3399_20.02.1_arm64
+  linux-dtb-legacy-rockchip_20.02.7_armhf
   linux-dtb-legacy-rockchip_20.02.1_armhf
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.1_arm64
@@ -8254,14 +8330,15 @@
   linux-headers-current-odroidxu4_20.02.7_armhf
   linux-headers-current-odroidxu4_20.02.1_armhf
   linux-headers-current-odroidxu4_19.11.6_armhf
+  linux-headers-current-rockchip_20.02.7_armhf
   linux-headers-current-rockchip_20.02.1_armhf
   linux-headers-current-rockchip_19.11.8_armhf
   linux-headers-current-rockchip64_20.02.6_arm64
   linux-headers-current-rockchip64_20.02.5_arm64
   linux-headers-current-rockchip64_20.02.4_arm64
+  linux-headers-current-sunxi_20.02.7_armhf
   linux-headers-current-sunxi_20.02.5_armhf
   linux-headers-current-sunxi_20.02.1_armhf
-  linux-headers-current-sunxi_19.11.3_armhf
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-legacy-meson64_20.02.5_arm64
   linux-headers-legacy-meson64_20.02.3_arm64
@@ -8276,6 +8353,7 @@
   linux-headers-legacy-rk3399_20.02.6_arm64
   linux-headers-legacy-rk3399_20.02.5_arm64
   linux-headers-legacy-rk3399_20.02.1_arm64
+  linux-headers-legacy-rockchip_20.02.7_armhf
   linux-headers-legacy-rockchip_20.02.1_armhf
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.1_arm64
@@ -8300,14 +8378,15 @@
   linux-image-current-odroidxu4_20.02.7_armhf
   linux-image-current-odroidxu4_20.02.1_armhf
   linux-image-current-odroidxu4_19.11.6_armhf
+  linux-image-current-rockchip_20.02.7_armhf
   linux-image-current-rockchip_20.02.1_armhf
   linux-image-current-rockchip_19.11.8_armhf
   linux-image-current-rockchip64_20.02.6_arm64
   linux-image-current-rockchip64_20.02.5_arm64
   linux-image-current-rockchip64_20.02.4_arm64
+  linux-image-current-sunxi_20.02.7_armhf
   linux-image-current-sunxi_20.02.5_armhf
   linux-image-current-sunxi_20.02.1_armhf
-  linux-image-current-sunxi_19.11.3_armhf
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-legacy-meson64_20.02.5_arm64
   linux-image-legacy-meson64_20.02.3_arm64
@@ -8322,6 +8401,7 @@
   linux-image-legacy-rk3399_20.02.6_arm64
   linux-image-legacy-rk3399_20.02.5_arm64
   linux-image-legacy-rk3399_20.02.1_arm64
+  linux-image-legacy-rockchip_20.02.7_armhf
   linux-image-legacy-rockchip_20.02.1_armhf
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.1_arm64
@@ -8350,6 +8430,7 @@
   linux-source-4.4.207-legacy-rockpis_4.4.207-legacy-rockpis+20.02.1_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.6_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.02.1_all
+  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.7_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
@@ -8365,6 +8446,8 @@
   linux-source-5.4.20-current-sunxi64_5.4.20-current-sunxi64+20.02.1_all
   linux-source-5.4.27-current-rockchip64_5.4.27-current-rockchip64+20.02.6_all
   linux-source-5.4.28-current-odroidxu4_5.4.28-current-odroidxu4+20.02.7_all
+  linux-source-5.4.28-current-rockchip_5.4.28-current-rockchip+20.02.7_all
+  linux-source-5.4.28-current-sunxi_5.4.28-current-sunxi+20.02.7_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
   linux-u-boot-bananapi-current_19.11.3_armhf
@@ -8426,6 +8509,7 @@
   linux-u-boot-nanopiair-current_20.02.1_armhf
   linux-u-boot-nanopiair-legacy_20.02.1_armhf
   linux-u-boot-nanopiduo-current_20.02.1_armhf
+  linux-u-boot-nanopiduo2-current_20.02.7_armhf
   linux-u-boot-nanopiduo2-current_20.02.1_armhf
   linux-u-boot-nanopifire3-legacy_20.02.7_arm64
   linux-u-boot-nanopifire3-legacy_20.02.1_arm64
@@ -8529,8 +8613,10 @@
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-legacy_20.02.1_arm64
   linux-u-boot-teres-a64-current_20.02.1_arm64
+  linux-u-boot-tinkerboard-current_20.02.7_armhf
   linux-u-boot-tinkerboard-current_20.02.1_armhf
   linux-u-boot-tinkerboard-current_19.11.8_armhf
+  linux-u-boot-tinkerboard-legacy_20.02.7_armhf
   linux-u-boot-tinkerboard-legacy_20.02.1_armhf
   linux-u-boot-tinkerboard-legacy_19.11.8_armhf
   linux-u-boot-tritium-h3-current_20.02.1_armhf
