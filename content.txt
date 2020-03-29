@@ -102,9 +102,9 @@
   linux-dtb-legacy-rockchip64_20.02.7_arm64
   linux-dtb-legacy-rockchip64_20.02.1_arm64
   linux-dtb-legacy-rockchip64_19.11.3_arm64
+  linux-dtb-legacy-rockpis_20.02.8_arm64
   linux-dtb-legacy-rockpis_20.02.7_arm64
   linux-dtb-legacy-rockpis_20.02.6_arm64
-  linux-dtb-legacy-rockpis_20.02.5_arm64
   linux-dtb-legacy-s5p6818_20.02.7_arm64
   linux-dtb-legacy-s5p6818_20.02.1_arm64
   linux-dtb-legacy-s5p6818_19.11.3_arm64
@@ -251,9 +251,9 @@
   linux-headers-legacy-rockchip64_20.02.7_arm64
   linux-headers-legacy-rockchip64_20.02.1_arm64
   linux-headers-legacy-rockchip64_19.11.3_arm64
+  linux-headers-legacy-rockpis_20.02.8_arm64
   linux-headers-legacy-rockpis_20.02.7_arm64
   linux-headers-legacy-rockpis_20.02.6_arm64
-  linux-headers-legacy-rockpis_20.02.5_arm64
   linux-headers-legacy-s5p6818_20.02.7_arm64
   linux-headers-legacy-s5p6818_20.02.1_arm64
   linux-headers-legacy-s5p6818_19.11.3_arm64
@@ -411,9 +411,9 @@
   linux-image-legacy-rockchip64_20.02.7_arm64
   linux-image-legacy-rockchip64_20.02.1_arm64
   linux-image-legacy-rockchip64_19.11.3_arm64
+  linux-image-legacy-rockpis_20.02.8_arm64
   linux-image-legacy-rockpis_20.02.7_arm64
   linux-image-legacy-rockpis_20.02.6_arm64
-  linux-image-legacy-rockpis_20.02.5_arm64
   linux-image-legacy-rockpis-dbg_19.11.3_arm64
   linux-image-legacy-s5p6818_20.02.7_arm64
   linux-image-legacy-s5p6818_20.02.1_arm64
@@ -659,6 +659,7 @@
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.7_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
+  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.8_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.6_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
@@ -1373,9 +1374,9 @@
   linux-u-boot-rockpi-4b-legacy_20.02.7_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.1_arm64
   linux-u-boot-rockpi-4b-legacy_19.11.3_arm64
+  linux-u-boot-rockpi-s-legacy_20.02.8_arm64
   linux-u-boot-rockpi-s-legacy_20.02.7_arm64
   linux-u-boot-rockpi-s-legacy_20.02.6_arm64
-  linux-u-boot-rockpi-s-legacy_20.02.5_arm64
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-current_19.11.3_arm64
   linux-u-boot-rockpro64-default_5.98_arm64
@@ -1783,9 +1784,9 @@
   linux-xenial-root-legacy-rockpi-4b_20.02.7_arm64
   linux-xenial-root-legacy-rockpi-4b_20.02.1_arm64
   linux-xenial-root-legacy-rockpi-4b_19.11.3_arm64
+  linux-xenial-root-legacy-rockpi-s_20.02.8_arm64
   linux-xenial-root-legacy-rockpi-s_20.02.7_arm64
   linux-xenial-root-legacy-rockpi-s_20.02.6_arm64
-  linux-xenial-root-legacy-rockpi-s_20.02.5_arm64
   linux-xenial-root-legacy-rockpro64_20.02.1_arm64
   linux-xenial-root-legacy-rockpro64_19.11.3_arm64
   linux-xenial-root-legacy-tinkerboard_20.02.7_armhf
@@ -2405,9 +2406,9 @@
   linux-dtb-legacy-rockchip64_20.02.7_arm64
   linux-dtb-legacy-rockchip64_20.02.1_arm64
   linux-dtb-legacy-rockchip64_19.11.3_arm64
+  linux-dtb-legacy-rockpis_20.02.8_arm64
   linux-dtb-legacy-rockpis_20.02.7_arm64
   linux-dtb-legacy-rockpis_20.02.6_arm64
-  linux-dtb-legacy-rockpis_20.02.5_arm64
   linux-dtb-legacy-s5p6818_20.02.7_arm64
   linux-dtb-legacy-s5p6818_20.02.1_arm64
   linux-dtb-legacy-s5p6818_19.11.3_arm64
@@ -2554,9 +2555,9 @@
   linux-headers-legacy-rockchip64_20.02.7_arm64
   linux-headers-legacy-rockchip64_20.02.1_arm64
   linux-headers-legacy-rockchip64_19.11.3_arm64
+  linux-headers-legacy-rockpis_20.02.8_arm64
   linux-headers-legacy-rockpis_20.02.7_arm64
   linux-headers-legacy-rockpis_20.02.6_arm64
-  linux-headers-legacy-rockpis_20.02.5_arm64
   linux-headers-legacy-s5p6818_20.02.7_arm64
   linux-headers-legacy-s5p6818_20.02.1_arm64
   linux-headers-legacy-s5p6818_19.11.3_arm64
@@ -2714,9 +2715,9 @@
   linux-image-legacy-rockchip64_20.02.7_arm64
   linux-image-legacy-rockchip64_20.02.1_arm64
   linux-image-legacy-rockchip64_19.11.3_arm64
+  linux-image-legacy-rockpis_20.02.8_arm64
   linux-image-legacy-rockpis_20.02.7_arm64
   linux-image-legacy-rockpis_20.02.6_arm64
-  linux-image-legacy-rockpis_20.02.5_arm64
   linux-image-legacy-rockpis-dbg_19.11.3_arm64
   linux-image-legacy-s5p6818_20.02.7_arm64
   linux-image-legacy-s5p6818_20.02.1_arm64
@@ -2962,6 +2963,7 @@
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.7_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
+  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.8_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.6_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
@@ -3308,9 +3310,9 @@
   linux-stretch-root-legacy-rockpi-4b_20.02.7_arm64
   linux-stretch-root-legacy-rockpi-4b_20.02.1_arm64
   linux-stretch-root-legacy-rockpi-4b_19.11.3_arm64
+  linux-stretch-root-legacy-rockpi-s_20.02.8_arm64
   linux-stretch-root-legacy-rockpi-s_20.02.7_arm64
   linux-stretch-root-legacy-rockpi-s_20.02.6_arm64
-  linux-stretch-root-legacy-rockpi-s_20.02.5_arm64
   linux-stretch-root-legacy-rockpro64_20.02.1_arm64
   linux-stretch-root-legacy-rockpro64_19.11.3_arm64
   linux-stretch-root-legacy-tinkerboard_20.02.7_armhf
@@ -4259,9 +4261,9 @@
   linux-u-boot-rockpi-4b-legacy_20.02.7_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.1_arm64
   linux-u-boot-rockpi-4b-legacy_19.11.3_arm64
+  linux-u-boot-rockpi-s-legacy_20.02.8_arm64
   linux-u-boot-rockpi-s-legacy_20.02.7_arm64
   linux-u-boot-rockpi-s-legacy_20.02.6_arm64
-  linux-u-boot-rockpi-s-legacy_20.02.5_arm64
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-current_19.11.3_arm64
   linux-u-boot-rockpro64-default_5.98_arm64
@@ -4713,9 +4715,9 @@
   linux-bionic-root-legacy-rockpi-4b_20.02.7_arm64
   linux-bionic-root-legacy-rockpi-4b_20.02.1_arm64
   linux-bionic-root-legacy-rockpi-4b_19.11.3_arm64
+  linux-bionic-root-legacy-rockpi-s_20.02.8_arm64
   linux-bionic-root-legacy-rockpi-s_20.02.7_arm64
   linux-bionic-root-legacy-rockpi-s_20.02.6_arm64
-  linux-bionic-root-legacy-rockpi-s_20.02.5_arm64
   linux-bionic-root-legacy-rockpro64_20.02.1_arm64
   linux-bionic-root-legacy-rockpro64_19.11.3_arm64
   linux-bionic-root-legacy-tinkerboard_20.02.7_armhf
@@ -5001,9 +5003,9 @@
   linux-dtb-legacy-rockchip64_20.02.7_arm64
   linux-dtb-legacy-rockchip64_20.02.1_arm64
   linux-dtb-legacy-rockchip64_19.11.3_arm64
+  linux-dtb-legacy-rockpis_20.02.8_arm64
   linux-dtb-legacy-rockpis_20.02.7_arm64
   linux-dtb-legacy-rockpis_20.02.6_arm64
-  linux-dtb-legacy-rockpis_20.02.5_arm64
   linux-dtb-legacy-s5p6818_20.02.7_arm64
   linux-dtb-legacy-s5p6818_20.02.1_arm64
   linux-dtb-legacy-s5p6818_19.11.3_arm64
@@ -5150,9 +5152,9 @@
   linux-headers-legacy-rockchip64_20.02.7_arm64
   linux-headers-legacy-rockchip64_20.02.1_arm64
   linux-headers-legacy-rockchip64_19.11.3_arm64
+  linux-headers-legacy-rockpis_20.02.8_arm64
   linux-headers-legacy-rockpis_20.02.7_arm64
   linux-headers-legacy-rockpis_20.02.6_arm64
-  linux-headers-legacy-rockpis_20.02.5_arm64
   linux-headers-legacy-s5p6818_20.02.7_arm64
   linux-headers-legacy-s5p6818_20.02.1_arm64
   linux-headers-legacy-s5p6818_19.11.3_arm64
@@ -5310,9 +5312,9 @@
   linux-image-legacy-rockchip64_20.02.7_arm64
   linux-image-legacy-rockchip64_20.02.1_arm64
   linux-image-legacy-rockchip64_19.11.3_arm64
+  linux-image-legacy-rockpis_20.02.8_arm64
   linux-image-legacy-rockpis_20.02.7_arm64
   linux-image-legacy-rockpis_20.02.6_arm64
-  linux-image-legacy-rockpis_20.02.5_arm64
   linux-image-legacy-rockpis-dbg_19.11.3_arm64
   linux-image-legacy-s5p6818_20.02.7_arm64
   linux-image-legacy-s5p6818_20.02.1_arm64
@@ -5558,6 +5560,7 @@
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.7_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
+  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.8_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.6_all
   linux-source-4.4.77-default-rk3328_4.4.77-default-rk3328+5.35_all
@@ -6272,9 +6275,9 @@
   linux-u-boot-rockpi-4b-legacy_20.02.7_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.1_arm64
   linux-u-boot-rockpi-4b-legacy_19.11.3_arm64
+  linux-u-boot-rockpi-s-legacy_20.02.8_arm64
   linux-u-boot-rockpi-s-legacy_20.02.7_arm64
   linux-u-boot-rockpi-s-legacy_20.02.6_arm64
-  linux-u-boot-rockpi-s-legacy_20.02.5_arm64
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-current_19.11.3_arm64
   linux-u-boot-rockpro64-default_5.98_arm64
@@ -6688,9 +6691,9 @@
   linux-buster-root-legacy-rockpi-4b_20.02.7_arm64
   linux-buster-root-legacy-rockpi-4b_20.02.1_arm64
   linux-buster-root-legacy-rockpi-4b_19.11.3_arm64
+  linux-buster-root-legacy-rockpi-s_20.02.8_arm64
   linux-buster-root-legacy-rockpi-s_20.02.7_arm64
   linux-buster-root-legacy-rockpi-s_20.02.6_arm64
-  linux-buster-root-legacy-rockpi-s_20.02.5_arm64
   linux-buster-root-legacy-rockpro64_20.02.1_arm64
   linux-buster-root-legacy-rockpro64_19.11.3_arm64
   linux-buster-root-legacy-tinkerboard_20.02.7_armhf
@@ -6884,9 +6887,9 @@
   linux-dtb-legacy-rockchip64_20.02.7_arm64
   linux-dtb-legacy-rockchip64_20.02.1_arm64
   linux-dtb-legacy-rockchip64_19.11.3_arm64
+  linux-dtb-legacy-rockpis_20.02.8_arm64
   linux-dtb-legacy-rockpis_20.02.7_arm64
   linux-dtb-legacy-rockpis_20.02.6_arm64
-  linux-dtb-legacy-rockpis_20.02.5_arm64
   linux-dtb-legacy-s5p6818_20.02.7_arm64
   linux-dtb-legacy-s5p6818_20.02.1_arm64
   linux-dtb-legacy-s5p6818_19.11.3_arm64
@@ -6989,9 +6992,9 @@
   linux-headers-legacy-rockchip64_20.02.7_arm64
   linux-headers-legacy-rockchip64_20.02.1_arm64
   linux-headers-legacy-rockchip64_19.11.3_arm64
+  linux-headers-legacy-rockpis_20.02.8_arm64
   linux-headers-legacy-rockpis_20.02.7_arm64
   linux-headers-legacy-rockpis_20.02.6_arm64
-  linux-headers-legacy-rockpis_20.02.5_arm64
   linux-headers-legacy-s5p6818_20.02.7_arm64
   linux-headers-legacy-s5p6818_20.02.1_arm64
   linux-headers-legacy-s5p6818_19.11.3_arm64
@@ -7094,9 +7097,9 @@
   linux-image-legacy-rockchip64_20.02.7_arm64
   linux-image-legacy-rockchip64_20.02.1_arm64
   linux-image-legacy-rockchip64_19.11.3_arm64
+  linux-image-legacy-rockpis_20.02.8_arm64
   linux-image-legacy-rockpis_20.02.7_arm64
   linux-image-legacy-rockpis_20.02.6_arm64
-  linux-image-legacy-rockpis_20.02.5_arm64
   linux-image-legacy-rockpis-dbg_19.11.3_arm64
   linux-image-legacy-s5p6818_20.02.7_arm64
   linux-image-legacy-s5p6818_20.02.1_arm64
@@ -7207,6 +7210,7 @@
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.7_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
+  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.8_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.6_all
   linux-source-4.9.179-default-odroidn2_4.9.179-default-odroidn2+5.88_all
@@ -7652,9 +7656,9 @@
   linux-u-boot-rockpi-4b-legacy_20.02.7_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.1_arm64
   linux-u-boot-rockpi-4b-legacy_19.11.3_arm64
+  linux-u-boot-rockpi-s-legacy_20.02.8_arm64
   linux-u-boot-rockpi-s-legacy_20.02.7_arm64
   linux-u-boot-rockpi-s-legacy_20.02.6_arm64
-  linux-u-boot-rockpi-s-legacy_20.02.5_arm64
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-current_19.11.3_arm64
   linux-u-boot-rockpro64-default_5.98_arm64
@@ -7766,9 +7770,9 @@
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.7_arm64
   linux-dtb-legacy-rockchip64_20.02.1_arm64
+  linux-dtb-legacy-rockpis_20.02.8_arm64
   linux-dtb-legacy-rockpis_20.02.7_arm64
   linux-dtb-legacy-rockpis_20.02.6_arm64
-  linux-dtb-legacy-rockpis_20.02.5_arm64
   linux-dtb-legacy-s5p6818_20.02.7_arm64
   linux-dtb-legacy-s5p6818_20.02.1_arm64
   linux-dtb-legacy-sunxi_20.02.5_armhf
@@ -7963,9 +7967,9 @@
   linux-focal-root-legacy-rockpi-4a_20.02.1_arm64
   linux-focal-root-legacy-rockpi-4b_20.02.7_arm64
   linux-focal-root-legacy-rockpi-4b_20.02.1_arm64
+  linux-focal-root-legacy-rockpi-s_20.02.8_arm64
   linux-focal-root-legacy-rockpi-s_20.02.7_arm64
   linux-focal-root-legacy-rockpi-s_20.02.6_arm64
-  linux-focal-root-legacy-rockpi-s_20.02.5_arm64
   linux-focal-root-legacy-rockpro64_20.02.1_arm64
   linux-focal-root-legacy-tinkerboard_20.02.7_armhf
   linux-focal-root-legacy-tinkerboard_20.02.1_armhf
@@ -8020,9 +8024,9 @@
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.7_arm64
   linux-headers-legacy-rockchip64_20.02.1_arm64
+  linux-headers-legacy-rockpis_20.02.8_arm64
   linux-headers-legacy-rockpis_20.02.7_arm64
   linux-headers-legacy-rockpis_20.02.6_arm64
-  linux-headers-legacy-rockpis_20.02.5_arm64
   linux-headers-legacy-s5p6818_20.02.7_arm64
   linux-headers-legacy-s5p6818_20.02.1_arm64
   linux-headers-legacy-sunxi_20.02.5_armhf
@@ -8073,9 +8077,9 @@
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.7_arm64
   linux-image-legacy-rockchip64_20.02.1_arm64
+  linux-image-legacy-rockpis_20.02.8_arm64
   linux-image-legacy-rockpis_20.02.7_arm64
   linux-image-legacy-rockpis_20.02.6_arm64
-  linux-image-legacy-rockpis_20.02.5_arm64
   linux-image-legacy-s5p6818_20.02.7_arm64
   linux-image-legacy-s5p6818_20.02.1_arm64
   linux-image-legacy-sunxi_20.02.5_armhf
@@ -8105,6 +8109,7 @@
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.7_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
+  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.8_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.6_all
   linux-source-4.9.213-legacy-meson64_4.9.213-legacy-meson64+20.02.1_all
@@ -8300,9 +8305,9 @@
   linux-u-boot-rockpi-4b-current_20.02.1_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.7_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.1_arm64
+  linux-u-boot-rockpi-s-legacy_20.02.8_arm64
   linux-u-boot-rockpi-s-legacy_20.02.7_arm64
   linux-u-boot-rockpi-s-legacy_20.02.6_arm64
-  linux-u-boot-rockpi-s-legacy_20.02.5_arm64
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-legacy_20.02.1_arm64
   linux-u-boot-teres-a64-current_20.02.1_arm64
@@ -8541,9 +8546,9 @@
   linux-bullseye-root-legacy-rockpi-4a_20.02.1_arm64
   linux-bullseye-root-legacy-rockpi-4b_20.02.7_arm64
   linux-bullseye-root-legacy-rockpi-4b_20.02.1_arm64
+  linux-bullseye-root-legacy-rockpi-s_20.02.8_arm64
   linux-bullseye-root-legacy-rockpi-s_20.02.7_arm64
   linux-bullseye-root-legacy-rockpi-s_20.02.6_arm64
-  linux-bullseye-root-legacy-rockpi-s_20.02.5_arm64
   linux-bullseye-root-legacy-rockpro64_20.02.1_arm64
   linux-bullseye-root-legacy-tinkerboard_20.02.7_armhf
   linux-bullseye-root-legacy-tinkerboard_20.02.1_armhf
@@ -8596,9 +8601,9 @@
   linux-dtb-legacy-rockchip_19.11.8_armhf
   linux-dtb-legacy-rockchip64_20.02.7_arm64
   linux-dtb-legacy-rockchip64_20.02.1_arm64
+  linux-dtb-legacy-rockpis_20.02.8_arm64
   linux-dtb-legacy-rockpis_20.02.7_arm64
   linux-dtb-legacy-rockpis_20.02.6_arm64
-  linux-dtb-legacy-rockpis_20.02.5_arm64
   linux-dtb-legacy-s5p6818_20.02.7_arm64
   linux-dtb-legacy-s5p6818_20.02.1_arm64
   linux-dtb-legacy-sunxi_20.02.5_armhf
@@ -8649,9 +8654,9 @@
   linux-headers-legacy-rockchip_19.11.8_armhf
   linux-headers-legacy-rockchip64_20.02.7_arm64
   linux-headers-legacy-rockchip64_20.02.1_arm64
+  linux-headers-legacy-rockpis_20.02.8_arm64
   linux-headers-legacy-rockpis_20.02.7_arm64
   linux-headers-legacy-rockpis_20.02.6_arm64
-  linux-headers-legacy-rockpis_20.02.5_arm64
   linux-headers-legacy-s5p6818_20.02.7_arm64
   linux-headers-legacy-s5p6818_20.02.1_arm64
   linux-headers-legacy-sunxi_20.02.5_armhf
@@ -8702,9 +8707,9 @@
   linux-image-legacy-rockchip_19.11.8_armhf
   linux-image-legacy-rockchip64_20.02.7_arm64
   linux-image-legacy-rockchip64_20.02.1_arm64
+  linux-image-legacy-rockpis_20.02.8_arm64
   linux-image-legacy-rockpis_20.02.7_arm64
   linux-image-legacy-rockpis_20.02.6_arm64
-  linux-image-legacy-rockpis_20.02.5_arm64
   linux-image-legacy-s5p6818_20.02.7_arm64
   linux-image-legacy-s5p6818_20.02.1_arm64
   linux-image-legacy-sunxi_20.02.5_armhf
@@ -8734,6 +8739,7 @@
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.02.1_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.7_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.02.1_all
+  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.8_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.7_all
   linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.02.6_all
   linux-source-4.9.213-legacy-meson64_4.9.213-legacy-meson64+20.02.1_all
@@ -8929,9 +8935,9 @@
   linux-u-boot-rockpi-4b-current_20.02.1_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.7_arm64
   linux-u-boot-rockpi-4b-legacy_20.02.1_arm64
+  linux-u-boot-rockpi-s-legacy_20.02.8_arm64
   linux-u-boot-rockpi-s-legacy_20.02.7_arm64
   linux-u-boot-rockpi-s-legacy_20.02.6_arm64
-  linux-u-boot-rockpi-s-legacy_20.02.5_arm64
   linux-u-boot-rockpro64-current_20.02.1_arm64
   linux-u-boot-rockpro64-legacy_20.02.1_arm64
   linux-u-boot-teres-a64-current_20.02.1_arm64
