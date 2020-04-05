@@ -1,7 +1,7 @@
 
+  armbian-config_20.02.9_all
   armbian-config_20.02.8_all
   armbian-config_20.02.7_all
-  armbian-config_20.02.6_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -2304,9 +2304,9 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.31+1_armhf
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
+  armbian-config_20.02.9_all
   armbian-config_20.02.8_all
   armbian-config_20.02.7_all
-  armbian-config_20.02.6_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -4350,9 +4350,9 @@
   armbian-bionic-desktop_20.02.8_all
   armbian-bionic-desktop_20.02.7_all
   armbian-bionic-desktop_20.02.6_all
+  armbian-config_20.02.9_all
   armbian-config_20.02.8_all
   armbian-config_20.02.7_all
-  armbian-config_20.02.6_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -6362,9 +6362,9 @@
   armbian-buster-desktop_20.02.8_all
   armbian-buster-desktop_20.02.7_all
   armbian-buster-desktop_20.02.6_all
+  armbian-config_20.02.9_all
   armbian-config_20.02.8_all
   armbian-config_20.02.7_all
-  armbian-config_20.02.6_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -7718,9 +7718,9 @@
   hello_1.0_all
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
+  armbian-config_20.02.9_all
   armbian-config_20.02.8_all
   armbian-config_20.02.7_all
-  armbian-config_20.02.6_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
@@ -8353,9 +8353,9 @@
   armbian-bullseye-desktop_20.02.8_all
   armbian-bullseye-desktop_20.02.7_all
   armbian-bullseye-desktop_20.02.6_all
+  armbian-config_20.02.9_all
   armbian-config_20.02.8_all
   armbian-config_20.02.7_all
-  armbian-config_20.02.6_all
   armbian-firmware_20.02.4_all
   armbian-firmware_20.02.3_all
   armbian-firmware_20.02.2_all
