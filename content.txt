@@ -1,7 +1,7 @@
 
+  armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
-  armbian-config_20.05.0-trunk.088_all
   armbian-firmware_20.05.0-trunk.094_all
   armbian-firmware_20.05.0-trunk.092_all
   armbian-firmware_20.05.0-trunk.088_all
@@ -1761,9 +1761,9 @@
   wireguard-tools_0.0.20190702-3_arm64
   wireguard-tools_0.0.20190702-3_armhf
   hello_1.0_all
+  armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
-  armbian-config_20.05.0-trunk.088_all
   armbian-firmware_20.05.0-trunk.094_all
   armbian-firmware_20.05.0-trunk.092_all
   armbian-firmware_20.05.0-trunk.088_all
@@ -3525,9 +3525,9 @@
   armbian-bionic-desktop_20.05.0-trunk.094_all
   armbian-bionic-desktop_20.05.0-trunk.092_all
   armbian-bionic-desktop_20.05.0-trunk.088_all
+  armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
-  armbian-config_20.05.0-trunk.088_all
   armbian-firmware_20.05.0-trunk.094_all
   armbian-firmware_20.05.0-trunk.092_all
   armbian-firmware_20.05.0-trunk.088_all
@@ -5286,9 +5286,9 @@
   armbian-buster-desktop_20.05.0-trunk.094_all
   armbian-buster-desktop_20.05.0-trunk.092_all
   armbian-buster-desktop_20.05.0-trunk.088_all
+  armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
-  armbian-config_20.05.0-trunk.088_all
   armbian-firmware_20.05.0-trunk.094_all
   armbian-firmware_20.05.0-trunk.092_all
   armbian-firmware_20.05.0-trunk.088_all
@@ -5332,9 +5332,9 @@
   libosmesa6-dev_19.3.0-3_armhf
   libwayland-egl1-mesa_19.3.0-3_arm64
   libwayland-egl1-mesa_19.3.0-3_armhf
+  linux-buster-root-current-bananapi_20.05.0-trunk.096_armhf
   linux-buster-root-current-bananapi_20.05.0-trunk.094_armhf
   linux-buster-root-current-bananapi_20.05.0-trunk.092_armhf
-  linux-buster-root-current-bananapi_20.05.0-trunk.088_armhf
   linux-buster-root-current-bananapim2plus_20.05.0-trunk.094_armhf
   linux-buster-root-current-bananapim2plus_20.05.0-trunk.092_armhf
   linux-buster-root-current-bananapim2plus_20.05.0-trunk.088_armhf
@@ -7134,9 +7134,9 @@
   mesa-vdpau-drivers_19.3.0-4_armhf
   mesa-vulkan-drivers_19.3.0-4_arm64
   mesa-vulkan-drivers_19.3.0-4_armhf
+  armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
-  armbian-config_20.05.0-trunk.088_all
   armbian-firmware_20.05.0-trunk.094_all
   armbian-firmware_20.05.0-trunk.092_all
   armbian-firmware_20.05.0-trunk.088_all
@@ -8844,9 +8844,9 @@
   armbian-bullseye-desktop_20.05.0-trunk.094_all
   armbian-bullseye-desktop_20.05.0-trunk.092_all
   armbian-bullseye-desktop_20.05.0-trunk.088_all
+  armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
-  armbian-config_20.05.0-trunk.088_all
   armbian-firmware_20.05.0-trunk.094_all
   armbian-firmware_20.05.0-trunk.092_all
   armbian-firmware_20.05.0-trunk.088_all
