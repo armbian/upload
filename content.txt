@@ -2,6 +2,7 @@
   armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
+  armbian-config_20.02.11.100_all
   armbian-config_20.02.9.098_all
   armbian-config_20.02.9.097_all
   armbian-firmware_20.05.0-trunk.094_all
@@ -2339,6 +2340,7 @@
   armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
+  armbian-config_20.02.11.100_all
   armbian-config_20.02.9.098_all
   armbian-config_20.02.9.097_all
   armbian-firmware_20.05.0-trunk.094_all
@@ -4680,6 +4682,7 @@
   armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
+  armbian-config_20.02.11.100_all
   armbian-config_20.02.9.098_all
   armbian-config_20.02.9.097_all
   armbian-firmware_20.05.0-trunk.094_all
@@ -7016,6 +7019,7 @@
   armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
+  armbian-config_20.02.11.100_all
   armbian-config_20.02.9.098_all
   armbian-config_20.02.9.097_all
   armbian-firmware_20.05.0-trunk.094_all
@@ -9437,6 +9441,7 @@
   armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
+  armbian-config_20.02.11.100_all
   armbian-config_20.02.9.098_all
   armbian-config_20.02.9.097_all
   armbian-firmware_20.05.0-trunk.094_all
@@ -11724,6 +11729,7 @@
   armbian-config_20.05.0-trunk.096_all
   armbian-config_20.05.0-trunk.094_all
   armbian-config_20.05.0-trunk.092_all
+  armbian-config_20.02.11.100_all
   armbian-config_20.02.9.098_all
   armbian-config_20.02.9.097_all
   armbian-firmware_20.05.0-trunk.094_all
