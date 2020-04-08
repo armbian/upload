@@ -212,6 +212,7 @@
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-cubox_5.85_armhf
+  linux-headers-current-arm-64_20.05.1_arm64
   linux-headers-current-arm-64_20.05.0_arm64
   linux-headers-current-arm-64_19.11.5_arm64
   linux-headers-current-imx6_20.02.7_armhf
@@ -383,6 +384,7 @@
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-cubox_5.85_armhf
+  linux-image-current-arm-64_20.05.1_arm64
   linux-image-current-arm-64_20.05.0_arm64
   linux-image-current-arm-64_19.11.5_arm64
   linux-image-current-imx6_20.02.7_armhf
@@ -2567,6 +2569,7 @@
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-cubox_5.85_armhf
+  linux-headers-current-arm-64_20.05.1_arm64
   linux-headers-current-arm-64_20.05.0_arm64
   linux-headers-current-arm-64_19.11.5_arm64
   linux-headers-current-imx6_20.02.7_armhf
@@ -2738,6 +2741,7 @@
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-cubox_5.85_armhf
+  linux-image-current-arm-64_20.05.1_arm64
   linux-image-current-arm-64_20.05.0_arm64
   linux-image-current-arm-64_19.11.5_arm64
   linux-image-current-imx6_20.02.7_armhf
@@ -5217,6 +5221,7 @@
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
   linux-headers-cubox_5.85_armhf
+  linux-headers-current-arm-64_20.05.1_arm64
   linux-headers-current-arm-64_20.05.0_arm64
   linux-headers-current-arm-64_19.11.5_arm64
   linux-headers-current-imx6_20.02.7_armhf
@@ -5388,6 +5393,7 @@
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
   linux-image-cubox_5.85_armhf
+  linux-image-current-arm-64_20.05.1_arm64
   linux-image-current-arm-64_20.05.0_arm64
   linux-image-current-arm-64_19.11.5_arm64
   linux-image-current-imx6_20.02.7_armhf
@@ -7108,6 +7114,7 @@
   linux-headers-aml-g12_5.95_arm64
   linux-headers-cubox_5.98_armhf
   linux-headers-cubox_5.90_armhf
+  linux-headers-current-arm-64_20.05.1_arm64
   linux-headers-current-arm-64_20.05.0_arm64
   linux-headers-current-arm-64_19.11.5_arm64
   linux-headers-current-imx6_20.02.7_armhf
@@ -7224,6 +7231,7 @@
   linux-image-aml-g12_5.95_arm64
   linux-image-cubox_5.98_armhf
   linux-image-cubox_5.90_armhf
+  linux-image-current-arm-64_20.05.1_arm64
   linux-image-current-arm-64_20.05.0_arm64
   linux-image-current-arm-64_19.11.5_arm64
   linux-image-current-imx6_20.02.7_armhf
@@ -8200,6 +8208,7 @@
   linux-focal-root-legacy-xt-q8l-v10_20.02.1_armhf
   linux-focal-root-legacy-xt-q8l-v10_19.11.8_armhf
   linux-focal-root-legacy-z28pro_20.02.1_arm64
+  linux-headers-current-arm-64_20.05.1_arm64
   linux-headers-current-arm-64_20.05.0_arm64
   linux-headers-current-arm-64_19.11.5_arm64
   linux-headers-current-imx6_20.02.7_armhf
@@ -8264,6 +8273,7 @@
   linux-headers-legacy-sunxi_20.02.5_armhf
   linux-headers-legacy-sunxi_20.02.1_armhf
   linux-headers-legacy-sunxi64_20.02.1_arm64
+  linux-image-current-arm-64_20.05.1_arm64
   linux-image-current-arm-64_20.05.0_arm64
   linux-image-current-arm-64_19.11.5_arm64
   linux-image-current-imx6_20.02.7_armhf
@@ -8883,6 +8893,7 @@
   linux-dtb-legacy-sunxi_20.02.5_armhf
   linux-dtb-legacy-sunxi_20.02.1_armhf
   linux-dtb-legacy-sunxi64_20.02.1_arm64
+  linux-headers-current-arm-64_20.05.1_arm64
   linux-headers-current-arm-64_20.05.0_arm64
   linux-headers-current-arm-64_19.11.5_arm64
   linux-headers-current-imx6_20.02.7_armhf
@@ -8947,6 +8958,7 @@
   linux-headers-legacy-sunxi_20.02.5_armhf
   linux-headers-legacy-sunxi_20.02.1_armhf
   linux-headers-legacy-sunxi64_20.02.1_arm64
+  linux-image-current-arm-64_20.05.1_arm64
   linux-image-current-arm-64_20.05.0_arm64
   linux-image-current-arm-64_19.11.5_arm64
   linux-image-current-imx6_20.02.7_armhf
