@@ -832,6 +832,8 @@
   linux-source-5.6.3-dev-odroidxu4_5.6.3-dev-odroidxu4+20.02.11.101_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.102_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.101_all
+  linux-source-5.6.3-dev-sunxi_5.6.3-dev-sunxi+20.02.11.102_all
+  linux-source-5.6.3-dev-sunxi64_5.6.3-dev-sunxi64+20.02.11.102_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -3283,6 +3285,8 @@
   linux-source-5.6.3-dev-odroidxu4_5.6.3-dev-odroidxu4+20.02.11.101_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.102_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.101_all
+  linux-source-5.6.3-dev-sunxi_5.6.3-dev-sunxi+20.02.11.102_all
+  linux-source-5.6.3-dev-sunxi64_5.6.3-dev-sunxi64+20.02.11.102_all
   linux-stretch-root-clearfogbase_5.91_armhf
   linux-stretch-root-clearfogbase_5.90_armhf
   linux-stretch-root-clearfogbase_5.85_armhf
@@ -6032,6 +6036,8 @@
   linux-source-5.6.3-dev-odroidxu4_5.6.3-dev-odroidxu4+20.02.11.101_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.102_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.101_all
+  linux-source-5.6.3-dev-sunxi_5.6.3-dev-sunxi+20.02.11.102_all
+  linux-source-5.6.3-dev-sunxi64_5.6.3-dev-sunxi64+20.02.11.102_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
   linux-u-boot-armada-default_5.20_armhf
@@ -7827,6 +7833,8 @@
   linux-source-5.6.3-dev-odroidxu4_5.6.3-dev-odroidxu4+20.02.11.101_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.102_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.101_all
+  linux-source-5.6.3-dev-sunxi_5.6.3-dev-sunxi+20.02.11.102_all
+  linux-source-5.6.3-dev-sunxi64_5.6.3-dev-sunxi64+20.02.11.102_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
   linux-u-boot-bananapi-current_19.11.3_armhf
@@ -8861,6 +8869,8 @@
   linux-source-5.6.3-dev-odroidxu4_5.6.3-dev-odroidxu4+20.02.11.101_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.102_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.101_all
+  linux-source-5.6.3-dev-sunxi_5.6.3-dev-sunxi+20.02.11.102_all
+  linux-source-5.6.3-dev-sunxi64_5.6.3-dev-sunxi64+20.02.11.102_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
   linux-u-boot-bananapi-current_19.11.3_armhf
@@ -9640,6 +9650,8 @@
   linux-source-5.6.3-dev-odroidxu4_5.6.3-dev-odroidxu4+20.02.11.101_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.102_all
   linux-source-5.6.3-dev-rockchip64_5.6.3-dev-rockchip64+20.02.11.101_all
+  linux-source-5.6.3-dev-sunxi_5.6.3-dev-sunxi+20.02.11.102_all
+  linux-source-5.6.3-dev-sunxi64_5.6.3-dev-sunxi64+20.02.11.102_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
   linux-u-boot-bananapi-current_19.11.3_armhf
