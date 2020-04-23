@@ -90,42 +90,49 @@
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
   linux-dtb-dev-meson_20.02.11.102_armhf
   linux-dtb-dev-meson_20.02.11.101_armhf
   linux-dtb-dev-meson_20.02.9.097_armhf
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
   linux-dtb-dev-meson64_20.02.11.102_arm64
   linux-dtb-dev-meson64_20.02.11.101_arm64
   linux-dtb-dev-meson64_20.02.9.097_arm64
   linux-dtb-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-dtb-dev-mvebu_20.02.12.114_armhf
   linux-dtb-dev-mvebu_20.02.12.113_armhf
   linux-dtb-dev-mvebu_20.02.12.112_armhf
   linux-dtb-dev-mvebu_20.02.11.102_armhf
   linux-dtb-dev-mvebu_20.02.11.101_armhf
   linux-dtb-dev-mvebu_20.02.9.097_armhf
   linux-dtb-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-mvebu64_20.02.12.114_arm64
   linux-dtb-dev-mvebu64_20.02.12.113_arm64
   linux-dtb-dev-mvebu64_20.02.12.112_arm64
   linux-dtb-dev-mvebu64_20.02.11.102_arm64
   linux-dtb-dev-mvebu64_20.02.11.101_arm64
   linux-dtb-dev-mvebu64_20.02.9.097_arm64
   linux-dtb-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-dtb-dev-odroidxu4_20.02.12.114_armhf
   linux-dtb-dev-odroidxu4_20.02.12.113_armhf
   linux-dtb-dev-odroidxu4_20.02.12.112_armhf
   linux-dtb-dev-odroidxu4_20.02.11.102_armhf
   linux-dtb-dev-odroidxu4_20.02.11.101_armhf
   linux-dtb-dev-odroidxu4_20.02.9.097_armhf
   linux-dtb-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-dtb-dev-rockchip_20.02.12.114_armhf
   linux-dtb-dev-rockchip_20.02.12.113_armhf
   linux-dtb-dev-rockchip_20.02.12.112_armhf
   linux-dtb-dev-rockchip_20.02.11.102_armhf
   linux-dtb-dev-rockchip_20.02.11.101_armhf
   linux-dtb-dev-rockchip_20.02.9.097_armhf
   linux-dtb-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-rockchip64_20.02.12.114_arm64
   linux-dtb-dev-rockchip64_20.02.12.113_arm64
   linux-dtb-dev-rockchip64_20.02.12.112_arm64
   linux-dtb-dev-rockchip64_20.02.11.102_arm64
@@ -134,6 +141,7 @@
   linux-dtb-dev-rockchip64_20.02.9.098_arm64
   linux-dtb-dev-rockchip64_20.02.9.097_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-dtb-dev-sunxi_20.02.12.114_armhf
   linux-dtb-dev-sunxi_20.02.12.113_armhf
   linux-dtb-dev-sunxi_20.02.12.112_armhf
   linux-dtb-dev-sunxi_20.02.11.102_armhf
@@ -141,6 +149,7 @@
   linux-dtb-dev-sunxi_20.02.11_armhf
   linux-dtb-dev-sunxi_20.02.9.097_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-sunxi64_20.02.12.114_arm64
   linux-dtb-dev-sunxi64_20.02.12.113_arm64
   linux-dtb-dev-sunxi64_20.02.12.112_arm64
   linux-dtb-dev-sunxi64_20.02.11.102_arm64
@@ -304,42 +313,49 @@
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
   linux-headers-dev-meson_20.02.11.102_armhf
   linux-headers-dev-meson_20.02.11.101_armhf
   linux-headers-dev-meson_20.02.9.097_armhf
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
   linux-headers-dev-meson64_20.02.11.102_arm64
   linux-headers-dev-meson64_20.02.11.101_arm64
   linux-headers-dev-meson64_20.02.9.097_arm64
   linux-headers-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-headers-dev-mvebu_20.02.12.114_armhf
   linux-headers-dev-mvebu_20.02.12.113_armhf
   linux-headers-dev-mvebu_20.02.12.112_armhf
   linux-headers-dev-mvebu_20.02.11.102_armhf
   linux-headers-dev-mvebu_20.02.11.101_armhf
   linux-headers-dev-mvebu_20.02.9.097_armhf
   linux-headers-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-headers-dev-mvebu64_20.02.12.114_arm64
   linux-headers-dev-mvebu64_20.02.12.113_arm64
   linux-headers-dev-mvebu64_20.02.12.112_arm64
   linux-headers-dev-mvebu64_20.02.11.102_arm64
   linux-headers-dev-mvebu64_20.02.11.101_arm64
   linux-headers-dev-mvebu64_20.02.9.097_arm64
   linux-headers-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-headers-dev-odroidxu4_20.02.12.114_armhf
   linux-headers-dev-odroidxu4_20.02.12.113_armhf
   linux-headers-dev-odroidxu4_20.02.12.112_armhf
   linux-headers-dev-odroidxu4_20.02.11.102_armhf
   linux-headers-dev-odroidxu4_20.02.11.101_armhf
   linux-headers-dev-odroidxu4_20.02.9.097_armhf
   linux-headers-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-headers-dev-rockchip_20.02.12.114_armhf
   linux-headers-dev-rockchip_20.02.12.113_armhf
   linux-headers-dev-rockchip_20.02.12.112_armhf
   linux-headers-dev-rockchip_20.02.11.102_armhf
   linux-headers-dev-rockchip_20.02.11.101_armhf
   linux-headers-dev-rockchip_20.02.9.097_armhf
   linux-headers-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-headers-dev-rockchip64_20.02.12.114_arm64
   linux-headers-dev-rockchip64_20.02.12.113_arm64
   linux-headers-dev-rockchip64_20.02.12.112_arm64
   linux-headers-dev-rockchip64_20.02.11.102_arm64
@@ -348,6 +364,7 @@
   linux-headers-dev-rockchip64_20.02.9.098_arm64
   linux-headers-dev-rockchip64_20.02.9.097_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-headers-dev-sunxi_20.02.12.114_armhf
   linux-headers-dev-sunxi_20.02.12.113_armhf
   linux-headers-dev-sunxi_20.02.12.112_armhf
   linux-headers-dev-sunxi_20.02.11.102_armhf
@@ -355,6 +372,7 @@
   linux-headers-dev-sunxi_20.02.11_armhf
   linux-headers-dev-sunxi_20.02.9.097_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-headers-dev-sunxi64_20.02.12.114_arm64
   linux-headers-dev-sunxi64_20.02.12.113_arm64
   linux-headers-dev-sunxi64_20.02.12.112_arm64
   linux-headers-dev-sunxi64_20.02.11.102_arm64
@@ -529,42 +547,49 @@
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
   linux-image-dev-meson_20.02.11.102_armhf
   linux-image-dev-meson_20.02.11.101_armhf
   linux-image-dev-meson_20.02.9.097_armhf
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
   linux-image-dev-meson64_20.02.11.102_arm64
   linux-image-dev-meson64_20.02.11.101_arm64
   linux-image-dev-meson64_20.02.9.097_arm64
   linux-image-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-image-dev-mvebu_20.02.12.114_armhf
   linux-image-dev-mvebu_20.02.12.113_armhf
   linux-image-dev-mvebu_20.02.12.112_armhf
   linux-image-dev-mvebu_20.02.11.102_armhf
   linux-image-dev-mvebu_20.02.11.101_armhf
   linux-image-dev-mvebu_20.02.9.097_armhf
   linux-image-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-image-dev-mvebu64_20.02.12.114_arm64
   linux-image-dev-mvebu64_20.02.12.113_arm64
   linux-image-dev-mvebu64_20.02.12.112_arm64
   linux-image-dev-mvebu64_20.02.11.102_arm64
   linux-image-dev-mvebu64_20.02.11.101_arm64
   linux-image-dev-mvebu64_20.02.9.097_arm64
   linux-image-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-image-dev-odroidxu4_20.02.12.114_armhf
   linux-image-dev-odroidxu4_20.02.12.113_armhf
   linux-image-dev-odroidxu4_20.02.12.112_armhf
   linux-image-dev-odroidxu4_20.02.11.102_armhf
   linux-image-dev-odroidxu4_20.02.11.101_armhf
   linux-image-dev-odroidxu4_20.02.9.097_armhf
   linux-image-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-image-dev-rockchip_20.02.12.114_armhf
   linux-image-dev-rockchip_20.02.12.113_armhf
   linux-image-dev-rockchip_20.02.12.112_armhf
   linux-image-dev-rockchip_20.02.11.102_armhf
   linux-image-dev-rockchip_20.02.11.101_armhf
   linux-image-dev-rockchip_20.02.9.097_armhf
   linux-image-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-image-dev-rockchip64_20.02.12.114_arm64
   linux-image-dev-rockchip64_20.02.12.113_arm64
   linux-image-dev-rockchip64_20.02.12.112_arm64
   linux-image-dev-rockchip64_20.02.11.102_arm64
@@ -573,6 +598,7 @@
   linux-image-dev-rockchip64_20.02.9.098_arm64
   linux-image-dev-rockchip64_20.02.9.097_arm64
   linux-image-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-image-dev-sunxi_20.02.12.114_armhf
   linux-image-dev-sunxi_20.02.12.113_armhf
   linux-image-dev-sunxi_20.02.12.112_armhf
   linux-image-dev-sunxi_20.02.11.102_armhf
@@ -580,6 +606,7 @@
   linux-image-dev-sunxi_20.02.11_armhf
   linux-image-dev-sunxi_20.02.9.097_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-image-dev-sunxi64_20.02.12.114_arm64
   linux-image-dev-sunxi64_20.02.12.113_arm64
   linux-image-dev-sunxi64_20.02.12.112_arm64
   linux-image-dev-sunxi64_20.02.11.102_arm64
@@ -911,7 +938,9 @@
   linux-source-5.4.33-dev-meson_5.4.33-dev-meson+20.02.12.112_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.05.0-trunk.111_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.02.12.112_all
+  linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.114_all
   linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.113_all
+  linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.114_all
   linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.113_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -921,6 +950,7 @@
   linux-source-5.5.16-dev-rockchip_5.5.16-dev-rockchip+20.02.11.101_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.05.0-trunk.111_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.02.12.112_all
+  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.114_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.113_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
   linux-source-5.6.2-dev-odroidxu4_5.6.2-dev-odroidxu4+20.02.9.097_all
@@ -951,14 +981,20 @@
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.05.0-trunk.111_all
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.112_all
+  linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.114_all
   linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.113_all
+  linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.114_all
   linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.113_all
+  linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.114_all
   linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.113_all
+  linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.114_all
   linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.113_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
@@ -2681,42 +2717,49 @@
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
   linux-dtb-dev-meson_20.02.11.102_armhf
   linux-dtb-dev-meson_20.02.11.101_armhf
   linux-dtb-dev-meson_20.02.9.097_armhf
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
   linux-dtb-dev-meson64_20.02.11.102_arm64
   linux-dtb-dev-meson64_20.02.11.101_arm64
   linux-dtb-dev-meson64_20.02.9.097_arm64
   linux-dtb-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-dtb-dev-mvebu_20.02.12.114_armhf
   linux-dtb-dev-mvebu_20.02.12.113_armhf
   linux-dtb-dev-mvebu_20.02.12.112_armhf
   linux-dtb-dev-mvebu_20.02.11.102_armhf
   linux-dtb-dev-mvebu_20.02.11.101_armhf
   linux-dtb-dev-mvebu_20.02.9.097_armhf
   linux-dtb-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-mvebu64_20.02.12.114_arm64
   linux-dtb-dev-mvebu64_20.02.12.113_arm64
   linux-dtb-dev-mvebu64_20.02.12.112_arm64
   linux-dtb-dev-mvebu64_20.02.11.102_arm64
   linux-dtb-dev-mvebu64_20.02.11.101_arm64
   linux-dtb-dev-mvebu64_20.02.9.097_arm64
   linux-dtb-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-dtb-dev-odroidxu4_20.02.12.114_armhf
   linux-dtb-dev-odroidxu4_20.02.12.113_armhf
   linux-dtb-dev-odroidxu4_20.02.12.112_armhf
   linux-dtb-dev-odroidxu4_20.02.11.102_armhf
   linux-dtb-dev-odroidxu4_20.02.11.101_armhf
   linux-dtb-dev-odroidxu4_20.02.9.097_armhf
   linux-dtb-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-dtb-dev-rockchip_20.02.12.114_armhf
   linux-dtb-dev-rockchip_20.02.12.113_armhf
   linux-dtb-dev-rockchip_20.02.12.112_armhf
   linux-dtb-dev-rockchip_20.02.11.102_armhf
   linux-dtb-dev-rockchip_20.02.11.101_armhf
   linux-dtb-dev-rockchip_20.02.9.097_armhf
   linux-dtb-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-rockchip64_20.02.12.114_arm64
   linux-dtb-dev-rockchip64_20.02.12.113_arm64
   linux-dtb-dev-rockchip64_20.02.12.112_arm64
   linux-dtb-dev-rockchip64_20.02.11.102_arm64
@@ -2725,6 +2768,7 @@
   linux-dtb-dev-rockchip64_20.02.9.098_arm64
   linux-dtb-dev-rockchip64_20.02.9.097_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-dtb-dev-sunxi_20.02.12.114_armhf
   linux-dtb-dev-sunxi_20.02.12.113_armhf
   linux-dtb-dev-sunxi_20.02.12.112_armhf
   linux-dtb-dev-sunxi_20.02.11.102_armhf
@@ -2732,6 +2776,7 @@
   linux-dtb-dev-sunxi_20.02.11_armhf
   linux-dtb-dev-sunxi_20.02.9.097_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-sunxi64_20.02.12.114_arm64
   linux-dtb-dev-sunxi64_20.02.12.113_arm64
   linux-dtb-dev-sunxi64_20.02.12.112_arm64
   linux-dtb-dev-sunxi64_20.02.11.102_arm64
@@ -2895,42 +2940,49 @@
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
   linux-headers-dev-meson_20.02.11.102_armhf
   linux-headers-dev-meson_20.02.11.101_armhf
   linux-headers-dev-meson_20.02.9.097_armhf
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
   linux-headers-dev-meson64_20.02.11.102_arm64
   linux-headers-dev-meson64_20.02.11.101_arm64
   linux-headers-dev-meson64_20.02.9.097_arm64
   linux-headers-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-headers-dev-mvebu_20.02.12.114_armhf
   linux-headers-dev-mvebu_20.02.12.113_armhf
   linux-headers-dev-mvebu_20.02.12.112_armhf
   linux-headers-dev-mvebu_20.02.11.102_armhf
   linux-headers-dev-mvebu_20.02.11.101_armhf
   linux-headers-dev-mvebu_20.02.9.097_armhf
   linux-headers-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-headers-dev-mvebu64_20.02.12.114_arm64
   linux-headers-dev-mvebu64_20.02.12.113_arm64
   linux-headers-dev-mvebu64_20.02.12.112_arm64
   linux-headers-dev-mvebu64_20.02.11.102_arm64
   linux-headers-dev-mvebu64_20.02.11.101_arm64
   linux-headers-dev-mvebu64_20.02.9.097_arm64
   linux-headers-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-headers-dev-odroidxu4_20.02.12.114_armhf
   linux-headers-dev-odroidxu4_20.02.12.113_armhf
   linux-headers-dev-odroidxu4_20.02.12.112_armhf
   linux-headers-dev-odroidxu4_20.02.11.102_armhf
   linux-headers-dev-odroidxu4_20.02.11.101_armhf
   linux-headers-dev-odroidxu4_20.02.9.097_armhf
   linux-headers-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-headers-dev-rockchip_20.02.12.114_armhf
   linux-headers-dev-rockchip_20.02.12.113_armhf
   linux-headers-dev-rockchip_20.02.12.112_armhf
   linux-headers-dev-rockchip_20.02.11.102_armhf
   linux-headers-dev-rockchip_20.02.11.101_armhf
   linux-headers-dev-rockchip_20.02.9.097_armhf
   linux-headers-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-headers-dev-rockchip64_20.02.12.114_arm64
   linux-headers-dev-rockchip64_20.02.12.113_arm64
   linux-headers-dev-rockchip64_20.02.12.112_arm64
   linux-headers-dev-rockchip64_20.02.11.102_arm64
@@ -2939,6 +2991,7 @@
   linux-headers-dev-rockchip64_20.02.9.098_arm64
   linux-headers-dev-rockchip64_20.02.9.097_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-headers-dev-sunxi_20.02.12.114_armhf
   linux-headers-dev-sunxi_20.02.12.113_armhf
   linux-headers-dev-sunxi_20.02.12.112_armhf
   linux-headers-dev-sunxi_20.02.11.102_armhf
@@ -2946,6 +2999,7 @@
   linux-headers-dev-sunxi_20.02.11_armhf
   linux-headers-dev-sunxi_20.02.9.097_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-headers-dev-sunxi64_20.02.12.114_arm64
   linux-headers-dev-sunxi64_20.02.12.113_arm64
   linux-headers-dev-sunxi64_20.02.12.112_arm64
   linux-headers-dev-sunxi64_20.02.11.102_arm64
@@ -3120,42 +3174,49 @@
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
   linux-image-dev-meson_20.02.11.102_armhf
   linux-image-dev-meson_20.02.11.101_armhf
   linux-image-dev-meson_20.02.9.097_armhf
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
   linux-image-dev-meson64_20.02.11.102_arm64
   linux-image-dev-meson64_20.02.11.101_arm64
   linux-image-dev-meson64_20.02.9.097_arm64
   linux-image-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-image-dev-mvebu_20.02.12.114_armhf
   linux-image-dev-mvebu_20.02.12.113_armhf
   linux-image-dev-mvebu_20.02.12.112_armhf
   linux-image-dev-mvebu_20.02.11.102_armhf
   linux-image-dev-mvebu_20.02.11.101_armhf
   linux-image-dev-mvebu_20.02.9.097_armhf
   linux-image-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-image-dev-mvebu64_20.02.12.114_arm64
   linux-image-dev-mvebu64_20.02.12.113_arm64
   linux-image-dev-mvebu64_20.02.12.112_arm64
   linux-image-dev-mvebu64_20.02.11.102_arm64
   linux-image-dev-mvebu64_20.02.11.101_arm64
   linux-image-dev-mvebu64_20.02.9.097_arm64
   linux-image-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-image-dev-odroidxu4_20.02.12.114_armhf
   linux-image-dev-odroidxu4_20.02.12.113_armhf
   linux-image-dev-odroidxu4_20.02.12.112_armhf
   linux-image-dev-odroidxu4_20.02.11.102_armhf
   linux-image-dev-odroidxu4_20.02.11.101_armhf
   linux-image-dev-odroidxu4_20.02.9.097_armhf
   linux-image-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-image-dev-rockchip_20.02.12.114_armhf
   linux-image-dev-rockchip_20.02.12.113_armhf
   linux-image-dev-rockchip_20.02.12.112_armhf
   linux-image-dev-rockchip_20.02.11.102_armhf
   linux-image-dev-rockchip_20.02.11.101_armhf
   linux-image-dev-rockchip_20.02.9.097_armhf
   linux-image-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-image-dev-rockchip64_20.02.12.114_arm64
   linux-image-dev-rockchip64_20.02.12.113_arm64
   linux-image-dev-rockchip64_20.02.12.112_arm64
   linux-image-dev-rockchip64_20.02.11.102_arm64
@@ -3164,6 +3225,7 @@
   linux-image-dev-rockchip64_20.02.9.098_arm64
   linux-image-dev-rockchip64_20.02.9.097_arm64
   linux-image-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-image-dev-sunxi_20.02.12.114_armhf
   linux-image-dev-sunxi_20.02.12.113_armhf
   linux-image-dev-sunxi_20.02.12.112_armhf
   linux-image-dev-sunxi_20.02.11.102_armhf
@@ -3171,6 +3233,7 @@
   linux-image-dev-sunxi_20.02.11_armhf
   linux-image-dev-sunxi_20.02.9.097_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-image-dev-sunxi64_20.02.12.114_arm64
   linux-image-dev-sunxi64_20.02.12.113_arm64
   linux-image-dev-sunxi64_20.02.12.112_arm64
   linux-image-dev-sunxi64_20.02.11.102_arm64
@@ -3502,7 +3565,9 @@
   linux-source-5.4.33-dev-meson_5.4.33-dev-meson+20.02.12.112_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.05.0-trunk.111_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.02.12.112_all
+  linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.114_all
   linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.113_all
+  linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.114_all
   linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.113_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -3512,6 +3577,7 @@
   linux-source-5.5.16-dev-rockchip_5.5.16-dev-rockchip+20.02.11.101_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.05.0-trunk.111_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.02.12.112_all
+  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.114_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.113_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
   linux-source-5.6.2-dev-odroidxu4_5.6.2-dev-odroidxu4+20.02.9.097_all
@@ -3542,14 +3608,20 @@
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.05.0-trunk.111_all
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.112_all
+  linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.114_all
   linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.113_all
+  linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.114_all
   linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.113_all
+  linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.114_all
   linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.113_all
+  linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.114_all
   linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.113_all
   linux-stretch-root-clearfogbase_5.91_armhf
   linux-stretch-root-clearfogbase_5.90_armhf
@@ -5576,42 +5648,49 @@
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
   linux-dtb-dev-meson_20.02.11.102_armhf
   linux-dtb-dev-meson_20.02.11.101_armhf
   linux-dtb-dev-meson_20.02.9.097_armhf
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
   linux-dtb-dev-meson64_20.02.11.102_arm64
   linux-dtb-dev-meson64_20.02.11.101_arm64
   linux-dtb-dev-meson64_20.02.9.097_arm64
   linux-dtb-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-dtb-dev-mvebu_20.02.12.114_armhf
   linux-dtb-dev-mvebu_20.02.12.113_armhf
   linux-dtb-dev-mvebu_20.02.12.112_armhf
   linux-dtb-dev-mvebu_20.02.11.102_armhf
   linux-dtb-dev-mvebu_20.02.11.101_armhf
   linux-dtb-dev-mvebu_20.02.9.097_armhf
   linux-dtb-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-mvebu64_20.02.12.114_arm64
   linux-dtb-dev-mvebu64_20.02.12.113_arm64
   linux-dtb-dev-mvebu64_20.02.12.112_arm64
   linux-dtb-dev-mvebu64_20.02.11.102_arm64
   linux-dtb-dev-mvebu64_20.02.11.101_arm64
   linux-dtb-dev-mvebu64_20.02.9.097_arm64
   linux-dtb-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-dtb-dev-odroidxu4_20.02.12.114_armhf
   linux-dtb-dev-odroidxu4_20.02.12.113_armhf
   linux-dtb-dev-odroidxu4_20.02.12.112_armhf
   linux-dtb-dev-odroidxu4_20.02.11.102_armhf
   linux-dtb-dev-odroidxu4_20.02.11.101_armhf
   linux-dtb-dev-odroidxu4_20.02.9.097_armhf
   linux-dtb-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-dtb-dev-rockchip_20.02.12.114_armhf
   linux-dtb-dev-rockchip_20.02.12.113_armhf
   linux-dtb-dev-rockchip_20.02.12.112_armhf
   linux-dtb-dev-rockchip_20.02.11.102_armhf
   linux-dtb-dev-rockchip_20.02.11.101_armhf
   linux-dtb-dev-rockchip_20.02.9.097_armhf
   linux-dtb-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-rockchip64_20.02.12.114_arm64
   linux-dtb-dev-rockchip64_20.02.12.113_arm64
   linux-dtb-dev-rockchip64_20.02.12.112_arm64
   linux-dtb-dev-rockchip64_20.02.11.102_arm64
@@ -5620,6 +5699,7 @@
   linux-dtb-dev-rockchip64_20.02.9.098_arm64
   linux-dtb-dev-rockchip64_20.02.9.097_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-dtb-dev-sunxi_20.02.12.114_armhf
   linux-dtb-dev-sunxi_20.02.12.113_armhf
   linux-dtb-dev-sunxi_20.02.12.112_armhf
   linux-dtb-dev-sunxi_20.02.11.102_armhf
@@ -5627,6 +5707,7 @@
   linux-dtb-dev-sunxi_20.02.11_armhf
   linux-dtb-dev-sunxi_20.02.9.097_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-sunxi64_20.02.12.114_arm64
   linux-dtb-dev-sunxi64_20.02.12.113_arm64
   linux-dtb-dev-sunxi64_20.02.12.112_arm64
   linux-dtb-dev-sunxi64_20.02.11.102_arm64
@@ -5790,42 +5871,49 @@
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
   linux-headers-dev-meson_20.02.11.102_armhf
   linux-headers-dev-meson_20.02.11.101_armhf
   linux-headers-dev-meson_20.02.9.097_armhf
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
   linux-headers-dev-meson64_20.02.11.102_arm64
   linux-headers-dev-meson64_20.02.11.101_arm64
   linux-headers-dev-meson64_20.02.9.097_arm64
   linux-headers-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-headers-dev-mvebu_20.02.12.114_armhf
   linux-headers-dev-mvebu_20.02.12.113_armhf
   linux-headers-dev-mvebu_20.02.12.112_armhf
   linux-headers-dev-mvebu_20.02.11.102_armhf
   linux-headers-dev-mvebu_20.02.11.101_armhf
   linux-headers-dev-mvebu_20.02.9.097_armhf
   linux-headers-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-headers-dev-mvebu64_20.02.12.114_arm64
   linux-headers-dev-mvebu64_20.02.12.113_arm64
   linux-headers-dev-mvebu64_20.02.12.112_arm64
   linux-headers-dev-mvebu64_20.02.11.102_arm64
   linux-headers-dev-mvebu64_20.02.11.101_arm64
   linux-headers-dev-mvebu64_20.02.9.097_arm64
   linux-headers-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-headers-dev-odroidxu4_20.02.12.114_armhf
   linux-headers-dev-odroidxu4_20.02.12.113_armhf
   linux-headers-dev-odroidxu4_20.02.12.112_armhf
   linux-headers-dev-odroidxu4_20.02.11.102_armhf
   linux-headers-dev-odroidxu4_20.02.11.101_armhf
   linux-headers-dev-odroidxu4_20.02.9.097_armhf
   linux-headers-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-headers-dev-rockchip_20.02.12.114_armhf
   linux-headers-dev-rockchip_20.02.12.113_armhf
   linux-headers-dev-rockchip_20.02.12.112_armhf
   linux-headers-dev-rockchip_20.02.11.102_armhf
   linux-headers-dev-rockchip_20.02.11.101_armhf
   linux-headers-dev-rockchip_20.02.9.097_armhf
   linux-headers-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-headers-dev-rockchip64_20.02.12.114_arm64
   linux-headers-dev-rockchip64_20.02.12.113_arm64
   linux-headers-dev-rockchip64_20.02.12.112_arm64
   linux-headers-dev-rockchip64_20.02.11.102_arm64
@@ -5834,6 +5922,7 @@
   linux-headers-dev-rockchip64_20.02.9.098_arm64
   linux-headers-dev-rockchip64_20.02.9.097_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-headers-dev-sunxi_20.02.12.114_armhf
   linux-headers-dev-sunxi_20.02.12.113_armhf
   linux-headers-dev-sunxi_20.02.12.112_armhf
   linux-headers-dev-sunxi_20.02.11.102_armhf
@@ -5841,6 +5930,7 @@
   linux-headers-dev-sunxi_20.02.11_armhf
   linux-headers-dev-sunxi_20.02.9.097_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-headers-dev-sunxi64_20.02.12.114_arm64
   linux-headers-dev-sunxi64_20.02.12.113_arm64
   linux-headers-dev-sunxi64_20.02.12.112_arm64
   linux-headers-dev-sunxi64_20.02.11.102_arm64
@@ -6015,42 +6105,49 @@
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
   linux-image-dev-meson_20.02.11.102_armhf
   linux-image-dev-meson_20.02.11.101_armhf
   linux-image-dev-meson_20.02.9.097_armhf
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
   linux-image-dev-meson64_20.02.11.102_arm64
   linux-image-dev-meson64_20.02.11.101_arm64
   linux-image-dev-meson64_20.02.9.097_arm64
   linux-image-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-image-dev-mvebu_20.02.12.114_armhf
   linux-image-dev-mvebu_20.02.12.113_armhf
   linux-image-dev-mvebu_20.02.12.112_armhf
   linux-image-dev-mvebu_20.02.11.102_armhf
   linux-image-dev-mvebu_20.02.11.101_armhf
   linux-image-dev-mvebu_20.02.9.097_armhf
   linux-image-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-image-dev-mvebu64_20.02.12.114_arm64
   linux-image-dev-mvebu64_20.02.12.113_arm64
   linux-image-dev-mvebu64_20.02.12.112_arm64
   linux-image-dev-mvebu64_20.02.11.102_arm64
   linux-image-dev-mvebu64_20.02.11.101_arm64
   linux-image-dev-mvebu64_20.02.9.097_arm64
   linux-image-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-image-dev-odroidxu4_20.02.12.114_armhf
   linux-image-dev-odroidxu4_20.02.12.113_armhf
   linux-image-dev-odroidxu4_20.02.12.112_armhf
   linux-image-dev-odroidxu4_20.02.11.102_armhf
   linux-image-dev-odroidxu4_20.02.11.101_armhf
   linux-image-dev-odroidxu4_20.02.9.097_armhf
   linux-image-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-image-dev-rockchip_20.02.12.114_armhf
   linux-image-dev-rockchip_20.02.12.113_armhf
   linux-image-dev-rockchip_20.02.12.112_armhf
   linux-image-dev-rockchip_20.02.11.102_armhf
   linux-image-dev-rockchip_20.02.11.101_armhf
   linux-image-dev-rockchip_20.02.9.097_armhf
   linux-image-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-image-dev-rockchip64_20.02.12.114_arm64
   linux-image-dev-rockchip64_20.02.12.113_arm64
   linux-image-dev-rockchip64_20.02.12.112_arm64
   linux-image-dev-rockchip64_20.02.11.102_arm64
@@ -6059,6 +6156,7 @@
   linux-image-dev-rockchip64_20.02.9.098_arm64
   linux-image-dev-rockchip64_20.02.9.097_arm64
   linux-image-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-image-dev-sunxi_20.02.12.114_armhf
   linux-image-dev-sunxi_20.02.12.113_armhf
   linux-image-dev-sunxi_20.02.12.112_armhf
   linux-image-dev-sunxi_20.02.11.102_armhf
@@ -6066,6 +6164,7 @@
   linux-image-dev-sunxi_20.02.11_armhf
   linux-image-dev-sunxi_20.02.9.097_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-image-dev-sunxi64_20.02.12.114_arm64
   linux-image-dev-sunxi64_20.02.12.113_arm64
   linux-image-dev-sunxi64_20.02.12.112_arm64
   linux-image-dev-sunxi64_20.02.11.102_arm64
@@ -6397,7 +6496,9 @@
   linux-source-5.4.33-dev-meson_5.4.33-dev-meson+20.02.12.112_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.05.0-trunk.111_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.02.12.112_all
+  linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.114_all
   linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.113_all
+  linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.114_all
   linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.113_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -6407,6 +6508,7 @@
   linux-source-5.5.16-dev-rockchip_5.5.16-dev-rockchip+20.02.11.101_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.05.0-trunk.111_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.02.12.112_all
+  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.114_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.113_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
   linux-source-5.6.2-dev-odroidxu4_5.6.2-dev-odroidxu4+20.02.9.097_all
@@ -6437,14 +6539,20 @@
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.05.0-trunk.111_all
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.112_all
+  linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.114_all
   linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.113_all
+  linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.114_all
   linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.113_all
+  linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.114_all
   linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.113_all
+  linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.114_all
   linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.113_all
   linux-u-boot-armada-default_5.23_armhf
   linux-u-boot-armada-default_5.22_armhf
@@ -7747,42 +7855,49 @@
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-current-sunxi64_19.11.3_arm64
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
   linux-dtb-dev-meson_20.02.11.102_armhf
   linux-dtb-dev-meson_20.02.11.101_armhf
   linux-dtb-dev-meson_20.02.9.097_armhf
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
   linux-dtb-dev-meson64_20.02.11.102_arm64
   linux-dtb-dev-meson64_20.02.11.101_arm64
   linux-dtb-dev-meson64_20.02.9.097_arm64
   linux-dtb-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-dtb-dev-mvebu_20.02.12.114_armhf
   linux-dtb-dev-mvebu_20.02.12.113_armhf
   linux-dtb-dev-mvebu_20.02.12.112_armhf
   linux-dtb-dev-mvebu_20.02.11.102_armhf
   linux-dtb-dev-mvebu_20.02.11.101_armhf
   linux-dtb-dev-mvebu_20.02.9.097_armhf
   linux-dtb-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-mvebu64_20.02.12.114_arm64
   linux-dtb-dev-mvebu64_20.02.12.113_arm64
   linux-dtb-dev-mvebu64_20.02.12.112_arm64
   linux-dtb-dev-mvebu64_20.02.11.102_arm64
   linux-dtb-dev-mvebu64_20.02.11.101_arm64
   linux-dtb-dev-mvebu64_20.02.9.097_arm64
   linux-dtb-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-dtb-dev-odroidxu4_20.02.12.114_armhf
   linux-dtb-dev-odroidxu4_20.02.12.113_armhf
   linux-dtb-dev-odroidxu4_20.02.12.112_armhf
   linux-dtb-dev-odroidxu4_20.02.11.102_armhf
   linux-dtb-dev-odroidxu4_20.02.11.101_armhf
   linux-dtb-dev-odroidxu4_20.02.9.097_armhf
   linux-dtb-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-dtb-dev-rockchip_20.02.12.114_armhf
   linux-dtb-dev-rockchip_20.02.12.113_armhf
   linux-dtb-dev-rockchip_20.02.12.112_armhf
   linux-dtb-dev-rockchip_20.02.11.102_armhf
   linux-dtb-dev-rockchip_20.02.11.101_armhf
   linux-dtb-dev-rockchip_20.02.9.097_armhf
   linux-dtb-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-rockchip64_20.02.12.114_arm64
   linux-dtb-dev-rockchip64_20.02.12.113_arm64
   linux-dtb-dev-rockchip64_20.02.12.112_arm64
   linux-dtb-dev-rockchip64_20.02.11.102_arm64
@@ -7791,6 +7906,7 @@
   linux-dtb-dev-rockchip64_20.02.9.098_arm64
   linux-dtb-dev-rockchip64_20.02.9.097_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-dtb-dev-sunxi_20.02.12.114_armhf
   linux-dtb-dev-sunxi_20.02.12.113_armhf
   linux-dtb-dev-sunxi_20.02.12.112_armhf
   linux-dtb-dev-sunxi_20.02.11.102_armhf
@@ -7798,6 +7914,7 @@
   linux-dtb-dev-sunxi_20.02.11_armhf
   linux-dtb-dev-sunxi_20.02.9.097_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-sunxi64_20.02.12.114_arm64
   linux-dtb-dev-sunxi64_20.02.12.113_arm64
   linux-dtb-dev-sunxi64_20.02.12.112_arm64
   linux-dtb-dev-sunxi64_20.02.11.102_arm64
@@ -7917,42 +8034,49 @@
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-current-sunxi64_19.11.3_arm64
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
   linux-headers-dev-meson_20.02.11.102_armhf
   linux-headers-dev-meson_20.02.11.101_armhf
   linux-headers-dev-meson_20.02.9.097_armhf
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
   linux-headers-dev-meson64_20.02.11.102_arm64
   linux-headers-dev-meson64_20.02.11.101_arm64
   linux-headers-dev-meson64_20.02.9.097_arm64
   linux-headers-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-headers-dev-mvebu_20.02.12.114_armhf
   linux-headers-dev-mvebu_20.02.12.113_armhf
   linux-headers-dev-mvebu_20.02.12.112_armhf
   linux-headers-dev-mvebu_20.02.11.102_armhf
   linux-headers-dev-mvebu_20.02.11.101_armhf
   linux-headers-dev-mvebu_20.02.9.097_armhf
   linux-headers-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-headers-dev-mvebu64_20.02.12.114_arm64
   linux-headers-dev-mvebu64_20.02.12.113_arm64
   linux-headers-dev-mvebu64_20.02.12.112_arm64
   linux-headers-dev-mvebu64_20.02.11.102_arm64
   linux-headers-dev-mvebu64_20.02.11.101_arm64
   linux-headers-dev-mvebu64_20.02.9.097_arm64
   linux-headers-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-headers-dev-odroidxu4_20.02.12.114_armhf
   linux-headers-dev-odroidxu4_20.02.12.113_armhf
   linux-headers-dev-odroidxu4_20.02.12.112_armhf
   linux-headers-dev-odroidxu4_20.02.11.102_armhf
   linux-headers-dev-odroidxu4_20.02.11.101_armhf
   linux-headers-dev-odroidxu4_20.02.9.097_armhf
   linux-headers-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-headers-dev-rockchip_20.02.12.114_armhf
   linux-headers-dev-rockchip_20.02.12.113_armhf
   linux-headers-dev-rockchip_20.02.12.112_armhf
   linux-headers-dev-rockchip_20.02.11.102_armhf
   linux-headers-dev-rockchip_20.02.11.101_armhf
   linux-headers-dev-rockchip_20.02.9.097_armhf
   linux-headers-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-headers-dev-rockchip64_20.02.12.114_arm64
   linux-headers-dev-rockchip64_20.02.12.113_arm64
   linux-headers-dev-rockchip64_20.02.12.112_arm64
   linux-headers-dev-rockchip64_20.02.11.102_arm64
@@ -7961,6 +8085,7 @@
   linux-headers-dev-rockchip64_20.02.9.098_arm64
   linux-headers-dev-rockchip64_20.02.9.097_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-headers-dev-sunxi_20.02.12.114_armhf
   linux-headers-dev-sunxi_20.02.12.113_armhf
   linux-headers-dev-sunxi_20.02.12.112_armhf
   linux-headers-dev-sunxi_20.02.11.102_armhf
@@ -7968,6 +8093,7 @@
   linux-headers-dev-sunxi_20.02.11_armhf
   linux-headers-dev-sunxi_20.02.9.097_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-headers-dev-sunxi64_20.02.12.114_arm64
   linux-headers-dev-sunxi64_20.02.12.113_arm64
   linux-headers-dev-sunxi64_20.02.12.112_arm64
   linux-headers-dev-sunxi64_20.02.11.102_arm64
@@ -8087,42 +8213,49 @@
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-current-sunxi64_19.11.3_arm64
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
   linux-image-dev-meson_20.02.11.102_armhf
   linux-image-dev-meson_20.02.11.101_armhf
   linux-image-dev-meson_20.02.9.097_armhf
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
   linux-image-dev-meson64_20.02.11.102_arm64
   linux-image-dev-meson64_20.02.11.101_arm64
   linux-image-dev-meson64_20.02.9.097_arm64
   linux-image-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-image-dev-mvebu_20.02.12.114_armhf
   linux-image-dev-mvebu_20.02.12.113_armhf
   linux-image-dev-mvebu_20.02.12.112_armhf
   linux-image-dev-mvebu_20.02.11.102_armhf
   linux-image-dev-mvebu_20.02.11.101_armhf
   linux-image-dev-mvebu_20.02.9.097_armhf
   linux-image-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-image-dev-mvebu64_20.02.12.114_arm64
   linux-image-dev-mvebu64_20.02.12.113_arm64
   linux-image-dev-mvebu64_20.02.12.112_arm64
   linux-image-dev-mvebu64_20.02.11.102_arm64
   linux-image-dev-mvebu64_20.02.11.101_arm64
   linux-image-dev-mvebu64_20.02.9.097_arm64
   linux-image-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-image-dev-odroidxu4_20.02.12.114_armhf
   linux-image-dev-odroidxu4_20.02.12.113_armhf
   linux-image-dev-odroidxu4_20.02.12.112_armhf
   linux-image-dev-odroidxu4_20.02.11.102_armhf
   linux-image-dev-odroidxu4_20.02.11.101_armhf
   linux-image-dev-odroidxu4_20.02.9.097_armhf
   linux-image-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-image-dev-rockchip_20.02.12.114_armhf
   linux-image-dev-rockchip_20.02.12.113_armhf
   linux-image-dev-rockchip_20.02.12.112_armhf
   linux-image-dev-rockchip_20.02.11.102_armhf
   linux-image-dev-rockchip_20.02.11.101_armhf
   linux-image-dev-rockchip_20.02.9.097_armhf
   linux-image-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-image-dev-rockchip64_20.02.12.114_arm64
   linux-image-dev-rockchip64_20.02.12.113_arm64
   linux-image-dev-rockchip64_20.02.12.112_arm64
   linux-image-dev-rockchip64_20.02.11.102_arm64
@@ -8131,6 +8264,7 @@
   linux-image-dev-rockchip64_20.02.9.098_arm64
   linux-image-dev-rockchip64_20.02.9.097_arm64
   linux-image-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-image-dev-sunxi_20.02.12.114_armhf
   linux-image-dev-sunxi_20.02.12.113_armhf
   linux-image-dev-sunxi_20.02.12.112_armhf
   linux-image-dev-sunxi_20.02.11.102_armhf
@@ -8138,6 +8272,7 @@
   linux-image-dev-sunxi_20.02.11_armhf
   linux-image-dev-sunxi_20.02.9.097_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-image-dev-sunxi64_20.02.12.114_arm64
   linux-image-dev-sunxi64_20.02.12.113_arm64
   linux-image-dev-sunxi64_20.02.12.112_arm64
   linux-image-dev-sunxi64_20.02.11.102_arm64
@@ -8332,7 +8467,9 @@
   linux-source-5.4.33-dev-meson_5.4.33-dev-meson+20.02.12.112_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.05.0-trunk.111_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.02.12.112_all
+  linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.114_all
   linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.113_all
+  linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.114_all
   linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.113_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -8342,6 +8479,7 @@
   linux-source-5.5.16-dev-rockchip_5.5.16-dev-rockchip+20.02.11.101_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.05.0-trunk.111_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.02.12.112_all
+  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.114_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.113_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
   linux-source-5.6.2-dev-odroidxu4_5.6.2-dev-odroidxu4+20.02.9.097_all
@@ -8372,14 +8510,20 @@
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.05.0-trunk.111_all
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.112_all
+  linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.114_all
   linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.113_all
+  linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.114_all
   linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.113_all
+  linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.114_all
   linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.113_all
+  linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.114_all
   linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.113_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
@@ -8910,42 +9054,49 @@
   linux-dtb-current-sunxi64_20.02.7_arm64
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
   linux-dtb-dev-meson_20.02.11.102_armhf
   linux-dtb-dev-meson_20.02.11.101_armhf
   linux-dtb-dev-meson_20.02.9.097_armhf
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
   linux-dtb-dev-meson64_20.02.11.102_arm64
   linux-dtb-dev-meson64_20.02.11.101_arm64
   linux-dtb-dev-meson64_20.02.9.097_arm64
   linux-dtb-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-dtb-dev-mvebu_20.02.12.114_armhf
   linux-dtb-dev-mvebu_20.02.12.113_armhf
   linux-dtb-dev-mvebu_20.02.12.112_armhf
   linux-dtb-dev-mvebu_20.02.11.102_armhf
   linux-dtb-dev-mvebu_20.02.11.101_armhf
   linux-dtb-dev-mvebu_20.02.9.097_armhf
   linux-dtb-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-mvebu64_20.02.12.114_arm64
   linux-dtb-dev-mvebu64_20.02.12.113_arm64
   linux-dtb-dev-mvebu64_20.02.12.112_arm64
   linux-dtb-dev-mvebu64_20.02.11.102_arm64
   linux-dtb-dev-mvebu64_20.02.11.101_arm64
   linux-dtb-dev-mvebu64_20.02.9.097_arm64
   linux-dtb-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-dtb-dev-odroidxu4_20.02.12.114_armhf
   linux-dtb-dev-odroidxu4_20.02.12.113_armhf
   linux-dtb-dev-odroidxu4_20.02.12.112_armhf
   linux-dtb-dev-odroidxu4_20.02.11.102_armhf
   linux-dtb-dev-odroidxu4_20.02.11.101_armhf
   linux-dtb-dev-odroidxu4_20.02.9.097_armhf
   linux-dtb-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-dtb-dev-rockchip_20.02.12.114_armhf
   linux-dtb-dev-rockchip_20.02.12.113_armhf
   linux-dtb-dev-rockchip_20.02.12.112_armhf
   linux-dtb-dev-rockchip_20.02.11.102_armhf
   linux-dtb-dev-rockchip_20.02.11.101_armhf
   linux-dtb-dev-rockchip_20.02.9.097_armhf
   linux-dtb-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-rockchip64_20.02.12.114_arm64
   linux-dtb-dev-rockchip64_20.02.12.113_arm64
   linux-dtb-dev-rockchip64_20.02.12.112_arm64
   linux-dtb-dev-rockchip64_20.02.11.102_arm64
@@ -8954,6 +9105,7 @@
   linux-dtb-dev-rockchip64_20.02.9.098_arm64
   linux-dtb-dev-rockchip64_20.02.9.097_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-dtb-dev-sunxi_20.02.12.114_armhf
   linux-dtb-dev-sunxi_20.02.12.113_armhf
   linux-dtb-dev-sunxi_20.02.12.112_armhf
   linux-dtb-dev-sunxi_20.02.11.102_armhf
@@ -8961,6 +9113,7 @@
   linux-dtb-dev-sunxi_20.02.11_armhf
   linux-dtb-dev-sunxi_20.02.9.097_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-sunxi64_20.02.12.114_arm64
   linux-dtb-dev-sunxi64_20.02.12.113_arm64
   linux-dtb-dev-sunxi64_20.02.12.112_arm64
   linux-dtb-dev-sunxi64_20.02.11.102_arm64
@@ -9241,42 +9394,49 @@
   linux-headers-current-sunxi64_20.02.7_arm64
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
   linux-headers-dev-meson_20.02.11.102_armhf
   linux-headers-dev-meson_20.02.11.101_armhf
   linux-headers-dev-meson_20.02.9.097_armhf
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
   linux-headers-dev-meson64_20.02.11.102_arm64
   linux-headers-dev-meson64_20.02.11.101_arm64
   linux-headers-dev-meson64_20.02.9.097_arm64
   linux-headers-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-headers-dev-mvebu_20.02.12.114_armhf
   linux-headers-dev-mvebu_20.02.12.113_armhf
   linux-headers-dev-mvebu_20.02.12.112_armhf
   linux-headers-dev-mvebu_20.02.11.102_armhf
   linux-headers-dev-mvebu_20.02.11.101_armhf
   linux-headers-dev-mvebu_20.02.9.097_armhf
   linux-headers-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-headers-dev-mvebu64_20.02.12.114_arm64
   linux-headers-dev-mvebu64_20.02.12.113_arm64
   linux-headers-dev-mvebu64_20.02.12.112_arm64
   linux-headers-dev-mvebu64_20.02.11.102_arm64
   linux-headers-dev-mvebu64_20.02.11.101_arm64
   linux-headers-dev-mvebu64_20.02.9.097_arm64
   linux-headers-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-headers-dev-odroidxu4_20.02.12.114_armhf
   linux-headers-dev-odroidxu4_20.02.12.113_armhf
   linux-headers-dev-odroidxu4_20.02.12.112_armhf
   linux-headers-dev-odroidxu4_20.02.11.102_armhf
   linux-headers-dev-odroidxu4_20.02.11.101_armhf
   linux-headers-dev-odroidxu4_20.02.9.097_armhf
   linux-headers-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-headers-dev-rockchip_20.02.12.114_armhf
   linux-headers-dev-rockchip_20.02.12.113_armhf
   linux-headers-dev-rockchip_20.02.12.112_armhf
   linux-headers-dev-rockchip_20.02.11.102_armhf
   linux-headers-dev-rockchip_20.02.11.101_armhf
   linux-headers-dev-rockchip_20.02.9.097_armhf
   linux-headers-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-headers-dev-rockchip64_20.02.12.114_arm64
   linux-headers-dev-rockchip64_20.02.12.113_arm64
   linux-headers-dev-rockchip64_20.02.12.112_arm64
   linux-headers-dev-rockchip64_20.02.11.102_arm64
@@ -9285,6 +9445,7 @@
   linux-headers-dev-rockchip64_20.02.9.098_arm64
   linux-headers-dev-rockchip64_20.02.9.097_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-headers-dev-sunxi_20.02.12.114_armhf
   linux-headers-dev-sunxi_20.02.12.113_armhf
   linux-headers-dev-sunxi_20.02.12.112_armhf
   linux-headers-dev-sunxi_20.02.11.102_armhf
@@ -9292,6 +9453,7 @@
   linux-headers-dev-sunxi_20.02.11_armhf
   linux-headers-dev-sunxi_20.02.9.097_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-headers-dev-sunxi64_20.02.12.114_arm64
   linux-headers-dev-sunxi64_20.02.12.113_arm64
   linux-headers-dev-sunxi64_20.02.12.112_arm64
   linux-headers-dev-sunxi64_20.02.11.102_arm64
@@ -9359,42 +9521,49 @@
   linux-image-current-sunxi64_20.02.7_arm64
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
   linux-image-dev-meson_20.02.11.102_armhf
   linux-image-dev-meson_20.02.11.101_armhf
   linux-image-dev-meson_20.02.9.097_armhf
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
   linux-image-dev-meson64_20.02.11.102_arm64
   linux-image-dev-meson64_20.02.11.101_arm64
   linux-image-dev-meson64_20.02.9.097_arm64
   linux-image-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-image-dev-mvebu_20.02.12.114_armhf
   linux-image-dev-mvebu_20.02.12.113_armhf
   linux-image-dev-mvebu_20.02.12.112_armhf
   linux-image-dev-mvebu_20.02.11.102_armhf
   linux-image-dev-mvebu_20.02.11.101_armhf
   linux-image-dev-mvebu_20.02.9.097_armhf
   linux-image-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-image-dev-mvebu64_20.02.12.114_arm64
   linux-image-dev-mvebu64_20.02.12.113_arm64
   linux-image-dev-mvebu64_20.02.12.112_arm64
   linux-image-dev-mvebu64_20.02.11.102_arm64
   linux-image-dev-mvebu64_20.02.11.101_arm64
   linux-image-dev-mvebu64_20.02.9.097_arm64
   linux-image-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-image-dev-odroidxu4_20.02.12.114_armhf
   linux-image-dev-odroidxu4_20.02.12.113_armhf
   linux-image-dev-odroidxu4_20.02.12.112_armhf
   linux-image-dev-odroidxu4_20.02.11.102_armhf
   linux-image-dev-odroidxu4_20.02.11.101_armhf
   linux-image-dev-odroidxu4_20.02.9.097_armhf
   linux-image-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-image-dev-rockchip_20.02.12.114_armhf
   linux-image-dev-rockchip_20.02.12.113_armhf
   linux-image-dev-rockchip_20.02.12.112_armhf
   linux-image-dev-rockchip_20.02.11.102_armhf
   linux-image-dev-rockchip_20.02.11.101_armhf
   linux-image-dev-rockchip_20.02.9.097_armhf
   linux-image-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-image-dev-rockchip64_20.02.12.114_arm64
   linux-image-dev-rockchip64_20.02.12.113_arm64
   linux-image-dev-rockchip64_20.02.12.112_arm64
   linux-image-dev-rockchip64_20.02.11.102_arm64
@@ -9403,6 +9572,7 @@
   linux-image-dev-rockchip64_20.02.9.098_arm64
   linux-image-dev-rockchip64_20.02.9.097_arm64
   linux-image-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-image-dev-sunxi_20.02.12.114_armhf
   linux-image-dev-sunxi_20.02.12.113_armhf
   linux-image-dev-sunxi_20.02.12.112_armhf
   linux-image-dev-sunxi_20.02.11.102_armhf
@@ -9410,6 +9580,7 @@
   linux-image-dev-sunxi_20.02.11_armhf
   linux-image-dev-sunxi_20.02.9.097_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-image-dev-sunxi64_20.02.12.114_arm64
   linux-image-dev-sunxi64_20.02.12.113_arm64
   linux-image-dev-sunxi64_20.02.12.112_arm64
   linux-image-dev-sunxi64_20.02.11.102_arm64
@@ -9506,7 +9677,9 @@
   linux-source-5.4.33-dev-meson_5.4.33-dev-meson+20.02.12.112_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.05.0-trunk.111_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.02.12.112_all
+  linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.114_all
   linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.113_all
+  linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.114_all
   linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.113_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -9516,6 +9689,7 @@
   linux-source-5.5.16-dev-rockchip_5.5.16-dev-rockchip+20.02.11.101_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.05.0-trunk.111_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.02.12.112_all
+  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.114_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.113_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
   linux-source-5.6.2-dev-odroidxu4_5.6.2-dev-odroidxu4+20.02.9.097_all
@@ -9546,14 +9720,20 @@
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.05.0-trunk.111_all
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.112_all
+  linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.114_all
   linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.113_all
+  linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.114_all
   linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.113_all
+  linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.114_all
   linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.113_all
+  linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.114_all
   linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.113_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
@@ -10042,42 +10222,49 @@
   linux-dtb-current-sunxi64_20.02.7_arm64
   linux-dtb-current-sunxi64_20.02.1_arm64
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
   linux-dtb-dev-meson_20.02.11.102_armhf
   linux-dtb-dev-meson_20.02.11.101_armhf
   linux-dtb-dev-meson_20.02.9.097_armhf
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
   linux-dtb-dev-meson64_20.02.11.102_arm64
   linux-dtb-dev-meson64_20.02.11.101_arm64
   linux-dtb-dev-meson64_20.02.9.097_arm64
   linux-dtb-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-dtb-dev-mvebu_20.02.12.114_armhf
   linux-dtb-dev-mvebu_20.02.12.113_armhf
   linux-dtb-dev-mvebu_20.02.12.112_armhf
   linux-dtb-dev-mvebu_20.02.11.102_armhf
   linux-dtb-dev-mvebu_20.02.11.101_armhf
   linux-dtb-dev-mvebu_20.02.9.097_armhf
   linux-dtb-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-mvebu64_20.02.12.114_arm64
   linux-dtb-dev-mvebu64_20.02.12.113_arm64
   linux-dtb-dev-mvebu64_20.02.12.112_arm64
   linux-dtb-dev-mvebu64_20.02.11.102_arm64
   linux-dtb-dev-mvebu64_20.02.11.101_arm64
   linux-dtb-dev-mvebu64_20.02.9.097_arm64
   linux-dtb-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-dtb-dev-odroidxu4_20.02.12.114_armhf
   linux-dtb-dev-odroidxu4_20.02.12.113_armhf
   linux-dtb-dev-odroidxu4_20.02.12.112_armhf
   linux-dtb-dev-odroidxu4_20.02.11.102_armhf
   linux-dtb-dev-odroidxu4_20.02.11.101_armhf
   linux-dtb-dev-odroidxu4_20.02.9.097_armhf
   linux-dtb-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-dtb-dev-rockchip_20.02.12.114_armhf
   linux-dtb-dev-rockchip_20.02.12.113_armhf
   linux-dtb-dev-rockchip_20.02.12.112_armhf
   linux-dtb-dev-rockchip_20.02.11.102_armhf
   linux-dtb-dev-rockchip_20.02.11.101_armhf
   linux-dtb-dev-rockchip_20.02.9.097_armhf
   linux-dtb-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-rockchip64_20.02.12.114_arm64
   linux-dtb-dev-rockchip64_20.02.12.113_arm64
   linux-dtb-dev-rockchip64_20.02.12.112_arm64
   linux-dtb-dev-rockchip64_20.02.11.102_arm64
@@ -10086,6 +10273,7 @@
   linux-dtb-dev-rockchip64_20.02.9.098_arm64
   linux-dtb-dev-rockchip64_20.02.9.097_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-dtb-dev-sunxi_20.02.12.114_armhf
   linux-dtb-dev-sunxi_20.02.12.113_armhf
   linux-dtb-dev-sunxi_20.02.12.112_armhf
   linux-dtb-dev-sunxi_20.02.11.102_armhf
@@ -10093,6 +10281,7 @@
   linux-dtb-dev-sunxi_20.02.11_armhf
   linux-dtb-dev-sunxi_20.02.9.097_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-sunxi64_20.02.12.114_arm64
   linux-dtb-dev-sunxi64_20.02.12.113_arm64
   linux-dtb-dev-sunxi64_20.02.12.112_arm64
   linux-dtb-dev-sunxi64_20.02.11.102_arm64
@@ -10160,42 +10349,49 @@
   linux-headers-current-sunxi64_20.02.7_arm64
   linux-headers-current-sunxi64_20.02.1_arm64
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
   linux-headers-dev-meson_20.02.11.102_armhf
   linux-headers-dev-meson_20.02.11.101_armhf
   linux-headers-dev-meson_20.02.9.097_armhf
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
   linux-headers-dev-meson64_20.02.11.102_arm64
   linux-headers-dev-meson64_20.02.11.101_arm64
   linux-headers-dev-meson64_20.02.9.097_arm64
   linux-headers-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-headers-dev-mvebu_20.02.12.114_armhf
   linux-headers-dev-mvebu_20.02.12.113_armhf
   linux-headers-dev-mvebu_20.02.12.112_armhf
   linux-headers-dev-mvebu_20.02.11.102_armhf
   linux-headers-dev-mvebu_20.02.11.101_armhf
   linux-headers-dev-mvebu_20.02.9.097_armhf
   linux-headers-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-headers-dev-mvebu64_20.02.12.114_arm64
   linux-headers-dev-mvebu64_20.02.12.113_arm64
   linux-headers-dev-mvebu64_20.02.12.112_arm64
   linux-headers-dev-mvebu64_20.02.11.102_arm64
   linux-headers-dev-mvebu64_20.02.11.101_arm64
   linux-headers-dev-mvebu64_20.02.9.097_arm64
   linux-headers-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-headers-dev-odroidxu4_20.02.12.114_armhf
   linux-headers-dev-odroidxu4_20.02.12.113_armhf
   linux-headers-dev-odroidxu4_20.02.12.112_armhf
   linux-headers-dev-odroidxu4_20.02.11.102_armhf
   linux-headers-dev-odroidxu4_20.02.11.101_armhf
   linux-headers-dev-odroidxu4_20.02.9.097_armhf
   linux-headers-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-headers-dev-rockchip_20.02.12.114_armhf
   linux-headers-dev-rockchip_20.02.12.113_armhf
   linux-headers-dev-rockchip_20.02.12.112_armhf
   linux-headers-dev-rockchip_20.02.11.102_armhf
   linux-headers-dev-rockchip_20.02.11.101_armhf
   linux-headers-dev-rockchip_20.02.9.097_armhf
   linux-headers-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-headers-dev-rockchip64_20.02.12.114_arm64
   linux-headers-dev-rockchip64_20.02.12.113_arm64
   linux-headers-dev-rockchip64_20.02.12.112_arm64
   linux-headers-dev-rockchip64_20.02.11.102_arm64
@@ -10204,6 +10400,7 @@
   linux-headers-dev-rockchip64_20.02.9.098_arm64
   linux-headers-dev-rockchip64_20.02.9.097_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-headers-dev-sunxi_20.02.12.114_armhf
   linux-headers-dev-sunxi_20.02.12.113_armhf
   linux-headers-dev-sunxi_20.02.12.112_armhf
   linux-headers-dev-sunxi_20.02.11.102_armhf
@@ -10211,6 +10408,7 @@
   linux-headers-dev-sunxi_20.02.11_armhf
   linux-headers-dev-sunxi_20.02.9.097_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-headers-dev-sunxi64_20.02.12.114_arm64
   linux-headers-dev-sunxi64_20.02.12.113_arm64
   linux-headers-dev-sunxi64_20.02.12.112_arm64
   linux-headers-dev-sunxi64_20.02.11.102_arm64
@@ -10278,42 +10476,49 @@
   linux-image-current-sunxi64_20.02.7_arm64
   linux-image-current-sunxi64_20.02.1_arm64
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
   linux-image-dev-meson_20.02.11.102_armhf
   linux-image-dev-meson_20.02.11.101_armhf
   linux-image-dev-meson_20.02.9.097_armhf
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
   linux-image-dev-meson64_20.02.11.102_arm64
   linux-image-dev-meson64_20.02.11.101_arm64
   linux-image-dev-meson64_20.02.9.097_arm64
   linux-image-dev-mvebu_20.05.0-trunk.111_armhf
+  linux-image-dev-mvebu_20.02.12.114_armhf
   linux-image-dev-mvebu_20.02.12.113_armhf
   linux-image-dev-mvebu_20.02.12.112_armhf
   linux-image-dev-mvebu_20.02.11.102_armhf
   linux-image-dev-mvebu_20.02.11.101_armhf
   linux-image-dev-mvebu_20.02.9.097_armhf
   linux-image-dev-mvebu64_20.05.0-trunk.111_arm64
+  linux-image-dev-mvebu64_20.02.12.114_arm64
   linux-image-dev-mvebu64_20.02.12.113_arm64
   linux-image-dev-mvebu64_20.02.12.112_arm64
   linux-image-dev-mvebu64_20.02.11.102_arm64
   linux-image-dev-mvebu64_20.02.11.101_arm64
   linux-image-dev-mvebu64_20.02.9.097_arm64
   linux-image-dev-odroidxu4_20.05.0-trunk.111_armhf
+  linux-image-dev-odroidxu4_20.02.12.114_armhf
   linux-image-dev-odroidxu4_20.02.12.113_armhf
   linux-image-dev-odroidxu4_20.02.12.112_armhf
   linux-image-dev-odroidxu4_20.02.11.102_armhf
   linux-image-dev-odroidxu4_20.02.11.101_armhf
   linux-image-dev-odroidxu4_20.02.9.097_armhf
   linux-image-dev-rockchip_20.05.0-trunk.111_armhf
+  linux-image-dev-rockchip_20.02.12.114_armhf
   linux-image-dev-rockchip_20.02.12.113_armhf
   linux-image-dev-rockchip_20.02.12.112_armhf
   linux-image-dev-rockchip_20.02.11.102_armhf
   linux-image-dev-rockchip_20.02.11.101_armhf
   linux-image-dev-rockchip_20.02.9.097_armhf
   linux-image-dev-rockchip64_20.05.0-trunk.111_arm64
+  linux-image-dev-rockchip64_20.02.12.114_arm64
   linux-image-dev-rockchip64_20.02.12.113_arm64
   linux-image-dev-rockchip64_20.02.12.112_arm64
   linux-image-dev-rockchip64_20.02.11.102_arm64
@@ -10322,6 +10527,7 @@
   linux-image-dev-rockchip64_20.02.9.098_arm64
   linux-image-dev-rockchip64_20.02.9.097_arm64
   linux-image-dev-sunxi_20.05.0-trunk.111_armhf
+  linux-image-dev-sunxi_20.02.12.114_armhf
   linux-image-dev-sunxi_20.02.12.113_armhf
   linux-image-dev-sunxi_20.02.12.112_armhf
   linux-image-dev-sunxi_20.02.11.102_armhf
@@ -10329,6 +10535,7 @@
   linux-image-dev-sunxi_20.02.11_armhf
   linux-image-dev-sunxi_20.02.9.097_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.111_arm64
+  linux-image-dev-sunxi64_20.02.12.114_arm64
   linux-image-dev-sunxi64_20.02.12.113_arm64
   linux-image-dev-sunxi64_20.02.12.112_arm64
   linux-image-dev-sunxi64_20.02.11.102_arm64
@@ -10425,7 +10632,9 @@
   linux-source-5.4.33-dev-meson_5.4.33-dev-meson+20.02.12.112_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.05.0-trunk.111_all
   linux-source-5.4.33-dev-mvebu_5.4.33-dev-mvebu+20.02.12.112_all
+  linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.114_all
   linux-source-5.4.34-dev-meson_5.4.34-dev-meson+20.02.12.113_all
+  linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.114_all
   linux-source-5.4.34-dev-mvebu_5.4.34-dev-mvebu+20.02.12.113_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -10435,6 +10644,7 @@
   linux-source-5.5.16-dev-rockchip_5.5.16-dev-rockchip+20.02.11.101_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.05.0-trunk.111_all
   linux-source-5.5.18-dev-rockchip_5.5.18-dev-rockchip+20.02.12.112_all
+  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.114_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.02.12.113_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
   linux-source-5.6.2-dev-odroidxu4_5.6.2-dev-odroidxu4+20.02.9.097_all
@@ -10465,14 +10675,20 @@
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.05.0-trunk.111_all
   linux-source-5.6.5-dev-rockchip64_5.6.5-dev-rockchip64+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi_5.6.5-dev-sunxi+20.02.12.112_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.05.0-trunk.111_all
+  linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.114_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.113_all
   linux-source-5.6.5-dev-sunxi64_5.6.5-dev-sunxi64+20.02.12.112_all
+  linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.114_all
   linux-source-5.6.6-dev-meson64_5.6.6-dev-meson64+20.02.12.113_all
+  linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.114_all
   linux-source-5.6.6-dev-mvebu64_5.6.6-dev-mvebu64+20.02.12.113_all
+  linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.114_all
   linux-source-5.6.6-dev-odroidxu4_5.6.6-dev-odroidxu4+20.02.12.113_all
+  linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.114_all
   linux-source-5.6.6-dev-rockchip64_5.6.6-dev-rockchip64+20.02.12.113_all
   linux-u-boot-bananapi-current_20.02.5_armhf
   linux-u-boot-bananapi-current_20.02.1_armhf
