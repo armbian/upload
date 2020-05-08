@@ -656,7 +656,6 @@
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
-  linux-image-current-meson64_20.05.0-trunk_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -3555,7 +3554,6 @@
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
-  linux-image-current-meson64_20.05.0-trunk_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -6760,7 +6758,6 @@
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
-  linux-image-current-meson64_20.05.0-trunk_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -9140,7 +9137,6 @@
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
-  linux-image-current-meson64_20.05.0-trunk_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -10723,7 +10719,6 @@
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
-  linux-image-current-meson64_20.05.0-trunk_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -11950,7 +11945,6 @@
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
   linux-image-current-meson_20.02.1_armhf
-  linux-image-current-meson64_20.05.0-trunk_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
