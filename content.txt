@@ -1,5 +1,6 @@
 
   armbian-config_20.05.0-trunk_all
+  armbian-config_20.02.15_all
   armbian-config_20.02.12_all
   armbian-config_20.02.11_all
   armbian-config_20.02.10_all
@@ -45,6 +46,7 @@
   armbian-tools-xenial_5.58_armhf
   armbian-tools-xenial_5.44_arm64
   armbian-xenial-desktop_20.05.0-trunk_all
+  armbian-xenial-desktop_20.02.15_all
   armbian-xenial-desktop_20.02.11_all
   armbian-xenial-desktop_20.02.9_all
   armbian-xenial-desktop_20.02.8_all
@@ -65,9 +67,11 @@
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
+  linux-dtb-current-meson_20.02.15_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
   linux-dtb-current-meson64_20.05.0-trunk_arm64
+  linux-dtb-current-meson64_20.02.15_arm64
   linux-dtb-current-meson64_20.02.8_arm64
   linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
@@ -103,6 +107,7 @@
   linux-dtb-dev-meson_20.05.0-trunk.118_armhf
   linux-dtb-dev-meson_20.05.0-trunk.117_armhf
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.15_armhf
   linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
@@ -117,6 +122,7 @@
   linux-dtb-dev-meson64_20.05.0-trunk.118_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.117_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.15_arm64
   linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
@@ -354,9 +360,11 @@
   linux-headers-current-imx6_20.02.7_armhf
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
+  linux-headers-current-meson_20.02.15_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
   linux-headers-current-meson64_20.05.0-trunk_arm64
+  linux-headers-current-meson64_20.02.15_arm64
   linux-headers-current-meson64_20.02.8_arm64
   linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
@@ -392,6 +400,7 @@
   linux-headers-dev-meson_20.05.0-trunk.118_armhf
   linux-headers-dev-meson_20.05.0-trunk.117_armhf
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.15_armhf
   linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
@@ -406,6 +415,7 @@
   linux-headers-dev-meson64_20.05.0-trunk.118_arm64
   linux-headers-dev-meson64_20.05.0-trunk.117_arm64
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.15_arm64
   linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
@@ -654,8 +664,10 @@
   linux-image-current-imx6_20.02.7_armhf
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
+  linux-image-current-meson_20.02.15_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.15_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -691,6 +703,7 @@
   linux-image-dev-meson_20.05.0-trunk.118_armhf
   linux-image-dev-meson_20.05.0-trunk.117_armhf
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.15_armhf
   linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
@@ -705,6 +718,7 @@
   linux-image-dev-meson64_20.05.0-trunk.118_arm64
   linux-image-dev-meson64_20.05.0-trunk.117_arm64
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.15_arm64
   linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
@@ -1155,6 +1169,8 @@
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.123_all
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.122_all
   linux-source-5.4.38-dev-mvebu_5.4.38-dev-mvebu+20.05.0-trunk.124_all
+  linux-source-5.4.39-current-meson_5.4.39-current-meson+20.02.15_all
+  linux-source-5.4.39-current-meson64_5.4.39-current-meson64+20.02.15_all
   linux-source-5.4.39-dev-mvebu_5.4.39-dev-mvebu+20.05.0-trunk.129_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -1179,7 +1195,9 @@
   linux-source-5.6.10-dev-odroidxu4_5.6.10-dev-odroidxu4+20.05.0-trunk.124_all
   linux-source-5.6.10-dev-rockchip64_5.6.10-dev-rockchip64+20.05.0-trunk.124_all
   linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.02.15_all
   linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.02.15_all
   linux-source-5.6.11-dev-mvebu64_5.6.11-dev-mvebu64+20.05.0-trunk.129_all
   linux-source-5.6.11-dev-rockchip64_5.6.11-dev-rockchip64+20.05.0-trunk.129_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
@@ -1566,12 +1584,14 @@
   linux-u-boot-nanopik1plus-next_5.75_arm64
   linux-u-boot-nanopik2-default_5.35_arm64
   linux-u-boot-nanopik2-next_5.35_arm64
+  linux-u-boot-nanopik2-s905-current_20.02.15_arm64
   linux-u-boot-nanopik2-s905-current_20.02.3_arm64
   linux-u-boot-nanopik2-s905-current_20.02.1_arm64
   linux-u-boot-nanopik2-s905-current_19.11.8_arm64
   linux-u-boot-nanopik2-s905-default_5.90_arm64
   linux-u-boot-nanopik2-s905-default_5.85_arm64
   linux-u-boot-nanopik2-s905-default_5.73_arm64
+  linux-u-boot-nanopik2-s905-dev_20.02.15_arm64
   linux-u-boot-nanopik2-s905-next_5.95_arm64
   linux-u-boot-nanopik2-s905-next_5.90_arm64
   linux-u-boot-nanopik2-s905-next_5.85_arm64
@@ -1654,11 +1674,13 @@
   linux-u-boot-nanopineoplus2-next_5.90_arm64
   linux-u-boot-nanopineoplus2-next_5.85_arm64
   linux-u-boot-nanopineoplus2-next_5.75_arm64
+  linux-u-boot-odroidc1-current_20.02.15_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-current_19.11.3_armhf
   linux-u-boot-odroidc1-default_5.38_armhf
   linux-u-boot-odroidc1-default_5.35_armhf
   linux-u-boot-odroidc1-default_5.31_armhf
+  linux-u-boot-odroidc1-dev_20.02.15_armhf
   linux-u-boot-odroidc1-next_5.90_armhf
   linux-u-boot-odroidc1-next_5.89_armhf
   linux-u-boot-odroidc1-next_5.84_armhf
@@ -2124,6 +2146,7 @@
   linux-xenial-root-current-nanopiduo2_19.11.3_armhf
   linux-xenial-root-current-nanopik1plus_20.02.1_arm64
   linux-xenial-root-current-nanopik1plus_19.11.3_arm64
+  linux-xenial-root-current-nanopik2-s905_20.02.15_arm64
   linux-xenial-root-current-nanopik2-s905_20.02.3_arm64
   linux-xenial-root-current-nanopik2-s905_20.02.1_arm64
   linux-xenial-root-current-nanopik2-s905_19.11.8_arm64
@@ -2147,6 +2170,7 @@
   linux-xenial-root-current-nanopineocore2_19.11.3_arm64
   linux-xenial-root-current-nanopineoplus2_20.02.1_arm64
   linux-xenial-root-current-nanopineoplus2_19.11.3_arm64
+  linux-xenial-root-current-odroidc1_20.02.15_armhf
   linux-xenial-root-current-odroidc1_20.02.1_armhf
   linux-xenial-root-current-odroidc1_19.11.3_armhf
   linux-xenial-root-current-odroidc2_20.02.8_arm64
@@ -2244,6 +2268,8 @@
   linux-xenial-root-current-zeropi_19.11.3_armhf
   linux-xenial-root-dev-cubieboard_20.02.11_armhf
   linux-xenial-root-dev-melea1000_20.02.9_armhf
+  linux-xenial-root-dev-nanopik2-s905_20.02.15_arm64
+  linux-xenial-root-dev-odroidc1_20.02.15_armhf
   linux-xenial-root-dev-rockpi-4a_20.02.11_arm64
   linux-xenial-root-dev-rockpi-4b_20.02.11_arm64
   linux-xenial-root-espressobin_5.90_arm64
@@ -2898,6 +2924,7 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian5.30+1_armhf
   armbian-config_20.05.0-trunk_all
+  armbian-config_20.02.15_all
   armbian-config_20.02.12_all
   armbian-config_20.02.11_all
   armbian-config_20.02.10_all
@@ -2915,6 +2942,7 @@
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
   armbian-stretch-desktop_20.05.0-trunk_all
+  armbian-stretch-desktop_20.02.15_all
   armbian-stretch-desktop_20.02.11_all
   armbian-stretch-desktop_20.02.9_all
   armbian-stretch-desktop_20.02.8_all
@@ -2963,9 +2991,11 @@
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
+  linux-dtb-current-meson_20.02.15_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
   linux-dtb-current-meson64_20.05.0-trunk_arm64
+  linux-dtb-current-meson64_20.02.15_arm64
   linux-dtb-current-meson64_20.02.8_arm64
   linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
@@ -3001,6 +3031,7 @@
   linux-dtb-dev-meson_20.05.0-trunk.118_armhf
   linux-dtb-dev-meson_20.05.0-trunk.117_armhf
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.15_armhf
   linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
@@ -3015,6 +3046,7 @@
   linux-dtb-dev-meson64_20.05.0-trunk.118_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.117_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.15_arm64
   linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
@@ -3252,9 +3284,11 @@
   linux-headers-current-imx6_20.02.7_armhf
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
+  linux-headers-current-meson_20.02.15_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
   linux-headers-current-meson64_20.05.0-trunk_arm64
+  linux-headers-current-meson64_20.02.15_arm64
   linux-headers-current-meson64_20.02.8_arm64
   linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
@@ -3290,6 +3324,7 @@
   linux-headers-dev-meson_20.05.0-trunk.118_armhf
   linux-headers-dev-meson_20.05.0-trunk.117_armhf
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.15_armhf
   linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
@@ -3304,6 +3339,7 @@
   linux-headers-dev-meson64_20.05.0-trunk.118_arm64
   linux-headers-dev-meson64_20.05.0-trunk.117_arm64
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.15_arm64
   linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
@@ -3552,8 +3588,10 @@
   linux-image-current-imx6_20.02.7_armhf
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
+  linux-image-current-meson_20.02.15_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.15_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -3589,6 +3627,7 @@
   linux-image-dev-meson_20.05.0-trunk.118_armhf
   linux-image-dev-meson_20.05.0-trunk.117_armhf
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.15_armhf
   linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
@@ -3603,6 +3642,7 @@
   linux-image-dev-meson64_20.05.0-trunk.118_arm64
   linux-image-dev-meson64_20.05.0-trunk.117_arm64
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.15_arm64
   linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
@@ -4053,6 +4093,8 @@
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.123_all
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.122_all
   linux-source-5.4.38-dev-mvebu_5.4.38-dev-mvebu+20.05.0-trunk.124_all
+  linux-source-5.4.39-current-meson_5.4.39-current-meson+20.02.15_all
+  linux-source-5.4.39-current-meson64_5.4.39-current-meson64+20.02.15_all
   linux-source-5.4.39-dev-mvebu_5.4.39-dev-mvebu+20.05.0-trunk.129_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -4077,7 +4119,9 @@
   linux-source-5.6.10-dev-odroidxu4_5.6.10-dev-odroidxu4+20.05.0-trunk.124_all
   linux-source-5.6.10-dev-rockchip64_5.6.10-dev-rockchip64+20.05.0-trunk.124_all
   linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.02.15_all
   linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.02.15_all
   linux-source-5.6.11-dev-mvebu64_5.6.11-dev-mvebu64+20.05.0-trunk.129_all
   linux-source-5.6.11-dev-rockchip64_5.6.11-dev-rockchip64+20.05.0-trunk.129_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
@@ -4237,6 +4281,7 @@
   linux-stretch-root-current-nanopiduo2_19.11.3_armhf
   linux-stretch-root-current-nanopik1plus_20.02.1_arm64
   linux-stretch-root-current-nanopik1plus_19.11.3_arm64
+  linux-stretch-root-current-nanopik2-s905_20.02.15_arm64
   linux-stretch-root-current-nanopik2-s905_20.02.3_arm64
   linux-stretch-root-current-nanopik2-s905_20.02.1_arm64
   linux-stretch-root-current-nanopik2-s905_19.11.8_arm64
@@ -4260,6 +4305,7 @@
   linux-stretch-root-current-nanopineocore2_19.11.3_arm64
   linux-stretch-root-current-nanopineoplus2_20.02.1_arm64
   linux-stretch-root-current-nanopineoplus2_19.11.3_arm64
+  linux-stretch-root-current-odroidc1_20.02.15_armhf
   linux-stretch-root-current-odroidc1_20.02.1_armhf
   linux-stretch-root-current-odroidc1_19.11.3_armhf
   linux-stretch-root-current-odroidc2_20.02.8_arm64
@@ -4357,6 +4403,8 @@
   linux-stretch-root-current-zeropi_19.11.3_armhf
   linux-stretch-root-dev-cubieboard_20.02.11_armhf
   linux-stretch-root-dev-melea1000_20.02.9_armhf
+  linux-stretch-root-dev-nanopik2-s905_20.02.15_arm64
+  linux-stretch-root-dev-odroidc1_20.02.15_armhf
   linux-stretch-root-dev-rockpi-4a_20.02.11_arm64
   linux-stretch-root-dev-rockpi-4b_20.02.11_arm64
   linux-stretch-root-espressobin_5.90_arm64
@@ -5060,12 +5108,14 @@
   linux-u-boot-nanopik1plus-next_5.75_arm64
   linux-u-boot-nanopik2-default_5.35_arm64
   linux-u-boot-nanopik2-next_5.35_arm64
+  linux-u-boot-nanopik2-s905-current_20.02.15_arm64
   linux-u-boot-nanopik2-s905-current_20.02.3_arm64
   linux-u-boot-nanopik2-s905-current_20.02.1_arm64
   linux-u-boot-nanopik2-s905-current_19.11.8_arm64
   linux-u-boot-nanopik2-s905-default_5.90_arm64
   linux-u-boot-nanopik2-s905-default_5.85_arm64
   linux-u-boot-nanopik2-s905-default_5.73_arm64
+  linux-u-boot-nanopik2-s905-dev_20.02.15_arm64
   linux-u-boot-nanopik2-s905-next_5.95_arm64
   linux-u-boot-nanopik2-s905-next_5.90_arm64
   linux-u-boot-nanopik2-s905-next_5.85_arm64
@@ -5148,11 +5198,13 @@
   linux-u-boot-nanopineoplus2-next_5.90_arm64
   linux-u-boot-nanopineoplus2-next_5.85_arm64
   linux-u-boot-nanopineoplus2-next_5.75_arm64
+  linux-u-boot-odroidc1-current_20.02.15_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-current_19.11.3_armhf
   linux-u-boot-odroidc1-default_5.38_armhf
   linux-u-boot-odroidc1-default_5.35_armhf
   linux-u-boot-odroidc1-default_5.31_armhf
+  linux-u-boot-odroidc1-dev_20.02.15_armhf
   linux-u-boot-odroidc1-next_5.90_armhf
   linux-u-boot-odroidc1-next_5.89_armhf
   linux-u-boot-odroidc1-next_5.84_armhf
@@ -5534,12 +5586,14 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.35+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.34.171021+1_armhf
   armbian-bionic-desktop_20.05.0-trunk_all
+  armbian-bionic-desktop_20.02.15_all
   armbian-bionic-desktop_20.02.11_all
   armbian-bionic-desktop_20.02.9_all
   armbian-bionic-desktop_20.02.8_all
   armbian-bionic-desktop_20.02.7_all
   armbian-bionic-desktop_20.02.6_all
   armbian-config_20.05.0-trunk_all
+  armbian-config_20.02.15_all
   armbian-config_20.02.12_all
   armbian-config_20.02.11_all
   armbian-config_20.02.10_all
@@ -5677,6 +5731,7 @@
   linux-bionic-root-current-nanopiduo2_19.11.3_armhf
   linux-bionic-root-current-nanopik1plus_20.02.1_arm64
   linux-bionic-root-current-nanopik1plus_19.11.3_arm64
+  linux-bionic-root-current-nanopik2-s905_20.02.15_arm64
   linux-bionic-root-current-nanopik2-s905_20.02.3_arm64
   linux-bionic-root-current-nanopik2-s905_20.02.1_arm64
   linux-bionic-root-current-nanopik2-s905_19.11.8_arm64
@@ -5700,6 +5755,7 @@
   linux-bionic-root-current-nanopineocore2_19.11.3_arm64
   linux-bionic-root-current-nanopineoplus2_20.02.1_arm64
   linux-bionic-root-current-nanopineoplus2_19.11.3_arm64
+  linux-bionic-root-current-odroidc1_20.02.15_armhf
   linux-bionic-root-current-odroidc1_20.02.1_armhf
   linux-bionic-root-current-odroidc1_19.11.3_armhf
   linux-bionic-root-current-odroidc2_20.02.8_arm64
@@ -5797,6 +5853,8 @@
   linux-bionic-root-current-zeropi_19.11.3_armhf
   linux-bionic-root-dev-cubieboard_20.02.11_armhf
   linux-bionic-root-dev-melea1000_20.02.9_armhf
+  linux-bionic-root-dev-nanopik2-s905_20.02.15_arm64
+  linux-bionic-root-dev-odroidc1_20.02.15_armhf
   linux-bionic-root-dev-rockpi-4a_20.02.11_arm64
   linux-bionic-root-dev-rockpi-4b_20.02.11_arm64
   linux-bionic-root-espressobin_5.90_arm64
@@ -6167,9 +6225,11 @@
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
+  linux-dtb-current-meson_20.02.15_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
   linux-dtb-current-meson64_20.05.0-trunk_arm64
+  linux-dtb-current-meson64_20.02.15_arm64
   linux-dtb-current-meson64_20.02.8_arm64
   linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
@@ -6205,6 +6265,7 @@
   linux-dtb-dev-meson_20.05.0-trunk.118_armhf
   linux-dtb-dev-meson_20.05.0-trunk.117_armhf
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.15_armhf
   linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
@@ -6219,6 +6280,7 @@
   linux-dtb-dev-meson64_20.05.0-trunk.118_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.117_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.15_arm64
   linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
@@ -6456,9 +6518,11 @@
   linux-headers-current-imx6_20.02.7_armhf
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
+  linux-headers-current-meson_20.02.15_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
   linux-headers-current-meson64_20.05.0-trunk_arm64
+  linux-headers-current-meson64_20.02.15_arm64
   linux-headers-current-meson64_20.02.8_arm64
   linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
@@ -6494,6 +6558,7 @@
   linux-headers-dev-meson_20.05.0-trunk.118_armhf
   linux-headers-dev-meson_20.05.0-trunk.117_armhf
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.15_armhf
   linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
@@ -6508,6 +6573,7 @@
   linux-headers-dev-meson64_20.05.0-trunk.118_arm64
   linux-headers-dev-meson64_20.05.0-trunk.117_arm64
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.15_arm64
   linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
@@ -6756,8 +6822,10 @@
   linux-image-current-imx6_20.02.7_armhf
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
+  linux-image-current-meson_20.02.15_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.15_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -6793,6 +6861,7 @@
   linux-image-dev-meson_20.05.0-trunk.118_armhf
   linux-image-dev-meson_20.05.0-trunk.117_armhf
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.15_armhf
   linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
@@ -6807,6 +6876,7 @@
   linux-image-dev-meson64_20.05.0-trunk.118_arm64
   linux-image-dev-meson64_20.05.0-trunk.117_arm64
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.15_arm64
   linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
@@ -7257,6 +7327,8 @@
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.123_all
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.122_all
   linux-source-5.4.38-dev-mvebu_5.4.38-dev-mvebu+20.05.0-trunk.124_all
+  linux-source-5.4.39-current-meson_5.4.39-current-meson+20.02.15_all
+  linux-source-5.4.39-current-meson64_5.4.39-current-meson64+20.02.15_all
   linux-source-5.4.39-dev-mvebu_5.4.39-dev-mvebu+20.05.0-trunk.129_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -7281,7 +7353,9 @@
   linux-source-5.6.10-dev-odroidxu4_5.6.10-dev-odroidxu4+20.05.0-trunk.124_all
   linux-source-5.6.10-dev-rockchip64_5.6.10-dev-rockchip64+20.05.0-trunk.124_all
   linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.02.15_all
   linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.02.15_all
   linux-source-5.6.11-dev-mvebu64_5.6.11-dev-mvebu64+20.05.0-trunk.129_all
   linux-source-5.6.11-dev-rockchip64_5.6.11-dev-rockchip64+20.05.0-trunk.129_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
@@ -7668,12 +7742,14 @@
   linux-u-boot-nanopik1plus-next_5.75_arm64
   linux-u-boot-nanopik2-default_5.35_arm64
   linux-u-boot-nanopik2-next_5.35_arm64
+  linux-u-boot-nanopik2-s905-current_20.02.15_arm64
   linux-u-boot-nanopik2-s905-current_20.02.3_arm64
   linux-u-boot-nanopik2-s905-current_20.02.1_arm64
   linux-u-boot-nanopik2-s905-current_19.11.8_arm64
   linux-u-boot-nanopik2-s905-default_5.90_arm64
   linux-u-boot-nanopik2-s905-default_5.85_arm64
   linux-u-boot-nanopik2-s905-default_5.73_arm64
+  linux-u-boot-nanopik2-s905-dev_20.02.15_arm64
   linux-u-boot-nanopik2-s905-next_5.95_arm64
   linux-u-boot-nanopik2-s905-next_5.90_arm64
   linux-u-boot-nanopik2-s905-next_5.85_arm64
@@ -7756,11 +7832,13 @@
   linux-u-boot-nanopineoplus2-next_5.90_arm64
   linux-u-boot-nanopineoplus2-next_5.85_arm64
   linux-u-boot-nanopineoplus2-next_5.75_arm64
+  linux-u-boot-odroidc1-current_20.02.15_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-current_19.11.3_armhf
   linux-u-boot-odroidc1-default_5.38_armhf
   linux-u-boot-odroidc1-default_5.35_armhf
   linux-u-boot-odroidc1-default_5.31_armhf
+  linux-u-boot-odroidc1-dev_20.02.15_armhf
   linux-u-boot-odroidc1-next_5.90_armhf
   linux-u-boot-odroidc1-next_5.89_armhf
   linux-u-boot-odroidc1-next_5.84_armhf
@@ -8139,12 +8217,14 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.60+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.44.180510+1_armhf
   armbian-buster-desktop_20.05.0-trunk_all
+  armbian-buster-desktop_20.02.15_all
   armbian-buster-desktop_20.02.11_all
   armbian-buster-desktop_20.02.9_all
   armbian-buster-desktop_20.02.8_all
   armbian-buster-desktop_20.02.7_all
   armbian-buster-desktop_20.02.6_all
   armbian-config_20.05.0-trunk_all
+  armbian-config_20.02.15_all
   armbian-config_20.02.12_all
   armbian-config_20.02.11_all
   armbian-config_20.02.10_all
@@ -8250,6 +8330,7 @@
   linux-buster-root-current-nanopiduo2_19.11.3_armhf
   linux-buster-root-current-nanopik1plus_20.02.1_arm64
   linux-buster-root-current-nanopik1plus_19.11.3_arm64
+  linux-buster-root-current-nanopik2-s905_20.02.15_arm64
   linux-buster-root-current-nanopik2-s905_20.02.3_arm64
   linux-buster-root-current-nanopik2-s905_20.02.1_arm64
   linux-buster-root-current-nanopik2-s905_19.11.8_arm64
@@ -8274,6 +8355,7 @@
   linux-buster-root-current-nanopineocore2_19.11.3_arm64
   linux-buster-root-current-nanopineoplus2_20.02.1_arm64
   linux-buster-root-current-nanopineoplus2_19.11.3_arm64
+  linux-buster-root-current-odroidc1_20.02.15_armhf
   linux-buster-root-current-odroidc1_20.02.1_armhf
   linux-buster-root-current-odroidc1_19.11.3_armhf
   linux-buster-root-current-odroidc2_20.02.8_arm64
@@ -8371,6 +8453,8 @@
   linux-buster-root-current-zeropi_19.11.3_armhf
   linux-buster-root-dev-cubieboard_20.02.11_armhf
   linux-buster-root-dev-melea1000_20.02.9_armhf
+  linux-buster-root-dev-nanopik2-s905_20.02.15_arm64
+  linux-buster-root-dev-odroidc1_20.02.15_armhf
   linux-buster-root-dev-rockpi-4a_20.02.11_arm64
   linux-buster-root-dev-rockpi-4b_20.02.11_arm64
   linux-buster-root-espressobin_5.90_arm64
@@ -8645,9 +8729,11 @@
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
+  linux-dtb-current-meson_20.02.15_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson_19.11.3_armhf
   linux-dtb-current-meson64_20.05.0-trunk_arm64
+  linux-dtb-current-meson64_20.02.15_arm64
   linux-dtb-current-meson64_20.02.8_arm64
   linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
@@ -8683,6 +8769,7 @@
   linux-dtb-dev-meson_20.05.0-trunk.118_armhf
   linux-dtb-dev-meson_20.05.0-trunk.117_armhf
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.15_armhf
   linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
@@ -8697,6 +8784,7 @@
   linux-dtb-dev-meson64_20.05.0-trunk.118_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.117_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.15_arm64
   linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
@@ -8890,9 +8978,11 @@
   linux-headers-current-imx6_20.02.7_armhf
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
+  linux-headers-current-meson_20.02.15_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson_19.11.3_armhf
   linux-headers-current-meson64_20.05.0-trunk_arm64
+  linux-headers-current-meson64_20.02.15_arm64
   linux-headers-current-meson64_20.02.8_arm64
   linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
@@ -8928,6 +9018,7 @@
   linux-headers-dev-meson_20.05.0-trunk.118_armhf
   linux-headers-dev-meson_20.05.0-trunk.117_armhf
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.15_armhf
   linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
@@ -8942,6 +9033,7 @@
   linux-headers-dev-meson64_20.05.0-trunk.118_arm64
   linux-headers-dev-meson64_20.05.0-trunk.117_arm64
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.15_arm64
   linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
@@ -9135,8 +9227,10 @@
   linux-image-current-imx6_20.02.7_armhf
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
+  linux-image-current-meson_20.02.15_armhf
   linux-image-current-meson_20.02.1_armhf
   linux-image-current-meson_19.11.3_armhf
+  linux-image-current-meson64_20.02.15_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -9172,6 +9266,7 @@
   linux-image-dev-meson_20.05.0-trunk.118_armhf
   linux-image-dev-meson_20.05.0-trunk.117_armhf
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.15_armhf
   linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
@@ -9186,6 +9281,7 @@
   linux-image-dev-meson64_20.05.0-trunk.118_arm64
   linux-image-dev-meson64_20.05.0-trunk.117_arm64
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.15_arm64
   linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
@@ -9499,6 +9595,8 @@
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.123_all
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.122_all
   linux-source-5.4.38-dev-mvebu_5.4.38-dev-mvebu+20.05.0-trunk.124_all
+  linux-source-5.4.39-current-meson_5.4.39-current-meson+20.02.15_all
+  linux-source-5.4.39-current-meson64_5.4.39-current-meson64+20.02.15_all
   linux-source-5.4.39-dev-mvebu_5.4.39-dev-mvebu+20.05.0-trunk.129_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -9523,7 +9621,9 @@
   linux-source-5.6.10-dev-odroidxu4_5.6.10-dev-odroidxu4+20.05.0-trunk.124_all
   linux-source-5.6.10-dev-rockchip64_5.6.10-dev-rockchip64+20.05.0-trunk.124_all
   linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.02.15_all
   linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.02.15_all
   linux-source-5.6.11-dev-mvebu64_5.6.11-dev-mvebu64+20.05.0-trunk.129_all
   linux-source-5.6.11-dev-rockchip64_5.6.11-dev-rockchip64+20.05.0-trunk.129_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
@@ -9781,10 +9881,12 @@
   linux-u-boot-nanopik1plus-legacy_20.02.1_arm64
   linux-u-boot-nanopik1plus-legacy_19.11.3_arm64
   linux-u-boot-nanopik1plus-next_5.90_arm64
+  linux-u-boot-nanopik2-s905-current_20.02.15_arm64
   linux-u-boot-nanopik2-s905-current_20.02.3_arm64
   linux-u-boot-nanopik2-s905-current_20.02.1_arm64
   linux-u-boot-nanopik2-s905-current_19.11.8_arm64
   linux-u-boot-nanopik2-s905-default_5.90_arm64
+  linux-u-boot-nanopik2-s905-dev_20.02.15_arm64
   linux-u-boot-nanopik2-s905-next_5.95_arm64
   linux-u-boot-nanopik2-s905-next_5.90_arm64
   linux-u-boot-nanopim1-current_20.02.1_armhf
@@ -9843,8 +9945,10 @@
   linux-u-boot-nanopineoplus2-legacy_20.02.1_arm64
   linux-u-boot-nanopineoplus2-legacy_19.11.3_arm64
   linux-u-boot-nanopineoplus2-next_5.90_arm64
+  linux-u-boot-odroidc1-current_20.02.15_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-current_19.11.3_armhf
+  linux-u-boot-odroidc1-dev_20.02.15_armhf
   linux-u-boot-odroidc1-next_5.90_armhf
   linux-u-boot-odroidc1-next_5.89_armhf
   linux-u-boot-odroidc2-current_20.02.8_arm64
@@ -10091,6 +10195,7 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.86+1_armhf
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian5.73+1_armhf
   armbian-config_20.05.0-trunk_all
+  armbian-config_20.02.15_all
   armbian-config_20.02.12_all
   armbian-config_20.02.11_all
   armbian-config_20.02.10_all
@@ -10108,6 +10213,7 @@
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
   armbian-focal-desktop_20.05.0-trunk_all
+  armbian-focal-desktop_20.02.15_all
   armbian-focal-desktop_20.02.11_all
   armbian-focal-desktop_20.02.9_all
   armbian-focal-desktop_20.02.8_all
@@ -10117,8 +10223,10 @@
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
+  linux-dtb-current-meson_20.02.15_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson64_20.05.0-trunk_arm64
+  linux-dtb-current-meson64_20.02.15_arm64
   linux-dtb-current-meson64_20.02.8_arm64
   linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
@@ -10151,6 +10259,7 @@
   linux-dtb-dev-meson_20.05.0-trunk.118_armhf
   linux-dtb-dev-meson_20.05.0-trunk.117_armhf
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.15_armhf
   linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
@@ -10165,6 +10274,7 @@
   linux-dtb-dev-meson64_20.05.0-trunk.118_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.117_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.15_arm64
   linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
@@ -10352,6 +10462,7 @@
   linux-focal-root-current-nanopiduo2_20.02.7_armhf
   linux-focal-root-current-nanopiduo2_20.02.1_armhf
   linux-focal-root-current-nanopik1plus_20.02.1_arm64
+  linux-focal-root-current-nanopik2-s905_20.02.15_arm64
   linux-focal-root-current-nanopik2-s905_20.02.3_arm64
   linux-focal-root-current-nanopik2-s905_20.02.1_arm64
   linux-focal-root-current-nanopik2-s905_19.11.8_arm64
@@ -10367,6 +10478,7 @@
   linux-focal-root-current-nanopineo4_20.02.1_arm64
   linux-focal-root-current-nanopineocore2_20.02.1_arm64
   linux-focal-root-current-nanopineoplus2_20.02.1_arm64
+  linux-focal-root-current-odroidc1_20.02.15_armhf
   linux-focal-root-current-odroidc1_20.02.1_armhf
   linux-focal-root-current-odroidc2_20.02.8_arm64
   linux-focal-root-current-odroidc2_20.02.1_arm64
@@ -10427,6 +10539,8 @@
   linux-focal-root-current-zeropi_20.02.1_armhf
   linux-focal-root-dev-cubieboard_20.02.11_armhf
   linux-focal-root-dev-melea1000_20.02.9_armhf
+  linux-focal-root-dev-nanopik2-s905_20.02.15_arm64
+  linux-focal-root-dev-odroidc1_20.02.15_armhf
   linux-focal-root-dev-rockpi-4a_20.02.11_arm64
   linux-focal-root-dev-rockpi-4b_20.02.11_arm64
   linux-focal-root-legacy-bananapi_20.02.5_armhf
@@ -10525,8 +10639,10 @@
   linux-headers-current-imx6_20.02.7_armhf
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
+  linux-headers-current-meson_20.02.15_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson64_20.05.0-trunk_arm64
+  linux-headers-current-meson64_20.02.15_arm64
   linux-headers-current-meson64_20.02.8_arm64
   linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
@@ -10559,6 +10675,7 @@
   linux-headers-dev-meson_20.05.0-trunk.118_armhf
   linux-headers-dev-meson_20.05.0-trunk.117_armhf
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.15_armhf
   linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
@@ -10573,6 +10690,7 @@
   linux-headers-dev-meson64_20.05.0-trunk.118_arm64
   linux-headers-dev-meson64_20.05.0-trunk.117_arm64
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.15_arm64
   linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
@@ -10718,7 +10836,9 @@
   linux-image-current-imx6_20.02.7_armhf
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
+  linux-image-current-meson_20.02.15_armhf
   linux-image-current-meson_20.02.1_armhf
+  linux-image-current-meson64_20.02.15_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -10751,6 +10871,7 @@
   linux-image-dev-meson_20.05.0-trunk.118_armhf
   linux-image-dev-meson_20.05.0-trunk.117_armhf
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.15_armhf
   linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
@@ -10765,6 +10886,7 @@
   linux-image-dev-meson64_20.05.0-trunk.118_arm64
   linux-image-dev-meson64_20.05.0-trunk.117_arm64
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.15_arm64
   linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
@@ -10980,6 +11102,8 @@
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.123_all
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.122_all
   linux-source-5.4.38-dev-mvebu_5.4.38-dev-mvebu+20.05.0-trunk.124_all
+  linux-source-5.4.39-current-meson_5.4.39-current-meson+20.02.15_all
+  linux-source-5.4.39-current-meson64_5.4.39-current-meson64+20.02.15_all
   linux-source-5.4.39-dev-mvebu_5.4.39-dev-mvebu+20.05.0-trunk.129_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -11004,7 +11128,9 @@
   linux-source-5.6.10-dev-odroidxu4_5.6.10-dev-odroidxu4+20.05.0-trunk.124_all
   linux-source-5.6.10-dev-rockchip64_5.6.10-dev-rockchip64+20.05.0-trunk.124_all
   linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.02.15_all
   linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.02.15_all
   linux-source-5.6.11-dev-mvebu64_5.6.11-dev-mvebu64+20.05.0-trunk.129_all
   linux-source-5.6.11-dev-rockchip64_5.6.11-dev-rockchip64+20.05.0-trunk.129_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
@@ -11168,9 +11294,11 @@
   linux-u-boot-nanopifire3-legacy_20.02.1_arm64
   linux-u-boot-nanopik1plus-current_20.02.1_arm64
   linux-u-boot-nanopik1plus-legacy_20.02.1_arm64
+  linux-u-boot-nanopik2-s905-current_20.02.15_arm64
   linux-u-boot-nanopik2-s905-current_20.02.3_arm64
   linux-u-boot-nanopik2-s905-current_20.02.1_arm64
   linux-u-boot-nanopik2-s905-current_19.11.8_arm64
+  linux-u-boot-nanopik2-s905-dev_20.02.15_arm64
   linux-u-boot-nanopim1-current_20.02.1_armhf
   linux-u-boot-nanopim1-legacy_20.02.1_armhf
   linux-u-boot-nanopim1plus-current_20.02.1_armhf
@@ -11195,7 +11323,9 @@
   linux-u-boot-nanopineocore2-legacy_20.02.1_arm64
   linux-u-boot-nanopineoplus2-current_20.02.1_arm64
   linux-u-boot-nanopineoplus2-legacy_20.02.1_arm64
+  linux-u-boot-odroidc1-current_20.02.15_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
+  linux-u-boot-odroidc1-dev_20.02.15_armhf
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-current_20.02.1_arm64
   linux-u-boot-odroidc2-current_19.11.8_arm64
@@ -11316,12 +11446,14 @@
   xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_arm64
   xserver-xorg-video-fbturbo_1:0.4.4~armbian19.11.9+1_armhf
   armbian-bullseye-desktop_20.05.0-trunk_all
+  armbian-bullseye-desktop_20.02.15_all
   armbian-bullseye-desktop_20.02.11_all
   armbian-bullseye-desktop_20.02.9_all
   armbian-bullseye-desktop_20.02.8_all
   armbian-bullseye-desktop_20.02.7_all
   armbian-bullseye-desktop_20.02.6_all
   armbian-config_20.05.0-trunk_all
+  armbian-config_20.02.15_all
   armbian-config_20.02.12_all
   armbian-config_20.02.11_all
   armbian-config_20.02.10_all
@@ -11390,6 +11522,7 @@
   linux-bullseye-root-current-nanopiduo2_20.02.7_armhf
   linux-bullseye-root-current-nanopiduo2_20.02.1_armhf
   linux-bullseye-root-current-nanopik1plus_20.02.1_arm64
+  linux-bullseye-root-current-nanopik2-s905_20.02.15_arm64
   linux-bullseye-root-current-nanopik2-s905_20.02.3_arm64
   linux-bullseye-root-current-nanopik2-s905_20.02.1_arm64
   linux-bullseye-root-current-nanopik2-s905_19.11.8_arm64
@@ -11405,6 +11538,7 @@
   linux-bullseye-root-current-nanopineo4_20.02.1_arm64
   linux-bullseye-root-current-nanopineocore2_20.02.1_arm64
   linux-bullseye-root-current-nanopineoplus2_20.02.1_arm64
+  linux-bullseye-root-current-odroidc1_20.02.15_armhf
   linux-bullseye-root-current-odroidc1_20.02.1_armhf
   linux-bullseye-root-current-odroidc2_20.02.8_arm64
   linux-bullseye-root-current-odroidc2_20.02.1_arm64
@@ -11465,6 +11599,8 @@
   linux-bullseye-root-current-zeropi_20.02.1_armhf
   linux-bullseye-root-dev-cubieboard_20.02.11_armhf
   linux-bullseye-root-dev-melea1000_20.02.9_armhf
+  linux-bullseye-root-dev-nanopik2-s905_20.02.15_arm64
+  linux-bullseye-root-dev-odroidc1_20.02.15_armhf
   linux-bullseye-root-dev-rockpi-4a_20.02.11_arm64
   linux-bullseye-root-dev-rockpi-4b_20.02.11_arm64
   linux-bullseye-root-legacy-bananapi_20.02.5_armhf
@@ -11558,8 +11694,10 @@
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
   linux-dtb-current-imx6_19.11.8_armhf
+  linux-dtb-current-meson_20.02.15_armhf
   linux-dtb-current-meson_20.02.1_armhf
   linux-dtb-current-meson64_20.05.0-trunk_arm64
+  linux-dtb-current-meson64_20.02.15_arm64
   linux-dtb-current-meson64_20.02.8_arm64
   linux-dtb-current-meson64_20.02.5_arm64
   linux-dtb-current-meson64_20.02.3_arm64
@@ -11592,6 +11730,7 @@
   linux-dtb-dev-meson_20.05.0-trunk.118_armhf
   linux-dtb-dev-meson_20.05.0-trunk.117_armhf
   linux-dtb-dev-meson_20.05.0-trunk.111_armhf
+  linux-dtb-dev-meson_20.02.15_armhf
   linux-dtb-dev-meson_20.02.12.114_armhf
   linux-dtb-dev-meson_20.02.12.113_armhf
   linux-dtb-dev-meson_20.02.12.112_armhf
@@ -11606,6 +11745,7 @@
   linux-dtb-dev-meson64_20.05.0-trunk.118_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.117_arm64
   linux-dtb-dev-meson64_20.05.0-trunk.111_arm64
+  linux-dtb-dev-meson64_20.02.15_arm64
   linux-dtb-dev-meson64_20.02.12.114_arm64
   linux-dtb-dev-meson64_20.02.12.113_arm64
   linux-dtb-dev-meson64_20.02.12.112_arm64
@@ -11751,8 +11891,10 @@
   linux-headers-current-imx6_20.02.7_armhf
   linux-headers-current-imx6_20.02.1_armhf
   linux-headers-current-imx6_19.11.8_armhf
+  linux-headers-current-meson_20.02.15_armhf
   linux-headers-current-meson_20.02.1_armhf
   linux-headers-current-meson64_20.05.0-trunk_arm64
+  linux-headers-current-meson64_20.02.15_arm64
   linux-headers-current-meson64_20.02.8_arm64
   linux-headers-current-meson64_20.02.5_arm64
   linux-headers-current-meson64_20.02.3_arm64
@@ -11785,6 +11927,7 @@
   linux-headers-dev-meson_20.05.0-trunk.118_armhf
   linux-headers-dev-meson_20.05.0-trunk.117_armhf
   linux-headers-dev-meson_20.05.0-trunk.111_armhf
+  linux-headers-dev-meson_20.02.15_armhf
   linux-headers-dev-meson_20.02.12.114_armhf
   linux-headers-dev-meson_20.02.12.113_armhf
   linux-headers-dev-meson_20.02.12.112_armhf
@@ -11799,6 +11942,7 @@
   linux-headers-dev-meson64_20.05.0-trunk.118_arm64
   linux-headers-dev-meson64_20.05.0-trunk.117_arm64
   linux-headers-dev-meson64_20.05.0-trunk.111_arm64
+  linux-headers-dev-meson64_20.02.15_arm64
   linux-headers-dev-meson64_20.02.12.114_arm64
   linux-headers-dev-meson64_20.02.12.113_arm64
   linux-headers-dev-meson64_20.02.12.112_arm64
@@ -11944,7 +12088,9 @@
   linux-image-current-imx6_20.02.7_armhf
   linux-image-current-imx6_20.02.1_armhf
   linux-image-current-imx6_19.11.8_armhf
+  linux-image-current-meson_20.02.15_armhf
   linux-image-current-meson_20.02.1_armhf
+  linux-image-current-meson64_20.02.15_arm64
   linux-image-current-meson64_20.02.8_arm64
   linux-image-current-meson64_20.02.5_arm64
   linux-image-current-meson64_20.02.3_arm64
@@ -11977,6 +12123,7 @@
   linux-image-dev-meson_20.05.0-trunk.118_armhf
   linux-image-dev-meson_20.05.0-trunk.117_armhf
   linux-image-dev-meson_20.05.0-trunk.111_armhf
+  linux-image-dev-meson_20.02.15_armhf
   linux-image-dev-meson_20.02.12.114_armhf
   linux-image-dev-meson_20.02.12.113_armhf
   linux-image-dev-meson_20.02.12.112_armhf
@@ -11991,6 +12138,7 @@
   linux-image-dev-meson64_20.05.0-trunk.118_arm64
   linux-image-dev-meson64_20.05.0-trunk.117_arm64
   linux-image-dev-meson64_20.05.0-trunk.111_arm64
+  linux-image-dev-meson64_20.02.15_arm64
   linux-image-dev-meson64_20.02.12.114_arm64
   linux-image-dev-meson64_20.02.12.113_arm64
   linux-image-dev-meson64_20.02.12.112_arm64
@@ -12206,6 +12354,8 @@
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.123_all
   linux-source-5.4.36-dev-mvebu_5.4.36-dev-mvebu+20.05.0-trunk.122_all
   linux-source-5.4.38-dev-mvebu_5.4.38-dev-mvebu+20.05.0-trunk.124_all
+  linux-source-5.4.39-current-meson_5.4.39-current-meson+20.02.15_all
+  linux-source-5.4.39-current-meson64_5.4.39-current-meson64+20.02.15_all
   linux-source-5.4.39-dev-mvebu_5.4.39-dev-mvebu+20.05.0-trunk.129_all
   linux-source-5.5.15-dev-meson64_5.5.15-dev-meson64+20.02.9.097_all
   linux-source-5.5.15-dev-rockchip_5.5.15-dev-rockchip+20.02.9.097_all
@@ -12230,7 +12380,9 @@
   linux-source-5.6.10-dev-odroidxu4_5.6.10-dev-odroidxu4+20.05.0-trunk.124_all
   linux-source-5.6.10-dev-rockchip64_5.6.10-dev-rockchip64+20.05.0-trunk.124_all
   linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson_5.6.11-dev-meson+20.02.15_all
   linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.05.0-trunk.129_all
+  linux-source-5.6.11-dev-meson64_5.6.11-dev-meson64+20.02.15_all
   linux-source-5.6.11-dev-mvebu64_5.6.11-dev-mvebu64+20.05.0-trunk.129_all
   linux-source-5.6.11-dev-rockchip64_5.6.11-dev-rockchip64+20.05.0-trunk.129_all
   linux-source-5.6.2-dev-mvebu64_5.6.2-dev-mvebu64+20.02.9.097_all
@@ -12394,9 +12546,11 @@
   linux-u-boot-nanopifire3-legacy_20.02.1_arm64
   linux-u-boot-nanopik1plus-current_20.02.1_arm64
   linux-u-boot-nanopik1plus-legacy_20.02.1_arm64
+  linux-u-boot-nanopik2-s905-current_20.02.15_arm64
   linux-u-boot-nanopik2-s905-current_20.02.3_arm64
   linux-u-boot-nanopik2-s905-current_20.02.1_arm64
   linux-u-boot-nanopik2-s905-current_19.11.8_arm64
+  linux-u-boot-nanopik2-s905-dev_20.02.15_arm64
   linux-u-boot-nanopim1-current_20.02.1_armhf
   linux-u-boot-nanopim1-legacy_20.02.1_armhf
   linux-u-boot-nanopim1plus-current_20.02.1_armhf
@@ -12421,7 +12575,9 @@
   linux-u-boot-nanopineocore2-legacy_20.02.1_arm64
   linux-u-boot-nanopineoplus2-current_20.02.1_arm64
   linux-u-boot-nanopineoplus2-legacy_20.02.1_arm64
+  linux-u-boot-odroidc1-current_20.02.15_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
+  linux-u-boot-odroidc1-dev_20.02.15_armhf
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-current_20.02.1_arm64
   linux-u-boot-odroidc2-current_19.11.8_arm64
