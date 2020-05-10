@@ -1729,6 +1729,8 @@
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
   linux-u-boot-odroidc2-next_5.85_arm64
+  linux-u-boot-odroidc4-current_20.05.0-trunk_arm64
+  linux-u-boot-odroidc4-dev_20.05.0-trunk_arm64
   linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
@@ -5289,6 +5291,8 @@
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
   linux-u-boot-odroidc2-next_5.85_arm64
+  linux-u-boot-odroidc4-current_20.05.0-trunk_arm64
+  linux-u-boot-odroidc4-dev_20.05.0-trunk_arm64
   linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
@@ -7959,6 +7963,8 @@
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
   linux-u-boot-odroidc2-next_5.85_arm64
+  linux-u-boot-odroidc4-current_20.05.0-trunk_arm64
+  linux-u-boot-odroidc4-dev_20.05.0-trunk_arm64
   linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
@@ -10101,6 +10107,8 @@
   linux-u-boot-odroidc2-default_5.90_arm64
   linux-u-boot-odroidc2-next_5.95_arm64
   linux-u-boot-odroidc2-next_5.90_arm64
+  linux-u-boot-odroidc4-current_20.05.0-trunk_arm64
+  linux-u-boot-odroidc4-dev_20.05.0-trunk_arm64
   linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
@@ -11509,6 +11517,8 @@
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-current_20.02.1_arm64
   linux-u-boot-odroidc2-current_19.11.8_arm64
+  linux-u-boot-odroidc4-current_20.05.0-trunk_arm64
+  linux-u-boot-odroidc4-dev_20.05.0-trunk_arm64
   linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
@@ -12797,6 +12807,8 @@
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-current_20.02.1_arm64
   linux-u-boot-odroidc2-current_19.11.8_arm64
+  linux-u-boot-odroidc4-current_20.05.0-trunk_arm64
+  linux-u-boot-odroidc4-dev_20.05.0-trunk_arm64
   linux-u-boot-odroidn2-current_20.02.5_arm64
   linux-u-boot-odroidn2-current_20.02.3_arm64
   linux-u-boot-odroidn2-current_20.02.1_arm64
