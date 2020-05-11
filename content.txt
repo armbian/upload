@@ -4,9 +4,13 @@
   armbian-firmware-full_20.05.0-trunk.131_all
   armbian-xenial-desktop_20.05.0-trunk.131_all
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-99~armbian5.98+1_arm64
   hostapd_3:2.9-99~armbian5.98+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -103,37 +107,6 @@
   linux-image-legacy-s5p6818_20.05.0-trunk.131_arm64
   linux-image-legacy-sunxi_20.05.0-trunk.131_armhf
   linux-image-legacy-sunxi64_20.05.0-trunk.131_arm64
-  linux-source-4.14.135-legacy-mvebu64_4.14.135-legacy-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.05.0-trunk.131_all
-  linux-source-4.14.180-legacy-s5p6818_4.14.180-legacy-s5p6818+20.05.0-trunk.131_all
-  linux-source-4.19.122-current-mvebu64_4.19.122-current-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mt7623_4.19.122-legacy-mt7623+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.131_all
-  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.05.0-trunk.131_all
-  linux-source-4.9.219-legacy-meson64_4.9.219-legacy-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.35-current-odroidxu4_5.4.35-current-odroidxu4+20.05.0-trunk.131_all
-  linux-source-5.4.39-current-sunxi_5.4.39-current-sunxi+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-imx6_5.4.40-current-imx6+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson_5.4.40-current-meson+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson64_5.4.40-current-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-mvebu_5.4.40-current-mvebu+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip_5.4.40-current-rockchip+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip64_5.4.40-current-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.131_all
-  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-mvebu64_5.6.12-dev-mvebu64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi_5.6.8-dev-sunxi+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi64_5.6.8-dev-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.131_all
   linux-u-boot-bananapi-current_20.05.0-trunk.131_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.131_armhf
@@ -625,9 +598,13 @@
   armbian-firmware-full_20.05.0-trunk.131_all
   armbian-stretch-desktop_20.05.0-trunk.131_all
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-99~armbian5.98+1_arm64
   hostapd_3:2.9-99~armbian5.98+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -724,37 +701,6 @@
   linux-image-legacy-s5p6818_20.05.0-trunk.131_arm64
   linux-image-legacy-sunxi_20.05.0-trunk.131_armhf
   linux-image-legacy-sunxi64_20.05.0-trunk.131_arm64
-  linux-source-4.14.135-legacy-mvebu64_4.14.135-legacy-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.05.0-trunk.131_all
-  linux-source-4.14.180-legacy-s5p6818_4.14.180-legacy-s5p6818+20.05.0-trunk.131_all
-  linux-source-4.19.122-current-mvebu64_4.19.122-current-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mt7623_4.19.122-legacy-mt7623+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.131_all
-  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.05.0-trunk.131_all
-  linux-source-4.9.219-legacy-meson64_4.9.219-legacy-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.35-current-odroidxu4_5.4.35-current-odroidxu4+20.05.0-trunk.131_all
-  linux-source-5.4.39-current-sunxi_5.4.39-current-sunxi+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-imx6_5.4.40-current-imx6+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson_5.4.40-current-meson+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson64_5.4.40-current-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-mvebu_5.4.40-current-mvebu+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip_5.4.40-current-rockchip+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip64_5.4.40-current-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.131_all
-  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-mvebu64_5.6.12-dev-mvebu64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi_5.6.8-dev-sunxi+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi64_5.6.8-dev-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.131_all
   linux-stretch-root-current-bananapi_20.05.0-trunk.131_armhf
   linux-stretch-root-current-bananapim2plus_20.05.0-trunk.131_armhf
   linux-stretch-root-current-bananapim2ultra_20.05.0-trunk.131_armhf
@@ -1246,9 +1192,13 @@
   armbian-firmware_20.05.0-trunk.131_all
   armbian-firmware-full_20.05.0-trunk.131_all
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-99~armbian5.98+1_arm64
   hostapd_3:2.9-99~armbian5.98+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -1582,37 +1532,6 @@
   linux-image-legacy-s5p6818_20.05.0-trunk.131_arm64
   linux-image-legacy-sunxi_20.05.0-trunk.131_armhf
   linux-image-legacy-sunxi64_20.05.0-trunk.131_arm64
-  linux-source-4.14.135-legacy-mvebu64_4.14.135-legacy-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.05.0-trunk.131_all
-  linux-source-4.14.180-legacy-s5p6818_4.14.180-legacy-s5p6818+20.05.0-trunk.131_all
-  linux-source-4.19.122-current-mvebu64_4.19.122-current-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mt7623_4.19.122-legacy-mt7623+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.131_all
-  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.05.0-trunk.131_all
-  linux-source-4.9.219-legacy-meson64_4.9.219-legacy-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.35-current-odroidxu4_5.4.35-current-odroidxu4+20.05.0-trunk.131_all
-  linux-source-5.4.39-current-sunxi_5.4.39-current-sunxi+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-imx6_5.4.40-current-imx6+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson_5.4.40-current-meson+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson64_5.4.40-current-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-mvebu_5.4.40-current-mvebu+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip_5.4.40-current-rockchip+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip64_5.4.40-current-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.131_all
-  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-mvebu64_5.6.12-dev-mvebu64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi_5.6.8-dev-sunxi+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi64_5.6.8-dev-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.131_all
   linux-u-boot-bananapi-current_20.05.0-trunk.131_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.131_armhf
@@ -1867,9 +1786,13 @@
   armbian-firmware_20.05.0-trunk.131_all
   armbian-firmware-full_20.05.0-trunk.131_all
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-99~armbian5.98+1_arm64
   hostapd_3:2.9-99~armbian5.98+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -2203,37 +2126,6 @@
   linux-image-legacy-s5p6818_20.05.0-trunk.131_arm64
   linux-image-legacy-sunxi_20.05.0-trunk.131_armhf
   linux-image-legacy-sunxi64_20.05.0-trunk.131_arm64
-  linux-source-4.14.135-legacy-mvebu64_4.14.135-legacy-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.05.0-trunk.131_all
-  linux-source-4.14.180-legacy-s5p6818_4.14.180-legacy-s5p6818+20.05.0-trunk.131_all
-  linux-source-4.19.122-current-mvebu64_4.19.122-current-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mt7623_4.19.122-legacy-mt7623+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.131_all
-  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.05.0-trunk.131_all
-  linux-source-4.9.219-legacy-meson64_4.9.219-legacy-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.35-current-odroidxu4_5.4.35-current-odroidxu4+20.05.0-trunk.131_all
-  linux-source-5.4.39-current-sunxi_5.4.39-current-sunxi+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-imx6_5.4.40-current-imx6+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson_5.4.40-current-meson+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson64_5.4.40-current-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-mvebu_5.4.40-current-mvebu+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip_5.4.40-current-rockchip+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip64_5.4.40-current-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.131_all
-  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-mvebu64_5.6.12-dev-mvebu64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi_5.6.8-dev-sunxi+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi64_5.6.8-dev-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.131_all
   linux-u-boot-bananapi-current_20.05.0-trunk.131_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.131_armhf
@@ -2487,9 +2379,14 @@
   armbian-firmware_20.05.0-trunk.131_all
   armbian-firmware-full_20.05.0-trunk.131_all
   armbian-focal-desktop_20.05.0-trunk.131_all
+  hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-99~armbian5.98+1_arm64
   hostapd_3:2.9-99~armbian5.98+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -2823,37 +2720,6 @@
   linux-image-legacy-s5p6818_20.05.0-trunk.131_arm64
   linux-image-legacy-sunxi_20.05.0-trunk.131_armhf
   linux-image-legacy-sunxi64_20.05.0-trunk.131_arm64
-  linux-source-4.14.135-legacy-mvebu64_4.14.135-legacy-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.05.0-trunk.131_all
-  linux-source-4.14.180-legacy-s5p6818_4.14.180-legacy-s5p6818+20.05.0-trunk.131_all
-  linux-source-4.19.122-current-mvebu64_4.19.122-current-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mt7623_4.19.122-legacy-mt7623+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.131_all
-  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.05.0-trunk.131_all
-  linux-source-4.9.219-legacy-meson64_4.9.219-legacy-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.35-current-odroidxu4_5.4.35-current-odroidxu4+20.05.0-trunk.131_all
-  linux-source-5.4.39-current-sunxi_5.4.39-current-sunxi+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-imx6_5.4.40-current-imx6+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson_5.4.40-current-meson+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson64_5.4.40-current-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-mvebu_5.4.40-current-mvebu+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip_5.4.40-current-rockchip+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip64_5.4.40-current-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.131_all
-  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-mvebu64_5.6.12-dev-mvebu64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi_5.6.8-dev-sunxi+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi64_5.6.8-dev-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.131_all
   linux-u-boot-bananapi-current_20.05.0-trunk.131_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.131_armhf
@@ -3110,9 +2976,14 @@
   armbian-config_20.05.0-trunk.131_all
   armbian-firmware_20.05.0-trunk.131_all
   armbian-firmware-full_20.05.0-trunk.131_all
+  hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-99~armbian5.98+1_arm64
   hostapd_3:2.9-99~armbian5.98+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -3446,37 +3317,6 @@
   linux-image-legacy-s5p6818_20.05.0-trunk.131_arm64
   linux-image-legacy-sunxi_20.05.0-trunk.131_armhf
   linux-image-legacy-sunxi64_20.05.0-trunk.131_arm64
-  linux-source-4.14.135-legacy-mvebu64_4.14.135-legacy-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.05.0-trunk.131_all
-  linux-source-4.14.180-legacy-s5p6818_4.14.180-legacy-s5p6818+20.05.0-trunk.131_all
-  linux-source-4.19.122-current-mvebu64_4.19.122-current-mvebu64+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mt7623_4.19.122-legacy-mt7623+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.131_all
-  linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.131_all
-  linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.131_all
-  linux-source-4.4.217-legacy-rockpis_4.4.217-legacy-rockpis+20.05.0-trunk.131_all
-  linux-source-4.9.219-legacy-meson64_4.9.219-legacy-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.35-current-odroidxu4_5.4.35-current-odroidxu4+20.05.0-trunk.131_all
-  linux-source-5.4.39-current-sunxi_5.4.39-current-sunxi+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-imx6_5.4.40-current-imx6+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson_5.4.40-current-meson+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-meson64_5.4.40-current-meson64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-mvebu_5.4.40-current-mvebu+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip_5.4.40-current-rockchip+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-rockchip64_5.4.40-current-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.131_all
-  linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-mvebu64_5.6.12-dev-mvebu64+20.05.0-trunk.131_all
-  linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi_5.6.8-dev-sunxi+20.05.0-trunk.131_all
-  linux-source-5.6.8-dev-sunxi64_5.6.8-dev-sunxi64+20.05.0-trunk.131_all
-  linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.131_all
   linux-u-boot-bananapi-current_20.05.0-trunk.131_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.131_armhf
