@@ -55,7 +55,11 @@
   chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -3019,7 +3023,11 @@
   chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -5724,7 +5732,11 @@
   chromium_72.0.3626.123-1~deb9u1_armhf
   chromium_71.0.3639.110-1~deb9u1_armhf
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   htop_2.1.2-3_arm64
   htop_2.1.2-3_armhf
@@ -8367,7 +8379,11 @@
   armbian-tools-disco_5.86_armhf
   chromium_72.0.3626.123-1~deb9u1_armhf
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   linux-buster-root-bananapi_5.90_armhf
   linux-buster-root-bananapim2plus_5.90_armhf
@@ -10380,7 +10396,11 @@
   armbian-focal-desktop_20.02.7_all
   armbian-focal-desktop_20.02.6_all
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   linux-dtb-current-imx6_20.02.7_armhf
   linux-dtb-current-imx6_20.02.1_armhf
@@ -11671,7 +11691,11 @@
   armbian-firmware-full_20.02.3_all
   armbian-firmware-full_20.02.2_all
   hello_1.0_all
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_arm64
+  hostapd_3:2.9-101~armbian20.05.0-trunk+1_armhf
   hostapd_3:2.9-100~armbian20.05.0-trunk+1_armhf
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_arm64
+  hostapd-realtek_3:2.5-3~armbian20.05.0-trunk+1_armhf
   hostapd-realtek_3:2.5-2~armbian20.05.0-trunk+1_armhf
   linux-bullseye-root-current-bananapi_20.05.0-trunk_armhf
   linux-bullseye-root-current-bananapi_20.02.5_armhf
