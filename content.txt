@@ -2834,6 +2834,7 @@
   linux-xenial-root-z28pro_5.90_arm64
   numix-gtk-theme_2.6.7+670~201710270712~ubuntu17.10.1_all
   numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
+  numix-icon-theme_0~20190920-1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
@@ -5650,6 +5651,7 @@
   linux-u-boot-zeropi-current_19.11.3_armhf
   numix-gtk-theme_2.6.7+670~201710270712~ubuntu17.10.1_all
   numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
+  numix-icon-theme_0~20190920-1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
@@ -8325,6 +8327,7 @@
   linux-u-boot-zeropi-current_19.11.3_armhf
   numix-gtk-theme_2.6.7+670~201710270712~ubuntu17.10.1_all
   numix-icon-theme_0.3+922~201711061547~ubuntu16.04.1_all
+  numix-icon-theme_0~20190920-1_all
   profile-sync-daemon_6.31-1_all
   rpimonitor_2.12-r0_all
   rpimonitor_2.10-1_all
@@ -10349,6 +10352,7 @@
   linux-u-boot-z28pro-legacy_19.11.3_arm64
   linux-u-boot-zeropi-current_20.02.1_armhf
   linux-u-boot-zeropi-current_19.11.3_armhf
+  numix-icon-theme_0~20190920-1_all
   wireguard-tools_1.0.20200319-1~bpo10+1_arm64
   wireguard-tools_1.0.20200319-1~bpo10+1_armhf
   wireguard-tools_0.0.20191219-1_arm64
@@ -11634,6 +11638,7 @@
   linux-u-boot-z28pro-current_20.02.1_arm64
   linux-u-boot-z28pro-legacy_20.02.1_arm64
   linux-u-boot-zeropi-current_20.02.1_armhf
+  numix-icon-theme_0~20190920-1_all
   wireguard-tools_1.0.20200319-1~bpo10+1_arm64
   wireguard-tools_1.0.20200319-1~bpo10+1_armhf
   wireguard-tools_0.0.20191219-1_arm64
@@ -12927,6 +12932,7 @@
   linux-u-boot-z28pro-current_20.02.1_arm64
   linux-u-boot-z28pro-legacy_20.02.1_arm64
   linux-u-boot-zeropi-current_20.02.1_armhf
+  numix-icon-theme_0~20190920-1_all
   wireguard-tools_1.0.20200319-1~bpo10+1_arm64
   wireguard-tools_1.0.20200319-1~bpo10+1_armhf
   wireguard-tools_0.0.20191219-1_arm64
