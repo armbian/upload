@@ -1,5 +1,9 @@
 
   armbian-config_20.05.0-trunk.133_all
+  armbian-firmware_20.05.0-trunk.134_all
+  armbian-firmware_20.05.0-trunk.133_all
+  armbian-firmware-full_20.05.0-trunk.134_all
+  armbian-firmware-full_20.05.0-trunk.133_all
   armbian-xenial-desktop_20.05.0-trunk.133_all
   hello_1.0_all
   linux-dtb-current-imx6_20.05.0-trunk.133_armhf
@@ -21,6 +25,7 @@
   linux-dtb-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.133_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-dtb-legacy-meson_20.05.0-trunk.133_armhf
   linux-dtb-legacy-meson64_20.05.0-trunk.133_arm64
   linux-dtb-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-dtb-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -52,6 +57,7 @@
   linux-headers-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.133_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-headers-legacy-meson_20.05.0-trunk.133_armhf
   linux-headers-legacy-meson64_20.05.0-trunk.133_arm64
   linux-headers-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-headers-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -83,6 +89,7 @@
   linux-image-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-image-dev-sunxi_20.05.0-trunk.133_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-image-legacy-meson_20.05.0-trunk.133_armhf
   linux-image-legacy-meson64_20.05.0-trunk.133_arm64
   linux-image-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-image-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -103,6 +110,11 @@
   linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.133_all
+  linux-source-4.19.123-current-mvebu64_4.19.123-current-mvebu64+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mt7623_4.19.123-legacy-mt7623+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mvebu_4.19.123-legacy-mvebu+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi_4.19.123-legacy-sunxi+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi64_4.19.123-legacy-sunxi64+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.133_all
@@ -118,6 +130,13 @@
   linux-source-5.4.40-current-sunxi_5.4.40-current-sunxi+20.05.0-trunk.133_all
   linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.133_all
   linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-meson64_5.4.41-current-meson64+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-mvebu_5.4.41-current-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-odroidxu4_5.4.41-current-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip_5.4.41-current-rockchip+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip64_5.4.41-current-rockchip64+20.05.0-trunk.133_all
+  linux-source-5.4.41-dev-mvebu_5.4.41-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-legacy-meson_5.4.41-legacy-meson+20.05.0-trunk.133_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.133_all
@@ -125,7 +144,13 @@
   linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi_5.6.12-dev-sunxi+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi64_5.6.12-dev-sunxi64+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-imx6_5.6.13-current-imx6+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-meson_5.6.13-current-meson+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-meson64_5.6.13-dev-meson64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-mvebu64_5.6.13-dev-mvebu64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-rockchip64_5.6.13-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.7.0-rc4-dev-meson_5.7.0-rc4-dev-meson+20.05.0-trunk.133_all
   linux-u-boot-bananapi-current_20.05.0-trunk.133_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.133_armhf
@@ -300,6 +325,7 @@
   linux-u-boot-odroidc1-current_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-dev_20.05.0-trunk.133_armhf
+  linux-u-boot-odroidc1-legacy_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc2-current_20.05.0-trunk.133_arm64
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-dev_20.05.0-trunk.133_arm64
@@ -678,6 +704,7 @@
   linux-xenial-root-legacy-nanopineo4_20.05.0-trunk.133_arm64
   linux-xenial-root-legacy-nanopineocore2_20.05.0-trunk.133_arm64
   linux-xenial-root-legacy-nanopineoplus2_20.05.0-trunk.133_arm64
+  linux-xenial-root-legacy-odroidc1_20.05.0-trunk.133_armhf
   linux-xenial-root-legacy-odroidn2_20.05.0-trunk.133_arm64
   linux-xenial-root-legacy-odroidxu4_20.05.0-trunk.133_armhf
   linux-xenial-root-legacy-orangepi-rk3399_20.05.0-trunk.133_arm64
@@ -714,6 +741,10 @@
   hello_1.0_all
   profile-sync-daemon_6.31-1_all
   armbian-config_20.05.0-trunk.133_all
+  armbian-firmware_20.05.0-trunk.134_all
+  armbian-firmware_20.05.0-trunk.133_all
+  armbian-firmware-full_20.05.0-trunk.134_all
+  armbian-firmware-full_20.05.0-trunk.133_all
   armbian-stretch-desktop_20.05.0-trunk.133_all
   hello_1.0_all
   linux-dtb-current-imx6_20.05.0-trunk.133_armhf
@@ -735,6 +766,7 @@
   linux-dtb-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.133_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-dtb-legacy-meson_20.05.0-trunk.133_armhf
   linux-dtb-legacy-meson64_20.05.0-trunk.133_arm64
   linux-dtb-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-dtb-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -766,6 +798,7 @@
   linux-headers-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.133_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-headers-legacy-meson_20.05.0-trunk.133_armhf
   linux-headers-legacy-meson64_20.05.0-trunk.133_arm64
   linux-headers-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-headers-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -797,6 +830,7 @@
   linux-image-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-image-dev-sunxi_20.05.0-trunk.133_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-image-legacy-meson_20.05.0-trunk.133_armhf
   linux-image-legacy-meson64_20.05.0-trunk.133_arm64
   linux-image-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-image-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -817,6 +851,11 @@
   linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.133_all
+  linux-source-4.19.123-current-mvebu64_4.19.123-current-mvebu64+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mt7623_4.19.123-legacy-mt7623+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mvebu_4.19.123-legacy-mvebu+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi_4.19.123-legacy-sunxi+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi64_4.19.123-legacy-sunxi64+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.133_all
@@ -832,6 +871,13 @@
   linux-source-5.4.40-current-sunxi_5.4.40-current-sunxi+20.05.0-trunk.133_all
   linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.133_all
   linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-meson64_5.4.41-current-meson64+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-mvebu_5.4.41-current-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-odroidxu4_5.4.41-current-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip_5.4.41-current-rockchip+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip64_5.4.41-current-rockchip64+20.05.0-trunk.133_all
+  linux-source-5.4.41-dev-mvebu_5.4.41-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-legacy-meson_5.4.41-legacy-meson+20.05.0-trunk.133_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.133_all
@@ -839,7 +885,13 @@
   linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi_5.6.12-dev-sunxi+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi64_5.6.12-dev-sunxi64+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-imx6_5.6.13-current-imx6+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-meson_5.6.13-current-meson+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-meson64_5.6.13-dev-meson64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-mvebu64_5.6.13-dev-mvebu64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-rockchip64_5.6.13-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.7.0-rc4-dev-meson_5.7.0-rc4-dev-meson+20.05.0-trunk.133_all
   linux-stretch-root-current-bananapi_20.05.0-trunk.133_armhf
   linux-stretch-root-current-bananapim2plus_20.05.0-trunk.133_armhf
   linux-stretch-root-current-bananapim2ultra_20.05.0-trunk.133_armhf
@@ -1047,6 +1099,7 @@
   linux-stretch-root-legacy-nanopineo4_20.05.0-trunk.133_arm64
   linux-stretch-root-legacy-nanopineocore2_20.05.0-trunk.133_arm64
   linux-stretch-root-legacy-nanopineoplus2_20.05.0-trunk.133_arm64
+  linux-stretch-root-legacy-odroidc1_20.05.0-trunk.133_armhf
   linux-stretch-root-legacy-odroidn2_20.05.0-trunk.133_arm64
   linux-stretch-root-legacy-odroidxu4_20.05.0-trunk.133_armhf
   linux-stretch-root-legacy-orangepi-rk3399_20.05.0-trunk.133_arm64
@@ -1251,6 +1304,7 @@
   linux-u-boot-odroidc1-current_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-dev_20.05.0-trunk.133_armhf
+  linux-u-boot-odroidc1-legacy_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc2-current_20.05.0-trunk.133_arm64
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-dev_20.05.0-trunk.133_arm64
@@ -1429,6 +1483,10 @@
   profile-sync-daemon_6.31-1_all
   armbian-bionic-desktop_20.05.0-trunk.133_all
   armbian-config_20.05.0-trunk.133_all
+  armbian-firmware_20.05.0-trunk.134_all
+  armbian-firmware_20.05.0-trunk.133_all
+  armbian-firmware-full_20.05.0-trunk.134_all
+  armbian-firmware-full_20.05.0-trunk.133_all
   hello_1.0_all
   linux-bionic-root-current-bananapi_20.05.0-trunk.133_armhf
   linux-bionic-root-current-bananapim2plus_20.05.0-trunk.133_armhf
@@ -1637,6 +1695,7 @@
   linux-bionic-root-legacy-nanopineo4_20.05.0-trunk.133_arm64
   linux-bionic-root-legacy-nanopineocore2_20.05.0-trunk.133_arm64
   linux-bionic-root-legacy-nanopineoplus2_20.05.0-trunk.133_arm64
+  linux-bionic-root-legacy-odroidc1_20.05.0-trunk.133_armhf
   linux-bionic-root-legacy-odroidn2_20.05.0-trunk.133_arm64
   linux-bionic-root-legacy-odroidxu4_20.05.0-trunk.133_armhf
   linux-bionic-root-legacy-orangepi-rk3399_20.05.0-trunk.133_arm64
@@ -1686,6 +1745,7 @@
   linux-dtb-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.133_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-dtb-legacy-meson_20.05.0-trunk.133_armhf
   linux-dtb-legacy-meson64_20.05.0-trunk.133_arm64
   linux-dtb-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-dtb-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -1717,6 +1777,7 @@
   linux-headers-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.133_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-headers-legacy-meson_20.05.0-trunk.133_armhf
   linux-headers-legacy-meson64_20.05.0-trunk.133_arm64
   linux-headers-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-headers-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -1748,6 +1809,7 @@
   linux-image-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-image-dev-sunxi_20.05.0-trunk.133_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-image-legacy-meson_20.05.0-trunk.133_armhf
   linux-image-legacy-meson64_20.05.0-trunk.133_arm64
   linux-image-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-image-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -1768,6 +1830,11 @@
   linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.133_all
+  linux-source-4.19.123-current-mvebu64_4.19.123-current-mvebu64+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mt7623_4.19.123-legacy-mt7623+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mvebu_4.19.123-legacy-mvebu+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi_4.19.123-legacy-sunxi+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi64_4.19.123-legacy-sunxi64+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.133_all
@@ -1783,6 +1850,13 @@
   linux-source-5.4.40-current-sunxi_5.4.40-current-sunxi+20.05.0-trunk.133_all
   linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.133_all
   linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-meson64_5.4.41-current-meson64+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-mvebu_5.4.41-current-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-odroidxu4_5.4.41-current-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip_5.4.41-current-rockchip+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip64_5.4.41-current-rockchip64+20.05.0-trunk.133_all
+  linux-source-5.4.41-dev-mvebu_5.4.41-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-legacy-meson_5.4.41-legacy-meson+20.05.0-trunk.133_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.133_all
@@ -1790,7 +1864,13 @@
   linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi_5.6.12-dev-sunxi+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi64_5.6.12-dev-sunxi64+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-imx6_5.6.13-current-imx6+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-meson_5.6.13-current-meson+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-meson64_5.6.13-dev-meson64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-mvebu64_5.6.13-dev-mvebu64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-rockchip64_5.6.13-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.7.0-rc4-dev-meson_5.7.0-rc4-dev-meson+20.05.0-trunk.133_all
   linux-u-boot-bananapi-current_20.05.0-trunk.133_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.133_armhf
@@ -1965,6 +2045,7 @@
   linux-u-boot-odroidc1-current_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-dev_20.05.0-trunk.133_armhf
+  linux-u-boot-odroidc1-legacy_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc2-current_20.05.0-trunk.133_arm64
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-dev_20.05.0-trunk.133_arm64
@@ -2144,6 +2225,10 @@
   xserver-xorg-video-armsoc-sun4i_1.4.1~armbian20.05.1+1_armhf
   armbian-buster-desktop_20.05.0-trunk.133_all
   armbian-config_20.05.0-trunk.133_all
+  armbian-firmware_20.05.0-trunk.134_all
+  armbian-firmware_20.05.0-trunk.133_all
+  armbian-firmware-full_20.05.0-trunk.134_all
+  armbian-firmware-full_20.05.0-trunk.133_all
   hello_1.0_all
   linux-buster-root-current-bananapi_20.05.0-trunk.133_armhf
   linux-buster-root-current-bananapim2plus_20.05.0-trunk.133_armhf
@@ -2352,6 +2437,7 @@
   linux-buster-root-legacy-nanopineo4_20.05.0-trunk.133_arm64
   linux-buster-root-legacy-nanopineocore2_20.05.0-trunk.133_arm64
   linux-buster-root-legacy-nanopineoplus2_20.05.0-trunk.133_arm64
+  linux-buster-root-legacy-odroidc1_20.05.0-trunk.133_armhf
   linux-buster-root-legacy-odroidn2_20.05.0-trunk.133_arm64
   linux-buster-root-legacy-odroidxu4_20.05.0-trunk.133_armhf
   linux-buster-root-legacy-orangepi-rk3399_20.05.0-trunk.133_arm64
@@ -2401,6 +2487,7 @@
   linux-dtb-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.133_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-dtb-legacy-meson_20.05.0-trunk.133_armhf
   linux-dtb-legacy-meson64_20.05.0-trunk.133_arm64
   linux-dtb-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-dtb-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -2432,6 +2519,7 @@
   linux-headers-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.133_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-headers-legacy-meson_20.05.0-trunk.133_armhf
   linux-headers-legacy-meson64_20.05.0-trunk.133_arm64
   linux-headers-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-headers-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -2463,6 +2551,7 @@
   linux-image-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-image-dev-sunxi_20.05.0-trunk.133_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-image-legacy-meson_20.05.0-trunk.133_armhf
   linux-image-legacy-meson64_20.05.0-trunk.133_arm64
   linux-image-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-image-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -2483,6 +2572,11 @@
   linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.133_all
+  linux-source-4.19.123-current-mvebu64_4.19.123-current-mvebu64+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mt7623_4.19.123-legacy-mt7623+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mvebu_4.19.123-legacy-mvebu+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi_4.19.123-legacy-sunxi+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi64_4.19.123-legacy-sunxi64+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.133_all
@@ -2498,6 +2592,13 @@
   linux-source-5.4.40-current-sunxi_5.4.40-current-sunxi+20.05.0-trunk.133_all
   linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.133_all
   linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-meson64_5.4.41-current-meson64+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-mvebu_5.4.41-current-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-odroidxu4_5.4.41-current-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip_5.4.41-current-rockchip+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip64_5.4.41-current-rockchip64+20.05.0-trunk.133_all
+  linux-source-5.4.41-dev-mvebu_5.4.41-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-legacy-meson_5.4.41-legacy-meson+20.05.0-trunk.133_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.133_all
@@ -2505,7 +2606,13 @@
   linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi_5.6.12-dev-sunxi+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi64_5.6.12-dev-sunxi64+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-imx6_5.6.13-current-imx6+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-meson_5.6.13-current-meson+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-meson64_5.6.13-dev-meson64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-mvebu64_5.6.13-dev-mvebu64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-rockchip64_5.6.13-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.7.0-rc4-dev-meson_5.7.0-rc4-dev-meson+20.05.0-trunk.133_all
   linux-u-boot-bananapi-current_20.05.0-trunk.133_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.133_armhf
@@ -2680,6 +2787,7 @@
   linux-u-boot-odroidc1-current_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-dev_20.05.0-trunk.133_armhf
+  linux-u-boot-odroidc1-legacy_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc2-current_20.05.0-trunk.133_arm64
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-dev_20.05.0-trunk.133_arm64
@@ -2857,6 +2965,10 @@
   hello_1.0_all
   profile-sync-daemon_6.31-1_all
   armbian-config_20.05.0-trunk.133_all
+  armbian-firmware_20.05.0-trunk.134_all
+  armbian-firmware_20.05.0-trunk.133_all
+  armbian-firmware-full_20.05.0-trunk.134_all
+  armbian-firmware-full_20.05.0-trunk.133_all
   armbian-focal-desktop_20.05.0-trunk.133_all
   hello_1.0_all
   linux-dtb-current-imx6_20.05.0-trunk.133_armhf
@@ -2878,6 +2990,7 @@
   linux-dtb-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.133_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-dtb-legacy-meson_20.05.0-trunk.133_armhf
   linux-dtb-legacy-meson64_20.05.0-trunk.133_arm64
   linux-dtb-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-dtb-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -3097,6 +3210,7 @@
   linux-focal-root-legacy-nanopineo4_20.05.0-trunk.133_arm64
   linux-focal-root-legacy-nanopineocore2_20.05.0-trunk.133_arm64
   linux-focal-root-legacy-nanopineoplus2_20.05.0-trunk.133_arm64
+  linux-focal-root-legacy-odroidc1_20.05.0-trunk.133_armhf
   linux-focal-root-legacy-odroidn2_20.05.0-trunk.133_arm64
   linux-focal-root-legacy-odroidxu4_20.05.0-trunk.133_armhf
   linux-focal-root-legacy-orangepi-rk3399_20.05.0-trunk.133_arm64
@@ -3146,6 +3260,7 @@
   linux-headers-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.133_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-headers-legacy-meson_20.05.0-trunk.133_armhf
   linux-headers-legacy-meson64_20.05.0-trunk.133_arm64
   linux-headers-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-headers-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -3177,6 +3292,7 @@
   linux-image-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-image-dev-sunxi_20.05.0-trunk.133_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-image-legacy-meson_20.05.0-trunk.133_armhf
   linux-image-legacy-meson64_20.05.0-trunk.133_arm64
   linux-image-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-image-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -3197,6 +3313,11 @@
   linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.133_all
+  linux-source-4.19.123-current-mvebu64_4.19.123-current-mvebu64+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mt7623_4.19.123-legacy-mt7623+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mvebu_4.19.123-legacy-mvebu+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi_4.19.123-legacy-sunxi+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi64_4.19.123-legacy-sunxi64+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.133_all
@@ -3212,6 +3333,13 @@
   linux-source-5.4.40-current-sunxi_5.4.40-current-sunxi+20.05.0-trunk.133_all
   linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.133_all
   linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-meson64_5.4.41-current-meson64+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-mvebu_5.4.41-current-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-odroidxu4_5.4.41-current-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip_5.4.41-current-rockchip+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip64_5.4.41-current-rockchip64+20.05.0-trunk.133_all
+  linux-source-5.4.41-dev-mvebu_5.4.41-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-legacy-meson_5.4.41-legacy-meson+20.05.0-trunk.133_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.133_all
@@ -3219,7 +3347,13 @@
   linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi_5.6.12-dev-sunxi+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi64_5.6.12-dev-sunxi64+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-imx6_5.6.13-current-imx6+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-meson_5.6.13-current-meson+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-meson64_5.6.13-dev-meson64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-mvebu64_5.6.13-dev-mvebu64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-rockchip64_5.6.13-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.7.0-rc4-dev-meson_5.7.0-rc4-dev-meson+20.05.0-trunk.133_all
   linux-u-boot-bananapi-current_20.05.0-trunk.133_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.133_armhf
@@ -3394,6 +3528,7 @@
   linux-u-boot-odroidc1-current_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-dev_20.05.0-trunk.133_armhf
+  linux-u-boot-odroidc1-legacy_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc2-current_20.05.0-trunk.133_arm64
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-dev_20.05.0-trunk.133_arm64
@@ -3572,6 +3707,10 @@
   profile-sync-daemon_6.34-1_all
   armbian-bullseye-desktop_20.05.0-trunk.133_all
   armbian-config_20.05.0-trunk.133_all
+  armbian-firmware_20.05.0-trunk.134_all
+  armbian-firmware_20.05.0-trunk.133_all
+  armbian-firmware-full_20.05.0-trunk.134_all
+  armbian-firmware-full_20.05.0-trunk.133_all
   hello_1.0_all
   linux-bullseye-root-current-bananapi_20.05.0-trunk.133_armhf
   linux-bullseye-root-current-bananapim2plus_20.05.0-trunk.133_armhf
@@ -3780,6 +3919,7 @@
   linux-bullseye-root-legacy-nanopineo4_20.05.0-trunk.133_arm64
   linux-bullseye-root-legacy-nanopineocore2_20.05.0-trunk.133_arm64
   linux-bullseye-root-legacy-nanopineoplus2_20.05.0-trunk.133_arm64
+  linux-bullseye-root-legacy-odroidc1_20.05.0-trunk.133_armhf
   linux-bullseye-root-legacy-odroidn2_20.05.0-trunk.133_arm64
   linux-bullseye-root-legacy-odroidxu4_20.05.0-trunk.133_armhf
   linux-bullseye-root-legacy-orangepi-rk3399_20.05.0-trunk.133_arm64
@@ -3829,6 +3969,7 @@
   linux-dtb-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-dtb-dev-sunxi_20.05.0-trunk.133_armhf
   linux-dtb-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-dtb-legacy-meson_20.05.0-trunk.133_armhf
   linux-dtb-legacy-meson64_20.05.0-trunk.133_arm64
   linux-dtb-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-dtb-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -3860,6 +4001,7 @@
   linux-headers-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-headers-dev-sunxi_20.05.0-trunk.133_armhf
   linux-headers-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-headers-legacy-meson_20.05.0-trunk.133_armhf
   linux-headers-legacy-meson64_20.05.0-trunk.133_arm64
   linux-headers-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-headers-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -3891,6 +4033,7 @@
   linux-image-dev-rockchip64_20.05.0-trunk.133_arm64
   linux-image-dev-sunxi_20.05.0-trunk.133_armhf
   linux-image-dev-sunxi64_20.05.0-trunk.133_arm64
+  linux-image-legacy-meson_20.05.0-trunk.133_armhf
   linux-image-legacy-meson64_20.05.0-trunk.133_arm64
   linux-image-legacy-mt7623_20.05.0-trunk.133_armhf
   linux-image-legacy-mvebu_20.05.0-trunk.133_armhf
@@ -3911,6 +4054,11 @@
   linux-source-4.19.122-legacy-mvebu_4.19.122-legacy-mvebu+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi_4.19.122-legacy-sunxi+20.05.0-trunk.133_all
   linux-source-4.19.122-legacy-sunxi64_4.19.122-legacy-sunxi64+20.05.0-trunk.133_all
+  linux-source-4.19.123-current-mvebu64_4.19.123-current-mvebu64+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mt7623_4.19.123-legacy-mt7623+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-mvebu_4.19.123-legacy-mvebu+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi_4.19.123-legacy-sunxi+20.05.0-trunk.133_all
+  linux-source-4.19.123-legacy-sunxi64_4.19.123-legacy-sunxi64+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rk3399_4.4.213-legacy-rk3399+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip_4.4.213-legacy-rockchip+20.05.0-trunk.133_all
   linux-source-4.4.213-legacy-rockchip64_4.4.213-legacy-rockchip64+20.05.0-trunk.133_all
@@ -3926,6 +4074,13 @@
   linux-source-5.4.40-current-sunxi_5.4.40-current-sunxi+20.05.0-trunk.133_all
   linux-source-5.4.40-current-sunxi64_5.4.40-current-sunxi64+20.05.0-trunk.133_all
   linux-source-5.4.40-dev-mvebu_5.4.40-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-meson64_5.4.41-current-meson64+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-mvebu_5.4.41-current-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-odroidxu4_5.4.41-current-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip_5.4.41-current-rockchip+20.05.0-trunk.133_all
+  linux-source-5.4.41-current-rockchip64_5.4.41-current-rockchip64+20.05.0-trunk.133_all
+  linux-source-5.4.41-dev-mvebu_5.4.41-dev-mvebu+20.05.0-trunk.133_all
+  linux-source-5.4.41-legacy-meson_5.4.41-legacy-meson+20.05.0-trunk.133_all
   linux-source-5.5.19-dev-rockchip_5.5.19-dev-rockchip+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson_5.6.12-dev-meson+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-meson64_5.6.12-dev-meson64+20.05.0-trunk.133_all
@@ -3933,7 +4088,13 @@
   linux-source-5.6.12-dev-rockchip64_5.6.12-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi_5.6.12-dev-sunxi+20.05.0-trunk.133_all
   linux-source-5.6.12-dev-sunxi64_5.6.12-dev-sunxi64+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-imx6_5.6.13-current-imx6+20.05.0-trunk.133_all
+  linux-source-5.6.13-current-meson_5.6.13-current-meson+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-meson64_5.6.13-dev-meson64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-mvebu64_5.6.13-dev-mvebu64+20.05.0-trunk.133_all
+  linux-source-5.6.13-dev-rockchip64_5.6.13-dev-rockchip64+20.05.0-trunk.133_all
   linux-source-5.7.0-rc3-dev-odroidxu4_5.7.0-rc3-dev-odroidxu4+20.05.0-trunk.133_all
+  linux-source-5.7.0-rc4-dev-meson_5.7.0-rc4-dev-meson+20.05.0-trunk.133_all
   linux-u-boot-bananapi-current_20.05.0-trunk.133_armhf
   linux-u-boot-bananapi-current_20.05.0-trunk_armhf
   linux-u-boot-bananapi-dev_20.05.0-trunk.133_armhf
@@ -4108,6 +4269,7 @@
   linux-u-boot-odroidc1-current_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc1-current_20.02.1_armhf
   linux-u-boot-odroidc1-dev_20.05.0-trunk.133_armhf
+  linux-u-boot-odroidc1-legacy_20.05.0-trunk.133_armhf
   linux-u-boot-odroidc2-current_20.05.0-trunk.133_arm64
   linux-u-boot-odroidc2-current_20.02.8_arm64
   linux-u-boot-odroidc2-dev_20.05.0-trunk.133_arm64
