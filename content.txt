@@ -257,6 +257,7 @@
   linux-dtb-legacy-mvebu64_20.02.7_arm64
   linux-dtb-legacy-mvebu64_20.02.1_arm64
   linux-dtb-legacy-mvebu64_19.11.3_arm64
+  linux-dtb-legacy-odroidxu4_20.02.13_armhf
   linux-dtb-legacy-odroidxu4_20.02.8_armhf
   linux-dtb-legacy-odroidxu4_20.02.7_armhf
   linux-dtb-legacy-odroidxu4_20.02.3_armhf
@@ -568,6 +569,7 @@
   linux-headers-legacy-mvebu64_20.02.7_arm64
   linux-headers-legacy-mvebu64_20.02.1_arm64
   linux-headers-legacy-mvebu64_19.11.3_arm64
+  linux-headers-legacy-odroidxu4_20.02.13_armhf
   linux-headers-legacy-odroidxu4_20.02.8_armhf
   linux-headers-legacy-odroidxu4_20.02.7_armhf
   linux-headers-legacy-odroidxu4_20.02.3_armhf
@@ -853,6 +855,7 @@
   linux-image-legacy-mvebu64_20.02.7_arm64
   linux-image-legacy-mvebu64_20.02.1_arm64
   linux-image-legacy-mvebu64_19.11.3_arm64
+  linux-image-legacy-odroidxu4_20.02.13_armhf
   linux-image-legacy-odroidxu4_20.02.8_armhf
   linux-image-legacy-odroidxu4_20.02.7_armhf
   linux-image-legacy-odroidxu4_20.02.3_armhf
@@ -1009,6 +1012,7 @@
   linux-source-4.14.174-legacy-odroidxu4_4.14.174-legacy-odroidxu4+20.02.7_all
   linux-source-4.14.174-legacy-s5p6818_4.14.174-legacy-s5p6818+20.02.7_all
   linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.02.8_all
+  linux-source-4.14.180-legacy-odroidxu4_4.14.180-legacy-odroidxu4+20.02.13_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.85_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.73_all
@@ -3155,6 +3159,7 @@
   linux-dtb-legacy-mvebu64_20.02.7_arm64
   linux-dtb-legacy-mvebu64_20.02.1_arm64
   linux-dtb-legacy-mvebu64_19.11.3_arm64
+  linux-dtb-legacy-odroidxu4_20.02.13_armhf
   linux-dtb-legacy-odroidxu4_20.02.8_armhf
   linux-dtb-legacy-odroidxu4_20.02.7_armhf
   linux-dtb-legacy-odroidxu4_20.02.3_armhf
@@ -3466,6 +3471,7 @@
   linux-headers-legacy-mvebu64_20.02.7_arm64
   linux-headers-legacy-mvebu64_20.02.1_arm64
   linux-headers-legacy-mvebu64_19.11.3_arm64
+  linux-headers-legacy-odroidxu4_20.02.13_armhf
   linux-headers-legacy-odroidxu4_20.02.8_armhf
   linux-headers-legacy-odroidxu4_20.02.7_armhf
   linux-headers-legacy-odroidxu4_20.02.3_armhf
@@ -3751,6 +3757,7 @@
   linux-image-legacy-mvebu64_20.02.7_arm64
   linux-image-legacy-mvebu64_20.02.1_arm64
   linux-image-legacy-mvebu64_19.11.3_arm64
+  linux-image-legacy-odroidxu4_20.02.13_armhf
   linux-image-legacy-odroidxu4_20.02.8_armhf
   linux-image-legacy-odroidxu4_20.02.7_armhf
   linux-image-legacy-odroidxu4_20.02.3_armhf
@@ -3907,6 +3914,7 @@
   linux-source-4.14.174-legacy-odroidxu4_4.14.174-legacy-odroidxu4+20.02.7_all
   linux-source-4.14.174-legacy-s5p6818_4.14.174-legacy-s5p6818+20.02.7_all
   linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.02.8_all
+  linux-source-4.14.180-legacy-odroidxu4_4.14.180-legacy-odroidxu4+20.02.13_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.85_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.73_all
@@ -6363,6 +6371,7 @@
   linux-dtb-legacy-mvebu64_20.02.7_arm64
   linux-dtb-legacy-mvebu64_20.02.1_arm64
   linux-dtb-legacy-mvebu64_19.11.3_arm64
+  linux-dtb-legacy-odroidxu4_20.02.13_armhf
   linux-dtb-legacy-odroidxu4_20.02.8_armhf
   linux-dtb-legacy-odroidxu4_20.02.7_armhf
   linux-dtb-legacy-odroidxu4_20.02.3_armhf
@@ -6674,6 +6683,7 @@
   linux-headers-legacy-mvebu64_20.02.7_arm64
   linux-headers-legacy-mvebu64_20.02.1_arm64
   linux-headers-legacy-mvebu64_19.11.3_arm64
+  linux-headers-legacy-odroidxu4_20.02.13_armhf
   linux-headers-legacy-odroidxu4_20.02.8_armhf
   linux-headers-legacy-odroidxu4_20.02.7_armhf
   linux-headers-legacy-odroidxu4_20.02.3_armhf
@@ -6959,6 +6969,7 @@
   linux-image-legacy-mvebu64_20.02.7_arm64
   linux-image-legacy-mvebu64_20.02.1_arm64
   linux-image-legacy-mvebu64_19.11.3_arm64
+  linux-image-legacy-odroidxu4_20.02.13_armhf
   linux-image-legacy-odroidxu4_20.02.8_armhf
   linux-image-legacy-odroidxu4_20.02.7_armhf
   linux-image-legacy-odroidxu4_20.02.3_armhf
@@ -7115,6 +7126,7 @@
   linux-source-4.14.174-legacy-odroidxu4_4.14.174-legacy-odroidxu4+20.02.7_all
   linux-source-4.14.174-legacy-s5p6818_4.14.174-legacy-s5p6818+20.02.7_all
   linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.02.8_all
+  linux-source-4.14.180-legacy-odroidxu4_4.14.180-legacy-odroidxu4+20.02.13_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.85_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.75_all
   linux-source-4.14.79-default-mvebu64_4.14.79-default-mvebu64+5.73_all
@@ -8843,6 +8855,7 @@
   linux-dtb-legacy-mvebu64_20.02.7_arm64
   linux-dtb-legacy-mvebu64_20.02.1_arm64
   linux-dtb-legacy-mvebu64_19.11.3_arm64
+  linux-dtb-legacy-odroidxu4_20.02.13_armhf
   linux-dtb-legacy-odroidxu4_20.02.8_armhf
   linux-dtb-legacy-odroidxu4_20.02.7_armhf
   linux-dtb-legacy-odroidxu4_20.02.3_armhf
@@ -9110,6 +9123,7 @@
   linux-headers-legacy-mvebu64_20.02.7_arm64
   linux-headers-legacy-mvebu64_20.02.1_arm64
   linux-headers-legacy-mvebu64_19.11.3_arm64
+  linux-headers-legacy-odroidxu4_20.02.13_armhf
   linux-headers-legacy-odroidxu4_20.02.8_armhf
   linux-headers-legacy-odroidxu4_20.02.7_armhf
   linux-headers-legacy-odroidxu4_20.02.3_armhf
@@ -9355,6 +9369,7 @@
   linux-image-legacy-mvebu64_20.02.7_arm64
   linux-image-legacy-mvebu64_20.02.1_arm64
   linux-image-legacy-mvebu64_19.11.3_arm64
+  linux-image-legacy-odroidxu4_20.02.13_armhf
   linux-image-legacy-odroidxu4_20.02.8_armhf
   linux-image-legacy-odroidxu4_20.02.7_armhf
   linux-image-legacy-odroidxu4_20.02.3_armhf
@@ -9442,6 +9457,7 @@
   linux-source-4.14.174-legacy-odroidxu4_4.14.174-legacy-odroidxu4+20.02.7_all
   linux-source-4.14.174-legacy-s5p6818_4.14.174-legacy-s5p6818+20.02.7_all
   linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.02.8_all
+  linux-source-4.14.180-legacy-odroidxu4_4.14.180-legacy-odroidxu4+20.02.13_all
   linux-source-4.19.104-current-mvebu_4.19.104-current-mvebu+20.02.1_all
   linux-source-4.19.104-current-mvebu64_4.19.104-current-mvebu64+20.02.1_all
   linux-source-4.19.104-legacy-mt7623_4.19.104-legacy-mt7623+20.02.1_all
@@ -10365,6 +10381,7 @@
   linux-dtb-legacy-mvebu_20.02.1_armhf
   linux-dtb-legacy-mvebu64_20.02.7_arm64
   linux-dtb-legacy-mvebu64_20.02.1_arm64
+  linux-dtb-legacy-odroidxu4_20.02.13_armhf
   linux-dtb-legacy-odroidxu4_20.02.8_armhf
   linux-dtb-legacy-odroidxu4_20.02.7_armhf
   linux-dtb-legacy-odroidxu4_20.02.3_armhf
@@ -10799,6 +10816,7 @@
   linux-headers-legacy-mvebu_20.02.1_armhf
   linux-headers-legacy-mvebu64_20.02.7_arm64
   linux-headers-legacy-mvebu64_20.02.1_arm64
+  linux-headers-legacy-odroidxu4_20.02.13_armhf
   linux-headers-legacy-odroidxu4_20.02.8_armhf
   linux-headers-legacy-odroidxu4_20.02.7_armhf
   linux-headers-legacy-odroidxu4_20.02.3_armhf
@@ -11013,6 +11031,7 @@
   linux-image-legacy-mvebu_20.02.1_armhf
   linux-image-legacy-mvebu64_20.02.7_arm64
   linux-image-legacy-mvebu64_20.02.1_arm64
+  linux-image-legacy-odroidxu4_20.02.13_armhf
   linux-image-legacy-odroidxu4_20.02.8_armhf
   linux-image-legacy-odroidxu4_20.02.7_armhf
   linux-image-legacy-odroidxu4_20.02.3_armhf
@@ -11046,6 +11065,7 @@
   linux-source-4.14.174-legacy-odroidxu4_4.14.174-legacy-odroidxu4+20.02.7_all
   linux-source-4.14.174-legacy-s5p6818_4.14.174-legacy-s5p6818+20.02.7_all
   linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.02.8_all
+  linux-source-4.14.180-legacy-odroidxu4_4.14.180-legacy-odroidxu4+20.02.13_all
   linux-source-4.19.104-current-mvebu_4.19.104-current-mvebu+20.02.1_all
   linux-source-4.19.104-current-mvebu64_4.19.104-current-mvebu64+20.02.1_all
   linux-source-4.19.104-legacy-mt7623_4.19.104-legacy-mt7623+20.02.1_all
@@ -11912,6 +11932,7 @@
   linux-dtb-legacy-mvebu_20.02.1_armhf
   linux-dtb-legacy-mvebu64_20.02.7_arm64
   linux-dtb-legacy-mvebu64_20.02.1_arm64
+  linux-dtb-legacy-odroidxu4_20.02.13_armhf
   linux-dtb-legacy-odroidxu4_20.02.8_armhf
   linux-dtb-legacy-odroidxu4_20.02.7_armhf
   linux-dtb-legacy-odroidxu4_20.02.3_armhf
@@ -12127,6 +12148,7 @@
   linux-headers-legacy-mvebu_20.02.1_armhf
   linux-headers-legacy-mvebu64_20.02.7_arm64
   linux-headers-legacy-mvebu64_20.02.1_arm64
+  linux-headers-legacy-odroidxu4_20.02.13_armhf
   linux-headers-legacy-odroidxu4_20.02.8_armhf
   linux-headers-legacy-odroidxu4_20.02.7_armhf
   linux-headers-legacy-odroidxu4_20.02.3_armhf
@@ -12341,6 +12363,7 @@
   linux-image-legacy-mvebu_20.02.1_armhf
   linux-image-legacy-mvebu64_20.02.7_arm64
   linux-image-legacy-mvebu64_20.02.1_arm64
+  linux-image-legacy-odroidxu4_20.02.13_armhf
   linux-image-legacy-odroidxu4_20.02.8_armhf
   linux-image-legacy-odroidxu4_20.02.7_armhf
   linux-image-legacy-odroidxu4_20.02.3_armhf
@@ -12374,6 +12397,7 @@
   linux-source-4.14.174-legacy-odroidxu4_4.14.174-legacy-odroidxu4+20.02.7_all
   linux-source-4.14.174-legacy-s5p6818_4.14.174-legacy-s5p6818+20.02.7_all
   linux-source-4.14.176-legacy-odroidxu4_4.14.176-legacy-odroidxu4+20.02.8_all
+  linux-source-4.14.180-legacy-odroidxu4_4.14.180-legacy-odroidxu4+20.02.13_all
   linux-source-4.19.104-current-mvebu_4.19.104-current-mvebu+20.02.1_all
   linux-source-4.19.104-current-mvebu64_4.19.104-current-mvebu64+20.02.1_all
   linux-source-4.19.104-legacy-mt7623_4.19.104-legacy-mt7623+20.02.1_all
